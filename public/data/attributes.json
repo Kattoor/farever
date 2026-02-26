@@ -1,0 +1,1182 @@
+[
+    {
+        "id": "Vitality",
+        "name": "Vitality",
+        "color": 9109370,
+        "desc": "Increases your [MaxHealth] and the amount of damage your Block gauge can absorb.",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "id": "Strength",
+        "desc": "Increase the damage of skills based on [Strength], [CritDamage] and [BlockMitigation].",
+        "color": 15089958,
+        "name": "Strength",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 1024,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 1,
+            "y": 0
+        }
+    },
+    {
+        "id": "Dexterity",
+        "name": "Dexterity",
+        "color": 16758618,
+        "desc": "Increase the damage of skills based on [Dexterity], [CritChance] and [DodgeChance].",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 1024,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 2,
+            "y": 0
+        }
+    },
+    {
+        "id": "Faith",
+        "desc": "Increase the damage of skills based on [Faith], [CritChance] and [HealthRegen].",
+        "color": 16772515,
+        "name": "Faith",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 1024,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 3,
+            "y": 0
+        }
+    },
+    {
+        "id": "Intellect",
+        "name": "Intellect",
+        "color": 2526950,
+        "desc": "Increase the damage of skills based on [Intelligence] and [CritDamage].",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 1024,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 4,
+            "y": 0
+        }
+    },
+    {
+        "id": "CritChanceRating",
+        "name": "Critical",
+        "color": 16721668,
+        "desc": "",
+        "flags": 4,
+        "scaling": [],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "CritChance",
+        "color": 16721668,
+        "desc": "Chance to land a Critical Strike, dealing bonus damage equal to your [CritDamage].",
+        "name": "Critical Chance",
+        "scaling": [
+            {
+                "scale": 0.014,
+                "attribute": "Dexterity",
+                "scalingOperator": [
+                    0
+                ]
+            },
+            {
+                "scale": 0.014,
+                "attribute": "Intellect",
+                "scalingOperator": [
+                    0
+                ]
+            },
+            {
+                "attribute": "CritChanceRating",
+                "scale": 0.1,
+                "scalingOperator": [
+                    2,
+                    150,
+                    1000,
+                    30
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "flags": 8,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "CritDamage",
+        "desc": "Bonus damage and heal applied when you critically strike or heal.",
+        "color": 16735040,
+        "name": "Critical Bonus",
+        "scaling": [
+            {
+                "attribute": "Strength",
+                "scale": 0.01,
+                "scalingOperator": [
+                    0
+                ]
+            },
+            {
+                "scale": 0.01,
+                "attribute": "Faith",
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "flags": 8,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "ArmorPenetrationRating",
+        "name": "Armor Penetration",
+        "color": 16743034,
+        "desc": "",
+        "flags": 4,
+        "scaling": [],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "ArmorPenetration",
+        "name": "Armor Penetration",
+        "color": 16743034,
+        "desc": "Physical attacks and skills ignore a portion of the target's [Armor].",
+        "flags": 8,
+        "scaling": [
+            {
+                "attribute": "ArmorPenetrationRating",
+                "scale": 0.1,
+                "scalingOperator": [
+                    2,
+                    150,
+                    1000,
+                    50
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "SpellPenetrationRating",
+        "name": "Magic Penetration",
+        "color": 0,
+        "desc": "",
+        "flags": 4,
+        "scaling": [],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "SpellPenetration",
+        "name": "Magic Penetration",
+        "color": 3773157,
+        "desc": "Magical attacks and skills ignore a portion of the target's [Magic Resistance].",
+        "flags": 8,
+        "scaling": [
+            {
+                "attribute": "SpellPenetrationRating",
+                "scale": 0.1,
+                "scalingOperator": [
+                    2,
+                    150,
+                    1000,
+                    50
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "FervorRating",
+        "name": "Fervor",
+        "color": 0,
+        "desc": "",
+        "flags": 4,
+        "scaling": [],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "Fervor",
+        "name": "Fervor",
+        "color": 0,
+        "desc": "Increases the damage, healing and shielding of your skills.\nReduces damage taken by half of that amount.",
+        "flags": 8,
+        "scaling": [
+            {
+                "attribute": "FervorRating",
+                "scale": 0.05,
+                "scalingOperator": [
+                    2,
+                    150,
+                    1000,
+                    15
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "BlockMitigation",
+        "name": "Block",
+        "color": 13226452,
+        "desc": "Reduces damage taken when you Block with your weapon.",
+        "scaling": [
+            {
+                "attribute": "Strength",
+                "scale": 0.02,
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "flags": 8,
+        "defVal": 40,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "DodgeChance",
+        "name": "Dodge chance",
+        "color": 13226452,
+        "desc": "Your chances to entirely dodge an attack, avoiding damage and effects.",
+        "scaling": [
+            {
+                "attribute": "Dexterity",
+                "scale": 0.009,
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "flags": 8,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "MagicMastery",
+        "name": "Magic Mastery",
+        "color": 15199473,
+        "desc": "Increases all your [Magic] damage.",
+        "flags": 8,
+        "scaling": [],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "PhysicalMastery",
+        "name": "Physical Mastery",
+        "color": 15199473,
+        "desc": "Increases all your [Physical] damage.",
+        "flags": 8,
+        "scaling": [],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "SpellCastTimeReduction",
+        "name": "Spell [Cast] Time reduction",
+        "color": 7648237,
+        "desc": "",
+        "flags": 10,
+        "scaling": [],
+        "regenAtbs": [],
+        "implemented": false,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "KnockResistance",
+        "name": "Resistance to knocks",
+        "color": 15199473,
+        "desc": "",
+        "flags": 10,
+        "scaling": [],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "PoiseDamage",
+        "name": "Poise Damage",
+        "color": 16777215,
+        "desc": "",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 10,
+        "defVal": 100,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "CooldownReduction",
+        "name": "Cooldown Reduction",
+        "color": 7648237,
+        "desc": "",
+        "flags": 10,
+        "scaling": [],
+        "regenAtbs": [],
+        "implemented": true,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "FoePower",
+        "name": "Foe Power",
+        "color": 0,
+        "desc": "",
+        "flags": 2,
+        "scaling": [],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "Armor",
+        "desc": "Reduces [Physical] damage taken from an enemy of the same level.",
+        "color": 16777215,
+        "name": "Armor",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 17,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 6,
+            "y": 0
+        }
+    },
+    {
+        "id": "MagicResist",
+        "name": "Magic Resistance",
+        "color": 7532799,
+        "desc": "Reduces [Magic] damage taken from an enemy of the same level.",
+        "flags": 18,
+        "scaling": [],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "Resilience",
+        "name": "Resilience",
+        "color": 16449394,
+        "desc": "Reduces all damage taken from a player of the same level.",
+        "flags": 10,
+        "scaling": [],
+        "regenAtbs": [],
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "Health",
+        "desc": "",
+        "color": 9109370,
+        "name": "Health",
+        "scaling": [],
+        "maxAtb": "MaxHealth",
+        "regenAtbs": [
+            {
+                "atb": "HealthRegen",
+                "conds": {
+                    "timeInCombat": 0
+                },
+                "factor": 0
+            },
+            {
+                "atb": "HealthRegen",
+                "conds": {
+                    "timeOutsideCombat": 0
+                },
+                "factor": 1
+            }
+        ],
+        "flags": 34,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "MaxHealth",
+        "name": "Health",
+        "color": 9109370,
+        "desc": "Your hit points.",
+        "scaling": [
+            {
+                "attribute": "Vitality",
+                "scale": 3,
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "flags": 0,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "HealthRegen",
+        "name": "Health Regen",
+        "color": 9109370,
+        "desc": "The amount of [Health] you regen every 3s.",
+        "scaling": [
+            {
+                "attribute": "Faith",
+                "scale": 0.04,
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "flags": 0,
+        "gfx": {
+            "file": "UI/icons/atlas_characterSheet_statsIcons_28PX.png",
+            "size": 28,
+            "x": 5,
+            "y": 0
+        }
+    },
+    {
+        "id": "Shield",
+        "name": "Shield",
+        "color": 8060891,
+        "desc": "",
+        "flags": 34,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "Barrier",
+        "name": "Barrier",
+        "color": 16186036,
+        "desc": "",
+        "flags": 34,
+        "scaling": [],
+        "regenAtbs": [
+            {
+                "atb": "BarrierRegen"
+            }
+        ],
+        "maxAtb": "MaxBarrier",
+        "implemented": false
+    },
+    {
+        "id": "MaxBarrier",
+        "name": "Barrier",
+        "color": 16186036,
+        "desc": "",
+        "flags": 2,
+        "scaling": [
+            {
+                "attribute": "Faith",
+                "scale": 0.08,
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "implemented": false
+    },
+    {
+        "id": "BarrierRegen",
+        "name": "Barrier Regen",
+        "color": 16186036,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": [],
+        "implemented": false
+    },
+    {
+        "id": "MaxPoise",
+        "name": "Poise",
+        "color": 16777215,
+        "desc": "",
+        "scaling": [
+            {
+                "attribute": "MaxHealth",
+                "scale": 0.6,
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "flags": 2
+    },
+    {
+        "id": "Poise",
+        "name": "Current Poise",
+        "color": 16777215,
+        "desc": "",
+        "scaling": [],
+        "maxAtb": "MaxPoise",
+        "regenAtbs": [],
+        "flags": 34
+    },
+    {
+        "id": "PoiseConsume",
+        "name": "Poise Consuming",
+        "color": 0,
+        "desc": "",
+        "flags": 2,
+        "scaling": [
+            {
+                "attribute": "MaxPoise",
+                "scale": 0.1,
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": []
+    },
+    {
+        "id": "PoiseRegen",
+        "name": "Poise Regeneration",
+        "color": 16777215,
+        "desc": "",
+        "scaling": [
+            {
+                "attribute": "MaxPoise",
+                "scale": 0.04,
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "flags": 2
+    },
+    {
+        "id": "SpecialEnergy",
+        "name": "Energy",
+        "color": 16762411,
+        "desc": "",
+        "flags": 226,
+        "scaling": [],
+        "regenAtbs": [
+            {
+                "atb": "SpecialEnergyRegen",
+                "conds": {
+                    "target": 1,
+                    "timeInCombat": 0
+                }
+            }
+        ],
+        "maxAtb": "MaxSpecialEnergy"
+    },
+    {
+        "id": "MaxSpecialEnergy",
+        "name": "Max Energy",
+        "color": 16762411,
+        "desc": "",
+        "flags": 2,
+        "scaling": [],
+        "regenAtbs": [],
+        "defVal": 100
+    },
+    {
+        "id": "SpecialEnergyRegen",
+        "name": "Energy Regen",
+        "color": 16762411,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "Lifetime",
+        "name": "Lifetime left",
+        "color": 14750713,
+        "desc": "",
+        "flags": 34,
+        "scaling": [],
+        "regenAtbs": [
+            {
+                "atb": "LifetimeDecay",
+                "conds": {
+                    "target": 1
+                }
+            }
+        ],
+        "maxAtb": "MaxLifetime"
+    },
+    {
+        "id": "MaxLifetime",
+        "name": "Lifetime",
+        "color": 14750713,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "LifetimeDecay",
+        "name": "Lifetime Decay",
+        "color": 14750713,
+        "desc": "",
+        "flags": 256,
+        "scaling": [],
+        "regenAtbs": [],
+        "defVal": -1
+    },
+    {
+        "id": "Oxygen",
+        "name": "Oxygen",
+        "color": 1627903,
+        "desc": "",
+        "flags": 160,
+        "scaling": [],
+        "regenAtbs": [
+            {
+                "atb": "OxygenLoss",
+                "conds": {
+                    "waterState": 0
+                }
+            },
+            {
+                "atb": "OxygenRegen",
+                "conds": {
+                    "waterState": 1
+                }
+            }
+        ],
+        "maxAtb": "MaxOxygen"
+    },
+    {
+        "id": "MaxOxygen",
+        "name": "",
+        "color": 1627903,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": [],
+        "defVal": 100
+    },
+    {
+        "id": "OxygenRegen",
+        "name": "",
+        "color": 1627903,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": [],
+        "defVal": 10
+    },
+    {
+        "id": "OxygenLoss",
+        "name": "",
+        "color": 1627903,
+        "desc": "",
+        "flags": 256,
+        "scaling": [],
+        "regenAtbs": [],
+        "defVal": -1
+    },
+    {
+        "id": "Rage",
+        "desc": "",
+        "color": 16717848,
+        "name": "Rage",
+        "scaling": [],
+        "maxAtb": "MaxRage",
+        "regenAtbs": [
+            {
+                "atb": "RageRegen",
+                "conds": {
+                    "timeOutsideCombat": 3
+                }
+            }
+        ],
+        "flags": 224
+    },
+    {
+        "id": "MaxRage",
+        "name": "Rage",
+        "color": 16717848,
+        "desc": "",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0
+    },
+    {
+        "id": "RageRegen",
+        "name": "Rage",
+        "color": 16717848,
+        "desc": "",
+        "flags": 256,
+        "scaling": [],
+        "regenAtbs": [],
+        "defVal": -1
+    },
+    {
+        "id": "Spark",
+        "name": "Spark",
+        "color": 5131007,
+        "desc": "",
+        "flags": 160,
+        "scaling": [],
+        "regenAtbs": [
+            {
+                "atb": "SparkRegen"
+            }
+        ],
+        "maxAtb": "MaxSpark"
+    },
+    {
+        "id": "MaxSpark",
+        "name": "",
+        "color": 5131007,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "SparkRegen",
+        "name": "",
+        "color": 5131007,
+        "desc": "",
+        "flags": 0,
+        "scaling": [
+            {
+                "attribute": "MaxSpark",
+                "scale": 0.005,
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": []
+    },
+    {
+        "id": "ComboPoint",
+        "name": "Combo Point",
+        "color": 13877073,
+        "desc": "",
+        "flags": 224,
+        "scaling": [],
+        "regenAtbs": [],
+        "maxAtb": "MaxComboPoint"
+    },
+    {
+        "id": "MaxComboPoint",
+        "name": "Max Combo Points",
+        "color": 13877073,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "MaxFocus",
+        "name": "",
+        "color": 0,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": [],
+        "defVal": 0
+    },
+    {
+        "id": "Focus",
+        "name": "Focus",
+        "color": 0,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": [],
+        "maxAtb": "MaxFocus",
+        "defVal": 0
+    },
+    {
+        "id": "MaxSparkParticle",
+        "name": "",
+        "color": 16772608,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": [],
+        "defVal": 100
+    },
+    {
+        "id": "SparkParticle",
+        "name": "",
+        "color": 16772608,
+        "desc": "",
+        "flags": 32,
+        "scaling": [],
+        "regenAtbs": [],
+        "maxAtb": "MaxSparkParticle"
+    },
+    {
+        "id": "RestedXP",
+        "name": "Rested XP",
+        "color": 1785533,
+        "desc": "",
+        "flags": 2112,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "Damage",
+        "name": "Damage",
+        "color": 16777215,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "Heal",
+        "desc": "",
+        "color": 10025891,
+        "name": "Heal",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0
+    },
+    {
+        "id": "DamageModifier",
+        "desc": "",
+        "color": 16777215,
+        "name": "Damage increase",
+        "scaling": [
+            {
+                "scale": 1,
+                "attribute": "Fervor",
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "flags": 8,
+        "defVal": 100
+    },
+    {
+        "id": "DamageTakenModifier",
+        "name": "Damage taken",
+        "color": 0,
+        "desc": "Lower than 1 = less damage taken. More than 1 = More damage.",
+        "flags": 10,
+        "scaling": [
+            {
+                "scale": -0.5,
+                "attribute": "Fervor",
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "defVal": 100
+    },
+    {
+        "id": "HealGivenMultiplier",
+        "name": "Heal given reduction",
+        "color": 0,
+        "desc": "",
+        "flags": 10,
+        "scaling": [
+            {
+                "scale": 1,
+                "attribute": "Fervor",
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "defVal": 100
+    },
+    {
+        "id": "ShieldPowerMultiplier",
+        "name": "Shield power multiplier",
+        "color": 0,
+        "desc": "",
+        "flags": 10,
+        "scaling": [
+            {
+                "scale": 1,
+                "attribute": "Fervor",
+                "scalingOperator": [
+                    0
+                ]
+            }
+        ],
+        "regenAtbs": [],
+        "defVal": 100
+    },
+    {
+        "id": "MoveSpeedFactor",
+        "desc": "",
+        "color": 15921334,
+        "name": "Movement speed",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0
+    },
+    {
+        "id": "SprintSpeed",
+        "name": "Sprint speed",
+        "color": 15921334,
+        "desc": "",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 512
+    },
+    {
+        "id": "RunSpeed",
+        "name": "Run speed",
+        "color": 15921334,
+        "desc": "",
+        "flags": 512,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "WalkSpeed",
+        "name": "Walk speed",
+        "color": 15921334,
+        "desc": "",
+        "flags": 512,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "GlideSpeed",
+        "name": "Glide Speed",
+        "color": 15921334,
+        "desc": "",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 512
+    },
+    {
+        "id": "ResistStun",
+        "desc": "",
+        "color": 8416657,
+        "name": "Resist Stun",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0,
+        "implemented": false
+    },
+    {
+        "id": "ResistSlow",
+        "desc": "",
+        "color": 8416657,
+        "name": "Resist Slow",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0,
+        "implemented": false
+    },
+    {
+        "id": "AggroRange",
+        "name": "Aggression Range",
+        "color": 16762411,
+        "desc": "",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0
+    },
+    {
+        "id": "AggroForwardRange",
+        "name": "Aggression Forward Range",
+        "color": 16762411,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "AggroReleaseRange",
+        "name": "Aggression Release Range",
+        "color": 16762411,
+        "desc": "",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0
+    },
+    {
+        "id": "AggroTransferRange",
+        "name": "Aggression Transfer Range",
+        "color": 16762411,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "AggroFacingRange",
+        "name": "Facing Range",
+        "color": 16762411,
+        "desc": "",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0
+    },
+    {
+        "id": "AggroFacingRangeAmplitude",
+        "name": "Facing Range Amplitude",
+        "color": 16762411,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "AggroFacingSpacingCooldown",
+        "name": "Spacing Cooldown",
+        "color": 16762411,
+        "desc": "",
+        "flags": 0,
+        "scaling": [],
+        "regenAtbs": []
+    },
+    {
+        "id": "AggroHeight",
+        "name": "Aggression Height",
+        "color": 16762411,
+        "desc": "",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0
+    },
+    {
+        "id": "Threat",
+        "name": "Threat",
+        "color": 16777215,
+        "desc": "Foes will target the enemy with the most Threat",
+        "scaling": [],
+        "regenAtbs": [],
+        "flags": 0
+    }
+]
