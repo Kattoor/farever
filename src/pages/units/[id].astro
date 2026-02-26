@@ -1,0 +1,143 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { url, icon } from "../../lib/urls";
+import { readPublicJson, buildIndex, resolveLootIdForUnit, unitItemRefs } from "../../lib/data";
+
+function fmtRange(e) {
+    const parts = [];
+    if (e.minLvl != null || e.maxLvl != null) parts.push(`lvl ${e.minLvl ?? "?"}-${e.maxLvl ?? "?"}`);
+    if (e.itemMin != null || e.itemMax != null) parts.push(`qty ${e.itemMin ?? "?"}-${e.itemMax ?? "?"}`);
+    return parts.length ? `(${parts.join(", ")})` : "";
+}
+
+export async function getStaticPaths() {
+    const units = await readPublicJson<any[]>("data/units.json");
+    const items = await readPublicJson<any[]>("data/items.json");
+    const lootTables = await readPublicJson<any[]>("data/loot-tables.json");
+
+    const itemById = buildIndex(items);
+    const lootById = buildIndex(lootTables);
+
+    return units.map((unit) => {
+        const lootId = resolveLootIdForUnit(unit, lootById);
+        const lootTable = lootId ? lootById.get(lootId) : null;
+        const itemRefs = unitItemRefs(unit).filter((x) => itemById.has(x));
+
+        return {
+            params: { id: String(unit.id) },
+            props: {
+                unit,
+                lootId,
+                lootTable,
+                itemRefs,
+                itemById: Object.fromEntries(itemById.entries()),
+            },
+        };
+    });
+}
+
+const { unit, lootId, lootTable, itemRefs, itemById } = Astro.props;
+const name = unit?.texts?.name ?? unit.id;
+const unitIcon = icon(unit?.gfx?.file ?? null);
+
+function itemObj(id) {
+    return itemById?.[id] ?? null;
+}
+function itemName(id) {
+    return itemObj(id)?.texts?.name ?? id;
+}
+function itemIcon(id) {
+    const it = itemObj(id);
+    return it?.gfx?.file ? icon(it.gfx.file) : null;
+}
+---
+
+<BaseLayout title={`Unit: ${name}`}>
+    <div class="card">
+        <div class="toolbar" style="justify-content: space-between; margin-bottom: 0.75rem;">
+            <a class="pill" href={url("units/")}>← Back to Units</a>
+            <span class="pill muted">ID: <code>{unit.id}</code></span>
+        </div>
+
+        <div class="hero" style="align-items:center;">
+            <div class="toolbar" style="gap: 1rem;">
+                {unitIcon ? <img class="icon" src={unitIcon} width="56" height="56" alt={name} /> : null}
+                <div>
+                    <h1 style="margin:0;" data-pagefind-meta="title">{name}</h1>
+                    <div class="muted">Type: <code>{unit.type ?? "—"}</code></div>
+                </div>
+            </div>
+        </div>
+
+        {unit?.texts?.desc ? <p style="white-space: pre-line;">{unit.texts.desc}</p> : null}
+
+        <div style="display:grid; gap: .75rem; margin-top: 1rem;">
+            <div class="card">
+                <h2 style="margin:0 0 .5rem 0; font-size:1.1rem;">Equipment / referenced items</h2>
+                {itemRefs.length ? (
+                        <ul style="margin:0; padding-left:1.25rem;">
+                            {itemRefs.map((id) => {
+                                const nm = itemName(id);
+                                const ic = itemIcon(id);
+                                return (
+                                        <li>
+                                            <div class="drop-row">
+                  <span class="item-chip tip" data-tip={nm}>
+                    {ic ? <img src={ic} alt={nm} loading="lazy" decoding="async" /> : null}
+                      <a href={url(`items/${encodeURIComponent(id)}/`)}>{nm}</a>{" "}
+                      <span class="muted">(<code>{id}</code>)</span>
+                  </span>
+                                            </div>
+                                        </li>
+                                );
+                            })}
+                        </ul>
+                ) : <div class="muted">No resolvable item refs found in this unit’s parts.</div>}
+            </div>
+
+            <div class="card">
+                <h2 style="margin:0 0 .5rem 0; font-size:1.1rem;">Loot</h2>
+
+                {lootTable ? (
+                        <>
+                            <div class="muted" style="margin-bottom:.5rem;">
+                                Loot table: <a href={url(`loot-tables/${encodeURIComponent(lootId)}/`)}><code>{lootId}</code></a>
+                                {" "}• entries: <code>{lootTable.loot?.length ?? 0}</code>
+                            </div>
+
+                            <ul style="margin:0; padding-left:1.25rem;">
+                                {lootTable.loot?.map((e) => (
+                                        <li style="margin-bottom:.35rem;">
+                                            <div class="drop-row">
+                                            <code>{e.proba}</code>{" "}
+                                            {e.item ? (() => {
+                                                const id = String(e.item);
+                                                const nm = itemName(id);
+                                                const ic = itemIcon(id);
+                                                return (
+                                                        <span class="item-chip tip" data-tip={nm}>
+                        {ic ? <img src={ic} alt={nm} loading="lazy" decoding="async" /> : null}
+                                                            item{" "}
+                                                            <a href={url(`items/${encodeURIComponent(id)}/`)}>
+                          <code>{id}</code>
+                        </a>{" "}
+                                                            {fmtRange(e)}
+                      </span>
+                                                );
+                                            })() : e.lootTable ? (
+                                                    <>includes table <a href={url(`loot-tables/${encodeURIComponent(String(e.lootTable))}/`)}><code>{e.lootTable}</code></a> {fmtRange(e)}</>
+                                            ) : (
+                                                    <span class="muted">—</span>
+                                            )}
+                                            </div>
+                                        </li>
+                                ))}
+                            </ul>
+                        </>
+                ) : (
+                        <div class="muted">No matching loot table found using (type → id → prefix) heuristics.</div>
+                )}
+            </div>
+        </div>
+    </div>
+</BaseLayout>

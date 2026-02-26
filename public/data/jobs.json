@@ -1,0 +1,270 @@
+[
+    {
+        "id": "Mining",
+        "texts": {
+            "name": "Mining",
+            "desc": "Gather ores.",
+            "jobTitle": "Miner"
+        },
+        "toolType": "GearPickaxe",
+        "upgrades": [],
+        "gfx": {
+            "file": "UI/Placeholder/loreIcons.png",
+            "size": 48,
+            "x": 4,
+            "y": 0
+        },
+        "recipeModels": []
+    },
+    {
+        "id": "Herbalism",
+        "texts": {
+            "name": "Herbalism",
+            "desc": "Gather plants.",
+            "jobTitle": "Miner"
+        },
+        "toolType": "GearSickle",
+        "upgrades": [],
+        "gfx": {
+            "file": "UI/Placeholder/loreIcons.png",
+            "size": 48,
+            "x": 2,
+            "y": 1
+        },
+        "recipeModels": []
+    },
+    {
+        "id": "Fishing",
+        "texts": {
+            "name": "Mining",
+            "desc": "Gather fishes.",
+            "jobTitle": "Miner"
+        },
+        "toolType": "GearPickaxe",
+        "upgrades": [],
+        "gfx": {
+            "file": "UI/Placeholder/loreIcons.png",
+            "size": 48,
+            "x": 9,
+            "y": 0
+        },
+        "recipeModels": []
+    },
+    {
+        "id": "Archeology",
+        "texts": {
+            "name": "Archeology",
+            "desc": "Gather artifacts.",
+            "jobTitle": "Miner"
+        },
+        "toolType": "GearPickaxe",
+        "upgrades": [],
+        "gfx": {
+            "file": "UI/Placeholder/loreIcons.png",
+            "size": 48,
+            "x": 2,
+            "y": 5
+        },
+        "recipeModels": []
+    },
+    {
+        "id": "Blacksmith",
+        "texts": {
+            "name": "Blacksmith",
+            "desc": "Unleash the flames of Pyrh to bend metal to your will. Melt raw ore into robust alloys. Forge reliable tools, sharp weapons and heavy armor that can withstand the most fiery battles. The craft of hard workers.",
+            "jobTitle": "Blacksmith",
+            "recipeName": "Plan: ::item::",
+            "recipeDesc": "Teaches you how to craft ::item::."
+        },
+        "upgrades": [],
+        "toolType": "ToolBlacksmith",
+        "gfx": {
+            "file": "UI/Placeholder/loreIcons.png",
+            "size": 48,
+            "x": 1,
+            "y": 0
+        },
+        "recipeModels": [
+            {
+                "rarity": "Common",
+                "model": "Items/Loot/Recipe/Recipe_Blacksmith.prefab"
+            },
+            {
+                "rarity": "Uncommon",
+                "model": "Items/Loot/Recipe/Recipe_Blacksmith.prefab"
+            },
+            {
+                "rarity": "Rare",
+                "model": "Items/Loot/Recipe/Recipe_Blacksmith.prefab"
+            },
+            {
+                "rarity": "Epic",
+                "model": "Items/Loot/Recipe/Recipe_Blacksmith.prefab"
+            },
+            {
+                "rarity": "Legendary",
+                "model": "Items/Loot/Recipe/Recipe_Blacksmith.prefab"
+            }
+        ]
+    },
+    {
+        "id": "Alchemist",
+        "texts": {
+            "name": "Alchemist",
+            "desc": "Harness the hidden power of plants and explore the secrets of the Foremothers. Learn to extract the deepest potential of magical ingredients and bottle it into vials of pure enchanted greatness. The craft of philosophers.",
+            "jobTitle": "Alchemist",
+            "recipeName": "Recipe: ::item::",
+            "recipeDesc": "Teaches you how to craft ::item::."
+        },
+        "upgrades": [],
+        "gfx": {
+            "file": "UI/Placeholder/loreIcons.png",
+            "size": 48,
+            "x": 4,
+            "y": 5
+        },
+        "toolType": "ToolAlchemist",
+        "recipeModels": [
+            {
+                "rarity": "Common",
+                "model": "Items/Loot/Recipe/Recipe_Alchemist.prefab"
+            },
+            {
+                "rarity": "Uncommon",
+                "model": "Items/Loot/Recipe/Recipe_Alchemist.prefab"
+            },
+            {
+                "rarity": "Rare",
+                "model": "Items/Loot/Recipe/Recipe_Alchemist.prefab"
+            },
+            {
+                "rarity": "Epic",
+                "model": "Items/Loot/Recipe/Recipe_Alchemist.prefab"
+            },
+            {
+                "rarity": "Legendary",
+                "model": "Items/Loot/Recipe/Recipe_Alchemist.prefab"
+            }
+        ]
+    },
+    {
+        "id": "Outfitter",
+        "texts": {
+            "name": "Outfitter",
+            "desc": "Elaborate the perfect combination of materials to tailor garments and footwear fit for the greatest heroes. Further elevate your art by enchanting legendary gear with magical properties. The craft of aesthetes.",
+            "jobTitle": "Outfitter",
+            "recipeName": "Pattern: ::item::",
+            "recipeDesc": "Teaches you how to craft ::item::."
+        },
+        "upgrades": [],
+        "gfx": {
+            "file": "UI/Placeholder/loreIcons.png",
+            "size": 48,
+            "x": 2,
+            "y": 4
+        },
+        "toolType": "ToolOutfitter",
+        "recipeModels": [
+            {
+                "rarity": "Common",
+                "model": "Items/Loot/Recipe/Recipe_Outfiter.prefab"
+            },
+            {
+                "rarity": "Uncommon",
+                "model": "Items/Loot/Recipe/Recipe_Outfiter.prefab"
+            },
+            {
+                "rarity": "Rare",
+                "model": "Items/Loot/Recipe/Recipe_Outfiter.prefab"
+            },
+            {
+                "rarity": "Epic",
+                "model": "Items/Loot/Recipe/Recipe_Outfiter.prefab"
+            },
+            {
+                "rarity": "Legendary",
+                "model": "Items/Loot/Recipe/Recipe_Outfiter.prefab"
+            }
+        ]
+    },
+    {
+        "id": "Jeweller",
+        "texts": {
+            "name": "Jeweler",
+            "desc": "Reveal the divine radiance of the Foremothers’ most immaculate crystals. Polish them to the highest degree of refinement and encase their infinite power into opulent rings and dazzling necklaces. The craft of aristocrats.",
+            "jobTitle": "Jeweler",
+            "recipeName": "Plan: ::item::",
+            "recipeDesc": "Teaches you how to craft ::item::."
+        },
+        "toolType": "ToolJeweller",
+        "upgrades": [],
+        "gfx": {
+            "file": "UI/Placeholder/loreIcons.png",
+            "size": 48,
+            "x": 11,
+            "y": 1
+        },
+        "recipeModels": [
+            {
+                "rarity": "Common",
+                "model": "Items/Loot/Recipe/Recipe_Jeweller.prefab"
+            },
+            {
+                "rarity": "Uncommon",
+                "model": "Items/Loot/Recipe/Recipe_Jeweller.prefab"
+            },
+            {
+                "rarity": "Rare",
+                "model": "Items/Loot/Recipe/Recipe_Jeweller.prefab"
+            },
+            {
+                "rarity": "Epic",
+                "model": "Items/Loot/Recipe/Recipe_Jeweller.prefab"
+            },
+            {
+                "rarity": "Legendary",
+                "model": "Items/Loot/Recipe/Recipe_Jeweller.prefab"
+            }
+        ]
+    },
+    {
+        "id": "Cook",
+        "texts": {
+            "name": "Cook",
+            "desc": "Elevate the hearts and bodies of all adventurers with heavenly victuals. Gather merry crowds around your lavish feasts, fuel the strengths of heroes and fire up their faith. The craft of the bountiful.",
+            "jobTitle": "Cook",
+            "recipeName": "Recipe : ::item::",
+            "recipeDesc": "Teaches you how to craft ::item::."
+        },
+        "toolType": "ToolCook",
+        "upgrades": [],
+        "gfx": {
+            "file": "UI/Placeholder/loreIcons.png",
+            "size": 48,
+            "x": 11,
+            "y": 5
+        },
+        "recipeModels": [
+            {
+                "rarity": "Common",
+                "model": "Items/Loot/Recipe/Recipe_Cook.prefab"
+            },
+            {
+                "rarity": "Uncommon",
+                "model": "Items/Loot/Recipe/Recipe_Cook.prefab"
+            },
+            {
+                "rarity": "Rare",
+                "model": "Items/Loot/Recipe/Recipe_Cook.prefab"
+            },
+            {
+                "rarity": "Epic",
+                "model": "Items/Loot/Recipe/Recipe_Cook.prefab"
+            },
+            {
+                "rarity": "Legendary",
+                "model": "Items/Loot/Recipe/Recipe_Cook.prefab"
+            }
+        ]
+    }
+]

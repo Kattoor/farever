@@ -1,0 +1,1786 @@
+[
+    {
+        "id": "Manfish",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Humanoid"
+            },
+            {
+                "proba": 0.05,
+                "lootTable": "WaterWeights"
+            },
+            {
+                "proba": 0.04,
+                "item": "Pearl",
+                "minLvl": 1,
+                "maxLvl": 12,
+                "conds": 1
+            },
+            {
+                "proba": 0.15,
+                "item": "Pearl",
+                "minLvl": 1,
+                "maxLvl": 12,
+                "conds": 6
+            },
+            {
+                "proba": 0.35,
+                "item": "Fin_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.15,
+                "item": "Mackerel",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.01,
+                "item": "WorldLoot",
+                "conds": 1
+            },
+            {
+                "proba": 0.05,
+                "item": "WorldLoot",
+                "conds": 4
+            }
+        ]
+    },
+    {
+        "id": "Crab",
+        "loot": [
+            {
+                "proba": 0.015,
+                "lootTable": "Gems",
+                "minLvl": 3
+            },
+            {
+                "proba": 0.05,
+                "lootTable": "WaterWeights",
+                "minLvl": 3
+            },
+            {
+                "proba": 0.03,
+                "item": "Pearl",
+                "minLvl": 1,
+                "maxLvl": 12,
+                "conds": 1
+            },
+            {
+                "proba": 0.1,
+                "item": "Pearl",
+                "minLvl": 1,
+                "maxLvl": 12,
+                "conds": 6
+            },
+            {
+                "proba": 0.4,
+                "item": "CrabMeat_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.12,
+                "item": "Eye_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            }
+        ]
+    },
+    {
+        "id": "Kobold",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Humanoid"
+            },
+            {
+                "proba": 0.45,
+                "lootTable": "Ores"
+            },
+            {
+                "proba": 0.05,
+                "lootTable": "EarthWeights"
+            },
+            {
+                "proba": 0.12,
+                "item": "Cheese_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.3,
+                "item": "Fang_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.01,
+                "item": "WorldLoot",
+                "conds": 1
+            },
+            {
+                "proba": 0.05,
+                "item": "WorldLoot",
+                "conds": 4
+            }
+        ]
+    },
+    {
+        "id": "FaerieBee",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Humanoid"
+            },
+            {
+                "proba": 0.05,
+                "lootTable": "NatureWeights"
+            },
+            {
+                "proba": 0.15,
+                "item": "Honey_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.35,
+                "item": "Wing_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.01,
+                "item": "WorldLoot",
+                "conds": 1
+            },
+            {
+                "proba": 0.05,
+                "item": "WorldLoot",
+                "conds": 4
+            }
+        ]
+    },
+    {
+        "id": "Bee",
+        "loot": [
+            {
+                "proba": 0.35,
+                "item": "Wing_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.15,
+                "item": "Honey_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.05,
+                "lootTable": "NatureWeights"
+            }
+        ]
+    },
+    {
+        "id": "Crimson",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Humanoid"
+            },
+            {
+                "proba": 0.01,
+                "item": "WorldLoot",
+                "conds": 1
+            },
+            {
+                "proba": 0.05,
+                "item": "WorldLoot",
+                "conds": 4
+            }
+        ]
+    },
+    {
+        "id": "Slime",
+        "loot": [
+            {
+                "proba": 0.25,
+                "lootTable": "Humanoid"
+            }
+        ]
+    },
+    {
+        "id": "Wolf",
+        "loot": [
+            {
+                "proba": 0.35,
+                "lootTable": "Leather"
+            },
+            {
+                "proba": 0.1,
+                "item": "Blood_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.55,
+                "item": "WolfMeat_Z1",
+                "minLvl": 7,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.35,
+                "item": "Fang_Z1",
+                "minLvl": 7,
+                "maxLvl": 12
+            }
+        ]
+    },
+    {
+        "id": "Skunk",
+        "loot": [
+            {
+                "proba": 0.35,
+                "lootTable": "Leather"
+            },
+            {
+                "proba": 0.55,
+                "item": "SkunkMeat_Z1",
+                "minLvl": 7,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.1,
+                "item": "Blood_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.35,
+                "item": "Fang_Z1",
+                "minLvl": 7,
+                "maxLvl": 12
+            }
+        ]
+    },
+    {
+        "id": "Boar",
+        "loot": [
+            {
+                "proba": 0.35,
+                "lootTable": "Leather"
+            },
+            {
+                "proba": 0.1,
+                "item": "Blood_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.55,
+                "item": "BoarMeat_Z1",
+                "minLvl": 7,
+                "maxLvl": 12
+            }
+        ]
+    },
+    {
+        "id": "EarthGolems",
+        "loot": [
+            {
+                "proba": 0.12,
+                "lootTable": "EarthWeights"
+            },
+            {
+                "proba": 0.55,
+                "lootTable": "Ores"
+            },
+            {
+                "proba": 0.15,
+                "lootTable": "Gems"
+            }
+        ]
+    },
+    {
+        "id": "Z1Subregion_1_Rare",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "Feet_RManfish_FigAss"
+            },
+            {
+                "proba": 1,
+                "item": "Hands_RManfish_WizCle"
+            }
+        ],
+        "flags": 2
+    },
+    {
+        "id": "Z1Subregion_1_RareMeta",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Z1Subregion_1_Rare"
+            },
+            {
+                "proba": 1,
+                "lootTable": "WorldActivityWithRare"
+            },
+            {
+                "proba": 1,
+                "lootTable": "WaterWeights"
+            }
+        ]
+    },
+    {
+        "id": "Z1Subregion_2_Rare",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "Chest_RKobold_FigAss"
+            },
+            {
+                "proba": 1,
+                "item": "Legs_RKobold_WizCle"
+            }
+        ],
+        "flags": 2
+    },
+    {
+        "id": "Z1Subregion_2_RareMeta",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Z1Subregion_2_Rare"
+            },
+            {
+                "proba": 1,
+                "lootTable": "WorldActivityWithRare"
+            },
+            {
+                "proba": 1,
+                "lootTable": "EarthWeights"
+            }
+        ]
+    },
+    {
+        "id": "Z1Subregion_2_Rare2",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "Legs_RManfish_FigCle"
+            },
+            {
+                "proba": 1,
+                "item": "Hands_RManfish_AssWiz"
+            }
+        ],
+        "flags": 2
+    },
+    {
+        "id": "Z1Subregion_2_RareMeta_2",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Z1Subregion_2_Rare2"
+            },
+            {
+                "proba": 1,
+                "lootTable": "WorldActivityWithRare"
+            },
+            {
+                "proba": 1,
+                "lootTable": "WaterWeights"
+            }
+        ]
+    },
+    {
+        "id": "Z1Subregion_3_Rare",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "Waist_RKobold_FigCle"
+            },
+            {
+                "proba": 1,
+                "item": "Back_RKobold_AssWiz"
+            }
+        ],
+        "flags": 2
+    },
+    {
+        "id": "Z1Subregion_3_RareMeta",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Z1Subregion_3_Rare"
+            },
+            {
+                "proba": 1,
+                "lootTable": "WorldActivityWithRare"
+            },
+            {
+                "proba": 1,
+                "lootTable": "EarthWeights"
+            }
+        ]
+    },
+    {
+        "id": "Z1Subregion_4_Rare",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "Legs_RBee_FigWiz"
+            },
+            {
+                "proba": 1,
+                "item": "Chest_RBee_AssCle"
+            }
+        ],
+        "flags": 2
+    },
+    {
+        "id": "Z1Subregion_4_RareMeta",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Z1Subregion_4_Rare"
+            },
+            {
+                "proba": 1,
+                "lootTable": "WorldActivityWithRare"
+            },
+            {
+                "proba": 1,
+                "lootTable": "NatureWeights"
+            }
+        ]
+    },
+    {
+        "id": "Z1Subregion_4_Rare2",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "Feet_RBee_FigCle"
+            },
+            {
+                "proba": 1,
+                "item": "Legs_RBee_AssWiz"
+            }
+        ],
+        "flags": 2
+    },
+    {
+        "id": "Z1Subregion_4_RareMeta_2",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Z1Subregion_4_Rare2"
+            },
+            {
+                "proba": 1,
+                "lootTable": "WorldActivityWithRare"
+            },
+            {
+                "proba": 1,
+                "lootTable": "NatureWeights"
+            }
+        ]
+    },
+    {
+        "id": "ManfishActivity",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "WaterWeights"
+            },
+            {
+                "proba": 1,
+                "lootTable": "GoldActivity"
+            },
+            {
+                "proba": 1,
+                "item": "WorldLootWithAffinity"
+            }
+        ]
+    },
+    {
+        "id": "ManfishCrate",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "UpgradeManfish",
+                "minLvl": 20
+            },
+            {
+                "proba": 1,
+                "lootTable": "WaterWeights"
+            },
+            {
+                "proba": 1,
+                "lootTable": "CrateDrops"
+            }
+        ]
+    },
+    {
+        "id": "Nepsilon",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "NepsilonWeights"
+            },
+            {
+                "proba": 1,
+                "lootTable": "NepsilonWeights"
+            }
+        ]
+    },
+    {
+        "id": "NepsilonWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "Chest_RManfish_Fig"
+            },
+            {
+                "proba": 0.01,
+                "item": "Back_RManfish_FigCle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Legs_RManfish_Ass"
+            },
+            {
+                "proba": 0.01,
+                "item": "Chest_RManfish_Wiz"
+            },
+            {
+                "proba": 0.01,
+                "item": "Waist_RManfish_Cle"
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "NepsilonWeightsAffinity",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "Chest_RManfish_Fig"
+            },
+            {
+                "proba": 0.01,
+                "item": "Back_RManfish_FigCle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Legs_RManfish_Ass"
+            },
+            {
+                "proba": 0.01,
+                "item": "Chest_RManfish_Wiz"
+            },
+            {
+                "proba": 0.01,
+                "item": "Waist_RManfish_Cle"
+            }
+        ],
+        "flags": 3
+    },
+    {
+        "id": "KoboldActivity",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "EarthWeights"
+            },
+            {
+                "proba": 1,
+                "lootTable": "GoldActivity"
+            },
+            {
+                "proba": 1,
+                "item": "WorldLootWithAffinity"
+            }
+        ]
+    },
+    {
+        "id": "KoboldCrate",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "UpgradeKobold",
+                "minLvl": 20
+            },
+            {
+                "proba": 1,
+                "lootTable": "Ores"
+            },
+            {
+                "proba": 1,
+                "lootTable": "EarthWeights"
+            },
+            {
+                "proba": 1,
+                "lootTable": "CrateDrops"
+            }
+        ]
+    },
+    {
+        "id": "Reblochonk",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "ReblochonkWeights"
+            },
+            {
+                "proba": 1,
+                "lootTable": "ReblochonkWeights"
+            }
+        ]
+    },
+    {
+        "id": "ReblochonkWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "Waist_RKobold_Fig"
+            },
+            {
+                "proba": 0.01,
+                "item": "Hands_RKobold_FigCle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Feet_RKobold_Ass"
+            },
+            {
+                "proba": 0.01,
+                "item": "Waist_RKobold_Wiz"
+            },
+            {
+                "proba": 0.01,
+                "item": "Feet_RKobold_Cle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Axe_Boomerang"
+            },
+            {
+                "proba": 0.01,
+                "item": "Scepter_Flamie"
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "ReblochonkWeightsAffinity",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "Waist_RKobold_Fig"
+            },
+            {
+                "proba": 0.01,
+                "item": "Hands_RKobold_FigCle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Feet_RKobold_Ass"
+            },
+            {
+                "proba": 0.01,
+                "item": "Waist_RKobold_Wiz"
+            },
+            {
+                "proba": 0.01,
+                "item": "Feet_RKobold_Cle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Axe_Boomerang",
+                "conds": 0,
+                "flags": 0
+            },
+            {
+                "proba": 0.01,
+                "item": "Scepter_Flamie",
+                "conds": 0,
+                "flags": 0
+            }
+        ],
+        "flags": 3
+    },
+    {
+        "id": "BeeActivity",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "NatureWeights"
+            },
+            {
+                "proba": 1,
+                "lootTable": "GoldActivity"
+            },
+            {
+                "proba": 1,
+                "item": "WorldLootWithAffinity"
+            }
+        ]
+    },
+    {
+        "id": "BeeCrate",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "NatureWeights"
+            },
+            {
+                "proba": 1,
+                "item": "UpgradeBee",
+                "minLvl": 20
+            },
+            {
+                "proba": 1,
+                "lootTable": "CrateDrops"
+            }
+        ]
+    },
+    {
+        "id": "CrimsonActivity",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "GoldActivity"
+            },
+            {
+                "proba": 1,
+                "item": "WorldLootWithAffinity"
+            }
+        ]
+    },
+    {
+        "id": "CrimsonCrate",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "UpgradeCrimson",
+                "minLvl": 20
+            },
+            {
+                "proba": 1,
+                "lootTable": "CrateDrops"
+            }
+        ]
+    },
+    {
+        "id": "Crabgantua",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "CrabgantuaWeights"
+            },
+            {
+                "proba": 1,
+                "lootTable": "CrabgantuaWeights"
+            }
+        ]
+    },
+    {
+        "id": "CrabgantuaWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "Hands_RManfish_Fig"
+            },
+            {
+                "proba": 0.01,
+                "item": "Back_RManfish_FigAss"
+            },
+            {
+                "proba": 0.01,
+                "item": "Chest_RManfish_Ass"
+            },
+            {
+                "proba": 0.01,
+                "item": "Feet_RManfish_Wiz"
+            },
+            {
+                "proba": 0.01,
+                "item": "Back_RManfish_WizCle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Legs_RManfish_Cle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Fists_WaterUppecut"
+            },
+            {
+                "proba": 0.01,
+                "item": "Shield_OrbitWater"
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "CragantuaWeightsAffinity",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "Hands_RManfish_Fig"
+            },
+            {
+                "proba": 0.01,
+                "item": "Back_RManfish_FigAss"
+            },
+            {
+                "proba": 0.01,
+                "item": "Chest_RManfish_Ass"
+            },
+            {
+                "proba": 0.01,
+                "item": "Feet_RManfish_Wiz"
+            },
+            {
+                "proba": 0.01,
+                "item": "Back_RManfish_WizCle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Legs_RManfish_Cle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Fists_WaterUppecut",
+                "conds": 0,
+                "flags": 0
+            },
+            {
+                "proba": 0.01,
+                "item": "Shield_OrbitWater",
+                "conds": 0,
+                "flags": 0
+            }
+        ],
+        "flags": 3
+    },
+    {
+        "id": "Ratsar",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "RatsarWeights"
+            },
+            {
+                "proba": 1,
+                "lootTable": "RatsarWeights"
+            }
+        ]
+    },
+    {
+        "id": "RatsarWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "Back_RKobold_Fig"
+            },
+            {
+                "proba": 0.01,
+                "item": "Legs_RKobold_FigAss"
+            },
+            {
+                "proba": 0.01,
+                "item": "Feet_RKobold_FigWiz"
+            },
+            {
+                "proba": 0.01,
+                "item": "Waist_RKobold_Ass"
+            },
+            {
+                "proba": 0.01,
+                "item": "Legs_RKobold_AssCle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Back_RKobold_Wiz"
+            },
+            {
+                "proba": 0.01,
+                "item": "Chest_RKobold_WizCle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Hands_RKobold_Cle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Daggers_DuplicatePoison"
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "RatsarWeightAffinity",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "Back_RKobold_Fig"
+            },
+            {
+                "proba": 0.01,
+                "item": "Legs_RKobold_FigAss"
+            },
+            {
+                "proba": 0.01,
+                "item": "Feet_RKobold_FigWiz"
+            },
+            {
+                "proba": 0.01,
+                "item": "Waist_RKobold_Ass"
+            },
+            {
+                "proba": 0.01,
+                "item": "Legs_RKobold_AssCle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Back_RKobold_Wiz"
+            },
+            {
+                "proba": 0.01,
+                "item": "Chest_RKobold_WizCle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Hands_RKobold_Cle"
+            },
+            {
+                "proba": 0.01,
+                "item": "Daggers_DuplicatePoison"
+            }
+        ],
+        "flags": 3
+    },
+    {
+        "id": "WorldActivity",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "GoldActivity"
+            },
+            {
+                "proba": 1,
+                "item": "WorldLootWithAffinity"
+            },
+            {
+                "proba": 1,
+                "lootTable": "GatherSamplesWeight"
+            }
+        ]
+    },
+    {
+        "id": "WorldActivityWithRare",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "GoldActivity"
+            },
+            {
+                "proba": 1,
+                "lootTable": "GatherSamplesWeight"
+            }
+        ]
+    },
+    {
+        "id": "WorldCrate",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "CrateDrops"
+            }
+        ]
+    },
+    {
+        "id": "CrateDrops",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "GoldCrate"
+            },
+            {
+                "proba": 1,
+                "lootTable": "HumanoidWeights"
+            },
+            {
+                "proba": 1,
+                "lootTable": "HumanoidWeights"
+            },
+            {
+                "proba": 0.35,
+                "item": "WorldLoot",
+                "flags": 2
+            },
+            {
+                "proba": 0.25,
+                "lootTable": "GatherSamplesWeight"
+            },
+            {
+                "proba": 0.1,
+                "item": "WorldRecipeWithJob"
+            }
+        ]
+    },
+    {
+        "id": "Humanoid",
+        "loot": [
+            {
+                "proba": 0.25,
+                "lootTable": "Clothes"
+            },
+            {
+                "proba": 0.1,
+                "item": "Blood_Z1",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.03,
+                "lootTable": "Scrolls"
+            },
+            {
+                "proba": 0.015,
+                "lootTable": "Gems"
+            },
+            {
+                "proba": 0.003,
+                "lootTable": "Bags"
+            },
+            {
+                "proba": 0.01,
+                "lootTable": "Potions"
+            },
+            {
+                "proba": 0.01,
+                "item": "WorldRecipeWithJob",
+                "minLvl": 6
+            }
+        ]
+    },
+    {
+        "id": "HumanoidWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "lootTable": "Clothes"
+            },
+            {
+                "proba": 0.01,
+                "lootTable": "Scrolls"
+            },
+            {
+                "proba": 0.01,
+                "lootTable": "Gems"
+            },
+            {
+                "proba": 0.005,
+                "lootTable": "Bags"
+            },
+            {
+                "proba": 0.0075,
+                "lootTable": "Potions"
+            },
+            {
+                "proba": 0.01,
+                "lootTable": "Ores"
+            },
+            {
+                "proba": 0.01,
+                "lootTable": "Plants"
+            },
+            {
+                "proba": 0.01,
+                "lootTable": "GatherSamplesWeight"
+            },
+            {
+                "proba": 0.01,
+                "lootTable": "Leather"
+            },
+            {
+                "proba": 0.01,
+                "lootTable": "MoteWeights"
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "WaterWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "MoteOfWater",
+                "minLvl": 1,
+                "maxLvl": 12
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "FireWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "MoteOfFire",
+                "minLvl": 1,
+                "maxLvl": 12
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "NatureWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "MoteOfNature",
+                "minLvl": 1,
+                "maxLvl": 12
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "EarthWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "MoteOfEarth",
+                "minLvl": 1,
+                "maxLvl": 12
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "AirWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "MoteOfAir",
+                "minLvl": 1,
+                "maxLvl": 12
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "MoteWeights",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "MoteOfWater"
+            },
+            {
+                "proba": 0.01,
+                "item": "MoteOfFire"
+            },
+            {
+                "proba": 0.01,
+                "item": "MoteOfNature"
+            },
+            {
+                "proba": 0.01,
+                "item": "MoteOfEarth"
+            },
+            {
+                "proba": 0.01,
+                "item": "MoteOfAir"
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "Clothes",
+        "loot": [
+            {
+                "proba": 0.35,
+                "item": "Cloth_Z1",
+                "itemMin": 1,
+                "itemMax": 3,
+                "minLvl": 1,
+                "maxLvl": 12
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "Scrolls",
+        "loot": [
+            {
+                "proba": 0.05,
+                "item": "ScrollOfStrength",
+                "minLvl": 1,
+                "maxLvl": 5
+            },
+            {
+                "proba": 0.05,
+                "item": "ScrollOfDexterity",
+                "minLvl": 1,
+                "maxLvl": 5
+            },
+            {
+                "proba": 0.05,
+                "item": "ScrollOfIntelligence",
+                "minLvl": 1,
+                "maxLvl": 5
+            },
+            {
+                "proba": 0.05,
+                "item": "ScrollOfFaith",
+                "minLvl": 1,
+                "maxLvl": 5
+            },
+            {
+                "proba": 0.05,
+                "item": "ScrollOfVitality",
+                "minLvl": 1,
+                "maxLvl": 5
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "Gems",
+        "loot": [
+            {
+                "proba": 0.1,
+                "item": "Amber",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.1,
+                "item": "Beryl",
+                "minLvl": 8,
+                "maxLvl": 12
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "Bags",
+        "loot": [
+            {
+                "proba": 0.03,
+                "item": "SmallPouch",
+                "minLvl": 1,
+                "maxLvl": 12
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "Potions",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "MinorHealingPotion"
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "Leather",
+        "loot": [
+            {
+                "proba": 0.15,
+                "item": "SoftFur",
+                "minLvl": 6,
+                "maxLvl": 12,
+                "itemMax": 2,
+                "itemMin": 1
+            },
+            {
+                "proba": 0.8,
+                "item": "Leather_Z1",
+                "minLvl": 6,
+                "maxLvl": 12,
+                "itemMin": 2,
+                "itemMax": 3
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "Debris",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "Humanoid",
+                "conds": 0
+            }
+        ]
+    },
+    {
+        "id": "Ores",
+        "loot": [
+            {
+                "proba": 0.8,
+                "item": "CopperOre",
+                "minLvl": 1,
+                "maxLvl": 15,
+                "itemMin": 1,
+                "itemMax": 2
+            },
+            {
+                "proba": 0.4,
+                "item": "Rock_Z1",
+                "itemMin": 1,
+                "itemMax": 2,
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.3,
+                "item": "TinOre",
+                "minLvl": 10,
+                "maxLvl": 15,
+                "itemMin": 1,
+                "itemMax": 2
+            },
+            {
+                "proba": 0.1,
+                "item": "TungsteneOre",
+                "minLvl": 1,
+                "maxLvl": 20,
+                "itemMin": 1,
+                "itemMax": 2
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "Plants",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "MadrigoldPetal",
+                "minLvl": 1,
+                "maxLvl": 15,
+                "itemMin": 2,
+                "itemMax": 3
+            },
+            {
+                "proba": 0.01,
+                "item": "LavendulaPetal",
+                "minLvl": 1,
+                "maxLvl": 15,
+                "itemMin": 2,
+                "itemMax": 3
+            },
+            {
+                "proba": 0.01,
+                "item": "AncientThymePetal",
+                "minLvl": 8,
+                "maxLvl": 20,
+                "itemMin": 2,
+                "itemMax": 3
+            },
+            {
+                "proba": 0.005,
+                "item": "ZealotusPetal",
+                "minLvl": 1,
+                "maxLvl": 20
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "GoldActivity",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "Gold",
+                "itemMin": 50,
+                "minLvl": 1,
+                "maxLvl": 6,
+                "itemMax": 60
+            }
+        ]
+    },
+    {
+        "id": "GoldCrate",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "Gold",
+                "itemMin": 15,
+                "minLvl": 1,
+                "maxLvl": 6,
+                "itemMax": 20
+            }
+        ]
+    },
+    {
+        "id": "GatherSamplesWeight",
+        "loot": [
+            {
+                "proba": 0.05,
+                "item": "SparkSample",
+                "minLvl": 1,
+                "maxLvl": 12,
+                "itemMin": 1,
+                "itemMax": 2
+            },
+            {
+                "proba": 0.01,
+                "item": "GlitteringStone",
+                "minLvl": 1,
+                "maxLvl": 12,
+                "itemMin": 1,
+                "itemMax": 1
+            },
+            {
+                "proba": 0.01,
+                "item": "StrangeSpores",
+                "minLvl": 1,
+                "maxLvl": 12,
+                "itemMin": 1,
+                "itemMax": 1
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "FoeUniqueDrops",
+        "loot": [
+            {
+                "proba": 1,
+                "flags": 2,
+                "item": "WorldLootWithAffinity"
+            }
+        ]
+    },
+    {
+        "id": "FoeEliteDrops",
+        "loot": []
+    },
+    {
+        "id": "ActivityDrops",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "UpgradeBlueTo10",
+                "itemMin": 15,
+                "minLvl": 1,
+                "maxLvl": 5,
+                "flags": 2,
+                "itemMax": 20
+            },
+            {
+                "proba": 1,
+                "item": "UpgradeBlueTo10",
+                "itemMin": 25,
+                "itemMax": 35,
+                "minLvl": 6,
+                "maxLvl": 10,
+                "flags": 2
+            }
+        ]
+    },
+    {
+        "id": "WorldLootTest",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "WorldLoot"
+            }
+        ]
+    },
+    {
+        "id": "Empty_LootTable",
+        "loot": []
+    },
+    {
+        "id": "Gym_ChestOrb_Hill",
+        "loot": []
+    },
+    {
+        "id": "Gym_ChestBox",
+        "loot": []
+    },
+    {
+        "id": "R1ActivityUpgradeReward",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "UpgradeBlueTo10",
+                "itemMin": 25,
+                "itemMax": 25,
+                "flags": 2
+            }
+        ]
+    },
+    {
+        "id": "R1ActivityBlueGear",
+        "loot": []
+    },
+    {
+        "id": "Z1_Start_WeaponWithAffinity",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "Halos_Totem",
+                "flags": 4
+            },
+            {
+                "proba": 1,
+                "item": "DA_Water",
+                "flags": 4
+            },
+            {
+                "proba": 1,
+                "item": "Staff_Craft",
+                "flags": 4
+            },
+            {
+                "proba": 1,
+                "item": "Bow_Craft",
+                "flags": 4
+            },
+            {
+                "proba": 1,
+                "flags": 4,
+                "item": "GA_Craft"
+            },
+            {
+                "proba": 1,
+                "item": "Scepter_Flamie",
+                "flags": 4
+            }
+        ],
+        "flags": 2
+    },
+    {
+        "id": "Ore_Copper",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "CopperOre"
+            },
+            {
+                "proba": 0.3,
+                "item": "Rock_Z1"
+            },
+            {
+                "proba": 0.05,
+                "lootTable": "Gems"
+            },
+            {
+                "proba": 0.18,
+                "item": "SparkSample"
+            },
+            {
+                "proba": 0.08,
+                "item": "GlitteringStone"
+            }
+        ]
+    },
+    {
+        "id": "Tungstene",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "TungsteneOre"
+            },
+            {
+                "proba": 0.4,
+                "item": "Rock_Z1"
+            },
+            {
+                "proba": 0.05,
+                "lootTable": "Gems"
+            },
+            {
+                "proba": 0.3,
+                "item": "SparkSample"
+            },
+            {
+                "proba": 0.15,
+                "item": "GlitteringStone"
+            }
+        ]
+    },
+    {
+        "id": "Madrigold",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "MadrigoldPetal"
+            },
+            {
+                "proba": 0.18,
+                "item": "SparkSample"
+            },
+            {
+                "proba": 0.08,
+                "item": "StrangeSpores"
+            }
+        ]
+    },
+    {
+        "id": "Lavendula",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "LavendulaPetal"
+            },
+            {
+                "proba": 0.18,
+                "item": "SparkSample"
+            },
+            {
+                "proba": 0.08,
+                "item": "StrangeSpores"
+            }
+        ]
+    },
+    {
+        "id": "AncientThyme",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "AncientThymePetal"
+            },
+            {
+                "proba": 0.18,
+                "item": "SparkSample"
+            },
+            {
+                "proba": 0.08,
+                "item": "StrangeSpores"
+            }
+        ]
+    },
+    {
+        "id": "Zealotus",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "ZealotusPetal"
+            },
+            {
+                "proba": 0.3,
+                "item": "SparkSample"
+            },
+            {
+                "proba": 0.15,
+                "item": "StrangeSpores"
+            }
+        ]
+    },
+    {
+        "id": "Blacksmith_Starter",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "CopperOre",
+                "itemMin": 64,
+                "itemMax": 64
+            },
+            {
+                "proba": 1,
+                "item": "TinOre",
+                "itemMin": 64,
+                "itemMax": 64
+            },
+            {
+                "proba": 1,
+                "item": "Hammer"
+            }
+        ]
+    },
+    {
+        "id": "Blacksmith_1",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "CraftPoint",
+                "itemMin": 10,
+                "itemMax": 10
+            }
+        ]
+    },
+    {
+        "id": "SmallCP1",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "CraftPoint",
+                "itemMin": 5
+            }
+        ]
+    },
+    {
+        "id": "BigCP1",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "CraftPoint",
+                "itemMin": 15
+            }
+        ]
+    },
+    {
+        "id": "SmallBastienCP1",
+        "loot": [
+            {
+                "proba": 1,
+                "lootTable": "SmallBastienCP1_Items"
+            },
+            {
+                "proba": 0.25,
+                "item": "Amber",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 0.25,
+                "item": "Beryl",
+                "minLvl": 1,
+                "maxLvl": 12
+            }
+        ]
+    },
+    {
+        "id": "SmallBastienCP1_Items",
+        "loot": [
+            {
+                "proba": 1,
+                "item": "Amber",
+                "minLvl": 1,
+                "maxLvl": 12
+            },
+            {
+                "proba": 1,
+                "item": "Beryl",
+                "minLvl": 1,
+                "maxLvl": 12
+            }
+        ],
+        "flags": 1
+    },
+    {
+        "id": "Scrap",
+        "loot": [
+            {
+                "proba": 0.01,
+                "item": "Amber"
+            }
+        ]
+    }
+]

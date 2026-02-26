@@ -1,0 +1,1580 @@
+[
+    {
+        "item": "Legs_RManfish_Fig",
+        "level": 1,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 8,
+                "item": "CopperIngot"
+            },
+            {
+                "count": 12,
+                "item": "Fin_Z1"
+            },
+            {
+                "count": 1,
+                "item": "FragmentOfWater"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "Hands_RKobold_FigAss",
+        "level": 1,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 6,
+                "item": "CopperIngot"
+            },
+            {
+                "count": 10,
+                "item": "Fang_Z1"
+            },
+            {
+                "count": 1,
+                "item": "FragmentOfEarth"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "Feet_RManfish_FigCle",
+        "level": 1,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 6,
+                "item": "CopperIngot"
+            },
+            {
+                "count": 10,
+                "item": "Fin_Z1"
+            },
+            {
+                "count": 2,
+                "item": "Pearl"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "Chest_RKobold_Fig",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 8,
+                "item": "BronzeIngot"
+            },
+            {
+                "count": 12,
+                "item": "Fang_Z1"
+            },
+            {
+                "count": 2,
+                "item": "FragmentOfEarth"
+            }
+        ],
+        "slots": 0,
+        "cost": 75
+    },
+    {
+        "item": "Waist_RKobold_FigWiz",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 6,
+                "item": "BronzeIngot"
+            },
+            {
+                "count": 10,
+                "item": "Fang_Z1"
+            },
+            {
+                "count": 2,
+                "item": "FragmentOfEarth"
+            }
+        ],
+        "slots": 0,
+        "cost": 75
+    },
+    {
+        "item": "Hands_RBee_FigWiz",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 6,
+                "item": "BronzeIngot"
+            },
+            {
+                "count": 10,
+                "item": "Wing_Z1"
+            },
+            {
+                "count": 2,
+                "item": "FragmentOfNature"
+            }
+        ],
+        "slots": 0,
+        "cost": 75
+    },
+    {
+        "item": "CopperIngot",
+        "level": 1,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 5,
+                "item": "CopperOre"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "ShimmeringAlloy",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 1,
+                "item": "CopperIngot"
+            },
+            {
+                "count": 1,
+                "item": "GlitteringStone"
+            },
+            {
+                "count": 1,
+                "item": "TungsteneIngot"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "TungsteneIngot",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 5,
+                "item": "TungsteneOre"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "BronzeIngot",
+        "level": 3,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 5,
+                "item": "TinOre"
+            },
+            {
+                "count": 1,
+                "item": "CopperIngot"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "count": 2,
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "Whetstone",
+        "level": 1,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 5,
+                "item": "Rock_Z1"
+            },
+            {
+                "count": 1,
+                "item": "GlitteringStone"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "Weightstone",
+        "level": 1,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 5,
+                "item": "Rock_Z1"
+            },
+            {
+                "count": 1,
+                "item": "GlitteringStone"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "ReinforcedCopperPlate",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 3,
+                "item": "ShimmeringAlloy"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "HonedCopperPlate",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 3,
+                "item": "ShimmeringAlloy"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_HonedCopperPlate"
+    },
+    {
+        "item": "RunedCopperPlate",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 3,
+                "item": "ShimmeringAlloy"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_RunedCopperPlate"
+    },
+    {
+        "item": "SanctifiedCopperPlate",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 3,
+                "item": "ShimmeringAlloy"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_SanctifiedCopperPlate"
+    },
+    {
+        "item": "MysticCopperPlate",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 3,
+                "item": "ShimmeringAlloy"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_MysticCopperPlate"
+    },
+    {
+        "item": "GracefulCopperPlate",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 3,
+                "item": "ShimmeringAlloy"
+            }
+        ],
+        "slots": 0,
+        "unlockSource": "Recipe_GracefulCopperPlate",
+        "loot": "BigCP1"
+    },
+    {
+        "item": "DivinedCopperPlate",
+        "level": 2,
+        "job": "Blacksmith",
+        "input": [
+            {
+                "count": 3,
+                "item": "ShimmeringAlloy"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_DivinedCopperPlate"
+    },
+    {
+        "item": "Back_RKobold_Ass",
+        "level": 1,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 6,
+                "item": "TannedLeather"
+            },
+            {
+                "count": 12,
+                "item": "Fang_Z1"
+            },
+            {
+                "count": 1,
+                "item": "FragmentOfEarth"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "Legs_RKobold_Wiz",
+        "level": 1,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 8,
+                "item": "LinenReel"
+            },
+            {
+                "count": 12,
+                "item": "Fang_Z1"
+            },
+            {
+                "count": 1,
+                "item": "FragmentOfEarth"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "Waist_RManfish_WizCle",
+        "level": 1,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 6,
+                "item": "LinenReel"
+            },
+            {
+                "count": 10,
+                "item": "Fin_Z1"
+            },
+            {
+                "count": 2,
+                "item": "Pearl"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "Legs_RManfish_Ass_Craft",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 6,
+                "item": "TannedLeather"
+            },
+            {
+                "count": 3,
+                "item": "SoftFur"
+            },
+            {
+                "count": 10,
+                "item": "Fin_Z1"
+            },
+            {
+                "count": 2,
+                "item": "FragmentOfWater"
+            }
+        ],
+        "slots": 0,
+        "cost": 75
+    },
+    {
+        "item": "Feet_RKobold_AssWiz",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 6,
+                "item": "TannedLeather"
+            },
+            {
+                "count": 2,
+                "item": "SoftFur"
+            },
+            {
+                "count": 15,
+                "item": "Fang_Z1"
+            },
+            {
+                "count": 2,
+                "item": "FragmentOfEarth"
+            }
+        ],
+        "slots": 0,
+        "cost": 75
+    },
+    {
+        "item": "Waist_RManfish_AssCle",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 5,
+                "item": "TannedLeather"
+            },
+            {
+                "count": 2,
+                "item": "SoftFur"
+            },
+            {
+                "count": 15,
+                "item": "Fin_Z1"
+            },
+            {
+                "count": 3,
+                "item": "Pearl"
+            }
+        ],
+        "slots": 0,
+        "cost": 75
+    },
+    {
+        "item": "Chest_RBee_Wiz",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 8,
+                "item": "LinenReel"
+            },
+            {
+                "count": 2,
+                "item": "SoftFur"
+            },
+            {
+                "count": 15,
+                "item": "Wing_Z1"
+            },
+            {
+                "count": 3,
+                "item": "FragmentOfNature"
+            }
+        ],
+        "slots": 0,
+        "cost": 75
+    },
+    {
+        "item": "LinenBag",
+        "level": 1,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 3,
+                "item": "LinenReel"
+            },
+            {
+                "count": 3,
+                "item": "TannedLeather"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "TannedLeather",
+        "level": 1,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 3,
+                "item": "Leather_Z1"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "LinenReel",
+        "level": 1,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 3,
+                "item": "Cloth_Z1"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "HideboundWeave",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 5,
+                "item": "SoftFur"
+            },
+            {
+                "count": 1,
+                "item": "TannedLeather"
+            },
+            {
+                "count": 1,
+                "item": "LinenReel"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "ReinforcedEmbroidery",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 3,
+                "item": "HideboundWeave"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "HonedEmbroidery",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 3,
+                "item": "HideboundWeave"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_HonedEmbroidery"
+    },
+    {
+        "item": "RunedEmbroidery",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 3,
+                "item": "HideboundWeave"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_RunedEmbroidery"
+    },
+    {
+        "item": "SanctifiedEmbroidery",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 3,
+                "item": "HideboundWeave"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_SanctifiedEmbroidery"
+    },
+    {
+        "item": "MysticEmbroidery",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 3,
+                "item": "HideboundWeave"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_MysticEmbroidery"
+    },
+    {
+        "item": "GracefulEmbroidery",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 3,
+                "item": "HideboundWeave"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_GracefulEmbroidery"
+    },
+    {
+        "item": "DivinedEmbroidery",
+        "level": 2,
+        "job": "Outfitter",
+        "input": [
+            {
+                "count": 3,
+                "item": "HideboundWeave"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_DivinedEmbroidery"
+    },
+    {
+        "item": "StoneOfPower",
+        "level": 1,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "GlitteringStone"
+            },
+            {
+                "count": 3,
+                "item": "SubtleEssence"
+            },
+            {
+                "count": 1,
+                "item": "FragmentOfEarth"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "PhilosopherStone",
+        "level": 2,
+        "job": "Alchemist",
+        "input": [],
+        "slots": 0,
+        "cost": 75
+    },
+    {
+        "item": "FreshFlowerPowder",
+        "level": 1,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 2,
+                "item": "MadrigoldPetal"
+            },
+            {
+                "count": 2,
+                "item": "LavendulaPetal"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "FishOil",
+        "level": 2,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Mackerel"
+            },
+            {
+                "count": 1,
+                "item": "Pike"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "SubtleEssence",
+        "level": 1,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 1,
+                "item": "ZealotusPetal"
+            },
+            {
+                "count": 1,
+                "item": "StrangeSpores"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "SmallAlchemistCauldron",
+        "level": 3,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "SimpleCauldron"
+            }
+        ],
+        "slots": 2,
+        "cost": 100
+    },
+    {
+        "item": "MinorHealingPotion",
+        "level": 1,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 3,
+                "item": "Blood_Z1"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "ElixirOfMinorStrength",
+        "level": 1,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 3,
+                "item": "Fang_Z1"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "ElixirOfMinorDexterity",
+        "level": 1,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 3,
+                "item": "Wing_Z1"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "ElixirOfMinorIntelligence",
+        "level": 1,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 3,
+                "item": "Fin_Z1"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "ElixirOfMinorFaith",
+        "level": 1,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 3,
+                "item": "Eye_Z1"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "ElixirofMinorArmor",
+        "level": 2,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 3,
+                "item": "FishOil"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_ElixirofMinorArmor"
+    },
+    {
+        "item": "ElixirOfAbundance",
+        "level": 2,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 2,
+                "item": "CopperOre"
+            },
+            {
+                "count": 2,
+                "item": "Leather_Z1"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_ElixirOfAbundance"
+    },
+    {
+        "item": "MinorShieldPotion",
+        "level": 2,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 1,
+                "item": "GlitteringStone"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_MinorShieldPotion"
+    },
+    {
+        "item": "MinorVelocityPotion",
+        "level": 2,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 1,
+                "item": "FragmentOfAir"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_MinorVelocityPotion"
+    },
+    {
+        "item": "LongBreathPotion",
+        "level": 2,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 3,
+                "item": "Fin_Z1"
+            },
+            {
+                "count": 3,
+                "item": "FishOil"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_LongBreathPotion"
+    },
+    {
+        "item": "FastSwimPotion",
+        "level": 2,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 3,
+                "item": "Fin_Z1"
+            },
+            {
+                "count": 3,
+                "item": "FishOil"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_FastSwimPotion"
+    },
+    {
+        "item": "InvisibilityPotion",
+        "level": 10,
+        "job": "Alchemist",
+        "input": [
+            {
+                "count": 1,
+                "item": "Vial"
+            },
+            {
+                "count": 1,
+                "item": "FreshFlowerPowder"
+            },
+            {
+                "count": 1,
+                "item": "FragmentOfNature"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_InvisibilityPotion"
+    },
+    {
+        "item": "Finger_Z1RCraft_Cri",
+        "level": 1,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CopperSetting"
+            },
+            {
+                "count": 1,
+                "item": "GlitteringStone"
+            },
+            {
+                "count": 3,
+                "item": "CutAmber"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "Finger_Z1RCraft_Fer",
+        "level": 1,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CopperSetting"
+            },
+            {
+                "count": 1,
+                "item": "GlitteringStone"
+            },
+            {
+                "count": 3,
+                "item": "CutBeryl"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "Finger_Z1RCraft_Ap",
+        "level": 1,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CopperSetting"
+            },
+            {
+                "count": 1,
+                "item": "GlitteringStone"
+            },
+            {
+                "count": 3,
+                "item": "CutAmber"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "Finger_Z1RCraft_Mp",
+        "level": 1,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CopperSetting"
+            },
+            {
+                "count": 1,
+                "item": "GlitteringStone"
+            },
+            {
+                "count": 3,
+                "item": "CutBeryl"
+            }
+        ],
+        "slots": 0,
+        "cost": 50
+    },
+    {
+        "item": "Necklace_Z1RCraft",
+        "level": 2,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CopperSetting"
+            },
+            {
+                "count": 3,
+                "item": "GlitteringStone"
+            },
+            {
+                "count": 3,
+                "item": "Pearl"
+            }
+        ],
+        "slots": 0,
+        "cost": 75
+    },
+    {
+        "item": "CopperProspecting",
+        "level": 1,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 5,
+                "item": "CopperOre"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallBastienCP1",
+        "count": 0
+    },
+    {
+        "item": "CopperSetting",
+        "level": 1,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 10,
+                "item": "CopperOre"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "GemPowder",
+        "level": 2,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "Amber"
+            },
+            {
+                "count": 1,
+                "item": "Beryl"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "CutStone",
+        "level": 1,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 5,
+                "item": "Rock_Z1"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0,
+        "loot": "SmallCP1"
+    },
+    {
+        "item": "CutAmber",
+        "level": 1,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "Amber"
+            },
+            {
+                "count": 3,
+                "item": "CutStone"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "CutBeryl",
+        "level": 1,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "Beryl"
+            },
+            {
+                "count": 3,
+                "item": "CutStone"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "StrongCutAmber",
+        "level": 2,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CutAmber"
+            },
+            {
+                "count": 5,
+                "item": "GemPowder"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1"
+    },
+    {
+        "item": "ResonantCutAmber",
+        "level": 2,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CutAmber"
+            },
+            {
+                "count": 5,
+                "item": "GemPowder"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_ResonantCutAmber"
+    },
+    {
+        "item": "SunderedCutAmber",
+        "level": 2,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CutAmber"
+            },
+            {
+                "count": 5,
+                "item": "GemPowder"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_SunderedCutAmber"
+    },
+    {
+        "item": "SurgingCutAmber",
+        "level": 2,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CutAmber"
+            },
+            {
+                "count": 5,
+                "item": "GemPowder"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_SurgingCutAmber"
+    },
+    {
+        "item": "TemperedCutBeryl",
+        "level": 2,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CutBeryl"
+            },
+            {
+                "count": 5,
+                "item": "GemPowder"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_TemperedCutBeryl"
+    },
+    {
+        "item": "AttunedCutBeryl",
+        "level": 2,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CutBeryl"
+            },
+            {
+                "count": 5,
+                "item": "GemPowder"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_AttunedCutBeryl"
+    },
+    {
+        "item": "GildedCutBeryl",
+        "level": 2,
+        "job": "Jeweller",
+        "input": [
+            {
+                "count": 1,
+                "item": "CutBeryl"
+            },
+            {
+                "count": 5,
+                "item": "GemPowder"
+            }
+        ],
+        "slots": 0,
+        "loot": "BigCP1",
+        "unlockSource": "Recipe_GildedCutBeryl"
+    },
+    {
+        "item": "HunterSauce",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 5,
+                "item": "Blood_Z1"
+            },
+            {
+                "count": 1,
+                "item": "Fang_Z1"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0
+    },
+    {
+        "item": "FishermanSauce",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 5,
+                "item": "Blood_Z1"
+            },
+            {
+                "count": 1,
+                "item": "Mackerel"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0
+    },
+    {
+        "item": "SkoverDriedHerbs",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 2,
+                "item": "MadrigoldPetal"
+            },
+            {
+                "count": 2,
+                "item": "LavendulaPetal"
+            },
+            {
+                "count": 1,
+                "item": "SparkSample"
+            }
+        ],
+        "slots": 0
+    },
+    {
+        "item": "Feast",
+        "level": 3,
+        "job": "Cook",
+        "input": [],
+        "slots": 0
+    },
+    {
+        "item": "Cook_1",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 3,
+                "item": "BoarMeat_Z1"
+            },
+            {
+                "count": 1,
+                "item": "HunterSauce"
+            }
+        ],
+        "slots": 0,
+        "unlockSource": "Recipe_Cook_1"
+    },
+    {
+        "item": "Cook_2",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 3,
+                "item": "WolfMeat_Z1"
+            },
+            {
+                "count": 1,
+                "item": "HunterSauce"
+            }
+        ],
+        "slots": 0,
+        "unlockSource": "Recipe_Cook_2"
+    },
+    {
+        "item": "Cook_3",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 3,
+                "item": "CrabMeat_Z1"
+            },
+            {
+                "count": 1,
+                "item": "FishermanSauce"
+            }
+        ],
+        "slots": 0
+    },
+    {
+        "item": "Cook_4",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 3,
+                "item": "Pike"
+            },
+            {
+                "count": 1,
+                "item": "FishermanSauce"
+            }
+        ],
+        "slots": 0,
+        "unlockSource": "Recipe_Cook_4"
+    },
+    {
+        "item": "Cook_5",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 3,
+                "item": "Mackerel"
+            },
+            {
+                "count": 1,
+                "item": "FishermanSauce"
+            }
+        ],
+        "slots": 0
+    },
+    {
+        "item": "Cook_6",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 3,
+                "item": "SkunkMeat_Z1"
+            },
+            {
+                "count": 1,
+                "item": "HunterSauce"
+            }
+        ],
+        "slots": 0
+    },
+    {
+        "item": "Cook_7",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 3,
+                "item": "Honey_Z1"
+            },
+            {
+                "count": 1,
+                "item": "SkoverDriedHerbs"
+            }
+        ],
+        "slots": 0
+    },
+    {
+        "item": "Cook_8",
+        "level": 1,
+        "job": "Cook",
+        "input": [
+            {
+                "count": 2,
+                "item": "MadrigoldPetal"
+            },
+            {
+                "count": 2,
+                "item": "LavendulaPetal"
+            },
+            {
+                "count": 1,
+                "item": "SkoverDriedHerbs"
+            }
+        ],
+        "slots": 0,
+        "unlockSource": "Recipe_Cook_8"
+    }
+]

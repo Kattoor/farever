@@ -1,0 +1,280 @@
+[
+    {
+        "id": "Ore",
+        "texts": {
+            "type": "Ore"
+        },
+        "requiredTool": "GearPickaxe",
+        "props": {
+            "hitFX": "Ore_Pickaxe_Hit_PLACEHOLDER",
+            "affixes": [
+                {
+                    "chance": 0,
+                    "fxSet": "OreAffix_Physical"
+                },
+                {
+                    "chance": 0.24,
+                    "status": "OreAffix_Fire",
+                    "fxSet": "OreAffix_Fire"
+                },
+                {
+                    "chance": 0.24,
+                    "fxSet": "OreAffix_Ice",
+                    "status": "OreAffix_Ice"
+                },
+                {
+                    "chance": 0.24,
+                    "fxSet": "OreAffix_Nature",
+                    "status": "OreAffix_Nature"
+                },
+                {
+                    "chance": 0.24,
+                    "fxSet": "OreAffix_Wind",
+                    "status": "OreAffix_Air"
+                },
+                {
+                    "chance": 0.04,
+                    "fxSet": "OreAffix_Chaos"
+                },
+                {
+                    "fxSet": "OreAffix_Spark",
+                    "chance": 0
+                }
+            ],
+            "affixChance": 0.1
+        },
+        "flags": 1
+    },
+    {
+        "id": "Plant",
+        "props": {
+            "hitFX": "Ore_Pickaxe_Hit_PLACEHOLDER",
+            "affixes": [
+                {
+                    "chance": 0,
+                    "fxSet": "PlantAffix_Physical"
+                },
+                {
+                    "chance": 0.24,
+                    "status": "OreAffix_Fire",
+                    "fxSet": "PlantAffix_Fire"
+                },
+                {
+                    "chance": 0.24,
+                    "fxSet": "PlantAffix_Ice",
+                    "status": "OreAffix_Ice"
+                },
+                {
+                    "chance": 0.24,
+                    "fxSet": "PlantAffix_Nature",
+                    "status": "OreAffix_Nature"
+                },
+                {
+                    "chance": 0.24,
+                    "fxSet": "PlantAffix_Wind",
+                    "status": "OreAffix_Air"
+                },
+                {
+                    "chance": 0.04,
+                    "fxSet": "PlantAffix_Chaos"
+                },
+                {
+                    "fxSet": "PlantAffix_Spark",
+                    "chance": 0
+                }
+            ],
+            "affixChance": 0.1,
+            "gatherSkill": "Gather"
+        },
+        "texts": {
+            "type": "Plant"
+        },
+        "flags": 3,
+        "requiredTool": "GearSickle"
+    },
+    {
+        "id": "Ore_Small",
+        "props": {
+            "respawnTime": 120,
+            "hitPoints": 60,
+            "size": 0
+        },
+        "texts": {},
+        "inherit": "Ore",
+        "flags": 0
+    },
+    {
+        "id": "Ore_Big",
+        "props": {
+            "respawnTime": 360,
+            "hitPoints": 300,
+            "size": 2
+        },
+        "texts": {},
+        "inherit": "Ore",
+        "flags": 0
+    },
+    {
+        "id": "Ore_Copper_Small",
+        "props": {},
+        "texts": {
+            "name": "Copper Cluster",
+            "desc": "Small source of [CopperOre]"
+        },
+        "flags": 0,
+        "inherit": "Ore_Small",
+        "hitLoot": "Ore_Copper"
+    },
+    {
+        "id": "Ore_Copper_Large",
+        "props": {},
+        "texts": {
+            "name": "Copper Lode",
+            "desc": "Great source of [CopperOre]"
+        },
+        "flags": 0,
+        "inherit": "Ore_Big",
+        "hitLoot": "Ore_Copper"
+    },
+    {
+        "id": "Ore_Iron_Small",
+        "texts": {
+            "name": "Iron Cluster",
+            "desc": "Small source of [IronOre]"
+        },
+        "props": {},
+        "inherit": "Ore_Small",
+        "flags": 0
+    },
+    {
+        "id": "Ore_Iron_Big",
+        "texts": {
+            "name": "Iron Lode",
+            "desc": "Great source of [IronOre]"
+        },
+        "props": {},
+        "inherit": "Ore_Big",
+        "flags": 0
+    },
+    {
+        "id": "Tungstene",
+        "props": {},
+        "texts": {
+            "name": "Tungstene Deposit",
+            "desc": "Source of [Tungstene]."
+        },
+        "flags": 0,
+        "inherit": "Ore_Small",
+        "hitLoot": "Tungstene"
+    },
+    {
+        "id": "Plant_Small",
+        "props": {
+            "respawnTime": 120,
+            "hitPoints": 60,
+            "size": 0
+        },
+        "texts": {},
+        "flags": 0,
+        "inherit": "Plant"
+    },
+    {
+        "id": "Plant_Large",
+        "props": {
+            "respawnTime": 360,
+            "hitPoints": 300,
+            "size": 2
+        },
+        "texts": {},
+        "flags": 0,
+        "inherit": "Plant"
+    },
+    {
+        "id": "Madrigold_Small",
+        "props": {},
+        "texts": {
+            "name": "Madrigold Sprout",
+            "desc": "Small source of [Madrigold]"
+        },
+        "flags": 0,
+        "inherit": "Plant_Small",
+        "hitLoot": "Madrigold"
+    },
+    {
+        "id": "Madrigold_Large",
+        "props": {},
+        "texts": {
+            "name": "Madrigold Bush",
+            "desc": "Great source of [Madrigold]"
+        },
+        "flags": 0,
+        "inherit": "Plant_Large",
+        "hitLoot": "Madrigold"
+    },
+    {
+        "id": "Lavendula_Small",
+        "props": {},
+        "texts": {
+            "name": "Lavendula Sprout",
+            "desc": "Small source of [Lavendula]."
+        },
+        "flags": 0,
+        "inherit": "Plant_Small",
+        "hitLoot": "Lavendula"
+    },
+    {
+        "id": "Lavendula_Large",
+        "props": {},
+        "texts": {
+            "name": "Lavendula Bush",
+            "desc": "Great source of [Lavendula]."
+        },
+        "flags": 0,
+        "inherit": "Plant_Large",
+        "hitLoot": "Lavendula"
+    },
+    {
+        "id": "AncientThyme_Small",
+        "props": {},
+        "texts": {
+            "name": "Ancient Thyme Sprout",
+            "desc": "Small source of [AncientThyme]."
+        },
+        "flags": 0,
+        "inherit": "Plant_Small",
+        "hitLoot": "AncientThyme"
+    },
+    {
+        "id": "AncientThyme_Large",
+        "props": {},
+        "texts": {
+            "name": "Ancient Thyme Bush",
+            "desc": "Great source of [AncientThyme]."
+        },
+        "flags": 0,
+        "inherit": "Plant_Large",
+        "hitLoot": "AncientThyme"
+    },
+    {
+        "id": "Zealotus_Small",
+        "props": {},
+        "texts": {
+            "name": "Zealotus",
+            "desc": "Source of [Zealotus]."
+        },
+        "flags": 0,
+        "hitLoot": "Zealotus",
+        "inherit": "Plant_Small"
+    },
+    {
+        "id": "Zealotus_Large",
+        "props": {},
+        "texts": {
+            "name": "Zealotus",
+            "desc": "Great Source of [Zealotus]."
+        },
+        "flags": 0,
+        "inherit": "Plant_Large",
+        "hitLoot": "Zealotus"
+    }
+]
