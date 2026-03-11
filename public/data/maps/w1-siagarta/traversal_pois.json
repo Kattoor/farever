@@ -1,0 +1,1000 @@
+[
+    {
+        "id": "traversal_poi-L0_-7_+19-Bumper_Shroom_Wall_84",
+        "type": "traversal_poi",
+        "label": "Bumper Dandelion Wall",
+        "icon": null,
+        "px": 2790.085688888889,
+        "py": 9370.580266666666,
+        "worldX": -734.5768,
+        "worldY": 1814.9514,
+        "chunkId": "L0_-7_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+19\\gameplayData.prefab",
+        "elementId": "Bumper_Shroom_Wall_84",
+        "name": "Bumper_Dandelion_Wall",
+        "source": "Gameplay/Prefabs/GameBricks/Bumpers/Bumper_Dandelion_Wall.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Bumper_Shroom_Wall_84",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L0_-7_+19",
+            "worldX": -734.5768,
+            "worldY": 1814.9514
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-9_+24-Bumper_Shroom_Wall_49",
+        "type": "traversal_poi",
+        "label": "Bumper Dandelion Wall",
+        "icon": null,
+        "px": 2462.159111111111,
+        "py": 10130.235377777777,
+        "worldX": -919.0355,
+        "worldY": 2242.2574,
+        "chunkId": "L0_-9_+24",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+24\\gameplayData.prefab",
+        "elementId": "Bumper_Shroom_Wall_49",
+        "name": "Bumper_Dandelion_Wall",
+        "source": "Gameplay/Prefabs/GameBricks/Bumpers/Bumper_Dandelion_Wall.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Bumper_Shroom_Wall_49",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L0_-9_+24",
+            "worldX": -919.0355,
+            "worldY": 2242.2574
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-12_+15-Bumper_Shroom_Wall_48",
+        "type": "traversal_poi",
+        "label": "Bumper Shroom Wall",
+        "icon": null,
+        "px": 1988.7642666666668,
+        "py": 8628.444977777777,
+        "worldX": -1185.3201,
+        "worldY": 1397.5003,
+        "chunkId": "L0_-12_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-12_+15\\gameplayData.prefab",
+        "elementId": "Bumper_Shroom_Wall_48",
+        "name": "Bumper_Shroom_Wall",
+        "source": "Gameplay/Prefabs/GameBricks/Bumpers/Bumper_Dandelion_Wall.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Bumper_Shroom_Wall_48",
+            "texts": {
+                "__id__": 243345
+            },
+            "props": {
+                "__id__": 243346
+            },
+            "chunkId": "L0_-12_+15",
+            "worldX": -1185.3201,
+            "worldY": 1397.5003
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-12_+15-Bumper_Shroom_Wall_50",
+        "type": "traversal_poi",
+        "label": "Bumper Shroom Wall",
+        "icon": null,
+        "px": 1951.6620444444443,
+        "py": 8630.00711111111,
+        "worldX": -1206.1901,
+        "worldY": 1398.379,
+        "chunkId": "L0_-12_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-12_+15\\gameplayData.prefab",
+        "elementId": "Bumper_Shroom_Wall_50",
+        "name": "Bumper_Shroom_Wall",
+        "source": "Gameplay/Prefabs/GameBricks/Bumpers/Bumper_Dandelion_Wall.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Bumper_Shroom_Wall_50",
+            "texts": {
+                "__id__": 243342
+            },
+            "props": {
+                "__id__": 243343
+            },
+            "chunkId": "L0_-12_+15",
+            "worldX": -1206.1901,
+            "worldY": 1398.379
+        }
+    },
+    {
+        "id": "traversal_poi-L3_+0_+3-FlyPath_1",
+        "type": "traversal_poi",
+        "label": "Flypath Spline",
+        "icon": null,
+        "px": 2983.807111111111,
+        "py": 9218.096711111111,
+        "worldX": -625.6085,
+        "worldY": 1729.1794,
+        "chunkId": "L3_+0_+3",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L3_+0_+3\\gameplayData.prefab",
+        "elementId": "FlyPath_1",
+        "name": "FlypathSpline",
+        "source": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "FlyPath_1",
+            "texts": {},
+            "props": {
+                "flyPath": {
+                    "fromZone": "Z1_Meridion",
+                    "toZone": "Z1_Primevalley"
+                }
+            },
+            "script": null,
+            "type": 28,
+            "chunkId": "L3_+0_+3",
+            "worldX": -625.6085,
+            "worldY": 1729.1794
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-10_+19-Z1_World_Greenlands_GeyserL_2",
+        "type": "traversal_poi",
+        "label": "Geyser L",
+        "icon": null,
+        "px": 2356.679288888889,
+        "py": 9319.191111111111,
+        "worldX": -978.3679,
+        "worldY": 1786.045,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_GeyserL_2",
+        "name": "Geyser_L",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_L.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_GeyserL_2",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L0_-10_+19",
+            "worldX": -978.3679,
+            "worldY": 1786.045
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-10_+21-Z1_World_Greenlands_GeyserL_7",
+        "type": "traversal_poi",
+        "label": "Geyser L",
+        "icon": null,
+        "px": 2368.2426666666665,
+        "py": 9672.2176,
+        "worldX": -971.8635,
+        "worldY": 1984.6224,
+        "chunkId": "L0_-10_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+21\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_GeyserL_7",
+        "name": "Geyser_L",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_L.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_GeyserL_7",
+            "texts": {
+                "__id__": 1196986
+            },
+            "props": {
+                "__id__": 1196987
+            },
+            "chunkId": "L0_-10_+21",
+            "worldX": -971.8635,
+            "worldY": 1984.6224
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-12_+15-Z1_World_Greenlands_GeyserL_6",
+        "type": "traversal_poi",
+        "label": "Geyser L",
+        "icon": null,
+        "px": 1927.4753777777778,
+        "py": 8652.443022222222,
+        "worldX": -1219.7951,
+        "worldY": 1410.9992,
+        "chunkId": "L0_-12_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-12_+15\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_GeyserL_6",
+        "name": "Geyser_L",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_L.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_GeyserL_6",
+            "texts": {
+                "__id__": 243348
+            },
+            "props": {
+                "__id__": 243349
+            },
+            "chunkId": "L0_-12_+15",
+            "worldX": -1219.7951,
+            "worldY": 1410.9992
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-2_+19-Z1_World_Greenlands_GeyserL_3",
+        "type": "traversal_poi",
+        "label": "Geyser L",
+        "icon": null,
+        "px": 3696.2,
+        "py": 9355.704,
+        "worldX": -224.8875,
+        "worldY": 1806.5835,
+        "chunkId": "L0_-2_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_GeyserL_3",
+        "name": "Geyser_L",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_L.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_GeyserL_3",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L0_-2_+19",
+            "worldX": -224.8875,
+            "worldY": 1806.5835
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-2_+21-Z1_World_Greenlands (2)_GeyserL_5",
+        "type": "traversal_poi",
+        "label": "Geyser L",
+        "icon": null,
+        "px": 3607.8977777777777,
+        "py": 9582.617244444444,
+        "worldX": -274.5575,
+        "worldY": 1934.2222,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands (2)_GeyserL_5",
+        "name": "Geyser_L",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_L.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands (2)_GeyserL_5",
+            "texts": {
+                "__id__": 478809
+            },
+            "props": {
+                "__id__": 478810
+            },
+            "chunkId": "L0_-2_+21",
+            "worldX": -274.5575,
+            "worldY": 1934.2222
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-8_+24-Z1_World_Greenlands (2)_GeyserL_6",
+        "type": "traversal_poi",
+        "label": "Geyser L",
+        "icon": null,
+        "px": 2616.2645333333335,
+        "py": 10090.936355555556,
+        "worldX": -832.3512,
+        "worldY": 2220.1517,
+        "chunkId": "L0_-8_+24",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+24\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands (2)_GeyserL_6",
+        "name": "Geyser_L",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_L.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands (2)_GeyserL_6",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L0_-8_+24",
+            "worldX": -832.3512,
+            "worldY": 2220.1517
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-8_+24-Z1_World_Greenlands_GeyserL_8",
+        "type": "traversal_poi",
+        "label": "Geyser L",
+        "icon": null,
+        "px": 2569.7395555555554,
+        "py": 10158.705777777777,
+        "worldX": -858.5215000000001,
+        "worldY": 2258.272,
+        "chunkId": "L0_-8_+24",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+24\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_GeyserL_8",
+        "name": "Geyser_L",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_L.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_GeyserL_8",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L0_-8_+24",
+            "worldX": -858.5215000000001,
+            "worldY": 2258.272
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-9_+23-Z1_World_Greenlands (2)_GeyserL_1",
+        "type": "traversal_poi",
+        "label": "Geyser L",
+        "icon": null,
+        "px": 2539.6883555555555,
+        "py": 9947.745244444444,
+        "worldX": -875.4253,
+        "worldY": 2139.6067,
+        "chunkId": "L0_-9_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+23\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands (2)_GeyserL_1",
+        "name": "Geyser_L",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_L.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands (2)_GeyserL_1",
+            "texts": {},
+            "props": {},
+            "chunkId": "L0_-9_+23",
+            "worldX": -875.4253,
+            "worldY": 2139.6067
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-1_+17-Z1_World_Greenlands_GeyserM_4",
+        "type": "traversal_poi",
+        "label": "Geyser M",
+        "icon": null,
+        "px": 3884.6858666666667,
+        "py": 8967.922666666667,
+        "worldX": -118.8642,
+        "worldY": 1588.4565,
+        "chunkId": "L0_-1_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+17\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_GeyserM_4",
+        "name": "Geyser_M",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_M.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_GeyserM_4",
+            "texts": {
+                "__id__": 243872
+            },
+            "props": {
+                "__id__": 243873
+            },
+            "chunkId": "L0_-1_+17",
+            "worldX": -118.8642,
+            "worldY": 1588.4565
+        }
+    },
+    {
+        "id": "traversal_poi-L0_+3_+15-Z1_World_Greenlands (2)_GeyserM_14",
+        "type": "traversal_poi",
+        "label": "Geyser M",
+        "icon": null,
+        "px": 4526.640533333333,
+        "py": 8614.60408888889,
+        "worldX": 242.2353,
+        "worldY": 1389.7148,
+        "chunkId": "L0_+3_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+3_+15\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands (2)_GeyserM_14",
+        "name": "Geyser_M",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_M.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands (2)_GeyserM_14",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L0_+3_+15",
+            "worldX": 242.2353,
+            "worldY": 1389.7148
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-3_+18-Z1_World_Greenlands_GeyserM_7",
+        "type": "traversal_poi",
+        "label": "Geyser M Strong",
+        "icon": null,
+        "px": 3577.6794666666665,
+        "py": 9062.325866666666,
+        "worldX": -291.5553,
+        "worldY": 1641.5583,
+        "chunkId": "L0_-3_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+18\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_GeyserM_7",
+        "name": "Geyser_M_Strong",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_M_Strong.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_GeyserM_7",
+            "texts": {
+                "__id__": 244331
+            },
+            "props": {
+                "__id__": 244332
+            },
+            "script": null,
+            "chunkId": "L0_-3_+18",
+            "worldX": -291.5553,
+            "worldY": 1641.5583
+        }
+    },
+    {
+        "id": "traversal_poi-L0_+0_+19-Z1_World_Greenlands (2)_GeyserS_3",
+        "type": "traversal_poi",
+        "label": "Geyser S",
+        "icon": null,
+        "px": 3931.8192,
+        "py": 9236.271822222223,
+        "worldX": -92.3517,
+        "worldY": 1739.4029,
+        "chunkId": "L0_+0_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands (2)_GeyserS_3",
+        "name": "Geyser_S",
+        "source": "Gameplay/Prefabs/GameBricks/Geyser/Geyser_S.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands (2)_GeyserS_3",
+            "texts": {},
+            "props": {},
+            "chunkId": "L0_+0_+19",
+            "worldX": -92.3517,
+            "worldY": 1739.4029
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-1_+20-InstanceOrb_22",
+        "type": "traversal_poi",
+        "label": "Instance Orb",
+        "icon": null,
+        "px": 3902.5523555555556,
+        "py": 9469.62951111111,
+        "worldX": -108.8143,
+        "worldY": 1870.6666,
+        "chunkId": "L0_-1_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+20\\gameplayData.prefab",
+        "elementId": "InstanceOrb_22",
+        "name": "InstanceOrb",
+        "source": "Gameplay/Prefabs/GameplayBase/InstanceOrb.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "InstanceOrb_22",
+            "texts": {
+                "__id__": 2154403
+            },
+            "props": {
+                "targetActivity": "R1_POI_Dungeon_Manfish_Ruins"
+            },
+            "script": null,
+            "chunkId": "L0_-1_+20",
+            "worldX": -108.8143,
+            "worldY": 1870.6666
+        }
+    },
+    {
+        "id": "traversal_poi-L6_+1_+0-Kobold_Cart_1",
+        "type": "traversal_poi",
+        "label": "Kobold Cart",
+        "icon": null,
+        "px": 6853.362311111111,
+        "py": 4871.445688888889,
+        "worldX": 1551.0163,
+        "worldY": -715.8118,
+        "chunkId": "L6_+1_+0",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L6_+1_+0\\gameplayData.prefab",
+        "elementId": "Kobold_Cart_1",
+        "name": "Kobold_Cart",
+        "source": "Gameplay/Prefabs/Platforms/Trains/Kobold_Cart.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Kobold_Cart_1",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L6_+1_+0",
+            "worldX": 1551.0163,
+            "worldY": -715.8118
+        }
+    },
+    {
+        "id": "traversal_poi-L6_+1_+0-Kobold_Kart_1",
+        "type": "traversal_poi",
+        "label": "Kobold Kart",
+        "icon": null,
+        "px": 6853.362311111111,
+        "py": 4871.445688888889,
+        "worldX": 1551.0163,
+        "worldY": -715.8118,
+        "chunkId": "L6_+1_+0",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L6_+1_+0\\gameplayData.prefab",
+        "elementId": "Kobold_Kart_1",
+        "name": "Kobold_Kart",
+        "source": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Kobold_Kart_1",
+            "texts": {},
+            "props": {
+                "track": {
+                    "rotationMode": null,
+                    "loopTime": 10,
+                    "pingPong": true
+                }
+            },
+            "script": null,
+            "type": 17,
+            "chunkId": "L6_+1_+0",
+            "worldX": 1551.0163,
+            "worldY": -715.8118
+        }
+    },
+    {
+        "id": "traversal_poi-L1_-3_+11-Z1_World_Greenlands_ChestOrb_1_Orb_1",
+        "type": "traversal_poi",
+        "label": "Magic Orb",
+        "icon": null,
+        "px": 3045.5300118495643,
+        "py": 9777.592837092707,
+        "worldX": -590.88936833462,
+        "worldY": 2043.895970864647,
+        "chunkId": "L1_-3_+11",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-3_+11\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_ChestOrb_1_Orb_1",
+        "name": "MagicOrb",
+        "source": "Gameplay/Elements/Activities/MagicOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_ChestOrb_1_Orb_1",
+            "type": 4,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L1_-3_+11",
+            "worldX": -590.88936833462,
+            "worldY": 2043.895970864647
+        }
+    },
+    {
+        "id": "traversal_poi-L1_-3_+11-Z1_World_Greenlands_ChestOrb_1_Orb_2",
+        "type": "traversal_poi",
+        "label": "Magic Orb",
+        "icon": null,
+        "px": 2856.4920667498673,
+        "py": 9894.068586780668,
+        "worldX": -697.2232124531997,
+        "worldY": 2109.4135800641257,
+        "chunkId": "L1_-3_+11",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-3_+11\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_ChestOrb_1_Orb_2",
+        "name": "MagicOrb",
+        "source": "Gameplay/Elements/Activities/MagicOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_ChestOrb_1_Orb_2",
+            "type": 4,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L1_-3_+11",
+            "worldX": -697.2232124531997,
+            "worldY": 2109.4135800641257
+        }
+    },
+    {
+        "id": "traversal_poi-L1_-3_+11-Z1_World_Greenlands_ChestOrb_1_Orb_3",
+        "type": "traversal_poi",
+        "label": "Magic Orb",
+        "icon": null,
+        "px": 2941.377257228507,
+        "py": 9794.447049606704,
+        "worldX": -649.4752928089648,
+        "worldY": 2053.3764654037714,
+        "chunkId": "L1_-3_+11",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-3_+11\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_ChestOrb_1_Orb_3",
+        "name": "MagicOrb",
+        "source": "Gameplay/Elements/Activities/MagicOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_ChestOrb_1_Orb_3",
+            "type": 4,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L1_-3_+11",
+            "worldX": -649.4752928089648,
+            "worldY": 2053.3764654037714
+        }
+    },
+    {
+        "id": "traversal_poi-L1_-4_+12-Z1_World_Greenlands_ChestOrb_9_Orb_1",
+        "type": "traversal_poi",
+        "label": "Magic Orb",
+        "icon": null,
+        "px": 2446.1235199604134,
+        "py": 10137.529101443755,
+        "worldX": -928.0555200222675,
+        "worldY": 2246.3601195621122,
+        "chunkId": "L1_-4_+12",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-4_+12\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_ChestOrb_9_Orb_1",
+        "name": "MagicOrb",
+        "source": "Gameplay/Elements/Activities/MagicOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_ChestOrb_9_Orb_1",
+            "type": 4,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L1_-4_+12",
+            "worldX": -928.0555200222675,
+            "worldY": 2246.3601195621122
+        }
+    },
+    {
+        "id": "traversal_poi-L1_-4_+12-Z1_World_Greenlands_ChestOrb_9_Orb_2",
+        "type": "traversal_poi",
+        "label": "Magic Orb",
+        "icon": null,
+        "px": 2592.4905942399478,
+        "py": 10147.632350290005,
+        "worldX": -845.7240407400293,
+        "worldY": 2252.0431970381283,
+        "chunkId": "L1_-4_+12",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-4_+12\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_ChestOrb_9_Orb_2",
+        "name": "MagicOrb",
+        "source": "Gameplay/Elements/Activities/MagicOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_ChestOrb_9_Orb_2",
+            "type": 4,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L1_-4_+12",
+            "worldX": -845.7240407400293,
+            "worldY": 2252.0431970381283
+        }
+    },
+    {
+        "id": "traversal_poi-L1_-4_+12-Z1_World_Greenlands_ChestOrb_9_Orb_3",
+        "type": "traversal_poi",
+        "label": "Magic Orb",
+        "icon": null,
+        "px": 2630.347850127364,
+        "py": 10151.967469134817,
+        "worldX": -824.4293343033577,
+        "worldY": 2254.4817013883344,
+        "chunkId": "L1_-4_+12",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-4_+12\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_ChestOrb_9_Orb_3",
+        "name": "MagicOrb",
+        "source": "Gameplay/Elements/Activities/MagicOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_ChestOrb_9_Orb_3",
+            "type": 4,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L1_-4_+12",
+            "worldX": -824.4293343033577,
+            "worldY": 2254.4817013883344
+        }
+    },
+    {
+        "id": "traversal_poi-L4_+0_+2-Z1_World_Greenlands_Obelisk_1",
+        "type": "traversal_poi",
+        "label": "Obelisk",
+        "icon": null,
+        "px": 2634.1107555555554,
+        "py": 9651.66008888889,
+        "worldX": -822.3127,
+        "worldY": 1973.0588,
+        "chunkId": "L4_+0_+2",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L4_+0_+2\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_Obelisk_1",
+        "name": "Obelisk",
+        "source": "Gameplay/Elements/Obelisk.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_Obelisk_1",
+            "texts": {},
+            "props": {
+                "targetZone": "Z1_Meridion",
+                "cutscene": "Cutscenes/Z1_Meridion.mogcutscene"
+            },
+            "script": "",
+            "dialog": [
+                {
+                    "id": "StartCutscene",
+                    "text": "Off these coasts, in the darkness of the Lost Gods Age, a Sunling pirate known as Meridion retrieved a forgotten Gate from the seabed and placed it on the sandy shore.",
+                    "choices": [],
+                    "props": {
+                        "skipDelay": 8
+                    }
+                },
+                {
+                    "id": "Cutscene2",
+                    "text": "When the Sunlings’ arrogance and greed turned the worlds against them, they were saved by Meridion’s Gate. They crossed it, sealed it and went into exile.",
+                    "choices": [],
+                    "props": {
+                        "skipDelay": 8
+                    }
+                },
+                {
+                    "id": "Cutscene3",
+                    "text": "Many generations passed before the Gate was reopened. But today, as the Sunlings come back, the shores of Meridion are the doorway to their old world: Siagarta.",
+                    "choices": [],
+                    "props": {
+                        "skipDelay": 8
+                    }
+                }
+            ],
+            "chunkId": "L4_+0_+2",
+            "worldX": -822.3127,
+            "worldY": 1973.0588
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-10_+19-Z1_World_Greenlands_TimerCollectRun_1_Orb_12",
+        "type": "traversal_poi",
+        "label": "Orb",
+        "icon": null,
+        "px": 2373.4531555555554,
+        "py": 9365.129955555556,
+        "worldX": -968.9326,
+        "worldY": 1811.8856,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_TimerCollectRun_1_Orb_12",
+        "name": "Orb",
+        "source": "Gameplay/Elements/Activities/TimerCollectOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_TimerCollectRun_1_Orb_12",
+            "type": 11,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L0_-10_+19",
+            "worldX": -968.9326,
+            "worldY": 1811.8856
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-10_+19-Z1_World_Greenlands_TimerCollectRun_1_Orb_13",
+        "type": "traversal_poi",
+        "label": "Orb",
+        "icon": null,
+        "px": 2297.810488888889,
+        "py": 9332.024533333333,
+        "worldX": -1011.4816,
+        "worldY": 1793.2638,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_TimerCollectRun_1_Orb_13",
+        "name": "Orb",
+        "source": "Gameplay/Elements/Activities/TimerCollectOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_TimerCollectRun_1_Orb_13",
+            "type": 11,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "script": null,
+            "chunkId": "L0_-10_+19",
+            "worldX": -1011.4816,
+            "worldY": 1793.2638
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-10_+19-Z1_World_Greenlands_TimerCollectRun_1_Orb_14",
+        "type": "traversal_poi",
+        "label": "Orb",
+        "icon": null,
+        "px": 2301.3660444444445,
+        "py": 9314.246755555556,
+        "worldX": -1009.4816,
+        "worldY": 1783.2638,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_TimerCollectRun_1_Orb_14",
+        "name": "Orb",
+        "source": "Gameplay/Elements/Activities/TimerCollectOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_TimerCollectRun_1_Orb_14",
+            "type": 11,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L0_-10_+19",
+            "worldX": -1009.4816,
+            "worldY": 1783.2638
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-10_+19-Z1_World_Greenlands_TimerCollectRun_1_Orb_15",
+        "type": "traversal_poi",
+        "label": "Orb",
+        "icon": null,
+        "px": 2337.810488888889,
+        "py": 9319.4112,
+        "worldX": -988.9816,
+        "worldY": 1786.1688,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_TimerCollectRun_1_Orb_15",
+        "name": "Orb",
+        "source": "Gameplay/Elements/Activities/TimerCollectOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_TimerCollectRun_1_Orb_15",
+            "type": 11,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "script": null,
+            "chunkId": "L0_-10_+19",
+            "worldX": -988.9816,
+            "worldY": 1786.1688
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-10_+19-Z1_World_Greenlands_TimerCollectRun_1_Orb_16",
+        "type": "traversal_poi",
+        "label": "Orb",
+        "icon": null,
+        "px": 2312.5566222222224,
+        "py": 9368.744888888888,
+        "worldX": -1003.1869,
+        "worldY": 1813.919,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_TimerCollectRun_1_Orb_16",
+        "name": "Orb",
+        "source": "Gameplay/Elements/Activities/TimerCollectOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_TimerCollectRun_1_Orb_16",
+            "type": 11,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L0_-10_+19",
+            "worldX": -1003.1869,
+            "worldY": 1813.919
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-10_+19-Z1_World_Greenlands_TimerCollectRun_1_Orb_17",
+        "type": "traversal_poi",
+        "label": "Orb",
+        "icon": null,
+        "px": 2332.9393777777777,
+        "py": 9344.326755555556,
+        "worldX": -991.7216,
+        "worldY": 1800.1838,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_TimerCollectRun_1_Orb_17",
+        "name": "Orb",
+        "source": "Gameplay/Elements/Activities/TimerCollectOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_TimerCollectRun_1_Orb_17",
+            "type": 11,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L0_-10_+19",
+            "worldX": -991.7216,
+            "worldY": 1800.1838
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-10_+19-Z1_World_Greenlands_TimerCollectRun_1_Orb_18",
+        "type": "traversal_poi",
+        "label": "Orb",
+        "icon": null,
+        "px": 2393.9029333333333,
+        "py": 9333.979733333334,
+        "worldX": -957.4296,
+        "worldY": 1794.3636,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_TimerCollectRun_1_Orb_18",
+        "name": "Orb",
+        "source": "Gameplay/Elements/Activities/TimerCollectOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_TimerCollectRun_1_Orb_18",
+            "type": 11,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "chunkId": "L0_-10_+19",
+            "worldX": -957.4296,
+            "worldY": 1794.3636
+        }
+    },
+    {
+        "id": "traversal_poi-L1_+0_+10-Patrol_Camp_1",
+        "type": "traversal_poi",
+        "label": "Patrol Camp 1",
+        "icon": null,
+        "px": 3699.588824294972,
+        "py": 9174.698316688304,
+        "worldX": -222.98128633407828,
+        "worldY": 1704.767803137171,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "elementId": "Patrol_Camp_1",
+        "name": null,
+        "source": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Patrol_Camp_1",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "type": 26,
+            "chunkId": "L1_+0_+10",
+            "worldX": -222.98128633407828,
+            "worldY": 1704.767803137171
+        }
+    },
+    {
+        "id": "traversal_poi-L1_-4_+10-Patrol_World_Start",
+        "type": "traversal_poi",
+        "label": "Patrol World Start",
+        "icon": null,
+        "px": 2693.2524444444443,
+        "py": 9390.242311111111,
+        "worldX": -789.0455,
+        "worldY": 1826.0113,
+        "chunkId": "L1_-4_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-4_+10\\gameplayData.prefab",
+        "elementId": "Patrol_World_Start",
+        "name": null,
+        "source": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Patrol_World_Start",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "type": 26,
+            "chunkId": "L1_-4_+10",
+            "worldX": -789.0455,
+            "worldY": 1826.0113
+        }
+    },
+    {
+        "id": "traversal_poi-L0_-10_+19-Z1_World_Greenlands_TimerCollectRun_1_StartOrb_4",
+        "type": "traversal_poi",
+        "label": "Start Orb",
+        "icon": null,
+        "px": 2372.0915555555557,
+        "py": 9316.012977777778,
+        "worldX": -969.6985,
+        "worldY": 1784.2573,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_TimerCollectRun_1_StartOrb_4",
+        "name": "StartOrb",
+        "source": "Gameplay/Elements/Activities/TimerCollectOrbFirstOrb.prefab",
+        "raw": {
+            "id": "Z1_World_Greenlands_TimerCollectRun_1_StartOrb_4",
+            "type": 11,
+            "texts": {},
+            "props": {
+                "level": 2
+            },
+            "$cdbtype": "element",
+            "script": null,
+            "chunkId": "L0_-10_+19",
+            "worldX": -969.6985,
+            "worldY": 1784.2573
+        }
+    }
+]

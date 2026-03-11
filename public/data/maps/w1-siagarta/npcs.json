@@ -1,0 +1,1485 @@
+[
+    {
+        "id": "npc-L0_-4_+16-Generic_NPC_1",
+        "type": "npc",
+        "label": "Generic NPC 1",
+        "icon": "/icons/UI/Portraits/Units/Canine_MountWolf_01.png",
+        "px": 3360.5639111111113,
+        "py": 8835.677333333333,
+        "worldX": -413.6828,
+        "worldY": 1514.0685,
+        "chunkId": "L0_-4_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+16\\gameplayData.prefab",
+        "elementId": "Generic_NPC_1",
+        "name": "Generic",
+        "npcUnit": "MountWolf_01",
+        "npcSkin": null,
+        "npcGear": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Generic_NPC_1",
+            "texts": {},
+            "props": {
+                "npc": {
+                    "unit": "MountWolf_01"
+                }
+            },
+            "script": null,
+            "dialog": [
+                {
+                    "id": "Bark",
+                    "text": "Woof",
+                    "props": {},
+                    "choices": [
+                        {
+                            "verb": "DialogLeave",
+                            "text": "Leave",
+                            "nextStep": null,
+                            "flags": 0,
+                            "props": {},
+                            "visibleConds": {}
+                        }
+                    ]
+                }
+            ],
+            "type": 22,
+            "chunkId": "L0_-4_+16",
+            "worldX": -413.6828,
+            "worldY": 1514.0685
+        }
+    },
+    {
+        "id": "npc-L0_-4_+16-Generic_NPC_2",
+        "type": "npc",
+        "label": "Generic NPC 2",
+        "icon": "/icons/UI/Portraits/Units/Canine_MountWolf_04.png",
+        "px": 3394.7772444444445,
+        "py": 8849.629688888888,
+        "worldX": -394.4378,
+        "worldY": 1521.9167,
+        "chunkId": "L0_-4_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+16\\gameplayData.prefab",
+        "elementId": "Generic_NPC_2",
+        "name": "Generic",
+        "npcUnit": "MountWolf_04",
+        "npcSkin": null,
+        "npcGear": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Generic_NPC_2",
+            "texts": {},
+            "props": {
+                "npc": {
+                    "unit": "MountWolf_04"
+                }
+            },
+            "script": null,
+            "dialog": [
+                {
+                    "id": "Bark",
+                    "text": "Woof",
+                    "props": {},
+                    "choices": [
+                        {
+                            "verb": "DialogLeave",
+                            "text": "Leave",
+                            "nextStep": null,
+                            "flags": 0,
+                            "props": {},
+                            "visibleConds": {}
+                        }
+                    ]
+                }
+            ],
+            "type": 22,
+            "chunkId": "L0_-4_+16",
+            "worldX": -394.4378,
+            "worldY": 1521.9167
+        }
+    },
+    {
+        "id": "npc-L0_-4_+16-Generic_NPC_4",
+        "type": "npc",
+        "label": "Generic NPC 4",
+        "icon": "/icons/UI/Portraits/Units/Wolf_Brown.png",
+        "px": 3387.421511111111,
+        "py": 8856.281244444444,
+        "worldX": -398.5754,
+        "worldY": 1525.6582,
+        "chunkId": "L0_-4_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+16\\gameplayData.prefab",
+        "elementId": "Generic_NPC_4",
+        "name": "Generic",
+        "npcUnit": "Wolf_Z1W_2",
+        "npcSkin": null,
+        "npcGear": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Generic_NPC_4",
+            "texts": {},
+            "props": {
+                "npc": {
+                    "unit": "Wolf_Z1W_2"
+                }
+            },
+            "script": null,
+            "dialog": [
+                {
+                    "id": "Bark",
+                    "text": "Woof",
+                    "props": {},
+                    "choices": [
+                        {
+                            "verb": "DialogLeave",
+                            "text": "Leave",
+                            "nextStep": null,
+                            "flags": 0,
+                            "props": {},
+                            "visibleConds": {}
+                        }
+                    ]
+                }
+            ],
+            "type": 22,
+            "chunkId": "L0_-4_+16",
+            "worldX": -398.5754,
+            "worldY": 1525.6582
+        }
+    },
+    {
+        "id": "npc-L0_-4_+16-Generic_NPC_5",
+        "type": "npc",
+        "label": "Generic NPC 5",
+        "icon": "/icons/UI/Portraits/Units/Canine_MountWolf_06.png",
+        "px": 3390.5340444444446,
+        "py": 8817.356977777778,
+        "worldX": -396.8246,
+        "worldY": 1503.7633,
+        "chunkId": "L0_-4_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+16\\gameplayData.prefab",
+        "elementId": "Generic_NPC_5",
+        "name": "Generic",
+        "npcUnit": "MountWolf_06",
+        "npcSkin": null,
+        "npcGear": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Generic_NPC_5",
+            "texts": {},
+            "props": {
+                "npc": {
+                    "unit": "MountWolf_06"
+                }
+            },
+            "script": null,
+            "dialog": [
+                {
+                    "id": "Bark",
+                    "text": "Woof",
+                    "props": {},
+                    "choices": [
+                        {
+                            "verb": "DialogLeave",
+                            "text": "Leave",
+                            "nextStep": null,
+                            "flags": 0,
+                            "props": {},
+                            "visibleConds": {}
+                        }
+                    ]
+                }
+            ],
+            "type": 22,
+            "chunkId": "L0_-4_+16",
+            "worldX": -396.8246,
+            "worldY": 1503.7633
+        }
+    },
+    {
+        "id": "npc-L0_-8_+19-Haydn_NPC_Meridion",
+        "type": "npc",
+        "label": "Haydn NPC Meridion",
+        "icon": "/icons/UI/Portraits/Units/HeroCharacter_Neutral.png",
+        "px": 2650.4156444444443,
+        "py": 9280.55288888889,
+        "worldX": -813.1412,
+        "worldY": 1764.311,
+        "chunkId": "L0_-8_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+19\\gameplayData.prefab",
+        "elementId": "Haydn_NPC_Meridion",
+        "name": null,
+        "npcUnit": "BaseHero",
+        "npcSkin": {
+            "skinColor": "Skin_01",
+            "eyeColor": "Crab_Shell_03",
+            "hairColor": "Hair_Redhead_01",
+            "eyes": "Eyes_01",
+            "hair": "Hair_Short_CurlyHair_01",
+            "facialHair": "Beard_Full_02",
+            "hairColorSecondary": "Hair_Redhead_01",
+            "eyebrows": "Eyebrows_08",
+            "template": 3,
+            "shapes": {
+                "map": {
+                    "BS_Ears_01": 0,
+                    "BS_Face_01": 0,
+                    "BS_Nose_01": 1,
+                    "BS_Ears_02": 1,
+                    "BS_Face_02": 0,
+                    "BS_Face_03": 0,
+                    "BS_Face_04": 1,
+                    "BS_Lips_01": 0,
+                    "BS_Eyes_01": 1,
+                    "BS_Lips_02": 1
+                },
+                "obj": null,
+                "bit": 0,
+                "": null
+            },
+            "blendShapes": "[{\"name\":\"BS_Ears_01\",\"value\":0},{\"name\":\"BS_Face_01\",\"value\":0},{\"name\":\"BS_Nose_06\",\"value\":1},{\"name\":\"BS_Ears_02\",\"value\":1},{\"name\":\"BS_Face_02\",\"value\":0},{\"name\":\"BS_Face_03\",\"value\":0},{\"name\":\"BS_Face_04\",\"value\":1},{\"name\":\"BS_Lips_01\",\"value\":0},{\"name\":\"BS_Eyes_01\",\"value\":1},{\"name\":\"BS_Lips_02\",\"value\":1}]"
+        },
+        "npcGear": {
+            "helmet": "Gold",
+            "bodyArmor": "Chest_Z1U1_Wiz",
+            "boots": "Feet_Z1U1_Cle",
+            "back": "Gold",
+            "pants": "TODO_Legs_Starter_Cle",
+            "weapon": "Gold",
+            "gloves": "Hands_Z1U2_Ass",
+            "weapon2": "Gold",
+            "defenseWeapon": "Gold",
+            "shoulders": "Gold"
+        },
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Haydn_NPC_Meridion",
+            "texts": {
+                "name": "Haydn Seek"
+            },
+            "props": {
+                "npc": {
+                    "unit": "BaseHero",
+                    "npcSkin": {
+                        "skinColor": "Skin_01",
+                        "eyeColor": "Crab_Shell_03",
+                        "hairColor": "Hair_Redhead_01",
+                        "eyes": "Eyes_01",
+                        "hair": "Hair_Short_CurlyHair_01",
+                        "facialHair": "Beard_Full_02",
+                        "hairColorSecondary": "Hair_Redhead_01",
+                        "eyebrows": "Eyebrows_08",
+                        "template": 3,
+                        "shapes": {
+                            "map": {
+                                "BS_Ears_01": 0,
+                                "BS_Face_01": 0,
+                                "BS_Nose_01": 1,
+                                "BS_Ears_02": 1,
+                                "BS_Face_02": 0,
+                                "BS_Face_03": 0,
+                                "BS_Face_04": 1,
+                                "BS_Lips_01": 0,
+                                "BS_Eyes_01": 1,
+                                "BS_Lips_02": 1
+                            },
+                            "obj": null,
+                            "bit": 0,
+                            "": null
+                        },
+                        "blendShapes": "[{\"name\":\"BS_Ears_01\",\"value\":0},{\"name\":\"BS_Face_01\",\"value\":0},{\"name\":\"BS_Nose_06\",\"value\":1},{\"name\":\"BS_Ears_02\",\"value\":1},{\"name\":\"BS_Face_02\",\"value\":0},{\"name\":\"BS_Face_03\",\"value\":0},{\"name\":\"BS_Face_04\",\"value\":1},{\"name\":\"BS_Lips_01\",\"value\":0},{\"name\":\"BS_Eyes_01\",\"value\":1},{\"name\":\"BS_Lips_02\",\"value\":1}]"
+                    },
+                    "npcGear": {
+                        "helmet": "Gold",
+                        "bodyArmor": "Chest_Z1U1_Wiz",
+                        "boots": "Feet_Z1U1_Cle",
+                        "back": "Gold",
+                        "pants": "TODO_Legs_Starter_Cle",
+                        "weapon": "Gold",
+                        "gloves": "Hands_Z1U2_Ass",
+                        "weapon2": "Gold",
+                        "defenseWeapon": "Gold",
+                        "shoulders": "Gold"
+                    }
+                },
+                "activateStyle": 0
+            },
+            "script": "",
+            "type": 22,
+            "dialog": [
+                {
+                    "id": "Start",
+                    "text": "Hah! You found me! Now, can you help me reach my friend?",
+                    "choices": [
+                        {
+                            "flags": 0,
+                            "props": {
+                                "receiveItems": [
+                                    {
+                                        "kind": "Gold",
+                                        "amount": 50
+                                    }
+                                ],
+                                "goal": {
+                                    "objectives": [
+                                        {
+                                            "ref": "NpcTalked",
+                                            "target": [
+                                                2,
+                                                "Haydn_NPC_Meridion"
+                                            ]
+                                        }
+                                    ],
+                                    "name": "Where the Rain Never Stops"
+                                }
+                            },
+                            "visibleConds": {},
+                            "verb": "DialogActivity",
+                            "nextStep": "Complete"
+                        }
+                    ],
+                    "props": {}
+                },
+                {
+                    "id": "Complete",
+                    "text": "Just kidding, I don't have a friend! Hah! I like to hide in remote places, but you don’t meet a lot of people doing that. Thanks for finding me!",
+                    "choices": [],
+                    "props": {}
+                },
+                {
+                    "id": "End",
+                    "text": "Wanna be friends? I'll give you some stuff if you find me in weird locations.",
+                    "choices": [],
+                    "props": {}
+                }
+            ],
+            "chunkId": "L0_-8_+19",
+            "worldX": -813.1412,
+            "worldY": 1764.311
+        }
+    },
+    {
+        "id": "npc-L0_-8_+21-Hunter_NPC_Meridion",
+        "type": "npc",
+        "label": "Hunter NPC Meridion",
+        "icon": "/icons/UI/Portraits/Units/BaseNPC_01.png",
+        "px": 2612.509688888889,
+        "py": 9667.41528888889,
+        "worldX": -834.4633,
+        "worldY": 1981.9211,
+        "chunkId": "L0_-8_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+21\\gameplayData.prefab",
+        "elementId": "Hunter_NPC_Meridion",
+        "name": null,
+        "npcUnit": "TODO_BaseNPC_01",
+        "npcSkin": null,
+        "npcGear": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Hunter_NPC_Meridion",
+            "texts": {
+                "name": "Kat Shemoll"
+            },
+            "props": {
+                "npc": {
+                    "unit": "TODO_BaseNPC_01"
+                },
+                "activateStyle": 0
+            },
+            "script": null,
+            "type": 22,
+            "dialog": [
+                {
+                    "id": "Start",
+                    "text": "Don't you think documenting animal species in your Codex is too easy? I have more ambition than that. I'm looking for sparked specimens! Unique, spark-infused creatures!",
+                    "choices": [],
+                    "props": {
+                        "__id__": 2618536
+                    }
+                },
+                {
+                    "id": "WaitComplete",
+                    "text": "<objective>Two Sparkling creatures were spotted in the area: a slime and a bee. I need them both!</objective>",
+                    "choices": [
+                        {
+                            "visibleConds": {
+                                "__id__": 2618540
+                            },
+                            "verb": "DialogCompleteObjective",
+                            "text": "Got them!",
+                            "nextStep": "Complete",
+                            "props": {
+                                "receiveItems": [
+                                    {
+                                        "kind": "Gold",
+                                        "amount": 100
+                                    }
+                                ],
+                                "goal": {
+                                    "objectives": [
+                                        {
+                                            "ref": "FoeKilled",
+                                            "target": [
+                                                0,
+                                                "Slime_Z1W_U"
+                                            ],
+                                            "value": 1
+                                        },
+                                        {
+                                            "ref": "FoeKilled",
+                                            "target": [
+                                                0,
+                                                "Bee_Z1W_U"
+                                            ],
+                                            "value": 1
+                                        }
+                                    ],
+                                    "name": "Meridion's Most Wanted"
+                                }
+                            },
+                            "flags": 0
+                        },
+                        {
+                            "flags": 0,
+                            "props": {
+                                "__id__": 2618548
+                            },
+                            "visibleConds": {
+                                "__id__": 2618549
+                            },
+                            "verb": "DialogLeave"
+                        }
+                    ],
+                    "props": {
+                        "__id__": 2618550
+                    }
+                },
+                {
+                    "id": "Complete",
+                    "text": "That's it! That's them! How'd you find those creatures? I have to reward you for your effort!",
+                    "choices": [],
+                    "props": {
+                        "__id__": 2618553
+                    }
+                },
+                {
+                    "id": "End",
+                    "text": "Now, I'll have to find a new track to follow. I'll let you know if I hear of another sparked specimen!",
+                    "choices": [],
+                    "props": {
+                        "__id__": 2618556
+                    }
+                }
+            ],
+            "chunkId": "L0_-8_+21",
+            "worldX": -834.4633,
+            "worldY": 1981.9211
+        }
+    },
+    {
+        "id": "npc-L0_-3_+15-Hunter_NPC_Primevalley",
+        "type": "npc",
+        "label": "Hunter NPC Primevalley",
+        "icon": "/icons/UI/Portraits/Units/BaseNPC_01.png",
+        "px": 3471.8275555555556,
+        "py": 8658.5616,
+        "worldX": -351.097,
+        "worldY": 1414.4409,
+        "chunkId": "L0_-3_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+15\\gameplayData.prefab",
+        "elementId": "Hunter_NPC_Primevalley",
+        "name": null,
+        "npcUnit": "TODO_BaseNPC_01",
+        "npcSkin": null,
+        "npcGear": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Hunter_NPC_Primevalley",
+            "texts": {
+                "name": "Kat Shemoll"
+            },
+            "props": {
+                "npc": {
+                    "unit": "TODO_BaseNPC_01"
+                },
+                "activateStyle": 0
+            },
+            "script": null,
+            "type": 22,
+            "dialog": [
+                {
+                    "id": "Start",
+                    "text": "I'm sure you've got plenty of species documented in your Codex. But how many sparked specimens did you find?",
+                    "choices": [],
+                    "props": {
+                        "__id__": 2618536
+                    }
+                },
+                {
+                    "id": "WaitComplete",
+                    "text": "I'm tracking 2 of them down right now! <objective>What I'm looking for is a Nepsid whale and a crab, both completely filled with spark</objective>.",
+                    "choices": [
+                        {
+                            "visibleConds": {
+                                "__id__": 2618540
+                            },
+                            "verb": "DialogCompleteObjective",
+                            "text": "Got them!",
+                            "nextStep": "Complete",
+                            "props": {
+                                "receiveItems": [
+                                    {
+                                        "kind": "Gold",
+                                        "amount": 100
+                                    }
+                                ],
+                                "goal": {
+                                    "objectives": [
+                                        {
+                                            "ref": "FoeKilled",
+                                            "target": [
+                                                0,
+                                                "Crab_Z1W_U"
+                                            ],
+                                            "value": 1
+                                        },
+                                        {
+                                            "ref": "FoeKilled",
+                                            "value": 1,
+                                            "target": [
+                                                0,
+                                                "OgreManfish_Z1W_Claws_U"
+                                            ]
+                                        }
+                                    ],
+                                    "name": "Primevalley's Most Wanted"
+                                }
+                            },
+                            "flags": 0
+                        },
+                        {
+                            "flags": 0,
+                            "props": {
+                                "__id__": 2618548
+                            },
+                            "visibleConds": {
+                                "__id__": 2618549
+                            },
+                            "verb": "DialogLeave"
+                        }
+                    ],
+                    "props": {
+                        "__id__": 2618550
+                    }
+                },
+                {
+                    "id": "Complete",
+                    "text": "That's it! That's them! How'd you find those creatures? I have to reward you for your effort!",
+                    "choices": [],
+                    "props": {
+                        "__id__": 2618553
+                    }
+                },
+                {
+                    "id": "End",
+                    "text": "Now, I'll have to find a new track to follow. I'll let you know if I hear of another sparked specimen!",
+                    "choices": [],
+                    "props": {
+                        "__id__": 2618556
+                    }
+                }
+            ],
+            "chunkId": "L0_-3_+15",
+            "worldX": -351.097,
+            "worldY": 1414.4409
+        }
+    },
+    {
+        "id": "npc-L0_-8_+21-NPC_Frankie",
+        "type": "npc",
+        "label": "NPC Frankie",
+        "icon": "/icons/UI/Portraits/Units/HeroCharacter_Neutral.png",
+        "px": 2621.8403555555556,
+        "py": 9629.437511111111,
+        "worldX": -829.2148,
+        "worldY": 1960.5586,
+        "chunkId": "L0_-8_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+21\\gameplayData.prefab",
+        "elementId": "NPC_Frankie",
+        "name": null,
+        "npcUnit": "BaseHero",
+        "npcSkin": {
+            "skinColor": "Skin_05",
+            "eyeColor": "Boar_05",
+            "hairColor": "Hair_Black_01",
+            "eyes": "Eyes_02",
+            "hair": "Hair_Long_PonyTail_01",
+            "facialHair": "Beard_None",
+            "hairColorSecondary": "Hair_Black_01",
+            "eyebrows": "Eyebrows_01",
+            "template": 2,
+            "shapes": {
+                "map": {
+                    "BS_Ears_01": 0,
+                    "BS_Face_01": 0,
+                    "BS_Nose_01": 1,
+                    "BS_Ears_02": 1,
+                    "BS_Face_02": 0,
+                    "BS_Face_03": 0,
+                    "BS_Face_04": 1,
+                    "BS_Lips_01": 0,
+                    "BS_Eyes_01": 1,
+                    "BS_Lips_02": 1
+                },
+                "obj": null,
+                "bit": 0,
+                "": null
+            },
+            "blendShapes": "[{\"name\":\"BS_Ears_01\",\"value\":0},{\"name\":\"BS_Face_01\",\"value\":0},{\"name\":\"BS_Nose_05\",\"value\":1},{\"name\":\"BS_Ears_02\",\"value\":1},{\"name\":\"BS_Face_02\",\"value\":0},{\"name\":\"BS_Face_03\",\"value\":0},{\"name\":\"BS_Face_04\",\"value\":1},{\"name\":\"BS_Lips_0é\",\"value\":0},{\"name\":\"BS_Eyes_01\",\"value\":1},{\"name\":\"BS_Lips_02\",\"value\":1}]"
+        },
+        "npcGear": {
+            "helmet": "Gold",
+            "bodyArmor": "Chest_Z1U2_Ass",
+            "boots": "Feet_Z1U1_Fig",
+            "back": "Back_Z1U2_Ass",
+            "pants": "Legs_Z1U2_Fig",
+            "weapon": "Sword_Start",
+            "gloves": "Hands_Z1U2_Ass",
+            "weapon2": "Gold",
+            "defenseWeapon": "Gold",
+            "shoulders": "Gold"
+        },
+        "raw": {
+            "$cdbtype": "element",
+            "id": "NPC_Frankie",
+            "texts": {
+                "name": "Frankie Valley"
+            },
+            "props": {
+                "npc": {
+                    "unit": "BaseHero",
+                    "npcSkin": {
+                        "skinColor": "Skin_05",
+                        "eyeColor": "Boar_05",
+                        "hairColor": "Hair_Black_01",
+                        "eyes": "Eyes_02",
+                        "hair": "Hair_Long_PonyTail_01",
+                        "facialHair": "Beard_None",
+                        "hairColorSecondary": "Hair_Black_01",
+                        "eyebrows": "Eyebrows_01",
+                        "template": 2,
+                        "shapes": {
+                            "map": {
+                                "BS_Ears_01": 0,
+                                "BS_Face_01": 0,
+                                "BS_Nose_01": 1,
+                                "BS_Ears_02": 1,
+                                "BS_Face_02": 0,
+                                "BS_Face_03": 0,
+                                "BS_Face_04": 1,
+                                "BS_Lips_01": 0,
+                                "BS_Eyes_01": 1,
+                                "BS_Lips_02": 1
+                            },
+                            "obj": null,
+                            "bit": 0,
+                            "": null
+                        },
+                        "blendShapes": "[{\"name\":\"BS_Ears_01\",\"value\":0},{\"name\":\"BS_Face_01\",\"value\":0},{\"name\":\"BS_Nose_05\",\"value\":1},{\"name\":\"BS_Ears_02\",\"value\":1},{\"name\":\"BS_Face_02\",\"value\":0},{\"name\":\"BS_Face_03\",\"value\":0},{\"name\":\"BS_Face_04\",\"value\":1},{\"name\":\"BS_Lips_0é\",\"value\":0},{\"name\":\"BS_Eyes_01\",\"value\":1},{\"name\":\"BS_Lips_02\",\"value\":1}]"
+                    },
+                    "npcGear": {
+                        "helmet": "Gold",
+                        "bodyArmor": "Chest_Z1U2_Ass",
+                        "boots": "Feet_Z1U1_Fig",
+                        "back": "Back_Z1U2_Ass",
+                        "pants": "Legs_Z1U2_Fig",
+                        "weapon": "Sword_Start",
+                        "gloves": "Hands_Z1U2_Ass",
+                        "weapon2": "Gold",
+                        "defenseWeapon": "Gold",
+                        "shoulders": "Gold"
+                    }
+                },
+                "activateStyle": 0
+            },
+            "script": null,
+            "type": 22,
+            "dialog": [
+                {
+                    "id": "Start",
+                    "text": "Traveler, have you started filling up your codex, already? Look at this marvel! It keeps trace of every creature you've met, to advance the gradual recovery of human knowledge.",
+                    "choices": [],
+                    "props": {
+                        "__id__": 960986
+                    }
+                },
+                {
+                    "id": "WaitComplete",
+                    "text": "I was sent here by our chief encyclopedist to study the local fauna. You can help too, if you want. <objective>Show me a codex with at least five monsters in it</objective>, and I'll share my pay with you.",
+                    "choices": [
+                        {
+                            "visibleConds": {
+                                "__id__": 960990
+                            },
+                            "verb": "DialogCompleteObjective",
+                            "nextStep": "Complete",
+                            "props": {
+                                "receiveItems": [
+                                    {
+                                        "kind": "Gold",
+                                        "amount": 50
+                                    }
+                                ],
+                                "goal": {
+                                    "objectives": [
+                                        {
+                                            "ref": "CodexProgress_NbDiscovered",
+                                            "target": [
+                                                9,
+                                                [
+                                                    0
+                                                ]
+                                            ],
+                                            "value": 5
+                                        }
+                                    ],
+                                    "name": "Book of Life"
+                                }
+                            },
+                            "flags": 0,
+                            "text": "Here it is!"
+                        },
+                        {
+                            "flags": 0,
+                            "props": {
+                                "__id__": 960998
+                            },
+                            "visibleConds": {
+                                "__id__": 960999
+                            },
+                            "verb": "DialogLeave"
+                        }
+                    ],
+                    "props": {
+                        "__id__": 961000
+                    }
+                },
+                {
+                    "id": "Complete",
+                    "text": "Now, let me see your codex… Man, nature really is a misunderstood artist… and you’ve done some first class scientific work! Thanks for your help.",
+                    "choices": [],
+                    "props": {
+                        "__id__": 961003
+                    }
+                },
+                {
+                    "id": "End",
+                    "text": "We've struggled to rebuild human knowledge since our libraries burned 5 centuries ago. But now that we’re all back here together, I'm sure we'll make great progress!",
+                    "choices": [],
+                    "props": {
+                        "__id__": 961006
+                    }
+                }
+            ],
+            "chunkId": "L0_-8_+21",
+            "worldX": -829.2148,
+            "worldY": 1960.5586
+        }
+    },
+    {
+        "id": "npc-L0_-5_+19-NPC_Lamb",
+        "type": "npc",
+        "label": "NPC Lamb",
+        "icon": "/icons/UI/Portraits/Units/CrimsonDefender-R(Sword_Guard_Basic_01)-L(Shield_Guard_Basic_01).png",
+        "px": 3180.9683555555557,
+        "py": 9271.525688888889,
+        "worldX": -514.7053,
+        "worldY": 1759.2332,
+        "chunkId": "L0_-5_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+19\\gameplayData.prefab",
+        "elementId": "NPC_Lamb",
+        "name": null,
+        "npcUnit": "Crimson_Z1W_Sword",
+        "npcSkin": null,
+        "npcGear": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "NPC_Lamb",
+            "texts": {
+                "name": "Lamb Ada"
+            },
+            "props": {
+                "npc": {
+                    "unit": "Crimson_Z1W_Sword"
+                },
+                "activateStyle": 0
+            },
+            "script": null,
+            "type": 22,
+            "dialog": [
+                {
+                    "id": "Start",
+                    "text": "The Crimson Rams used to come here everyday to kick the Nepsids out. But at one point, we figured it would teach those newcomers from Antelimbo a lesson if they had to do it themselves. Also, it’s cheaper for us.",
+                    "choices": [],
+                    "props": {}
+                },
+                {
+                    "id": "WaitComplete",
+                    "text": "Wanna prove to me you’re ready to enter the plains of Skover, lamb chop? Why don’t you <objective>go into the Nepsids’ hideout and kick Nepsilon’s butt</objective>? That’s their chief, Nepsilon. But you’ll find out real quick.",
+                    "choices": [
+                        {
+                            "visibleConds": {},
+                            "verb": "DialogCompleteObjective",
+                            "text": "I'm back!",
+                            "nextStep": "Complete",
+                            "props": {
+                                "receiveItems": [
+                                    {
+                                        "kind": "Gold",
+                                        "amount": 50
+                                    }
+                                ],
+                                "goal": {
+                                    "objectives": [
+                                        {
+                                            "ref": "FoeKilled",
+                                            "target": [
+                                                0,
+                                                "Nepsilon"
+                                            ],
+                                            "value": 1
+                                        }
+                                    ],
+                                    "name": "Baywatch"
+                                },
+                                "gains": {
+                                    "lootTable": "NepsilonWeightsAffinity"
+                                }
+                            },
+                            "flags": 0
+                        },
+                        {
+                            "flags": 0,
+                            "props": {},
+                            "visibleConds": {},
+                            "verb": "DialogLeave"
+                        }
+                    ],
+                    "props": {}
+                },
+                {
+                    "id": "Complete",
+                    "text": "Did you really do it, lamb chop? Alright, you can have this. If I go back to the camp and tell them I clipped Nepsilon, I’ll probably get something better anyway.",
+                    "choices": [],
+                    "props": {}
+                },
+                {
+                    "id": "End",
+                    "text": "Before the Chrysalis Age, Mayda was the biggest port in the whole region. Now… it’s still big and it's still a port, but we don’t control it anymore so what’s the point?",
+                    "choices": [],
+                    "props": {}
+                }
+            ],
+            "chunkId": "L0_-5_+19",
+            "worldX": -514.7053,
+            "worldY": 1759.2332
+        }
+    },
+    {
+        "id": "npc-L0_-7_+14-NPC_Nectar",
+        "type": "npc",
+        "label": "NPC Nectar",
+        "icon": "/icons/UI/Portraits/Units/BeeBroodWatcher.png",
+        "px": 2768.153422222222,
+        "py": 8488.45511111111,
+        "worldX": -746.9137,
+        "worldY": 1318.756,
+        "chunkId": "L0_-7_+14",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+14\\gameplayData.prefab",
+        "elementId": "NPC_Nectar",
+        "name": null,
+        "npcUnit": "FaerieBee_Z1D_Claws",
+        "npcSkin": null,
+        "npcGear": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "NPC_Nectar",
+            "texts": {
+                "name": "Nectar Berlioz"
+            },
+            "props": {
+                "npc": {
+                    "unit": "FaerieBee_Z1D_Claws"
+                },
+                "activateStyle": 0
+            },
+            "script": null,
+            "type": 22,
+            "dialog": [
+                {
+                    "id": "Start",
+                    "text": "Queen sendzz mee… Wozz lookin’ for bbrecious fflower “Zzealotus”... Large fflower zhat growzz on pondzz…",
+                    "choices": [],
+                    "props": {
+                        "__id__": 480099
+                    }
+                },
+                {
+                    "id": "WaitComplete",
+                    "text": "Need zheeze for honeymakin’, ffiddle-bee-bee. <objective>Gazzer some bbrecious “Zzealotus” for mee.</objective>",
+                    "choices": [
+                        {
+                            "visibleConds": {
+                                "__id__": 480089
+                            },
+                            "verb": "DialogCompleteObjective",
+                            "text": "I've got what you need!",
+                            "nextStep": "Complete",
+                            "props": {
+                                "receiveItems": [
+                                    {
+                                        "kind": "Gold",
+                                        "amount": 50
+                                    }
+                                ],
+                                "goal": {
+                                    "objectives": [
+                                        {
+                                            "ref": "ItemOwned",
+                                            "target": [
+                                                3,
+                                                "ZealotusPetal"
+                                            ],
+                                            "value": 5
+                                        }
+                                    ],
+                                    "name": "Flower of the Flock"
+                                }
+                            },
+                            "flags": 0
+                        },
+                        {
+                            "flags": 0,
+                            "props": {
+                                "__id__": 480097
+                            },
+                            "visibleConds": {
+                                "__id__": 480098
+                            },
+                            "verb": "DialogLeave"
+                        }
+                    ],
+                    "props": {}
+                },
+                {
+                    "id": "Complete",
+                    "text": "Honey Moly, zhis izz zhe fflower! Givve mee… Zhen you can have zhee eligzzir.",
+                    "choices": [],
+                    "props": {
+                        "__id__": 480102
+                    }
+                },
+                {
+                    "id": "End",
+                    "text": "Zhis izz gon’ bee vvery ffine honey, ffiddle-bee-bee.",
+                    "choices": [],
+                    "props": {
+                        "__id__": 480105
+                    }
+                }
+            ],
+            "chunkId": "L0_-7_+14",
+            "worldX": -746.9137,
+            "worldY": 1318.756
+        }
+    },
+    {
+        "id": "npc-L0_-4_+16-NPC_Otto_1",
+        "type": "npc",
+        "label": "NPC Otto 1",
+        "icon": "/icons/UI/Portraits/Units/HeroCharacter_Neutral.png",
+        "px": 3407.7514666666666,
+        "py": 8784.767288888888,
+        "worldX": -387.1398,
+        "worldY": 1485.4316,
+        "chunkId": "L0_-4_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+16\\gameplayData.prefab",
+        "elementId": "NPC_Otto_1",
+        "name": null,
+        "npcUnit": "BaseHero",
+        "npcSkin": {
+            "skinColor": "Skin_06",
+            "eyeColor": "Crab_Shell_03",
+            "hairColor": "Hair_Grey_02",
+            "eyes": "Eyes_01",
+            "hair": "Hair_Long_Bun_01",
+            "facialHair": "Beard_Full_01",
+            "hairColorSecondary": "Hair_Grey_02",
+            "eyebrows": "Eyebrows_05",
+            "template": 1,
+            "shapes": {
+                "map": {
+                    "BS_Ears_01": 0,
+                    "BS_Face_01": 0,
+                    "BS_Nose_01": 1,
+                    "BS_Ears_02": 1,
+                    "BS_Face_02": 0,
+                    "BS_Face_03": 0,
+                    "BS_Face_04": 1,
+                    "BS_Lips_01": 0,
+                    "BS_Eyes_01": 1,
+                    "BS_Lips_02": 1
+                },
+                "obj": null,
+                "bit": 0,
+                "": null
+            },
+            "blendShapes": "[{\"name\":\"BS_Ears_03\",\"value\":0},{\"name\":\"BS_Face_01\",\"value\":0},{\"name\":\"BS_Nose_09\",\"value\":1},{\"name\":\"BS_Ears_02\",\"value\":1},{\"name\":\"BS_Face_02\",\"value\":0},{\"name\":\"BS_Face_03\",\"value\":0},{\"name\":\"BS_Face_04\",\"value\":1},{\"name\":\"BS_Lips_01\",\"value\":0},{\"name\":\"BS_Eyes_03\",\"value\":1},{\"name\":\"BS_Lips_01\",\"value\":1}]"
+        },
+        "npcGear": {
+            "helmet": "Gold",
+            "bodyArmor": "Chest_Z1U1_WizCle",
+            "boots": "Feet_Z1U2_AssWiz",
+            "back": "Gold",
+            "pants": "Legs_Z1U1_FigCle",
+            "weapon": "Scepter_Start",
+            "weapon2": "Gold",
+            "defenseWeapon": "Gold",
+            "shoulders": "Gold",
+            "gloves": "Gold"
+        },
+        "raw": {
+            "$cdbtype": "element",
+            "id": "NPC_Otto_1",
+            "texts": {
+                "name": "Otto Mata"
+            },
+            "props": {
+                "npc": {
+                    "unit": "BaseHero",
+                    "npcSkin": {
+                        "skinColor": "Skin_06",
+                        "eyeColor": "Crab_Shell_03",
+                        "hairColor": "Hair_Grey_02",
+                        "eyes": "Eyes_01",
+                        "hair": "Hair_Long_Bun_01",
+                        "facialHair": "Beard_Full_01",
+                        "hairColorSecondary": "Hair_Grey_02",
+                        "eyebrows": "Eyebrows_05",
+                        "template": 1,
+                        "shapes": {
+                            "map": {
+                                "BS_Ears_01": 0,
+                                "BS_Face_01": 0,
+                                "BS_Nose_01": 1,
+                                "BS_Ears_02": 1,
+                                "BS_Face_02": 0,
+                                "BS_Face_03": 0,
+                                "BS_Face_04": 1,
+                                "BS_Lips_01": 0,
+                                "BS_Eyes_01": 1,
+                                "BS_Lips_02": 1
+                            },
+                            "obj": null,
+                            "bit": 0,
+                            "": null
+                        },
+                        "blendShapes": "[{\"name\":\"BS_Ears_03\",\"value\":0},{\"name\":\"BS_Face_01\",\"value\":0},{\"name\":\"BS_Nose_09\",\"value\":1},{\"name\":\"BS_Ears_02\",\"value\":1},{\"name\":\"BS_Face_02\",\"value\":0},{\"name\":\"BS_Face_03\",\"value\":0},{\"name\":\"BS_Face_04\",\"value\":1},{\"name\":\"BS_Lips_01\",\"value\":0},{\"name\":\"BS_Eyes_03\",\"value\":1},{\"name\":\"BS_Lips_01\",\"value\":1}]"
+                    },
+                    "npcGear": {
+                        "helmet": "Gold",
+                        "bodyArmor": "Chest_Z1U1_WizCle",
+                        "boots": "Feet_Z1U2_AssWiz",
+                        "back": "Gold",
+                        "pants": "Legs_Z1U1_FigCle",
+                        "weapon": "Scepter_Start",
+                        "weapon2": "Gold",
+                        "defenseWeapon": "Gold",
+                        "shoulders": "Gold",
+                        "gloves": "Gold"
+                    }
+                },
+                "activateStyle": 0
+            },
+            "script": null,
+            "type": 22,
+            "dialog": [
+                {
+                    "id": "Start",
+                    "text": "Greetings, tenderfoot. I'm the old pioneer Otto Mata. Back in the Chrysalis Age, I was part of the few Pilgrims who survived in Siagarta. Spent my youth exploring the 6 regions of this world. Now, I'm trying to slow down.",
+                    "choices": [],
+                    "props": {
+                        "__id__": 960986
+                    }
+                },
+                {
+                    "id": "WaitComplete",
+                    "text": "I've been helping Hilda with her book by encouraging young adventurers to get involved. I'll reward anyone who can <objective>show me a codex filled with at least 20 entries</objective>.",
+                    "choices": [
+                        {
+                            "visibleConds": {
+                                "__id__": 960990
+                            },
+                            "verb": "DialogCompleteObjective",
+                            "text": "Here it is!",
+                            "nextStep": "Complete",
+                            "props": {
+                                "receiveItems": [
+                                    {
+                                        "kind": "Gold",
+                                        "amount": 200
+                                    }
+                                ],
+                                "goal": {
+                                    "objectives": [
+                                        {
+                                            "ref": "CodexProgress_NbDiscovered",
+                                            "target": [
+                                                9,
+                                                [
+                                                    0
+                                                ]
+                                            ],
+                                            "value": 20
+                                        }
+                                    ],
+                                    "name": "Travel Diary"
+                                }
+                            },
+                            "flags": 0
+                        },
+                        {
+                            "flags": 0,
+                            "props": {
+                                "__id__": 960998
+                            },
+                            "visibleConds": {
+                                "__id__": 960999
+                            },
+                            "verb": "DialogLeave"
+                        }
+                    ],
+                    "props": {
+                        "__id__": 961000
+                    }
+                },
+                {
+                    "id": "Complete",
+                    "text": "Now, I've seen some curious creatures across this world, but I must say... this one looks like my great-great aunt. Well done, traveler, that's what we were looking for.",
+                    "choices": [],
+                    "props": {
+                        "__id__": 961003
+                    }
+                },
+                {
+                    "id": "End",
+                    "text": "I'm just catching some rest. When the time comes, I'll be hitting the road again, just like you.",
+                    "choices": [],
+                    "props": {
+                        "__id__": 961006
+                    }
+                }
+            ],
+            "chunkId": "L0_-4_+16",
+            "worldX": -387.1398,
+            "worldY": 1485.4316
+        }
+    },
+    {
+        "id": "npc-L0_-3_+16-NPC_Scout",
+        "type": "npc",
+        "label": "NPC Scout",
+        "icon": "/icons/UI/Portraits/Units/HeroCharacter_Neutral.png",
+        "px": 3432.4348444444445,
+        "py": 8735.670577777777,
+        "worldX": -373.2554,
+        "worldY": 1457.8147,
+        "chunkId": "L0_-3_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+16\\gameplayData.prefab",
+        "elementId": "NPC_Scout",
+        "name": null,
+        "npcUnit": "BaseHero",
+        "npcSkin": {
+            "skinColor": "Skin_02",
+            "eyeColor": "Dog_01b",
+            "hairColor": "Hair_Brown_02",
+            "eyes": "Eyes_01",
+            "hair": "Hair_Medium_Bun_01",
+            "facialHair": "Beard_None",
+            "hairColorSecondary": "Hair_Brown_02",
+            "eyebrows": "Eyebrows_08",
+            "template": 1,
+            "shapes": {
+                "map": {
+                    "BS_Ears_01": 0,
+                    "BS_Face_01": 0,
+                    "BS_Nose_01": 1,
+                    "BS_Ears_02": 1,
+                    "BS_Face_02": 0,
+                    "BS_Face_03": 0,
+                    "BS_Face_04": 1,
+                    "BS_Lips_01": 0,
+                    "BS_Eyes_01": 1,
+                    "BS_Lips_02": 1
+                },
+                "obj": null,
+                "bit": 0,
+                "": null
+            },
+            "blendShapes": "[{\"name\":\"BS_Ears_02\",\"value\":0},{\"name\":\"BS_Face_02\",\"value\":0},{\"name\":\"BS_Nose_02\",\"value\":1},{\"name\":\"BS_Ears_02\",\"value\":1},{\"name\":\"BS_Face_02\",\"value\":0},{\"name\":\"BS_Face_03\",\"value\":0},{\"name\":\"BS_Face_04\",\"value\":1},{\"name\":\"BS_Lips_02\",\"value\":0},{\"name\":\"BS_Eyes_08\",\"value\":1},{\"name\":\"BS_Lips_02\",\"value\":1}]"
+        },
+        "npcGear": {
+            "helmet": "Gold",
+            "bodyArmor": "Chest_Z1U1_Ass",
+            "boots": "Feet_Z1U1_Fig",
+            "back": "Gold",
+            "pants": "Legs_Z1RKoboldA_FigAss",
+            "weapon": "Sword_Start",
+            "gloves": "Hands_Z1U1_Ass",
+            "weapon2": "Gold",
+            "defenseWeapon": "Gold",
+            "shoulders": "Gold"
+        },
+        "raw": {
+            "$cdbtype": "element",
+            "id": "NPC_Scout",
+            "texts": {
+                "name": "Scout Pilgrim"
+            },
+            "props": {
+                "npc": {
+                    "unit": "BaseHero",
+                    "npcSkin": {
+                        "skinColor": "Skin_02",
+                        "eyeColor": "Dog_01b",
+                        "hairColor": "Hair_Brown_02",
+                        "eyes": "Eyes_01",
+                        "hair": "Hair_Medium_Bun_01",
+                        "facialHair": "Beard_None",
+                        "hairColorSecondary": "Hair_Brown_02",
+                        "eyebrows": "Eyebrows_08",
+                        "template": 1,
+                        "shapes": {
+                            "map": {
+                                "BS_Ears_01": 0,
+                                "BS_Face_01": 0,
+                                "BS_Nose_01": 1,
+                                "BS_Ears_02": 1,
+                                "BS_Face_02": 0,
+                                "BS_Face_03": 0,
+                                "BS_Face_04": 1,
+                                "BS_Lips_01": 0,
+                                "BS_Eyes_01": 1,
+                                "BS_Lips_02": 1
+                            },
+                            "obj": null,
+                            "bit": 0,
+                            "": null
+                        },
+                        "blendShapes": "[{\"name\":\"BS_Ears_02\",\"value\":0},{\"name\":\"BS_Face_02\",\"value\":0},{\"name\":\"BS_Nose_02\",\"value\":1},{\"name\":\"BS_Ears_02\",\"value\":1},{\"name\":\"BS_Face_02\",\"value\":0},{\"name\":\"BS_Face_03\",\"value\":0},{\"name\":\"BS_Face_04\",\"value\":1},{\"name\":\"BS_Lips_02\",\"value\":0},{\"name\":\"BS_Eyes_08\",\"value\":1},{\"name\":\"BS_Lips_02\",\"value\":1}]"
+                    },
+                    "npcGear": {
+                        "helmet": "Gold",
+                        "bodyArmor": "Chest_Z1U1_Ass",
+                        "boots": "Feet_Z1U1_Fig",
+                        "back": "Gold",
+                        "pants": "Legs_Z1RKoboldA_FigAss",
+                        "weapon": "Sword_Start",
+                        "gloves": "Hands_Z1U1_Ass",
+                        "weapon2": "Gold",
+                        "defenseWeapon": "Gold",
+                        "shoulders": "Gold"
+                    }
+                },
+                "activateStyle": 0
+            },
+            "script": "",
+            "type": 22,
+            "dialog": [
+                {
+                    "id": "Start",
+                    "text": "See these floating islands up there? I'm on a mission to explore the ruins that sit on top of them. Easy job, right? Well, it gets worse.",
+                    "choices": [],
+                    "props": {}
+                },
+                {
+                    "id": "WaitComplete",
+                    "text": "If I wanna face the golems again, I need to toughen up. I should <objective>find at least 5 motes of Kyre</objective>... Unfortunately, fighting golems is the best way to do that.",
+                    "choices": [
+                        {
+                            "visibleConds": {},
+                            "verb": "DialogCompleteObjective",
+                            "text": "I've got what you need!",
+                            "nextStep": "Complete",
+                            "props": {
+                                "receiveItems": [
+                                    {
+                                        "kind": "Gold",
+                                        "amount": 100
+                                    }
+                                ],
+                                "goal": {
+                                    "objectives": [
+                                        {
+                                            "ref": "FoeKilled",
+                                            "target": [
+                                                0,
+                                                "Golem_Z1W_Earth_E"
+                                            ],
+                                            "value": 1
+                                        }
+                                    ],
+                                    "name": "Up to the Task"
+                                }
+                            },
+                            "flags": 0
+                        },
+                        {
+                            "flags": 0,
+                            "props": {},
+                            "visibleConds": {},
+                            "verb": "DialogLeave"
+                        }
+                    ],
+                    "props": {}
+                },
+                {
+                    "id": "Complete",
+                    "text": "No way! Where did you find that? Don't tell me you just went up there and effortlessly collected golem husks...",
+                    "choices": [],
+                    "props": {}
+                },
+                {
+                    "id": "End",
+                    "text": "Well, thank you! I was kinda hoping this would be my excuse not to do the job. Now, I guess I have no choice.",
+                    "choices": [],
+                    "props": {}
+                }
+            ],
+            "chunkId": "L0_-3_+16",
+            "worldX": -373.2554,
+            "worldY": 1457.8147
+        }
+    },
+    {
+        "id": "npc-L0_-5_+22-NPC_Tyra_1",
+        "type": "npc",
+        "label": "NPC Tyra 1",
+        "icon": "/icons/UI/Portraits/Units/BaseNPC_01.png",
+        "px": 3101.2659555555556,
+        "py": 9869.146311111112,
+        "worldX": -559.5379,
+        "worldY": 2095.3948,
+        "chunkId": "L0_-5_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+22\\gameplayData.prefab",
+        "elementId": "NPC_Tyra_1",
+        "name": null,
+        "npcUnit": "TODO_BaseNPC_01",
+        "npcSkin": null,
+        "npcGear": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "NPC_Tyra_1",
+            "texts": {
+                "name": "Tyra Firma"
+            },
+            "props": {
+                "npc": {
+                    "unit": "TODO_BaseNPC_01"
+                },
+                "activateStyle": 0
+            },
+            "script": "",
+            "type": 22,
+            "dialog": [
+                {
+                    "id": "Start",
+                    "text": "So, how does it feel to tread new ground for the first time? Siagarta is actually quite old... but it does feel new, doesn’t it?",
+                    "choices": [],
+                    "props": {
+                        "__id__": 721040
+                    }
+                },
+                {
+                    "id": "Next1",
+                    "text": "I’m with the Pilgrims of Merilam. A faction of adventurers trying to map Siagarta and restore its ruins. They charged me with making sure you newcomers don’t get devoured by animals.",
+                    "choices": [],
+                    "props": {
+                        "__id__": 721043
+                    }
+                },
+                {
+                    "id": "WaitComplete",
+                    "text": "As you can see, this place is crawling with ferocious crabs. Why don't you <objective>show me you can defend yourself by bringing me one of their clamps</objective>? If you can do that, I’ll give you something useful.",
+                    "choices": [
+                        {
+                            "visibleConds": {
+                                "__id__": 721047
+                            },
+                            "verb": "DialogCompleteObjective",
+                            "text": "It's done!",
+                            "nextStep": "Complete",
+                            "props": {
+                                "receiveItems": [
+                                    {
+                                        "kind": "Gold",
+                                        "amount": 20
+                                    },
+                                    {
+                                        "kind": "SmallPouch",
+                                        "amount": 1
+                                    }
+                                ],
+                                "goal": {
+                                    "objectives": [
+                                        {
+                                            "ref": "ItemOwned",
+                                            "target": [
+                                                3,
+                                                "CrabMeat_Z1"
+                                            ],
+                                            "value": 1
+                                        }
+                                    ],
+                                    "name": "Claw and Order"
+                                }
+                            },
+                            "flags": 0
+                        },
+                        {
+                            "flags": 0,
+                            "props": {
+                                "__id__": 721055
+                            },
+                            "visibleConds": {
+                                "__id__": 721056
+                            },
+                            "verb": "DialogLeave"
+                        }
+                    ],
+                    "props": {
+                        "__id__": 721057
+                    }
+                },
+                {
+                    "id": "Complete",
+                    "text": "Alright, I'd say you've got decent chances of survival! Now, here’s how you can further increase them: whenever you’re feeling lost, just look for the nearest Obelisk.",
+                    "choices": [],
+                    "props": {
+                        "__id__": 721060
+                    }
+                },
+                {
+                    "id": "End",
+                    "text": "Obelisks are big stone pillars with little ponds around them. There's one right up that hill, you can't miss it. Now hit the road, Claude! Adventure awaits!",
+                    "choices": [],
+                    "props": {
+                        "__id__": 721066
+                    }
+                }
+            ],
+            "chunkId": "L0_-5_+22",
+            "worldX": -559.5379,
+            "worldY": 2095.3948
+        }
+    }
+]

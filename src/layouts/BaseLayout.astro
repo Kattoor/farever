@@ -2,7 +2,7 @@
 import "../styles/global.css";
 import { url } from "../lib/urls";
 
-const { title = "Game DB" } = Astro.props;
+const { title = "Game DB", wide = false } = Astro.props;
 ---
 <!doctype html>
 <html lang="en">
@@ -12,7 +12,7 @@ const { title = "Game DB" } = Astro.props;
   <title>{title}</title>
 </head>
 <body>
-<div class="container">
+<div class:list={["container", wide && "container-wide"]}>
   <header class="header">
     <div class="brand">
       <span class="pill">🧩 Data</span>
@@ -28,6 +28,7 @@ const { title = "Game DB" } = Astro.props;
       <a href={url("jobs/")}>Jobs</a>
       <a href={url("skills/")}>Skills</a>
       <a href={url("attributes/")}>Attributes</a>
+      <a href={url("map/")}>Map</a>
       <a href={url("search/")}>Search</a>
     </nav>
   </header>

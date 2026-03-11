@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "tileScheme": "/{z}/{x}/{y}.webp",
+  "tileFormat": "webp",
+  "tileSize": 512,
+  "minZoom": 0,
+  "maxZoom": 5,
+  "width": 11264,
+  "height": 11264,
+  "source": {
+    "sourceTilePx": 1024,
+    "minTileX": -4,
+    "maxTileX": 6,
+    "minTileY": -6,
+    "maxTileY": 4
+  }
+}

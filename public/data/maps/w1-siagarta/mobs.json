@@ -1,0 +1,4943 @@
+[
+    {
+        "id": "mob-L0_-8_+22-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2560.1205333333332,
+        "py": 9848.538311111111,
+        "worldX": -863.9322,
+        "worldY": 2083.8028,
+        "chunkId": "L0_-8_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+22\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {
+                "__id__": 16483235
+            },
+            "chunkId": "L0_-8_+22",
+            "worldX": -863.9322,
+            "worldY": 2083.8028
+        }
+    },
+    {
+        "id": "mob-L0_-8_+22-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2633.8026666666665,
+        "py": 9898.573155555556,
+        "worldX": -822.486,
+        "worldY": 2111.9474,
+        "chunkId": "L0_-8_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+22\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {
+                "__id__": 16483237
+            },
+            "chunkId": "L0_-8_+22",
+            "worldX": -822.486,
+            "worldY": 2111.9474
+        }
+    },
+    {
+        "id": "mob-L0_-8_+23-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2675.1571555555556,
+        "py": 9995.93511111111,
+        "worldX": -799.2241,
+        "worldY": 2166.7135,
+        "chunkId": "L0_-8_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "chunkId": "L0_-8_+23",
+            "worldX": -799.2241,
+            "worldY": 2166.7135
+        }
+    },
+    {
+        "id": "mob-L0_-8_+23-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2730.4904888888886,
+        "py": 9902.3136,
+        "worldX": -768.0991,
+        "worldY": 2114.0514,
+        "chunkId": "L0_-8_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "chunkId": "L0_-8_+23",
+            "worldX": -768.0991,
+            "worldY": 2114.0514
+        }
+    },
+    {
+        "id": "mob-L0_-8_+23-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2721.1276444444447,
+        "py": 9964.7984,
+        "worldX": -773.3657,
+        "worldY": 2149.1991,
+        "chunkId": "L0_-8_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "chunkId": "L0_-8_+23",
+            "worldX": -773.3657,
+            "worldY": 2149.1991
+        }
+    },
+    {
+        "id": "mob-L0_-8_+23-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2646.782044444444,
+        "py": 10025.244622222222,
+        "worldX": -815.1851,
+        "worldY": 2183.2001,
+        "chunkId": "L0_-8_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "chunkId": "L0_-8_+23",
+            "worldX": -815.1851,
+            "worldY": 2183.2001
+        }
+    },
+    {
+        "id": "mob-L0_-8_+23-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2576.1011555555556,
+        "py": 9916.423822222223,
+        "worldX": -854.9431,
+        "worldY": 2121.9884,
+        "chunkId": "L0_-8_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "chunkId": "L0_-8_+23",
+            "worldX": -854.9431,
+            "worldY": 2121.9884
+        }
+    },
+    {
+        "id": "mob-L0_-8_+23-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2644.804977777778,
+        "py": 9951.930666666667,
+        "worldX": -816.2972,
+        "worldY": 2141.961,
+        "chunkId": "L0_-8_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-8_+23",
+            "worldX": -816.2972,
+            "worldY": 2141.961
+        }
+    },
+    {
+        "id": "mob-L0_-9_+22-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2519.771911111111,
+        "py": 9880.317511111112,
+        "worldX": -886.6283,
+        "worldY": 2101.6786,
+        "chunkId": "L0_-9_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+22\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "chunkId": "L0_-9_+22",
+            "worldX": -886.6283,
+            "worldY": 2101.6786
+        }
+    },
+    {
+        "id": "mob-L0_-9_+22-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2452.7258666666667,
+        "py": 9810.150044444445,
+        "worldX": -924.3417,
+        "worldY": 2062.2094,
+        "chunkId": "L0_-9_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+22\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+22",
+            "worldX": -924.3417,
+            "worldY": 2062.2094
+        }
+    },
+    {
+        "id": "mob-L0_-9_+22-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2424.004266666667,
+        "py": 9784.615644444444,
+        "worldX": -940.4976,
+        "worldY": 2047.8463,
+        "chunkId": "L0_-9_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+22\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+22",
+            "worldX": -940.4976,
+            "worldY": 2047.8463
+        }
+    },
+    {
+        "id": "mob-L0_-9_+22-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2405.5312,
+        "py": 9875.678933333333,
+        "worldX": -950.8887,
+        "worldY": 2099.0694,
+        "chunkId": "L0_-9_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+22\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+22",
+            "worldX": -950.8887,
+            "worldY": 2099.0694
+        }
+    },
+    {
+        "id": "mob-L0_-9_+23-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2505.9793777777777,
+        "py": 9929.938666666667,
+        "worldX": -894.3866,
+        "worldY": 2129.5905,
+        "chunkId": "L0_-9_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "chunkId": "L0_-9_+23",
+            "worldX": -894.3866,
+            "worldY": 2129.5905
+        }
+    },
+    {
+        "id": "mob-L0_-9_+23-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2459.564088888889,
+        "py": 9942.999644444444,
+        "worldX": -920.4952,
+        "worldY": 2136.9373,
+        "chunkId": "L0_-9_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "chunkId": "L0_-9_+23",
+            "worldX": -920.4952,
+            "worldY": 2136.9373
+        }
+    },
+    {
+        "id": "mob-L0_-9_+23-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2449.565688888889,
+        "py": 10005.561955555555,
+        "worldX": -926.1193,
+        "worldY": 2172.1286,
+        "chunkId": "L0_-9_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "chunkId": "L0_-9_+23",
+            "worldX": -926.1193,
+            "worldY": 2172.1286
+        }
+    },
+    {
+        "id": "mob-L0_-9_+23-node",
+        "type": "mob",
+        "label": "Apix Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Natural_01.png",
+        "px": 2409.0867555555556,
+        "py": 9941.45671111111,
+        "worldX": -948.8887,
+        "worldY": 2136.0694,
+        "chunkId": "L0_-9_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+23",
+            "worldX": -948.8887,
+            "worldY": 2136.0694
+        }
+    },
+    {
+        "id": "mob-L0_-8_+21-Elite_Spawner",
+        "type": "mob",
+        "label": "Belzebubbles",
+        "icon": "/icons/UI/Portraits/Units/GiantCrab_Orange.png",
+        "px": 2595.670036235446,
+        "py": 9637.759633027094,
+        "worldX": -843.9356046175618,
+        "worldY": 1965.2397935777406,
+        "chunkId": "L0_-8_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_E",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W_E",
+            "props": {
+                "roamingRange": 0
+            },
+            "$cdbtype": "spawner",
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-8_+21",
+            "worldX": -843.9356046175618,
+            "worldY": 1965.2397935777406
+        }
+    },
+    {
+        "id": "mob-L1_-2_+11-Elite_Spawner",
+        "type": "mob",
+        "label": "Blob Dylan",
+        "icon": "/icons/UI/Portraits/Units/Slime_Elite_Yellow.png",
+        "px": 3284.9992888888887,
+        "py": 9773.232177777778,
+        "worldX": -456.1879,
+        "worldY": 2041.4431,
+        "chunkId": "L1_-2_+11",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-2_+11\\gameplayData.prefab",
+        "unitId": "Slime_Z1W_E",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Slime_Z1W_E",
+            "props": {
+                "roamingRange": 0
+            },
+            "$cdbtype": "spawner",
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L1_-2_+11",
+            "worldX": -456.1879,
+            "worldY": 2041.4431
+        }
+    },
+    {
+        "id": "mob-L0_-3_+18-node",
+        "type": "mob",
+        "label": "Buttontail",
+        "icon": "/icons/UI/Portraits/Units/RabbitYellow.png",
+        "px": 3469.4174222222223,
+        "py": 9068.61511111111,
+        "worldX": -352.4527,
+        "worldY": 1645.096,
+        "chunkId": "L0_-3_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+18\\gameplayData.prefab",
+        "unitId": "Rabbit",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Rabbit",
+            "unitGroup": null,
+            "props": {
+                "__id__": 244329
+            },
+            "patrolPath": null,
+            "chunkId": "L0_-3_+18",
+            "worldX": -352.4527,
+            "worldY": 1645.096
+        }
+    },
+    {
+        "id": "mob-L0_-4_+16-node",
+        "type": "mob",
+        "label": "Buttontail",
+        "icon": "/icons/UI/Portraits/Units/RabbitYellow.png",
+        "px": 3313.4652444444446,
+        "py": 8773.9744,
+        "worldX": -440.1758,
+        "worldY": 1479.3606,
+        "chunkId": "L0_-4_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+16\\gameplayData.prefab",
+        "unitId": "Rabbit",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Rabbit",
+            "unitGroup": null,
+            "props": {},
+            "patrolPath": null,
+            "chunkId": "L0_-4_+16",
+            "worldX": -440.1758,
+            "worldY": 1479.3606
+        }
+    },
+    {
+        "id": "mob-L0_-5_+16-node",
+        "type": "mob",
+        "label": "Buttontail",
+        "icon": "/icons/UI/Portraits/Units/RabbitYellow.png",
+        "px": 3102.306311111111,
+        "py": 8872.170666666667,
+        "worldX": -558.9527,
+        "worldY": 1534.596,
+        "chunkId": "L0_-5_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+16\\gameplayData.prefab",
+        "unitId": "Rabbit",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Rabbit",
+            "unitGroup": null,
+            "props": {},
+            "patrolPath": null,
+            "chunkId": "L0_-5_+16",
+            "worldX": -558.9527,
+            "worldY": 1534.596
+        }
+    },
+    {
+        "id": "mob-L0_-5_+17-node",
+        "type": "mob",
+        "label": "Buttontail",
+        "icon": "/icons/UI/Portraits/Units/RabbitYellow.png",
+        "px": 3233.8618666666666,
+        "py": 8883.726222222222,
+        "worldX": -484.9527,
+        "worldY": 1541.096,
+        "chunkId": "L0_-5_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+17\\gameplayData.prefab",
+        "unitId": "Rabbit",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Rabbit",
+            "unitGroup": null,
+            "props": {},
+            "patrolPath": null,
+            "chunkId": "L0_-5_+17",
+            "worldX": -484.9527,
+            "worldY": 1541.096
+        }
+    },
+    {
+        "id": "mob-L0_-10_+19-node",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2365.8076444444446,
+        "py": 9303.731022222222,
+        "worldX": -973.2332,
+        "worldY": 1777.3487,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-10_+19",
+            "worldX": -973.2332,
+            "worldY": 1777.3487
+        }
+    },
+    {
+        "id": "mob-L0_-10_+20-node",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2324.4961777777776,
+        "py": 9389.542577777778,
+        "worldX": -996.4709,
+        "worldY": 1825.6177,
+        "chunkId": "L0_-10_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-10_+20",
+            "worldX": -996.4709,
+            "worldY": 1825.6177
+        }
+    },
+    {
+        "id": "mob-L0_-10_+20-node",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2371.3491555555556,
+        "py": 9477.35608888889,
+        "worldX": -970.1161,
+        "worldY": 1875.0128,
+        "chunkId": "L0_-10_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-10_+20",
+            "worldX": -970.1161,
+            "worldY": 1875.0128
+        }
+    },
+    {
+        "id": "mob-L0_-10_+21-Crab_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2331.223288888889,
+        "py": 9592.2192,
+        "worldX": -992.6869,
+        "worldY": 1939.6233,
+        "chunkId": "L0_-10_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 1196984
+            },
+            "chunkId": "L0_-10_+21",
+            "worldX": -992.6869,
+            "worldY": 1939.6233
+        }
+    },
+    {
+        "id": "mob-L0_-10_+21-node",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2382.015822222222,
+        "py": 9613.35608888889,
+        "worldX": -964.1161,
+        "worldY": 1951.5128,
+        "chunkId": "L0_-10_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-10_+21",
+            "worldX": -964.1161,
+            "worldY": 1951.5128
+        }
+    },
+    {
+        "id": "mob-L0_-10_+21-node",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2361.571377777778,
+        "py": 9659.57831111111,
+        "worldX": -975.6161,
+        "worldY": 1977.5128,
+        "chunkId": "L0_-10_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-10_+21",
+            "worldX": -975.6161,
+            "worldY": 1977.5128
+        }
+    },
+    {
+        "id": "mob-L0_-4_+23-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3255.361066666667,
+        "py": 9903.511288888889,
+        "worldX": -472.8594,
+        "worldY": 2114.7251,
+        "chunkId": "L0_-4_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+23\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "chunkId": "L0_-4_+23",
+            "worldX": -472.8594,
+            "worldY": 2114.7251
+        }
+    },
+    {
+        "id": "mob-L0_-5_+22-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3215.6513777777777,
+        "py": 9828.120888888889,
+        "worldX": -495.1961,
+        "worldY": 2072.318,
+        "chunkId": "L0_-5_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 721026
+            },
+            "chunkId": "L0_-5_+22",
+            "worldX": -495.1961,
+            "worldY": 2072.318
+        }
+    },
+    {
+        "id": "mob-L0_-5_+22-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3135.7388444444446,
+        "py": 9807.9184,
+        "worldX": -540.1469,
+        "worldY": 2060.9541,
+        "chunkId": "L0_-5_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 721030
+            },
+            "chunkId": "L0_-5_+22",
+            "worldX": -540.1469,
+            "worldY": 2060.9541
+        }
+    },
+    {
+        "id": "mob-L0_-5_+22-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3160.424,
+        "py": 9781.032888888889,
+        "worldX": -526.2615,
+        "worldY": 2045.831,
+        "chunkId": "L0_-5_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 721032
+            },
+            "chunkId": "L0_-5_+22",
+            "worldX": -526.2615,
+            "worldY": 2045.831
+        }
+    },
+    {
+        "id": "mob-L0_-5_+22-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3140.304888888889,
+        "py": 9862.333688888888,
+        "worldX": -537.5785,
+        "worldY": 2091.5627,
+        "chunkId": "L0_-5_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 721028
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-5_+22",
+            "worldX": -537.5785,
+            "worldY": 2091.5627
+        }
+    },
+    {
+        "id": "mob-L0_-5_+23-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3074.8755555555554,
+        "py": 9951.472711111111,
+        "worldX": -574.3825,
+        "worldY": 2141.7034,
+        "chunkId": "L0_-5_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+23\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "chunkId": "L0_-5_+23",
+            "worldX": -574.3825,
+            "worldY": 2141.7034
+        }
+    },
+    {
+        "id": "mob-L0_-5_+23-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3192.9018666666666,
+        "py": 9938.856533333334,
+        "worldX": -507.9927,
+        "worldY": 2134.6068,
+        "chunkId": "L0_-5_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+23\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-5_+23",
+            "worldX": -507.9927,
+            "worldY": 2134.6068
+        }
+    },
+    {
+        "id": "mob-L0_-6_+22-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3057.455111111111,
+        "py": 9894.955733333334,
+        "worldX": -584.1815,
+        "worldY": 2109.9126,
+        "chunkId": "L0_-6_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "chunkId": "L0_-6_+22",
+            "worldX": -584.1815,
+            "worldY": 2109.9126
+        }
+    },
+    {
+        "id": "mob-L0_-6_+22-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3061.245511111111,
+        "py": 9820.907911111111,
+        "worldX": -582.0494,
+        "worldY": 2068.2607,
+        "chunkId": "L0_-6_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "chunkId": "L0_-6_+22",
+            "worldX": -582.0494,
+            "worldY": 2068.2607
+        }
+    },
+    {
+        "id": "mob-L0_-6_+22-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2925.8544,
+        "py": 9867.736888888889,
+        "worldX": -658.2069,
+        "worldY": 2094.602,
+        "chunkId": "L0_-6_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-6_+22",
+            "worldX": -658.2069,
+            "worldY": 2094.602
+        }
+    },
+    {
+        "id": "mob-L0_-6_+23-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3007.7758222222224,
+        "py": 9951.391288888888,
+        "worldX": -612.1261,
+        "worldY": 2141.6576,
+        "chunkId": "L0_-6_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+23\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "chunkId": "L0_-6_+23",
+            "worldX": -612.1261,
+            "worldY": 2141.6576
+        }
+    },
+    {
+        "id": "mob-L0_-6_+23-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 3001.463111111111,
+        "py": 10002.018133333333,
+        "worldX": -615.677,
+        "worldY": 2170.1352,
+        "chunkId": "L0_-6_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+23\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "chunkId": "L0_-6_+23",
+            "worldX": -615.677,
+            "worldY": 2170.1352
+        }
+    },
+    {
+        "id": "mob-L0_-6_+23-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2946.036088888889,
+        "py": 9974.982755555555,
+        "worldX": -646.8547,
+        "worldY": 2154.9278,
+        "chunkId": "L0_-6_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+23\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "chunkId": "L0_-6_+23",
+            "worldX": -646.8547,
+            "worldY": 2154.9278
+        }
+    },
+    {
+        "id": "mob-L0_-6_+23-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2938.206577777778,
+        "py": 9921.475377777779,
+        "worldX": -651.2588,
+        "worldY": 2124.8299,
+        "chunkId": "L0_-6_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+23\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-6_+23",
+            "worldX": -651.2588,
+            "worldY": 2124.8299
+        }
+    },
+    {
+        "id": "mob-L0_-7_+22-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2869.194488888889,
+        "py": 9891.650133333333,
+        "worldX": -690.0781,
+        "worldY": 2108.0532,
+        "chunkId": "L0_-7_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 16721602
+            },
+            "chunkId": "L0_-7_+22",
+            "worldX": -690.0781,
+            "worldY": 2108.0532
+        }
+    },
+    {
+        "id": "mob-L0_-7_+22-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2841.290488888889,
+        "py": 9892.300444444445,
+        "worldX": -705.7741,
+        "worldY": 2108.419,
+        "chunkId": "L0_-7_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 16721604
+            },
+            "chunkId": "L0_-7_+22",
+            "worldX": -705.7741,
+            "worldY": 2108.419
+        }
+    },
+    {
+        "id": "mob-L0_-7_+23-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2893.808711111111,
+        "py": 9934.51271111111,
+        "worldX": -676.2326,
+        "worldY": 2132.1634,
+        "chunkId": "L0_-7_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+23\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "chunkId": "L0_-7_+23",
+            "worldX": -676.2326,
+            "worldY": 2132.1634
+        }
+    },
+    {
+        "id": "mob-L0_-7_+23-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2866.256,
+        "py": 9906.499377777778,
+        "worldX": -691.731,
+        "worldY": 2116.4059,
+        "chunkId": "L0_-7_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+23\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "chunkId": "L0_-7_+23",
+            "worldX": -691.731,
+            "worldY": 2116.4059
+        }
+    },
+    {
+        "id": "mob-L0_-8_+24-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2636.5208888888887,
+        "py": 10115.685866666667,
+        "worldX": -820.957,
+        "worldY": 2234.0733,
+        "chunkId": "L0_-8_+24",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+24\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-8_+24",
+            "worldX": -820.957,
+            "worldY": 2234.0733
+        }
+    },
+    {
+        "id": "mob-L0_-9_+19-node",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2420.9187555555554,
+        "py": 9264.619911111111,
+        "worldX": -942.2332,
+        "worldY": 1755.3487,
+        "chunkId": "L0_-9_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+19",
+            "worldX": -942.2332,
+            "worldY": 1755.3487
+        }
+    },
+    {
+        "id": "mob-L0_-9_+21-node",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2426.460266666667,
+        "py": 9717.35608888889,
+        "worldX": -939.1161,
+        "worldY": 2010.0128,
+        "chunkId": "L0_-9_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+21",
+            "worldX": -939.1161,
+            "worldY": 2010.0128
+        }
+    },
+    {
+        "id": "mob-L0_-9_+21-node",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2470.9047111111113,
+        "py": 9657.800533333333,
+        "worldX": -914.1161,
+        "worldY": 1976.5128,
+        "chunkId": "L0_-9_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+21",
+            "worldX": -914.1161,
+            "worldY": 1976.5128
+        }
+    },
+    {
+        "id": "mob-L0_-9_+21-node",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2427.3491555555556,
+        "py": 9598.244977777778,
+        "worldX": -938.6161,
+        "worldY": 1943.0128,
+        "chunkId": "L0_-9_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+21",
+            "worldX": -938.6161,
+            "worldY": 1943.0128
+        }
+    },
+    {
+        "id": "mob-L0_-9_+24-Crawler_Spawner",
+        "type": "mob",
+        "label": "Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Orange.png",
+        "px": 2528.2126222222223,
+        "py": 10143.150577777778,
+        "worldX": -881.8804,
+        "worldY": 2249.5222,
+        "chunkId": "L0_-9_+24",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+24\\gameplayData.prefab",
+        "unitId": "Crab_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Crab_Z1W",
+            "$cdbtype": "spawner",
+            "props": {},
+            "chunkId": "L0_-9_+24",
+            "worldX": -881.8804,
+            "worldY": 2249.5222
+        }
+    },
+    {
+        "id": "mob-L0_-1_+21-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3809.381155555556,
+        "py": 9679.046044444445,
+        "worldX": -161.2231,
+        "worldY": 1988.4634,
+        "chunkId": "L0_-1_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 243911
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-1_+21",
+            "worldX": -161.2231,
+            "worldY": 1988.4634
+        }
+    },
+    {
+        "id": "mob-L0_-1_+21-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3787.3317333333334,
+        "py": 9640.862222222222,
+        "worldX": -173.6259,
+        "worldY": 1966.985,
+        "chunkId": "L0_-1_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 243913
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-1_+21",
+            "worldX": -173.6259,
+            "worldY": 1966.985
+        }
+    },
+    {
+        "id": "mob-L0_-2_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3616.5712,
+        "py": 9356.990755555555,
+        "worldX": -269.6787,
+        "worldY": 1807.3073,
+        "chunkId": "L0_-2_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-2_+19",
+            "worldX": -269.6787,
+            "worldY": 1807.3073
+        }
+    },
+    {
+        "id": "mob-L0_-2_+20-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3741.8145777777777,
+        "py": 9458.620088888889,
+        "worldX": -199.2293,
+        "worldY": 1864.4738,
+        "chunkId": "L0_-2_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 720216
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-2_+20",
+            "worldX": -199.2293,
+            "worldY": 1864.4738
+        }
+    },
+    {
+        "id": "mob-L0_-2_+21-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3586.258311111111,
+        "py": 9699.089955555555,
+        "worldX": -286.7297,
+        "worldY": 1999.7381,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 478812
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-2_+21",
+            "worldX": -286.7297,
+            "worldY": 1999.7381
+        }
+    },
+    {
+        "id": "mob-L0_-2_+21-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3727.296533333333,
+        "py": 9632.715733333333,
+        "worldX": -207.3957,
+        "worldY": 1962.4026,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 243915
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-2_+21",
+            "worldX": -207.3957,
+            "worldY": 1962.4026
+        }
+    },
+    {
+        "id": "mob-L0_-2_+22-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3697.544,
+        "py": 9746.656355555555,
+        "worldX": -224.1315,
+        "worldY": 2026.4942,
+        "chunkId": "L0_-2_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-2_+22",
+            "worldX": -224.1315,
+            "worldY": 2026.4942
+        }
+    },
+    {
+        "id": "mob-L0_-2_+22-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3662.536,
+        "py": 9811.296711111112,
+        "worldX": -243.8235,
+        "worldY": 2062.8544,
+        "chunkId": "L0_-2_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-2_+22",
+            "worldX": -243.8235,
+            "worldY": 2062.8544
+        }
+    },
+    {
+        "id": "mob-L0_-2_+22-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3640.4360888888887,
+        "py": 9763.319644444444,
+        "worldX": -256.2547,
+        "worldY": 2035.8673,
+        "chunkId": "L0_-2_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-2_+22",
+            "worldX": -256.2547,
+            "worldY": 2035.8673
+        }
+    },
+    {
+        "id": "mob-L0_-2_+22-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3598.207288888889,
+        "py": 9742.273244444445,
+        "worldX": -280.0084,
+        "worldY": 2024.0287,
+        "chunkId": "L0_-2_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "chunkId": "L0_-2_+22",
+            "worldX": -280.0084,
+            "worldY": 2024.0287
+        }
+    },
+    {
+        "id": "mob-L0_-3_+18-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3526.121777777778,
+        "py": 9190.579911111112,
+        "worldX": -320.5565,
+        "worldY": 1713.7012,
+        "chunkId": "L0_-3_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+18\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 244325
+            },
+            "chunkId": "L0_-3_+18",
+            "worldX": -320.5565,
+            "worldY": 1713.7012
+        }
+    },
+    {
+        "id": "mob-L0_-3_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3573.8318222222224,
+        "py": 9282.681244444444,
+        "worldX": -293.7196,
+        "worldY": 1765.5082,
+        "chunkId": "L0_-3_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 479080
+            },
+            "chunkId": "L0_-3_+19",
+            "worldX": -293.7196,
+            "worldY": 1765.5082
+        }
+    },
+    {
+        "id": "mob-L0_-3_+20-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3502.784888888889,
+        "py": 9421.990222222223,
+        "worldX": -333.6835,
+        "worldY": 1843.8695,
+        "chunkId": "L0_-3_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 241974
+            },
+            "chunkId": "L0_-3_+20",
+            "worldX": -333.6835,
+            "worldY": 1843.8695
+        }
+    },
+    {
+        "id": "mob-L0_-3_+20-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3549.909866666667,
+        "py": 9548.863822222222,
+        "worldX": -307.1757,
+        "worldY": 1915.2359,
+        "chunkId": "L0_-3_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 241976
+            },
+            "chunkId": "L0_-3_+20",
+            "worldX": -307.1757,
+            "worldY": 1915.2359
+        }
+    },
+    {
+        "id": "mob-L0_-3_+22-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3583.6544,
+        "py": 9791.13048888889,
+        "worldX": -288.1944,
+        "worldY": 2051.5109,
+        "chunkId": "L0_-3_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+22\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-3_+22",
+            "worldX": -288.1944,
+            "worldY": 2051.5109
+        }
+    },
+    {
+        "id": "mob-L0_-4_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3384.1109333333334,
+        "py": 9264.788977777778,
+        "worldX": -400.4376,
+        "worldY": 1755.4438,
+        "chunkId": "L0_-4_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 479311
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-4_+19",
+            "worldX": -400.4376,
+            "worldY": 1755.4438
+        }
+    },
+    {
+        "id": "mob-L0_-4_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3367.8277333333335,
+        "py": 9320.144355555556,
+        "worldX": -409.5969,
+        "worldY": 1786.5812,
+        "chunkId": "L0_-4_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 479304
+            },
+            "chunkId": "L0_-4_+19",
+            "worldX": -409.5969,
+            "worldY": 1786.5812
+        }
+    },
+    {
+        "id": "mob-L0_-4_+20-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3354.7130666666667,
+        "py": 9545.645155555556,
+        "worldX": -416.9739,
+        "worldY": 1913.4254,
+        "chunkId": "L0_-4_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "chunkId": "L0_-4_+20",
+            "worldX": -416.9739,
+            "worldY": 1913.4254
+        }
+    },
+    {
+        "id": "mob-L0_-4_+20-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3309.578666666667,
+        "py": 9491.361066666666,
+        "worldX": -442.362,
+        "worldY": 1882.8906,
+        "chunkId": "L0_-4_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-4_+20",
+            "worldX": -442.362,
+            "worldY": 1882.8906
+        }
+    },
+    {
+        "id": "mob-L0_-4_+20-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3374.7672888888887,
+        "py": 9480.575466666667,
+        "worldX": -405.6934,
+        "worldY": 1876.8237,
+        "chunkId": "L0_-4_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "chunkId": "L0_-4_+20",
+            "worldX": -405.6934,
+            "worldY": 1876.8237
+        }
+    },
+    {
+        "id": "mob-L0_-4_+20-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3400.870933333333,
+        "py": 9554.01688888889,
+        "worldX": -391.0101,
+        "worldY": 1918.1345000000001,
+        "chunkId": "L0_-4_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "chunkId": "L0_-4_+20",
+            "worldX": -391.0101,
+            "worldY": 1918.1345000000001
+        }
+    },
+    {
+        "id": "mob-L0_-5_+18-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3109.872888888889,
+        "py": 9170.479644444444,
+        "worldX": -554.6965,
+        "worldY": 1702.3948,
+        "chunkId": "L0_-5_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+18\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 244846
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-5_+18",
+            "worldX": -554.6965,
+            "worldY": 1702.3948
+        }
+    },
+    {
+        "id": "mob-L0_-5_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3227.2172444444445,
+        "py": 9316.806044444445,
+        "worldX": -488.6903,
+        "worldY": 1784.7034,
+        "chunkId": "L0_-5_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "chunkId": "L0_-5_+19",
+            "worldX": -488.6903,
+            "worldY": 1784.7034
+        }
+    },
+    {
+        "id": "mob-L0_-5_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3082.6311111111113,
+        "py": 9226.435555555556,
+        "worldX": -570.02,
+        "worldY": 1733.87,
+        "chunkId": "L0_-5_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "chunkId": "L0_-5_+19",
+            "worldX": -570.02,
+            "worldY": 1733.87
+        }
+    },
+    {
+        "id": "mob-L0_-5_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3228.1424,
+        "py": 9222.392355555556,
+        "worldX": -488.1699,
+        "worldY": 1731.5957,
+        "chunkId": "L0_-5_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-5_+19",
+            "worldX": -488.1699,
+            "worldY": 1731.5957
+        }
+    },
+    {
+        "id": "mob-L0_-5_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3098.7882666666665,
+        "py": 9329.00888888889,
+        "worldX": -560.9316,
+        "worldY": 1791.5675,
+        "chunkId": "L0_-5_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-5_+19",
+            "worldX": -560.9316,
+            "worldY": 1791.5675
+        }
+    },
+    {
+        "id": "mob-L0_-5_+20-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3166.7507555555553,
+        "py": 9423.795022222223,
+        "worldX": -522.7027,
+        "worldY": 1844.8847,
+        "chunkId": "L0_-5_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-5_+20",
+            "worldX": -522.7027,
+            "worldY": 1844.8847
+        }
+    },
+    {
+        "id": "mob-L0_-5_+20-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3236.1957333333335,
+        "py": 9508.592355555556,
+        "worldX": -483.6399,
+        "worldY": 1892.5832,
+        "chunkId": "L0_-5_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+20\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "chunkId": "L0_-5_+20",
+            "worldX": -483.6399,
+            "worldY": 1892.5832
+        }
+    },
+    {
+        "id": "mob-L0_-6_+18-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 2937.2584888888887,
+        "py": 9181.087288888888,
+        "worldX": -651.7921,
+        "worldY": 1708.3616,
+        "chunkId": "L0_-6_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+18\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {
+                "__id__": 721234
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-6_+18",
+            "worldX": -651.7921,
+            "worldY": 1708.3616
+        }
+    },
+    {
+        "id": "mob-L0_-6_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3061.514311111111,
+        "py": 9286.354666666666,
+        "worldX": -581.8982,
+        "worldY": 1767.5745,
+        "chunkId": "L0_-6_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "chunkId": "L0_-6_+19",
+            "worldX": -581.8982,
+            "worldY": 1767.5745
+        }
+    },
+    {
+        "id": "mob-L0_-6_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3055.6624,
+        "py": 9344.506666666666,
+        "worldX": -585.1899,
+        "worldY": 1800.285,
+        "chunkId": "L0_-6_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "chunkId": "L0_-6_+19",
+            "worldX": -585.1899,
+            "worldY": 1800.285
+        }
+    },
+    {
+        "id": "mob-L0_-6_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3019.6823111111107,
+        "py": 9266.9968,
+        "worldX": -605.4287,
+        "worldY": 1756.6857,
+        "chunkId": "L0_-6_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "chunkId": "L0_-6_+19",
+            "worldX": -605.4287,
+            "worldY": 1756.6857
+        }
+    },
+    {
+        "id": "mob-L0_-6_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3025.820622222222,
+        "py": 9358.231111111112,
+        "worldX": -601.9759,
+        "worldY": 1808.005,
+        "chunkId": "L0_-6_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "chunkId": "L0_-6_+19",
+            "worldX": -601.9759,
+            "worldY": 1808.005
+        }
+    },
+    {
+        "id": "mob-L0_-6_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 3006.264711111111,
+        "py": 9217.987377777778,
+        "worldX": -612.9761,
+        "worldY": 1729.1179,
+        "chunkId": "L0_-6_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "chunkId": "L0_-6_+19",
+            "worldX": -612.9761,
+            "worldY": 1729.1179
+        }
+    },
+    {
+        "id": "mob-L0_-6_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 2907.091911111111,
+        "py": 9254.298666666666,
+        "worldX": -668.7608,
+        "worldY": 1749.543,
+        "chunkId": "L0_-6_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "chunkId": "L0_-6_+19",
+            "worldX": -668.7608,
+            "worldY": 1749.543
+        }
+    },
+    {
+        "id": "mob-L0_-7_+18-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 2857.052977777778,
+        "py": 9200.0576,
+        "worldX": -696.9077,
+        "worldY": 1719.0324,
+        "chunkId": "L0_-7_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+18\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-7_+18",
+            "worldX": -696.9077,
+            "worldY": 1719.0324
+        }
+    },
+    {
+        "id": "mob-L0_-7_+19-node",
+        "type": "mob",
+        "label": "Fiddler Crab",
+        "icon": "/icons/UI/Portraits/Units/Snapper_Green.png",
+        "px": 2869.4403555555555,
+        "py": 9250.176177777777,
+        "worldX": -689.9398,
+        "worldY": 1747.2241,
+        "chunkId": "L0_-7_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+19\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_2",
+            "props": {},
+            "unitGroup": null,
+            "chunkId": "L0_-7_+19",
+            "worldX": -689.9398,
+            "worldY": 1747.2241
+        }
+    },
+    {
+        "id": "mob-L0_-4_+6-node",
+        "type": "mob",
+        "label": "Grassflopper",
+        "icon": "/icons/UI/Portraits/Units/FrogGreen.png",
+        "px": 3274.4293333333335,
+        "py": 7147.9075555555555,
+        "worldX": -462.1335,
+        "worldY": 564.698,
+        "chunkId": "L0_-4_+6",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+6\\gameplayData.prefab",
+        "unitId": "Frog",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Frog",
+            "unitGroup": null,
+            "props": {
+                "__id__": 244721
+            },
+            "patrolPath": null,
+            "chunkId": "L0_-4_+6",
+            "worldX": -462.1335,
+            "worldY": 564.698
+        }
+    },
+    {
+        "id": "mob-L0_-5_+20-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 3079.928177777778,
+        "py": 9535.918933333334,
+        "worldX": -571.5404,
+        "worldY": 1907.9544,
+        "chunkId": "L0_-5_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+20\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "chunkId": "L0_-5_+20",
+            "worldX": -571.5404,
+            "worldY": 1907.9544
+        }
+    },
+    {
+        "id": "mob-L0_-5_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 3206.426844444444,
+        "py": 9616.913955555556,
+        "worldX": -500.3849,
+        "worldY": 1953.5141,
+        "chunkId": "L0_-5_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 242504
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-5_+21",
+            "worldX": -500.3849,
+            "worldY": 1953.5141
+        }
+    },
+    {
+        "id": "mob-L0_-5_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 3091.3374222222224,
+        "py": 9719.100622222222,
+        "worldX": -565.1227,
+        "worldY": 2010.9941,
+        "chunkId": "L0_-5_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 242506
+            },
+            "chunkId": "L0_-5_+21",
+            "worldX": -565.1227,
+            "worldY": 2010.9941
+        }
+    },
+    {
+        "id": "mob-L0_-5_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 3166.1328,
+        "py": 9612.698844444445,
+        "worldX": -523.0503,
+        "worldY": 1951.1431,
+        "chunkId": "L0_-5_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 242508
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-5_+21",
+            "worldX": -523.0503,
+            "worldY": 1951.1431
+        }
+    },
+    {
+        "id": "mob-L0_-5_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 3213.1870222222224,
+        "py": 9679.179555555556,
+        "worldX": -496.5823,
+        "worldY": 1988.5385,
+        "chunkId": "L0_-5_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 242510
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-5_+21",
+            "worldX": -496.5823,
+            "worldY": 1988.5385
+        }
+    },
+    {
+        "id": "mob-L0_-5_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 3176.0332444444443,
+        "py": 9714.929422222222,
+        "worldX": -517.4813,
+        "worldY": 2008.6478,
+        "chunkId": "L0_-5_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 242512
+            },
+            "chunkId": "L0_-5_+21",
+            "worldX": -517.4813,
+            "worldY": 2008.6478
+        }
+    },
+    {
+        "id": "mob-L0_-5_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 3218.4608,
+        "py": 9672.445866666667,
+        "worldX": -493.6158,
+        "worldY": 1984.7508,
+        "chunkId": "L0_-5_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 242514
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-5_+21",
+            "worldX": -493.6158,
+            "worldY": 1984.7508
+        }
+    },
+    {
+        "id": "mob-L0_-6_+20-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2986.7857777777776,
+        "py": 9525.089244444443,
+        "worldX": -623.933,
+        "worldY": 1901.8627,
+        "chunkId": "L0_-6_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+20\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "chunkId": "L0_-6_+20",
+            "worldX": -623.933,
+            "worldY": 1901.8627
+        }
+    },
+    {
+        "id": "mob-L0_-6_+20-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 3051.7968,
+        "py": 9522.290844444444,
+        "worldX": -587.3643,
+        "worldY": 1900.2886,
+        "chunkId": "L0_-6_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+20\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "chunkId": "L0_-6_+20",
+            "worldX": -587.3643,
+            "worldY": 1900.2886
+        }
+    },
+    {
+        "id": "mob-L0_-6_+20-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 3064.706666666667,
+        "py": 9498.357511111111,
+        "worldX": -580.1025,
+        "worldY": 1886.8261,
+        "chunkId": "L0_-6_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+20\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "chunkId": "L0_-6_+20",
+            "worldX": -580.1025,
+            "worldY": 1886.8261
+        }
+    },
+    {
+        "id": "mob-L0_-6_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2955.5770666666667,
+        "py": 9576.338488888889,
+        "worldX": -641.4879,
+        "worldY": 1930.6904,
+        "chunkId": "L0_-6_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "chunkId": "L0_-6_+21",
+            "worldX": -641.4879,
+            "worldY": 1930.6904
+        }
+    },
+    {
+        "id": "mob-L0_-6_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 3041.5589333333332,
+        "py": 9723.826133333334,
+        "worldX": -593.1231,
+        "worldY": 2013.6522,
+        "chunkId": "L0_-6_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "chunkId": "L0_-6_+21",
+            "worldX": -593.1231,
+            "worldY": 2013.6522
+        }
+    },
+    {
+        "id": "mob-L0_-7_+20-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2878.1697777777777,
+        "py": 9508.431822222223,
+        "worldX": -685.0295,
+        "worldY": 1892.4929,
+        "chunkId": "L0_-7_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+20\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "chunkId": "L0_-7_+20",
+            "worldX": -685.0295,
+            "worldY": 1892.4929
+        }
+    },
+    {
+        "id": "mob-L0_-7_+20-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2839.0161777777776,
+        "py": 9537.090133333333,
+        "worldX": -707.0534,
+        "worldY": 1908.6132,
+        "chunkId": "L0_-7_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+20\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 960975
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-7_+20",
+            "worldX": -707.0534,
+            "worldY": 1908.6132
+        }
+    },
+    {
+        "id": "mob-L0_-7_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2855.9050666666667,
+        "py": 9580.64568888889,
+        "worldX": -697.5534,
+        "worldY": 1933.1132,
+        "chunkId": "L0_-7_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 960975
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-7_+21",
+            "worldX": -697.5534,
+            "worldY": 1933.1132
+        }
+    },
+    {
+        "id": "mob-L0_-8_+20-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2607.496888888889,
+        "py": 9509.19431111111,
+        "worldX": -837.283,
+        "worldY": 1892.9218,
+        "chunkId": "L0_-8_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+20\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 961008
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-8_+20",
+            "worldX": -837.283,
+            "worldY": 1892.9218
+        }
+    },
+    {
+        "id": "mob-L0_-8_+20-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2603.0524444444445,
+        "py": 9485.19431111111,
+        "worldX": -839.783,
+        "worldY": 1879.4218,
+        "chunkId": "L0_-8_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+20\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 961008
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-8_+20",
+            "worldX": -839.783,
+            "worldY": 1879.4218
+        }
+    },
+    {
+        "id": "mob-L0_-8_+20-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2649.256711111111,
+        "py": 9538.1408,
+        "worldX": -813.7931,
+        "worldY": 1909.2042,
+        "chunkId": "L0_-8_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+20\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 20535051
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-8_+20",
+            "worldX": -813.7931,
+            "worldY": 1909.2042
+        }
+    },
+    {
+        "id": "mob-L0_-8_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2642.9285333333332,
+        "py": 9571.126577777777,
+        "worldX": -817.3527,
+        "worldY": 1927.7587,
+        "chunkId": "L0_-8_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 20535040
+            },
+            "chunkId": "L0_-8_+21",
+            "worldX": -817.3527,
+            "worldY": 1927.7587
+        }
+    },
+    {
+        "id": "mob-L0_-8_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2595.9233777777777,
+        "py": 9572.807466666667,
+        "worldX": -843.7931,
+        "worldY": 1928.7042,
+        "chunkId": "L0_-8_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 20535051
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-8_+21",
+            "worldX": -843.7931,
+            "worldY": 1928.7042
+        }
+    },
+    {
+        "id": "mob-L0_-8_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2711.9050666666667,
+        "py": 9575.312355555556,
+        "worldX": -778.5534,
+        "worldY": 1930.1132,
+        "chunkId": "L0_-8_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 960975
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-8_+21",
+            "worldX": -778.5534,
+            "worldY": 1930.1132
+        }
+    },
+    {
+        "id": "mob-L0_-8_+22-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2581.247111111111,
+        "py": 9815.117333333334,
+        "worldX": -852.0485,
+        "worldY": 2065.0035,
+        "chunkId": "L0_-8_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+22\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 16483233
+            },
+            "chunkId": "L0_-8_+22",
+            "worldX": -852.0485,
+            "worldY": 2065.0035
+        }
+    },
+    {
+        "id": "mob-L0_-8_+22-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2654.844088888889,
+        "py": 9767.410844444445,
+        "worldX": -810.6502,
+        "worldY": 2038.1686,
+        "chunkId": "L0_-8_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+22\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 16483239
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-8_+22",
+            "worldX": -810.6502,
+            "worldY": 2038.1686
+        }
+    },
+    {
+        "id": "mob-L0_-9_+20-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2453.935822222222,
+        "py": 9525.764266666667,
+        "worldX": -923.6611,
+        "worldY": 1902.2424,
+        "chunkId": "L0_-9_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+20\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "chunkId": "L0_-9_+20",
+            "worldX": -923.6611,
+            "worldY": 1902.2424
+        }
+    },
+    {
+        "id": "mob-L0_-9_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2449.3452444444447,
+        "py": 9606.08551111111,
+        "worldX": -926.2433,
+        "worldY": 1947.4231,
+        "chunkId": "L0_-9_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "chunkId": "L0_-9_+21",
+            "worldX": -926.2433,
+            "worldY": 1947.4231
+        }
+    },
+    {
+        "id": "mob-L0_-9_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2492.812266666667,
+        "py": 9601.25191111111,
+        "worldX": -901.7931,
+        "worldY": 1944.7042,
+        "chunkId": "L0_-9_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 20535051
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+21",
+            "worldX": -901.7931,
+            "worldY": 1944.7042
+        }
+    },
+    {
+        "id": "mob-L0_-9_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2532.5434666666665,
+        "py": 9719.589866666667,
+        "worldX": -879.4443,
+        "worldY": 2011.2693,
+        "chunkId": "L0_-9_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+21",
+            "worldX": -879.4443,
+            "worldY": 2011.2693
+        }
+    },
+    {
+        "id": "mob-L0_-9_+21-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2506.0026666666668,
+        "py": 9644.044444444444,
+        "worldX": -894.3735,
+        "worldY": 1968.775,
+        "chunkId": "L0_-9_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+21\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+21",
+            "worldX": -894.3735,
+            "worldY": 1968.775
+        }
+    },
+    {
+        "id": "mob-L0_-9_+22-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2542.3258666666666,
+        "py": 9782.643555555556,
+        "worldX": -873.9417,
+        "worldY": 2046.737,
+        "chunkId": "L0_-9_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+22\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {},
+            "chunkId": "L0_-9_+22",
+            "worldX": -873.9417,
+            "worldY": 2046.737
+        }
+    },
+    {
+        "id": "mob-L0_-9_+22-node",
+        "type": "mob",
+        "label": "Green Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Green_01.png",
+        "px": 2492.4051555555557,
+        "py": 9737.331733333333,
+        "worldX": -902.0221,
+        "worldY": 2021.2491,
+        "chunkId": "L0_-9_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+22\\gameplayData.prefab",
+        "unitId": "Slime_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W",
+            "props": {
+                "__id__": 16483231
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-9_+22",
+            "worldX": -902.0221,
+            "worldY": 2021.2491
+        }
+    },
+    {
+        "id": "mob-L0_-1_+20-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3762.8524444444447,
+        "py": 9547.148444444445,
+        "worldX": -187.3955,
+        "worldY": 1914.271,
+        "chunkId": "L0_-1_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+20\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 2154406
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-1_+20",
+            "worldX": -187.3955,
+            "worldY": 1914.271
+        }
+    },
+    {
+        "id": "mob-L0_-1_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3772.6739555555555,
+        "py": 9592.780977777778,
+        "worldX": -181.8709,
+        "worldY": 1939.9393,
+        "chunkId": "L0_-1_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 243917
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L0_-1_+21",
+            "worldX": -181.8709,
+            "worldY": 1939.9393
+        }
+    },
+    {
+        "id": "mob-L0_-1_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3778.9776,
+        "py": 9623.069155555555,
+        "worldX": -178.3251,
+        "worldY": 1956.9764,
+        "chunkId": "L0_-1_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-1_+21",
+            "worldX": -178.3251,
+            "worldY": 1956.9764
+        }
+    },
+    {
+        "id": "mob-L0_-1_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3790.464177777778,
+        "py": 9558.518577777777,
+        "worldX": -171.8639,
+        "worldY": 1920.6667,
+        "chunkId": "L0_-1_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L0_-1_+21",
+            "worldX": -171.8639,
+            "worldY": 1920.6667
+        }
+    },
+    {
+        "id": "mob-L0_-2_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3734.2330666666667,
+        "py": 9561.307911111111,
+        "worldX": -203.4939,
+        "worldY": 1922.2357,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 478816
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-2_+21",
+            "worldX": -203.4939,
+            "worldY": 1922.2357
+        }
+    },
+    {
+        "id": "mob-L0_-2_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3660.7836444444442,
+        "py": 9684.42328888889,
+        "worldX": -244.8092,
+        "worldY": 1991.4881,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 478827
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-2_+21",
+            "worldX": -244.8092,
+            "worldY": 1991.4881
+        }
+    },
+    {
+        "id": "mob-L0_-2_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3614.657422222222,
+        "py": 9697.700622222223,
+        "worldX": -270.7552,
+        "worldY": 1998.9566,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 478829
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-2_+21",
+            "worldX": -270.7552,
+            "worldY": 1998.9566
+        }
+    },
+    {
+        "id": "mob-L0_-3_+19-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3437.4833777777776,
+        "py": 9270.97848888889,
+        "worldX": -370.4156,
+        "worldY": 1758.9254,
+        "chunkId": "L0_-3_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+19\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 479091
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-3_+19",
+            "worldX": -370.4156,
+            "worldY": 1758.9254
+        }
+    },
+    {
+        "id": "mob-L0_-3_+19-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3527.3889777777777,
+        "py": 9318.245688888888,
+        "worldX": -319.8437,
+        "worldY": 1785.5132,
+        "chunkId": "L0_-3_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+19\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 479086
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-3_+19",
+            "worldX": -319.8437,
+            "worldY": 1785.5132
+        }
+    },
+    {
+        "id": "mob-L0_-3_+20-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3443.3502222222223,
+        "py": 9400.017066666667,
+        "worldX": -367.1155,
+        "worldY": 1831.5096,
+        "chunkId": "L0_-3_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+20\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 241981
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-3_+20",
+            "worldX": -367.1155,
+            "worldY": 1831.5096
+        }
+    },
+    {
+        "id": "mob-L0_-3_+20-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3458.1114666666667,
+        "py": 9497.904355555556,
+        "worldX": -358.8123,
+        "worldY": 1886.5712,
+        "chunkId": "L0_-3_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+20\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 241985
+            },
+            "chunkId": "L0_-3_+20",
+            "worldX": -358.8123,
+            "worldY": 1886.5712
+        }
+    },
+    {
+        "id": "mob-L0_-3_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3574.8359111111113,
+        "py": 9615.1168,
+        "worldX": -293.1548,
+        "worldY": 1952.5032,
+        "chunkId": "L0_-3_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 244400
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-3_+21",
+            "worldX": -293.1548,
+            "worldY": 1952.5032
+        }
+    },
+    {
+        "id": "mob-L0_-4_+18-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3401.8958222222223,
+        "py": 9191.457422222222,
+        "worldX": -390.4336,
+        "worldY": 1714.1948,
+        "chunkId": "L0_-4_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+18\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 479297
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L0_-4_+18",
+            "worldX": -390.4336,
+            "worldY": 1714.1948
+        }
+    },
+    {
+        "id": "mob-L0_-4_+19-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3288.544,
+        "py": 9360.903822222223,
+        "worldX": -454.194,
+        "worldY": 1809.5084,
+        "chunkId": "L0_-4_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+19\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 479300
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-4_+19",
+            "worldX": -454.194,
+            "worldY": 1809.5084
+        }
+    },
+    {
+        "id": "mob-L0_-4_+19-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3278.226488888889,
+        "py": 9253.9728,
+        "worldX": -459.9976,
+        "worldY": 1749.3597,
+        "chunkId": "L0_-4_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+19\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 479302
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-4_+19",
+            "worldX": -459.9976,
+            "worldY": 1749.3597
+        }
+    },
+    {
+        "id": "mob-L0_-5_+18-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3098.667022222222,
+        "py": 9108.566755555556,
+        "worldX": -560.9998,
+        "worldY": 1667.5688,
+        "chunkId": "L0_-5_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+18\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 244857
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L0_-5_+18",
+            "worldX": -560.9998,
+            "worldY": 1667.5688
+        }
+    },
+    {
+        "id": "mob-L0_-5_+18-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3176.3976888888888,
+        "py": 9178.181866666666,
+        "worldX": -517.2763,
+        "worldY": 1706.7273,
+        "chunkId": "L0_-5_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+18\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 244859
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L0_-5_+18",
+            "worldX": -517.2763,
+            "worldY": 1706.7273
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3766.914686878288,
+        "py": 9140.108819763998,
+        "worldX": -185.11048863096283,
+        "worldY": 1685.3112111172486,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Claws",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L1_+0_+10",
+            "worldX": -185.11048863096283,
+            "worldY": 1685.3112111172486
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3780.992373467445,
+        "py": 9123.987904618476,
+        "worldX": -177.19178992456222,
+        "worldY": 1676.2431963478932,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Claws",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L1_+0_+10",
+            "worldX": -177.19178992456222,
+            "worldY": 1676.2431963478932
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3794.7689316797955,
+        "py": 9328.444120929733,
+        "worldX": -169.44247593011494,
+        "worldY": 1791.2498180229752,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L1_+0_+10",
+            "worldX": -169.44247593011494,
+            "worldY": 1791.2498180229752
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3729.3430331241743,
+        "py": 9146.131805818733,
+        "worldX": -206.24454386765194,
+        "worldY": 1688.6991407730375,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Claws",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -206.24454386765194,
+            "worldY": 1688.6991407730375
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3674.5194647474664,
+        "py": 9245.0592021199,
+        "worldX": -237.08280107955002,
+        "worldY": 1744.3458011924447,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Claws",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L1_+0_+10",
+            "worldX": -237.08280107955002,
+            "worldY": 1744.3458011924447
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3682.7144248760856,
+        "py": 9146.99692457708,
+        "worldX": -232.47313600720176,
+        "worldY": 1689.1857700746075,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Claws",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -232.47313600720176,
+            "worldY": 1689.1857700746075
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3700.463818734689,
+        "py": 9277.599783533695,
+        "worldX": -222.48910196173733,
+        "worldY": 1762.649878237703,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Claws",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -222.48910196173733,
+            "worldY": 1762.649878237703
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3727.105753172117,
+        "py": 9317.999984594895,
+        "worldX": -207.50301384068422,
+        "worldY": 1785.374991334628,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Claws",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -207.50301384068422,
+            "worldY": 1785.374991334628
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3815.160830379574,
+        "py": 9276.466514891608,
+        "worldX": -157.97203291148963,
+        "worldY": 1762.01241462653,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Claws",
+            "$cdbtype": "spawner",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -157.97203291148963,
+            "worldY": 1762.01241462653
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3782.7898344127925,
+        "py": 9229.078833768075,
+        "worldX": -176.18071814280415,
+        "worldY": 1735.3568439945418,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Claws",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -176.18071814280415,
+            "worldY": 1735.3568439945418
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Fighter",
+        "icon": "/icons/UI/Portraits/Units/ManfishTurquoise.png",
+        "px": 3674.475817215351,
+        "py": 9156.160390961473,
+        "worldX": -237.10735281636502,
+        "worldY": 1694.340219915829,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Claws",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Claws",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -237.10735281636502,
+            "worldY": 1694.340219915829
+        }
+    },
+    {
+        "id": "mob-L0_-2_+20-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3653.155911111111,
+        "py": 9452.56391111111,
+        "worldX": -249.0998,
+        "worldY": 1861.0672,
+        "chunkId": "L0_-2_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+20\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Manfish_Z1W_Spear",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 720214
+            },
+            "chunkId": "L0_-2_+20",
+            "worldX": -249.0998,
+            "worldY": 1861.0672
+        }
+    },
+    {
+        "id": "mob-L0_-2_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3662.4017777777776,
+        "py": 9574.878222222222,
+        "worldX": -243.899,
+        "worldY": 1929.869,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Spear",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 478814
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-2_+21",
+            "worldX": -243.899,
+            "worldY": 1929.869
+        }
+    },
+    {
+        "id": "mob-L0_-3_+19-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3455.2629333333334,
+        "py": 9339.097066666667,
+        "worldX": -360.4146,
+        "worldY": 1797.2421,
+        "chunkId": "L0_-3_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+19\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Spear",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 479082
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-3_+19",
+            "worldX": -360.4146,
+            "worldY": 1797.2421
+        }
+    },
+    {
+        "id": "mob-L0_-3_+19-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3528.5692444444444,
+        "py": 9365.237155555555,
+        "worldX": -319.1798,
+        "worldY": 1811.9459,
+        "chunkId": "L0_-3_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+19\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Spear",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 479084
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-3_+19",
+            "worldX": -319.1798,
+            "worldY": 1811.9459
+        }
+    },
+    {
+        "id": "mob-L0_-3_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3528.0081777777777,
+        "py": 9615.027733333332,
+        "worldX": -319.4954,
+        "worldY": 1952.4531,
+        "chunkId": "L0_-3_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Spear",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 244402
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-3_+21",
+            "worldX": -319.4954,
+            "worldY": 1952.4531
+        }
+    },
+    {
+        "id": "mob-L0_-4_+19-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3277.6442666666667,
+        "py": 9320.9264,
+        "worldX": -460.3251,
+        "worldY": 1787.0211,
+        "chunkId": "L0_-4_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+19\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Spear",
+            "$cdbtype": "spawner",
+            "props": {
+                "__id__": 479309
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-4_+19",
+            "worldX": -460.3251,
+            "worldY": 1787.0211
+        }
+    },
+    {
+        "id": "mob-L0_-5_+19-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3149.3633777777777,
+        "py": 9286.961066666667,
+        "worldX": -532.4831,
+        "worldY": 1767.9156,
+        "chunkId": "L0_-5_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+19\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "unit": "Manfish_Z1W_Spear",
+            "$cdbtype": "spawner",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L0_-5_+19",
+            "worldX": -532.4831,
+            "worldY": 1767.9156
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3789.365404932447,
+        "py": 9133.433469708549,
+        "worldX": -172.48195972549848,
+        "worldY": 1681.5563267110583,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Spear",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L1_+0_+10",
+            "worldX": -172.48195972549848,
+            "worldY": 1681.5563267110583
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3868.343798597842,
+        "py": 9221.287658370733,
+        "worldX": -128.05661328871378,
+        "worldY": 1730.974307833537,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Spear",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L1_+0_+10",
+            "worldX": -128.05661328871378,
+            "worldY": 1730.974307833537
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3750.0807459195894,
+        "py": 9346.536337657788,
+        "worldX": -194.5795804202309,
+        "worldY": 1801.4266899325057,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Spear",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L1_+0_+10",
+            "worldX": -194.5795804202309,
+            "worldY": 1801.4266899325057
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3866.501810763072,
+        "py": 9310.024316838006,
+        "worldX": -129.09273144577196,
+        "worldY": 1780.8886782213783,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Spear",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L1_+0_+10",
+            "worldX": -129.09273144577196,
+            "worldY": 1780.8886782213783
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Runner",
+        "icon": "/icons/UI/Portraits/Units/ManfishGreen-R(Spear_Manfish_Fishbone_01).png",
+        "px": 3752.3699235482472,
+        "py": 9209.462820663823,
+        "worldX": -193.29191800411093,
+        "worldY": 1724.3228366233998,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Spear",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Spear",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -193.29191800411093,
+            "worldY": 1724.3228366233998
+        }
+    },
+    {
+        "id": "mob-L0_-2_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Wavemonger",
+        "icon": "/icons/UI/Portraits/Units/ManfishBlue-R(Relic_Manfish_CrystalBall_01).png",
+        "px": 3589.4140444444442,
+        "py": 9642.199822222223,
+        "worldX": -284.9546,
+        "worldY": 1967.7374,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Caster",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Caster",
+            "props": {
+                "__id__": 478833
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-2_+21",
+            "worldX": -284.9546,
+            "worldY": 1967.7374
+        }
+    },
+    {
+        "id": "mob-L0_-2_+21-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Wavemonger",
+        "icon": "/icons/UI/Portraits/Units/ManfishBlue-R(Relic_Manfish_CrystalBall_01).png",
+        "px": 3640.3379555555557,
+        "py": 9720.94631111111,
+        "worldX": -256.30989999999997,
+        "worldY": 2012.0323,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Caster",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Caster",
+            "props": {
+                "__id__": 478831
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-2_+21",
+            "worldX": -256.30989999999997,
+            "worldY": 2012.0323
+        }
+    },
+    {
+        "id": "mob-L0_-3_+20-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Wavemonger",
+        "icon": "/icons/UI/Portraits/Units/ManfishBlue-R(Relic_Manfish_CrystalBall_01).png",
+        "px": 3462.3276444444446,
+        "py": 9534.942755555556,
+        "worldX": -356.4407,
+        "worldY": 1907.4053,
+        "chunkId": "L0_-3_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+20\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Caster",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Caster",
+            "props": {
+                "__id__": 241983
+            },
+            "chunkId": "L0_-3_+20",
+            "worldX": -356.4407,
+            "worldY": 1907.4053
+        }
+    },
+    {
+        "id": "mob-L0_-5_+19-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Wavemonger",
+        "icon": "/icons/UI/Portraits/Units/ManfishBlue-R(Relic_Manfish_CrystalBall_01).png",
+        "px": 3235.934222222222,
+        "py": 9378.902933333333,
+        "worldX": -483.787,
+        "worldY": 1819.6329,
+        "chunkId": "L0_-5_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+19\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Caster",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Caster",
+            "props": {},
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L0_-5_+19",
+            "worldX": -483.787,
+            "worldY": 1819.6329
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Wavemonger",
+        "icon": "/icons/UI/Portraits/Units/ManfishBlue-R(Relic_Manfish_CrystalBall_01).png",
+        "px": 3771.0065755804194,
+        "py": 9130.301476770124,
+        "worldX": -182.80880123601398,
+        "worldY": 1679.7945806831945,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Caster",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Caster",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L1_+0_+10",
+            "worldX": -182.80880123601398,
+            "worldY": 1679.7945806831945
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Wavemonger",
+        "icon": "/icons/UI/Portraits/Units/ManfishBlue-R(Relic_Manfish_CrystalBall_01).png",
+        "px": 3854.310691623946,
+        "py": 9221.289461910794,
+        "worldX": -135.95023596153058,
+        "worldY": 1730.9753223248215,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_Caster",
+        "unitGroup": "Z1_Manfish_Beach_Start",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_Caster",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": "Z1_Manfish_Beach_Start",
+            "chunkId": "L1_+0_+10",
+            "worldX": -135.95023596153058,
+            "worldY": 1730.9753223248215
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Whale",
+        "icon": "/icons/UI/Portraits/Units/OgreManfishCyan.png",
+        "px": 3854.3619214316923,
+        "py": 9280.13236900515,
+        "worldX": -135.9214191946729,
+        "worldY": 1764.0744575653976,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "OgreManfish_Z1W_Claws",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "OgreManfish_Z1W_Claws",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -135.9214191946729,
+            "worldY": 1764.0744575653976
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Whale",
+        "icon": "/icons/UI/Portraits/Units/OgreManfishCyan.png",
+        "px": 3848.417410983534,
+        "py": 9204.611125339963,
+        "worldX": -139.265206321762,
+        "worldY": 1721.5937580037294,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "OgreManfish_Z1W_Claws",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "OgreManfish_Z1W_Claws",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -139.265206321762,
+            "worldY": 1721.5937580037294
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-Manfish_Spawner",
+        "type": "mob",
+        "label": "Nepsid Whale",
+        "icon": "/icons/UI/Portraits/Units/OgreManfishCyan.png",
+        "px": 3753.417216628938,
+        "py": 9244.127732831934,
+        "worldX": -192.7028156462222,
+        "worldY": 1743.8218497179628,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "OgreManfish_Z1W_Claws",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "OgreManfish_Z1W_Claws",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -192.7028156462222,
+            "worldY": 1743.8218497179628
+        }
+    },
+    {
+        "id": "mob-L1_+0_+10-node",
+        "type": "mob",
+        "label": "Nepsid Whale",
+        "icon": "/icons/UI/Portraits/Units/OgreManfishCyan.png",
+        "px": 3730.6409427395474,
+        "py": 9177.177945663208,
+        "worldX": -205.51446970900446,
+        "worldY": 1706.1625944355544,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "unitId": "OgreManfish_Z1W_Claws",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "OgreManfish_Z1W_Claws",
+            "unitGroup": null,
+            "props": {},
+            "patrolPath": "Patrol_Camp_1",
+            "chunkId": "L1_+0_+10",
+            "worldX": -205.51446970900446,
+            "worldY": 1706.1625944355544
+        }
+    },
+    {
+        "id": "mob-L0_-1_+17-Elite_Spawner",
+        "type": "mob",
+        "label": "Niels Boar",
+        "icon": "/icons/UI/Portraits/Units/Boar_Black.png",
+        "px": 3829.9459555555554,
+        "py": 9013.254755555556,
+        "worldX": -149.6554,
+        "worldY": 1613.9558,
+        "chunkId": "L0_-1_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+17\\gameplayData.prefab",
+        "unitId": "Boar_Z1W_E",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Boar_Z1W_E",
+            "props": {
+                "__id__": 243864
+            },
+            "$cdbtype": "spawner",
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-1_+17",
+            "worldX": -149.6554,
+            "worldY": 1613.9558
+        }
+    },
+    {
+        "id": "mob-L0_-1_+15-node",
+        "type": "mob",
+        "label": "Sap Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Yellow_01.png",
+        "px": 3917.4,
+        "py": 8675.087111111112,
+        "worldX": -100.4625,
+        "worldY": 1423.7365,
+        "chunkId": "L0_-1_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+15\\gameplayData.prefab",
+        "unitId": "Slime_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W_2",
+            "props": {
+                "__id__": 475778
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-1_+15",
+            "worldX": -100.4625,
+            "worldY": 1423.7365
+        }
+    },
+    {
+        "id": "mob-L0_-1_+15-node",
+        "type": "mob",
+        "label": "Sap Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Yellow_01.png",
+        "px": 3918.5146666666665,
+        "py": 8692.9568,
+        "worldX": -99.8355,
+        "worldY": 1433.7882,
+        "chunkId": "L0_-1_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+15\\gameplayData.prefab",
+        "unitId": "Slime_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W_2",
+            "props": {
+                "__id__": 240617
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-1_+15",
+            "worldX": -99.8355,
+            "worldY": 1433.7882
+        }
+    },
+    {
+        "id": "mob-L0_-1_+16-node",
+        "type": "mob",
+        "label": "Sap Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Yellow_01.png",
+        "px": 3807.6780444444444,
+        "py": 8821.464,
+        "worldX": -162.18110000000001,
+        "worldY": 1506.0735,
+        "chunkId": "L0_-1_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+16\\gameplayData.prefab",
+        "unitId": "Slime_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W_2",
+            "props": {
+                "__id__": 243853
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-1_+16",
+            "worldX": -162.18110000000001,
+            "worldY": 1506.0735
+        }
+    },
+    {
+        "id": "mob-L0_-1_+16-node",
+        "type": "mob",
+        "label": "Sap Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Yellow_01.png",
+        "px": 3807.5807999999997,
+        "py": 8769.421333333334,
+        "worldX": -162.2358,
+        "worldY": 1476.7995,
+        "chunkId": "L0_-1_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+16\\gameplayData.prefab",
+        "unitId": "Slime_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W_2",
+            "props": {
+                "__id__": 243855
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-1_+16",
+            "worldX": -162.2358,
+            "worldY": 1476.7995
+        }
+    },
+    {
+        "id": "mob-L0_-1_+16-node",
+        "type": "mob",
+        "label": "Sap Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Yellow_01.png",
+        "px": 3900.8517333333334,
+        "py": 8728.867555555556,
+        "worldX": -109.7709,
+        "worldY": 1453.988,
+        "chunkId": "L0_-1_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+16\\gameplayData.prefab",
+        "unitId": "Slime_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W_2",
+            "props": {
+                "__id__": 243851
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-1_+16",
+            "worldX": -109.7709,
+            "worldY": 1453.988
+        }
+    },
+    {
+        "id": "mob-L0_-1_+16-node",
+        "type": "mob",
+        "label": "Sap Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Yellow_01.png",
+        "px": 3888.612622222222,
+        "py": 8704.30648888889,
+        "worldX": -116.6554,
+        "worldY": 1440.1724,
+        "chunkId": "L0_-1_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+16\\gameplayData.prefab",
+        "unitId": "Slime_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W_2",
+            "props": {
+                "__id__": 243849
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-1_+16",
+            "worldX": -116.6554,
+            "worldY": 1440.1724
+        }
+    },
+    {
+        "id": "mob-L0_-1_+16-node",
+        "type": "mob",
+        "label": "Sap Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Yellow_01.png",
+        "px": 3853.6757333333335,
+        "py": 8711.009777777777,
+        "worldX": -136.3074,
+        "worldY": 1443.943,
+        "chunkId": "L0_-1_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+16\\gameplayData.prefab",
+        "unitId": "Slime_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W_2",
+            "props": {
+                "__id__": 243847
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-1_+16",
+            "worldX": -136.3074,
+            "worldY": 1443.943
+        }
+    },
+    {
+        "id": "mob-L0_+0_+15-node",
+        "type": "mob",
+        "label": "Sap Slime",
+        "icon": "/icons/UI/Portraits/Units/Slime_Yellow_01.png",
+        "px": 3957.8252444444443,
+        "py": 8634.850311111111,
+        "worldX": -77.7233,
+        "worldY": 1401.1033,
+        "chunkId": "L0_+0_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+15\\gameplayData.prefab",
+        "unitId": "Slime_Z1W_2",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Slime_Z1W_2",
+            "props": {
+                "__id__": 475774
+            },
+            "unitGroup": null,
+            "chunkId": "L0_+0_+15",
+            "worldX": -77.7233,
+            "worldY": 1401.1033
+        }
+    },
+    {
+        "id": "mob-L0_-1_+17-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3772.0264888888887,
+        "py": 8920.511111111111,
+        "worldX": -182.2351,
+        "worldY": 1561.7875,
+        "chunkId": "L0_-1_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+17\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {
+                "__id__": 243868
+            },
+            "chunkId": "L0_-1_+17",
+            "worldX": -182.2351,
+            "worldY": 1561.7875
+        }
+    },
+    {
+        "id": "mob-L0_-1_+17-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3856.4490666666666,
+        "py": 8910.990933333333,
+        "worldX": -134.7474,
+        "worldY": 1556.4324,
+        "chunkId": "L0_-1_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+17\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {
+                "__id__": 243870
+            },
+            "chunkId": "L0_-1_+17",
+            "worldX": -134.7474,
+            "worldY": 1556.4324
+        }
+    },
+    {
+        "id": "mob-L0_-1_+18-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3884.4096,
+        "py": 9149.298133333334,
+        "worldX": -119.0196,
+        "worldY": 1690.4802,
+        "chunkId": "L0_-1_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+18\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {
+                "__id__": 243885
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-1_+18",
+            "worldX": -119.0196,
+            "worldY": 1690.4802
+        }
+    },
+    {
+        "id": "mob-L0_-1_+18-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3882.4737777777777,
+        "py": 9098.0112,
+        "worldX": -120.10849999999999,
+        "worldY": 1661.6313,
+        "chunkId": "L0_-1_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+18\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {
+                "__id__": 243887
+            },
+            "chunkId": "L0_-1_+18",
+            "worldX": -120.10849999999999,
+            "worldY": 1661.6313
+        }
+    },
+    {
+        "id": "mob-L0_-2_+16-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3642.064533333333,
+        "py": 8735.178844444445,
+        "worldX": -255.3387,
+        "worldY": 1457.5381,
+        "chunkId": "L0_-2_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+16\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {
+                "__id__": 478757
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-2_+16",
+            "worldX": -255.3387,
+            "worldY": 1457.5381
+        }
+    },
+    {
+        "id": "mob-L0_-2_+17-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3745.688533333333,
+        "py": 8996.33528888889,
+        "worldX": -197.0502,
+        "worldY": 1604.4386,
+        "chunkId": "L0_-2_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+17\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {
+                "__id__": 478766
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-2_+17",
+            "worldX": -197.0502,
+            "worldY": 1604.4386
+        }
+    },
+    {
+        "id": "mob-L0_-2_+17-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3705.9363555555556,
+        "py": 8934.302577777778,
+        "worldX": -219.4108,
+        "worldY": 1569.5452,
+        "chunkId": "L0_-2_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+17\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {
+                "__id__": 478768
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-2_+17",
+            "worldX": -219.4108,
+            "worldY": 1569.5452
+        }
+    },
+    {
+        "id": "mob-L0_-2_+17-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3665.5916444444447,
+        "py": 9017.799111111111,
+        "worldX": -242.1047,
+        "worldY": 1616.512,
+        "chunkId": "L0_-2_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+17\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {
+                "__id__": 478770
+            },
+            "unitGroup": null,
+            "chunkId": "L0_-2_+17",
+            "worldX": -242.1047,
+            "worldY": 1616.512
+        }
+    },
+    {
+        "id": "mob-L0_-2_+18-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3681.697777777778,
+        "py": 9111.345066666667,
+        "worldX": -233.045,
+        "worldY": 1669.1316,
+        "chunkId": "L0_-2_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+18\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {
+                "__id__": 244024
+            },
+            "chunkId": "L0_-2_+18",
+            "worldX": -233.045,
+            "worldY": 1669.1316
+        }
+    },
+    {
+        "id": "mob-L0_-2_+18-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3713.786488888889,
+        "py": 9046.580622222222,
+        "worldX": -214.9951,
+        "worldY": 1632.7016,
+        "chunkId": "L0_-2_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+18\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {
+                "__id__": 244026
+            },
+            "chunkId": "L0_-2_+18",
+            "worldX": -214.9951,
+            "worldY": 1632.7016
+        }
+    },
+    {
+        "id": "mob-L0_-4_+17-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3413.1228444444446,
+        "py": 8889.983466666667,
+        "worldX": -384.1184,
+        "worldY": 1544.6157,
+        "chunkId": "L0_-4_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+17\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-4_+17",
+            "worldX": -384.1184,
+            "worldY": 1544.6157
+        }
+    },
+    {
+        "id": "mob-L0_-4_+17-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3331.7488,
+        "py": 8896.349866666667,
+        "worldX": -429.8913,
+        "worldY": 1548.1968,
+        "chunkId": "L0_-4_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+17\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-4_+17",
+            "worldX": -429.8913,
+            "worldY": 1548.1968
+        }
+    },
+    {
+        "id": "mob-L0_-4_+17-node",
+        "type": "mob",
+        "label": "Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_Brown.png",
+        "px": 3398.551466666667,
+        "py": 8962.086222222222,
+        "worldX": -392.3148,
+        "worldY": 1585.1735,
+        "chunkId": "L0_-4_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+17\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W",
+            "props": {},
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-4_+17",
+            "worldX": -392.3148,
+            "worldY": 1585.1735
+        }
+    },
+    {
+        "id": "mob-L0_-4_+20-Elite_Spawner",
+        "type": "mob",
+        "label": "Skuttle Goldengill",
+        "icon": "/icons/UI/Portraits/Units/ManfishElite-R(Spear_Manfish_Anchor_01).png",
+        "px": 3340.261927355366,
+        "py": 9408.299475136411,
+        "worldX": -425.1026658626066,
+        "worldY": 1836.168454764231,
+        "chunkId": "L0_-4_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+20\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_E_Spear",
+        "unitGroup": null,
+        "raw": {
+            "unit": "Manfish_Z1W_E_Spear",
+            "props": {},
+            "$cdbtype": "spawner",
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-4_+20",
+            "worldX": -425.1026658626066,
+            "worldY": 1836.168454764231
+        }
+    },
+    {
+        "id": "mob-L0_+0_+16-node",
+        "type": "mob",
+        "label": "Snapping Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Yellow.png",
+        "px": 4005.313422222222,
+        "py": 8797.356622222222,
+        "worldX": -51.0112,
+        "worldY": 1492.5131,
+        "chunkId": "L0_+0_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+16\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_3",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_3",
+            "unitGroup": null,
+            "props": {
+                "__id__": 240619
+            },
+            "patrolPath": null,
+            "chunkId": "L0_+0_+16",
+            "worldX": -51.0112,
+            "worldY": 1492.5131
+        }
+    },
+    {
+        "id": "mob-L0_+0_+16-node",
+        "type": "mob",
+        "label": "Snapping Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Yellow.png",
+        "px": 3958.202311111111,
+        "py": 8767.134399999999,
+        "worldX": -77.5112,
+        "worldY": 1475.5131,
+        "chunkId": "L0_+0_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+16\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_3",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_3",
+            "unitGroup": null,
+            "props": {
+                "__id__": 240621
+            },
+            "patrolPath": null,
+            "chunkId": "L0_+0_+16",
+            "worldX": -77.5112,
+            "worldY": 1475.5131
+        }
+    },
+    {
+        "id": "mob-L0_+0_+16-node",
+        "type": "mob",
+        "label": "Snapping Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Yellow.png",
+        "px": 3953.8641777777775,
+        "py": 8837.5168,
+        "worldX": -79.9514,
+        "worldY": 1515.1032,
+        "chunkId": "L0_+0_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+16\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_3",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_3",
+            "unitGroup": null,
+            "props": {
+                "__id__": 240623
+            },
+            "patrolPath": null,
+            "chunkId": "L0_+0_+16",
+            "worldX": -79.9514,
+            "worldY": 1515.1032
+        }
+    },
+    {
+        "id": "mob-L0_+0_+16-node",
+        "type": "mob",
+        "label": "Snapping Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Yellow.png",
+        "px": 3978.6467555555555,
+        "py": 8820.467733333333,
+        "worldX": -66.0112,
+        "worldY": 1505.5131,
+        "chunkId": "L0_+0_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+16\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_3",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_3",
+            "unitGroup": null,
+            "props": {
+                "__id__": 240625
+            },
+            "patrolPath": null,
+            "chunkId": "L0_+0_+16",
+            "worldX": -66.0112,
+            "worldY": 1505.5131
+        }
+    },
+    {
+        "id": "mob-L0_-8_+13-node",
+        "type": "mob",
+        "label": "Solist Crab",
+        "icon": "/icons/UI/Portraits/Units/Crab_Elite_Black.png",
+        "px": 2602.2830222222224,
+        "py": 8263.192177777777,
+        "worldX": -840.2158,
+        "worldY": 1192.0456,
+        "chunkId": "L0_-8_+13",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+13\\gameplayData.prefab",
+        "unitId": "Crab_Z1W_5",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Crab_Z1W_5",
+            "unitGroup": null,
+            "props": {
+                "__id__": 245771
+            },
+            "chunkId": "L0_-8_+13",
+            "worldX": -840.2158,
+            "worldY": 1192.0456
+        }
+    },
+    {
+        "id": "mob-L0_-3_+18-node",
+        "type": "mob",
+        "label": "Spark-Exposed Skunk",
+        "icon": "/icons/UI/Portraits/Units/SkunkHills_White.png",
+        "px": 3413.5411555555556,
+        "py": 9046.777955555555,
+        "worldX": -383.8831,
+        "worldY": 1632.8126,
+        "chunkId": "L0_-3_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+18\\gameplayData.prefab",
+        "unitId": "Skunk_Z1W_U",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Skunk_Z1W_U",
+            "props": {
+                "__id__": 244327
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-3_+18",
+            "worldX": -383.8831,
+            "worldY": 1632.8126
+        }
+    },
+    {
+        "id": "mob-L0_-2_+20-node",
+        "type": "mob",
+        "label": "Spark-Exposed Wavemonger",
+        "icon": "/icons/UI/Portraits/Units/ManfishIndigo-R(Relic_Manfish_CrystalBall_01).png",
+        "px": 3605.4364444444445,
+        "py": 9458.720355555555,
+        "worldX": -275.942,
+        "worldY": 1864.5302,
+        "chunkId": "L0_-2_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+20\\gameplayData.prefab",
+        "unitId": "Manfish_Z1W_U_Caster",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Manfish_Z1W_U_Caster",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-2_+20",
+            "worldX": -275.942,
+            "worldY": 1864.5302
+        }
+    },
+    {
+        "id": "mob-L0_+0_+16-node",
+        "type": "mob",
+        "label": "Spark-Exposed Whale",
+        "icon": "/icons/UI/Portraits/Units/OgreManfishCyan.png",
+        "px": 3967.0912,
+        "py": 8788.467733333333,
+        "worldX": -72.5112,
+        "worldY": 1487.5131,
+        "chunkId": "L0_+0_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+16\\gameplayData.prefab",
+        "unitId": "OgreManfish_Z1W_Claws_U",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "OgreManfish_Z1W_Claws_U",
+            "unitGroup": null,
+            "props": {
+                "roamingRange": 0
+            },
+            "patrolPath": null,
+            "chunkId": "L0_+0_+16",
+            "worldX": -72.5112,
+            "worldY": 1487.5131
+        }
+    },
+    {
+        "id": "mob-L0_-8_+23-node",
+        "type": "mob",
+        "label": "Spark-Infused Harvester",
+        "icon": "/icons/UI/Portraits/Units/Harvester_Red_01.png",
+        "px": 2700.329244444444,
+        "py": 10041.944355555555,
+        "worldX": -785.0648,
+        "worldY": 2192.5937,
+        "chunkId": "L0_-8_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+23\\gameplayData.prefab",
+        "unitId": "Bee_Z1W_U",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Bee_Z1W_U",
+            "props": {
+                "roamingRange": 0
+            },
+            "unitGroup": null,
+            "patrolPath": null,
+            "chunkId": "L0_-8_+23",
+            "worldX": -785.0648,
+            "worldY": 2192.5937
+        }
+    },
+    {
+        "id": "mob-L0_+0_+15-node",
+        "type": "mob",
+        "label": "Sparkle",
+        "icon": "/icons/UI/Portraits/Units/SparklingEarth.png",
+        "px": 4095.858311111111,
+        "py": 8552.431466666667,
+        "worldX": -0.07970000000000255,
+        "worldY": 1354.7427,
+        "chunkId": "L0_+0_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+15\\gameplayData.prefab",
+        "unitId": "Elemental_Z1W_Earth",
+        "unitGroup": null,
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": "Elemental_Z1W_Earth",
+            "props": {
+                "__id__": 475776
+            },
+            "unitGroup": null,
+            "chunkId": "L0_+0_+15",
+            "worldX": -0.07970000000000255,
+            "worldY": 1354.7427
+        }
+    },
+    {
+        "id": "mob-L0_-9_+21-node",
+        "type": "mob",
+        "label": "Z1_Start_Patrol_World (Spark-Exposed Slime)",
+        "icon": "/icons/UI/Portraits/Units/Slime_Red_01.png",
+        "px": 2531.9523555555556,
+        "py": 9581.198222222221,
+        "worldX": -879.7768,
+        "worldY": 1933.424,
+        "chunkId": "L0_-9_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+21\\gameplayData.prefab",
+        "unitId": null,
+        "unitGroup": "Z1_Start_Patrol_World",
+        "raw": {
+            "$cdbtype": "spawner",
+            "unit": null,
+            "unitGroup": "Z1_Start_Patrol_World",
+            "props": {
+                "patrol": {
+                    "formationShape": 1
+                }
+            },
+            "patrolPath": "Patrol_World_Start",
+            "chunkId": "L0_-9_+21",
+            "worldX": -879.7768,
+            "worldY": 1933.424
+        }
+    }
+]

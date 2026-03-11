@@ -1,0 +1,311 @@
+[
+    {
+        "id": "activity-L1_-3_+11-Z1_World_Greenlands_ChestOrb_1",
+        "type": "activity",
+        "label": "A Welcoming Treasure",
+        "icon": null,
+        "px": 3065.018488888889,
+        "py": 9867.205866666667,
+        "worldX": -579.9271,
+        "worldY": 2094.3033,
+        "chunkId": "L1_-3_+11",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-3_+11\\gameplayData.prefab",
+        "activityId": "Z1_World_Greenlands_ChestOrb_1",
+        "inherit": "ChestOrb",
+        "lootTable": "WorldActivity",
+        "level": 1,
+        "raw": {
+            "id": "Z1_World_Greenlands_ChestOrb_1",
+            "inherit": "ChestOrb",
+            "$cdbtype": "activity",
+            "props": {
+                "lootTable": "WorldActivity",
+                "level": 1
+            },
+            "texts": {
+                "name": "A Welcoming Treasure"
+            },
+            "chunkId": "L1_-3_+11",
+            "worldX": -579.9271,
+            "worldY": 2094.3033
+        }
+    },
+    {
+        "id": "activity-L0_-5_+17-Z1_World_Greenlands_FightStone_7",
+        "type": "activity",
+        "label": "Ambush at the Promontory",
+        "icon": null,
+        "px": 3116.5333333333333,
+        "py": 8945.988622222223,
+        "worldX": -550.95,
+        "worldY": 1576.1186,
+        "chunkId": "L0_-5_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+17\\gameplayData.prefab",
+        "activityId": "Z1_World_Greenlands_FightStone_7",
+        "inherit": "FightStone",
+        "lootTable": "WorldActivity",
+        "level": null,
+        "raw": {
+            "id": "Z1_World_Greenlands_FightStone_7",
+            "inherit": "FightStone",
+            "$cdbtype": "activity",
+            "props": {
+                "lootTable": "WorldActivity"
+            },
+            "texts": {
+                "name": "Ambush at the Promontory"
+            },
+            "objectives": [],
+            "chunkId": "L0_-5_+17",
+            "worldX": -550.95,
+            "worldY": 1576.1186
+        }
+    },
+    {
+        "id": "activity-L1_-2_+11-Z1_World_Greenlands_Elite_15",
+        "type": "activity",
+        "label": "At the Island's Tip",
+        "icon": null,
+        "px": 3284.9992888888887,
+        "py": 9773.232177777778,
+        "worldX": -456.1879,
+        "worldY": 2041.4431,
+        "chunkId": "L1_-2_+11",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-2_+11\\gameplayData.prefab",
+        "activityId": "Z1_World_Greenlands_Elite_15",
+        "inherit": "WorldElite",
+        "lootTable": "WorldActivity",
+        "level": null,
+        "raw": {
+            "id": "Z1_World_Greenlands_Elite_15",
+            "inherit": "WorldElite",
+            "$cdbtype": "activity",
+            "props": {
+                "lootTable": "WorldActivity"
+            },
+            "texts": {
+                "name": "At the Island's Tip"
+            },
+            "chunkId": "L1_-2_+11",
+            "worldX": -456.1879,
+            "worldY": 2041.4431
+        }
+    },
+    {
+        "id": "activity-L0_-1_+17-Z1_World_Greenlands_Elite_2",
+        "type": "activity",
+        "label": "Boar to be Alive",
+        "icon": null,
+        "px": 3829.9459555555554,
+        "py": 9013.254755555556,
+        "worldX": -149.6554,
+        "worldY": 1613.9558,
+        "chunkId": "L0_-1_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+17\\gameplayData.prefab",
+        "activityId": "Z1_World_Greenlands_Elite_2",
+        "inherit": "WorldElite",
+        "lootTable": "WorldActivity",
+        "level": null,
+        "raw": {
+            "id": "Z1_World_Greenlands_Elite_2",
+            "inherit": "WorldElite",
+            "$cdbtype": "activity",
+            "props": {
+                "lootTable": "WorldActivity"
+            },
+            "texts": {
+                "name": "Boar to be Alive"
+            },
+            "chunkId": "L0_-1_+17",
+            "worldX": -149.6554,
+            "worldY": 1613.9558
+        }
+    },
+    {
+        "id": "activity-L0_-8_+21-Z1_World_Greenlands_Elite_1",
+        "type": "activity",
+        "label": "Claw in the Cave",
+        "icon": null,
+        "px": 2536.687111111111,
+        "py": 9638.1696,
+        "worldX": -877.1135,
+        "worldY": 1965.4704,
+        "chunkId": "L0_-8_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+21\\gameplayData.prefab",
+        "activityId": "Z1_World_Greenlands_Elite_1",
+        "inherit": "WorldElite",
+        "lootTable": "WorldActivity",
+        "level": null,
+        "raw": {
+            "id": "Z1_World_Greenlands_Elite_1",
+            "inherit": "WorldElite",
+            "$cdbtype": "activity",
+            "props": {
+                "lootTable": "WorldActivity"
+            },
+            "texts": {
+                "name": "Claw in the Cave"
+            },
+            "chunkId": "L0_-8_+21",
+            "worldX": -877.1135,
+            "worldY": 1965.4704
+        }
+    },
+    {
+        "id": "activity-L0_+3_+17-W1_Siagarta_FightStone_6",
+        "type": "activity",
+        "label": "Fight in the Depths",
+        "icon": null,
+        "px": 4580.485866666667,
+        "py": 8888.31751111111,
+        "worldX": 272.5233,
+        "worldY": 1543.6786,
+        "chunkId": "L0_+3_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+3_+17\\gameplayData.prefab",
+        "activityId": "W1_Siagarta_FightStone_6",
+        "inherit": "FightStone",
+        "lootTable": "WorldActivity",
+        "level": 9,
+        "raw": {
+            "id": "W1_Siagarta_FightStone_6",
+            "inherit": "FightStone",
+            "$cdbtype": "activity",
+            "props": {
+                "lootTable": "WorldActivity",
+                "level": 9
+            },
+            "texts": {
+                "name": "Fight in the Depths"
+            },
+            "objectives": [],
+            "chunkId": "L0_+3_+17",
+            "worldX": 272.5233,
+            "worldY": 1543.6786
+        }
+    },
+    {
+        "id": "activity-L1_+0_+10-Z1_World_Greenlands_Camp_1",
+        "type": "activity",
+        "label": "Seaside Bastion",
+        "icon": null,
+        "px": 3775.8961777777777,
+        "py": 9193.647644444445,
+        "worldX": -180.0584,
+        "worldY": 1715.4268,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "activityId": "Z1_World_Greenlands_Camp_1",
+        "inherit": "WorldCamp",
+        "lootTable": "Z1Subregion_1_RareMeta",
+        "level": 5,
+        "raw": {
+            "id": "Z1_World_Greenlands_Camp_1",
+            "inherit": "WorldCamp",
+            "$cdbtype": "activity",
+            "texts": {
+                "name": "Seaside Bastion"
+            },
+            "objectives": [],
+            "props": {
+                "lootTable": "Z1Subregion_1_RareMeta",
+                "level": 5
+            },
+            "chunkId": "L1_+0_+10",
+            "worldX": -180.0584,
+            "worldY": 1715.4268
+        }
+    },
+    {
+        "id": "activity-L0_-4_+20-Z1_World_Greenlands_Elite_10",
+        "type": "activity",
+        "label": "The Beach Watcher",
+        "icon": null,
+        "px": 3339.0506666666665,
+        "py": 9409.487822222221,
+        "worldX": -425.784,
+        "worldY": 1836.8369,
+        "chunkId": "L0_-4_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+20\\gameplayData.prefab",
+        "activityId": "Z1_World_Greenlands_Elite_10",
+        "inherit": "WorldElite",
+        "lootTable": "ManfishActivity",
+        "level": null,
+        "raw": {
+            "id": "Z1_World_Greenlands_Elite_10",
+            "inherit": "WorldElite",
+            "$cdbtype": "activity",
+            "props": {
+                "lootTable": "ManfishActivity"
+            },
+            "texts": {
+                "name": "The Beach Watcher"
+            },
+            "chunkId": "L0_-4_+20",
+            "worldX": -425.784,
+            "worldY": 1836.8369
+        }
+    },
+    {
+        "id": "activity-L0_-10_+19-Z1_World_Greenlands_TimerCollectRun_1",
+        "type": "activity",
+        "label": "The Promontory Race",
+        "icon": null,
+        "px": 2344.9216,
+        "py": 9351.4112,
+        "worldX": -984.9816,
+        "worldY": 1804.1688,
+        "chunkId": "L0_-10_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+19\\gameplayData.prefab",
+        "activityId": "Z1_World_Greenlands_TimerCollectRun_1",
+        "inherit": "TimerCollectRun",
+        "lootTable": "WorldActivity",
+        "level": 3,
+        "raw": {
+            "id": "Z1_World_Greenlands_TimerCollectRun_1",
+            "inherit": "TimerCollectRun",
+            "$cdbtype": "activity",
+            "props": {
+                "lootTable": "WorldActivity",
+                "level": 3
+            },
+            "texts": {
+                "name": "The Promontory Race"
+            },
+            "objectives": [],
+            "chunkId": "L0_-10_+19",
+            "worldX": -984.9816,
+            "worldY": 1804.1688
+        }
+    },
+    {
+        "id": "activity-L1_-4_+12-Z1_World_Greenlands_ChestOrb_9",
+        "type": "activity",
+        "label": "The Southern Loot",
+        "icon": null,
+        "px": 2596.826666666667,
+        "py": 10060.374755555555,
+        "worldX": -843.285,
+        "worldY": 2202.9608,
+        "chunkId": "L1_-4_+12",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-4_+12\\gameplayData.prefab",
+        "activityId": "Z1_World_Greenlands_ChestOrb_9",
+        "inherit": "ChestOrb",
+        "lootTable": "WorldActivity",
+        "level": 2,
+        "raw": {
+            "id": "Z1_World_Greenlands_ChestOrb_9",
+            "inherit": "ChestOrb",
+            "$cdbtype": "activity",
+            "props": {
+                "lootTable": "WorldActivity",
+                "level": 2
+            },
+            "texts": {
+                "name": "The Southern Loot"
+            },
+            "chunkId": "L1_-4_+12",
+            "worldX": -843.285,
+            "worldY": 2202.9608
+        }
+    }
+]

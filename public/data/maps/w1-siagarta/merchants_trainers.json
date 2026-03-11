@@ -1,0 +1,543 @@
+[
+    {
+        "id": "merchant_trainer-L0_-3_+16-HildaLambert_NPC_Primevalley",
+        "type": "merchant_trainer",
+        "label": "Hilda Lambert",
+        "icon": null,
+        "px": 3451.7816888888888,
+        "py": 8729.462044444444,
+        "worldX": -362.3728,
+        "worldY": 1454.3224,
+        "chunkId": "L0_-3_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+16\\gameplayData.prefab",
+        "elementId": "HildaLambert_NPC_Primevalley",
+        "name": "HildaLambert",
+        "npcUnit": null,
+        "shop": [
+            {
+                "item": "GA_Craft",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 1000
+                    }
+                ]
+            },
+            {
+                "item": "Bow_Craft",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 1000
+                    }
+                ]
+            },
+            {
+                "item": "Staff_Craft",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 1000
+                    }
+                ]
+            },
+            {
+                "item": "Sword_Craft",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 500
+                    }
+                ]
+            },
+            {
+                "item": "Shield_Craft",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 500
+                    }
+                ]
+            }
+        ],
+        "raw": {
+            "$cdbtype": "element",
+            "id": "HildaLambert_NPC_Primevalley",
+            "texts": {},
+            "props": {
+                "shop": [
+                    {
+                        "item": "GA_Craft",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 1000
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Bow_Craft",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 1000
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Staff_Craft",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 1000
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Sword_Craft",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 500
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Shield_Craft",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 500
+                            }
+                        ]
+                    }
+                ]
+            },
+            "script": null,
+            "type": 22,
+            "chunkId": "L0_-3_+16",
+            "worldX": -362.3728,
+            "worldY": 1454.3224
+        }
+    },
+    {
+        "id": "merchant_trainer-L0_-4_+16-MountTamer_NPC_1",
+        "type": "merchant_trainer",
+        "label": "Mount Tamer",
+        "icon": null,
+        "px": 3389.762133333333,
+        "py": 8814.407822222222,
+        "worldX": -397.2588,
+        "worldY": 1502.1044,
+        "chunkId": "L0_-4_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+16\\gameplayData.prefab",
+        "elementId": "MountTamer_NPC_1",
+        "name": "MountTamer",
+        "npcUnit": null,
+        "shop": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "MountTamer_NPC_1",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L0_-4_+16",
+            "worldX": -397.2588,
+            "worldY": 1502.1044
+        }
+    },
+    {
+        "id": "merchant_trainer-L0_-3_+16-ProfessionTrainer_NPC_Primevalley",
+        "type": "merchant_trainer",
+        "label": "Profession Trainer",
+        "icon": null,
+        "px": 3529.3706666666667,
+        "py": 8713.374933333333,
+        "worldX": -318.729,
+        "worldY": 1445.2734,
+        "chunkId": "L0_-3_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+16\\gameplayData.prefab",
+        "elementId": "ProfessionTrainer_NPC_Primevalley",
+        "name": "ProfessionTrainer",
+        "npcUnit": null,
+        "shop": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "ProfessionTrainer_NPC_Primevalley",
+            "texts": {},
+            "props": {
+                "__id__": 5759309
+            },
+            "script": null,
+            "type": 22,
+            "chunkId": "L0_-3_+16",
+            "worldX": -318.729,
+            "worldY": 1445.2734
+        }
+    },
+    {
+        "id": "merchant_trainer-L0_-3_+15-WanderingMerchant_NPC_Primevalley",
+        "type": "merchant_trainer",
+        "label": "Wandering Merchant",
+        "icon": null,
+        "px": 3500.4501333333333,
+        "py": 8671.499377777778,
+        "worldX": -334.9968,
+        "worldY": 1421.7184,
+        "chunkId": "L0_-3_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+15\\gameplayData.prefab",
+        "elementId": "WanderingMerchant_NPC_Primevalley",
+        "name": "WanderingMerchant",
+        "npcUnit": null,
+        "shop": [
+            {
+                "item": "SmallPouch",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 200
+                    }
+                ]
+            },
+            {
+                "item": "Cheese_Z1",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 25
+                    }
+                ]
+            },
+            {
+                "item": "Pickaxe",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 150
+                    }
+                ]
+            },
+            {
+                "item": "Hammer",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 150
+                    }
+                ]
+            },
+            {
+                "item": "Scissors",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 150
+                    }
+                ]
+            },
+            {
+                "item": "Sickle",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 150
+                    }
+                ]
+            },
+            {
+                "item": "Mortar",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 150
+                    }
+                ]
+            },
+            {
+                "item": "Pliers",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 150
+                    }
+                ]
+            },
+            {
+                "item": "Knife",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 150
+                    }
+                ]
+            },
+            {
+                "item": "Vial",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 5
+                    }
+                ]
+            },
+            {
+                "item": "SoftWood",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 25
+                    }
+                ]
+            },
+            {
+                "item": "SimpleCauldron",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 50
+                    }
+                ]
+            }
+        ],
+        "raw": {
+            "$cdbtype": "element",
+            "id": "WanderingMerchant_NPC_Primevalley",
+            "texts": {
+                "__id__": 5759311
+            },
+            "props": {
+                "shop": [
+                    {
+                        "item": "SmallPouch",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 200
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Cheese_Z1",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 25
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Pickaxe",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 150
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Hammer",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 150
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Scissors",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 150
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Sickle",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 150
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Mortar",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 150
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Pliers",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 150
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Knife",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 150
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Vial",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 5
+                            }
+                        ]
+                    },
+                    {
+                        "item": "SoftWood",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 25
+                            }
+                        ]
+                    },
+                    {
+                        "item": "SimpleCauldron",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 50
+                            }
+                        ]
+                    }
+                ]
+            },
+            "script": null,
+            "type": 22,
+            "chunkId": "L0_-3_+15",
+            "worldX": -334.9968,
+            "worldY": 1421.7184
+        }
+    },
+    {
+        "id": "merchant_trainer-L0_-8_+21-WanderingMerchant_NPC_Meridion",
+        "type": "merchant_trainer",
+        "label": "Wandering Merchant",
+        "icon": null,
+        "px": 2648.344888888889,
+        "py": 9689.2144,
+        "worldX": -814.306,
+        "worldY": 1994.1831,
+        "chunkId": "L0_-8_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+21\\gameplayData.prefab",
+        "elementId": "WanderingMerchant_NPC_Meridion",
+        "name": "WanderingMerchant",
+        "npcUnit": null,
+        "shop": [
+            {
+                "item": "SmallPouch",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 200
+                    }
+                ]
+            },
+            {
+                "item": "Cheese_Z1",
+                "cost": [
+                    {
+                        "kind": "Gold",
+                        "amount": 25
+                    }
+                ]
+            }
+        ],
+        "raw": {
+            "$cdbtype": "element",
+            "id": "WanderingMerchant_NPC_Meridion",
+            "texts": {},
+            "props": {
+                "shop": [
+                    {
+                        "item": "SmallPouch",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 200
+                            }
+                        ]
+                    },
+                    {
+                        "item": "Cheese_Z1",
+                        "cost": [
+                            {
+                                "kind": "Gold",
+                                "amount": 25
+                            }
+                        ]
+                    }
+                ]
+            },
+            "dialog": [
+                {
+                    "id": "Start",
+                    "text": "Howdy, Sunling! Wanna trade?",
+                    "choices": [
+                        {
+                            "flags": 1,
+                            "props": {
+                                "receiveItems": [
+                                    {
+                                        "kind": "Gold",
+                                        "amount": 100
+                                    }
+                                ],
+                                "cost": [
+                                    {
+                                        "kind": "CP_Z1",
+                                        "amount": 1
+                                    }
+                                ],
+                                "gainsRepeat": true
+                            },
+                            "visibleConds": {
+                                "carryItems": [
+                                    {
+                                        "kind": "CP_Z1",
+                                        "amount": 1
+                                    }
+                                ]
+                            },
+                            "verb": "DialogGivePackage"
+                        },
+                        {
+                            "flags": 1,
+                            "props": {},
+                            "visibleConds": {},
+                            "verb": "DialogTrade"
+                        },
+                        {
+                            "flags": 0,
+                            "props": {},
+                            "visibleConds": {},
+                            "verb": "DialogLeave"
+                        }
+                    ],
+                    "props": {},
+                    "on": 0
+                }
+            ],
+            "script": null,
+            "type": 22,
+            "chunkId": "L0_-8_+21",
+            "worldX": -814.306,
+            "worldY": 1994.1831
+        }
+    }
+]

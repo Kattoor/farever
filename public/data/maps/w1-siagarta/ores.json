@@ -1,0 +1,230 @@
+[
+    {
+        "id": "ore-L0_+1_+16-CopperOre_Large_7",
+        "type": "ore",
+        "label": "Copper Ore (Large)",
+        "icon": null,
+        "px": 4124.227555555555,
+        "py": 8810.488177777777,
+        "worldX": 15.878,
+        "worldY": 1499.8996,
+        "chunkId": "L0_+1_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+1_+16\\gameplayData.prefab",
+        "elementId": "CopperOre_Large_7",
+        "name": "CopperOre_Large",
+        "source": "Gameplay/Prefabs/Gatherables/Ores/R1/CopperOre_Large.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "CopperOre_Large_7",
+            "texts": {
+                "__id__": 240611
+            },
+            "props": {
+                "__id__": 240612
+            },
+            "script": null,
+            "chunkId": "L0_+1_+16",
+            "worldX": 15.878,
+            "worldY": 1499.8996
+        }
+    },
+    {
+        "id": "ore-L0_-1_+15-CopperOre_Small_38",
+        "type": "ore",
+        "label": "Copper Ore (Small)",
+        "icon": null,
+        "px": 3825.1603555555557,
+        "py": 8636.38151111111,
+        "worldX": -152.3473,
+        "worldY": 1401.9646,
+        "chunkId": "L0_-1_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+15\\gameplayData.prefab",
+        "elementId": "CopperOre_Small_38",
+        "name": "CopperOre_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Ores/R1/CopperOre_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "CopperOre_Small_38",
+            "texts": {
+                "__id__": 243840
+            },
+            "props": {
+                "__id__": 243841
+            },
+            "script": null,
+            "chunkId": "L0_-1_+15",
+            "worldX": -152.3473,
+            "worldY": 1401.9646
+        }
+    },
+    {
+        "id": "ore-L0_-1_+16-CopperOre_Small_37",
+        "type": "ore",
+        "label": "Copper Ore (Small)",
+        "icon": null,
+        "px": 3854.5427555555552,
+        "py": 8776.224711111112,
+        "worldX": -135.8197,
+        "worldY": 1480.6264,
+        "chunkId": "L0_-1_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+16\\gameplayData.prefab",
+        "elementId": "CopperOre_Small_37",
+        "name": "CopperOre_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Ores/R1/CopperOre_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "CopperOre_Small_37",
+            "texts": {
+                "__id__": 243857
+            },
+            "props": {
+                "__id__": 243858
+            },
+            "script": null,
+            "chunkId": "L0_-1_+16",
+            "worldX": -135.8197,
+            "worldY": 1480.6264
+        }
+    },
+    {
+        "id": "ore-L0_-1_+21-CopperOre_Small_11",
+        "type": "ore",
+        "label": "Copper Ore (Small)",
+        "icon": null,
+        "px": 3865.3715555555555,
+        "py": 9684.3856,
+        "worldX": -129.7285,
+        "worldY": 1991.4669,
+        "chunkId": "L0_-1_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+21\\gameplayData.prefab",
+        "elementId": "CopperOre_Small_11",
+        "name": "CopperOre_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Ores/R1/CopperOre_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "CopperOre_Small_11",
+            "texts": {
+                "__id__": 243908
+            },
+            "props": {
+                "__id__": 243909
+            },
+            "chunkId": "L0_-1_+21",
+            "worldX": -129.7285,
+            "worldY": 1991.4669
+        }
+    },
+    {
+        "id": "ore-L0_-12_+15-CopperOre_Small_41",
+        "type": "ore",
+        "label": "Copper Ore (Small)",
+        "icon": null,
+        "px": 2026.0376888888886,
+        "py": 8625.27431111111,
+        "worldX": -1164.3538,
+        "worldY": 1395.7168,
+        "chunkId": "L0_-12_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-12_+15\\gameplayData.prefab",
+        "elementId": "CopperOre_Small_41",
+        "name": "CopperOre_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Ores/R1/CopperOre_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "CopperOre_Small_41",
+            "texts": {
+                "__id__": 243354
+            },
+            "props": {
+                "__id__": 243355
+            },
+            "chunkId": "L0_-12_+15",
+            "worldX": -1164.3538,
+            "worldY": 1395.7168
+        }
+    },
+    {
+        "id": "ore-L0_-7_+16-CopperOre_Small_46",
+        "type": "ore",
+        "label": "Copper Ore (Small)",
+        "icon": null,
+        "px": 2850.5880888888887,
+        "py": 8815.598933333333,
+        "worldX": -700.5442,
+        "worldY": 1502.7744,
+        "chunkId": "L0_-7_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+16\\gameplayData.prefab",
+        "elementId": "CopperOre_Small_46",
+        "name": "CopperOre_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Ores/R1/CopperOre_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "CopperOre_Small_46",
+            "texts": {
+                "__id__": 245557
+            },
+            "props": {
+                "__id__": 245558
+            },
+            "script": null,
+            "chunkId": "L0_-7_+16",
+            "worldX": -700.5442,
+            "worldY": 1502.7744
+        }
+    },
+    {
+        "id": "ore-L0_-8_+13-CopperOre_Small_47",
+        "type": "ore",
+        "label": "Copper Ore (Small)",
+        "icon": null,
+        "px": 2579.990222222222,
+        "py": 8258.51768888889,
+        "worldX": -852.7555,
+        "worldY": 1189.4162,
+        "chunkId": "L0_-8_+13",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+13\\gameplayData.prefab",
+        "elementId": "CopperOre_Small_47",
+        "name": "CopperOre_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Ores/R1/CopperOre_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "CopperOre_Small_47",
+            "texts": {
+                "__id__": 245768
+            },
+            "props": {
+                "__id__": 245769
+            },
+            "chunkId": "L0_-8_+13",
+            "worldX": -852.7555,
+            "worldY": 1189.4162
+        }
+    },
+    {
+        "id": "ore-L0_-1_+17-Tungstene_3",
+        "type": "ore",
+        "label": "Tungstene",
+        "icon": null,
+        "px": 3883.9658666666664,
+        "py": 8918.282844444444,
+        "worldX": -119.2692,
+        "worldY": 1560.5341,
+        "chunkId": "L0_-1_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+17\\gameplayData.prefab",
+        "elementId": "Tungstene_3",
+        "name": "Tungstene",
+        "source": "Gameplay/Prefabs/Gatherables/Ores/R1/Tungstene.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Tungstene_3",
+            "texts": {
+                "__id__": 243878
+            },
+            "props": {
+                "__id__": 243879
+            },
+            "chunkId": "L0_-1_+17",
+            "worldX": -119.2692,
+            "worldY": 1560.5341
+        }
+    }
+]

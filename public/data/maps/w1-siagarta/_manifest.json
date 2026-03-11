@@ -1,0 +1,27 @@
+{
+    "loadedChunkCount": 91,
+    "gameplayBaseChunkSize": 96,
+    "tileWorld": 576,
+    "minimap": {
+        "tileWorld": 576,
+        "tilePx": 1024,
+        "pxPerWorld": 1.7777777777777777,
+        "minTX": -4,
+        "maxTX": 6,
+        "minTY": -6,
+        "maxTY": 4,
+        "width": 11264,
+        "height": 11264
+    },
+    "counts": {
+        "mobs": 204,
+        "npcs": 13,
+        "ores": 8,
+        "gatherables": 18,
+        "chests": 17,
+        "activities": 10,
+        "merchants_trainers": 5,
+        "respawn_points": 2,
+        "traversal_pois": 37
+    }
+}

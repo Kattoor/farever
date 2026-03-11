@@ -1,0 +1,50 @@
+[
+    {
+        "id": "respawn_point-L2_-1_+5-Z1_World_Greenlands_RespawnPoint_12",
+        "type": "respawn_point",
+        "label": "Respawn Point",
+        "icon": null,
+        "px": 3210.4810666666667,
+        "py": 9248.997866666667,
+        "worldX": -498.1044,
+        "worldY": 1746.5613,
+        "chunkId": "L2_-1_+5",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L2_-1_+5\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_RespawnPoint_12",
+        "name": "RespawnPoint",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_RespawnPoint_12",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L2_-1_+5",
+            "worldX": -498.1044,
+            "worldY": 1746.5613
+        }
+    },
+    {
+        "id": "respawn_point-L2_+0_+6-Z1_World_Greenlands_RespawnPoint_19",
+        "type": "respawn_point",
+        "label": "Respawn Zone",
+        "icon": null,
+        "px": 3669.6350222222222,
+        "py": 9634.755555555555,
+        "worldX": -239.8303,
+        "worldY": 1963.55,
+        "chunkId": "L2_+0_+6",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L2_+0_+6\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_RespawnPoint_19",
+        "name": "RespawnZone",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_RespawnPoint_19",
+            "texts": {},
+            "props": {},
+            "script": null,
+            "chunkId": "L2_+0_+6",
+            "worldX": -239.8303,
+            "worldY": 1963.55
+        }
+    }
+]

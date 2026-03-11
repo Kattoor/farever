@@ -1,0 +1,547 @@
+[
+    {
+        "id": "chest-L0_-5_+20-WorldLoot_18",
+        "type": "chest",
+        "label": "Chest",
+        "icon": null,
+        "px": 3073.893866666667,
+        "py": 9517.860622222222,
+        "worldX": -574.9347,
+        "worldY": 1897.7966,
+        "chunkId": "L0_-5_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+20\\gameplayData.prefab",
+        "elementId": "WorldLoot_18",
+        "name": "Chest",
+        "lootTable": "WorldCrate",
+        "level": 3,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "WorldLoot_18",
+            "texts": {},
+            "props": {
+                "lootTable": "WorldCrate",
+                "level": 3
+            },
+            "script": null,
+            "chunkId": "L0_-5_+20",
+            "worldX": -574.9347,
+            "worldY": 1897.7966
+        }
+    },
+    {
+        "id": "chest-L0_-6_+18-WorldLoot_11",
+        "type": "chest",
+        "label": "Chest",
+        "icon": null,
+        "px": 2992.8832,
+        "py": 9060.709511111112,
+        "worldX": -620.5032,
+        "worldY": 1640.6491,
+        "chunkId": "L0_-6_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+18\\gameplayData.prefab",
+        "elementId": "WorldLoot_11",
+        "name": "Chest",
+        "lootTable": "WorldCrate",
+        "level": 3,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "WorldLoot_11",
+            "props": {
+                "lootTable": "WorldCrate",
+                "level": 3
+            },
+            "texts": {
+                "__id__": 721232
+            },
+            "chunkId": "L0_-6_+18",
+            "worldX": -620.5032,
+            "worldY": 1640.6491
+        }
+    },
+    {
+        "id": "chest-L1_-3_+11-Z1_World_Greenlands_ChestOrb_1_Chest_2",
+        "type": "chest",
+        "label": "Chest",
+        "icon": null,
+        "px": 3062.753066359112,
+        "py": 9870.29160852334,
+        "worldX": -581.2014001729996,
+        "worldY": 2096.0390297943786,
+        "chunkId": "L1_-3_+11",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-3_+11\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_ChestOrb_1_Chest_2",
+        "name": "Chest",
+        "lootTable": null,
+        "level": null,
+        "lootItems": null,
+        "raw": {
+            "id": "Z1_World_Greenlands_ChestOrb_1_Chest_2",
+            "type": 2,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "script": null,
+            "chunkId": "L1_-3_+11",
+            "worldX": -581.2014001729996,
+            "worldY": 2096.0390297943786
+        }
+    },
+    {
+        "id": "chest-L1_-4_+12-Z1_World_Greenlands_ChestOrb_9_Chest",
+        "type": "chest",
+        "label": "Chest",
+        "icon": null,
+        "px": 2603.98575190191,
+        "py": 10063.606907844925,
+        "worldX": -839.2580145551755,
+        "worldY": 2204.7788856627703,
+        "chunkId": "L1_-4_+12",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_-4_+12\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_ChestOrb_9_Chest",
+        "name": "Chest",
+        "lootTable": null,
+        "level": null,
+        "lootItems": null,
+        "raw": {
+            "id": "Z1_World_Greenlands_ChestOrb_9_Chest",
+            "type": 2,
+            "texts": {},
+            "props": {},
+            "$cdbtype": "element",
+            "script": null,
+            "chunkId": "L1_-4_+12",
+            "worldX": -839.2580145551755,
+            "worldY": 2204.7788856627703
+        }
+    },
+    {
+        "id": "chest-L1_+0_+10-Z1_World_Greenlands_Camp_1_Chest_1",
+        "type": "chest",
+        "label": "Chest",
+        "icon": null,
+        "px": 3775.4126871688295,
+        "py": 9191.480307934553,
+        "worldX": -180.33036346753346,
+        "worldY": 1714.2076732131861,
+        "chunkId": "L1_+0_+10",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L1_+0_+10\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_Camp_1_Chest_1",
+        "name": "Chest",
+        "lootTable": "Empty_LootTable",
+        "level": null,
+        "lootItems": null,
+        "raw": {
+            "id": "Z1_World_Greenlands_Camp_1_Chest_1",
+            "type": 2,
+            "texts": {},
+            "props": {
+                "lootTable": "Empty_LootTable"
+            },
+            "$cdbtype": "element",
+            "script": null,
+            "chunkId": "L1_+0_+10",
+            "worldX": -180.33036346753346,
+            "worldY": 1714.2076732131861
+        }
+    },
+    {
+        "id": "chest-L0_-1_+18-Z1_World_Greenlands_WorldChest_40",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 3864.0700444444446,
+        "py": 9188.415466666667,
+        "worldX": -130.4606,
+        "worldY": 1712.4837,
+        "chunkId": "L0_-1_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+18\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_WorldChest_40",
+        "name": "WorldChest",
+        "lootTable": "ManfishCrate",
+        "level": 4,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_WorldChest_40",
+            "texts": {
+                "__id__": 243882
+            },
+            "props": {
+                "lootTable": "ManfishCrate",
+                "level": 4
+            },
+            "chunkId": "L0_-1_+18",
+            "worldX": -130.4606,
+            "worldY": 1712.4837
+        }
+    },
+    {
+        "id": "chest-L0_-10_+24-W1_Siagarta_WorldChest_41",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 2388.882311111111,
+        "py": 10133.772977777779,
+        "worldX": -960.2537,
+        "worldY": 2244.2473,
+        "chunkId": "L0_-10_+24",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-10_+24\\gameplayData.prefab",
+        "elementId": "W1_Siagarta_WorldChest_41",
+        "name": "WorldChest",
+        "lootTable": "WorldCrate",
+        "level": 2,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "W1_Siagarta_WorldChest_41",
+            "texts": {},
+            "props": {
+                "lootTable": "WorldCrate",
+                "level": 2
+            },
+            "script": null,
+            "chunkId": "L0_-10_+24",
+            "worldX": -960.2537,
+            "worldY": 2244.2473
+        }
+    },
+    {
+        "id": "chest-L0_-12_+15-Z1_World_Greenlands_WorldChest_32",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 1918.1845333333335,
+        "py": 8676.94968888889,
+        "worldX": -1225.0212,
+        "worldY": 1424.7842,
+        "chunkId": "L0_-12_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-12_+15\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_WorldChest_32",
+        "name": "WorldChest",
+        "lootTable": "BeeCrate",
+        "level": 6,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_WorldChest_32",
+            "texts": {
+                "__id__": 243351
+            },
+            "props": {
+                "lootTable": "BeeCrate",
+                "level": 6
+            },
+            "chunkId": "L0_-12_+15",
+            "worldX": -1225.0212,
+            "worldY": 1424.7842
+        }
+    },
+    {
+        "id": "chest-L0_-3_+20-Z1_World_Greenlands_WorldChest_44",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 3517.8284444444444,
+        "py": 9517.169244444445,
+        "worldX": -325.2215,
+        "worldY": 1897.4077,
+        "chunkId": "L0_-3_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+20\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_WorldChest_44",
+        "name": "WorldChest",
+        "lootTable": "ManfishCrate",
+        "level": 3,
+        "lootItems": [
+            {
+                "lootTable": null,
+                "item": "LP_Z1_Manfish",
+                "dropRate": 100,
+                "quantity": 1
+            }
+        ],
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_WorldChest_44",
+            "texts": {
+                "__id__": 241978
+            },
+            "props": {
+                "lootTable": "ManfishCrate",
+                "lootItems": [
+                    {
+                        "lootTable": null,
+                        "item": "LP_Z1_Manfish",
+                        "dropRate": 100,
+                        "quantity": 1
+                    }
+                ],
+                "level": 3
+            },
+            "script": null,
+            "chunkId": "L0_-3_+20",
+            "worldX": -325.2215,
+            "worldY": 1897.4077
+        }
+    },
+    {
+        "id": "chest-L0_-4_+23-Z1_World_Greenlands_WorldChest_49",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 3244.8035555555557,
+        "py": 9952.869688888888,
+        "worldX": -478.798,
+        "worldY": 2142.4892,
+        "chunkId": "L0_-4_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+23\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_WorldChest_49",
+        "name": "WorldChest",
+        "lootTable": "WorldCrate",
+        "level": 3,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_WorldChest_49",
+            "texts": {},
+            "props": {
+                "lootTable": "WorldCrate",
+                "level": 3
+            },
+            "script": null,
+            "chunkId": "L0_-4_+23",
+            "worldX": -478.798,
+            "worldY": 2142.4892
+        }
+    },
+    {
+        "id": "chest-L0_-7_+23-Z1_World_Greenlands_WorldChest_69",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 2789.7347555555557,
+        "py": 9906.462044444444,
+        "worldX": -734.7742,
+        "worldY": 2116.3849,
+        "chunkId": "L0_-7_+23",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+23\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_WorldChest_69",
+        "name": "WorldChest",
+        "lootTable": "WorldCrate",
+        "level": 2,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_WorldChest_69",
+            "texts": {},
+            "props": {
+                "lootTable": "WorldCrate",
+                "level": 2
+            },
+            "script": null,
+            "chunkId": "L0_-7_+23",
+            "worldX": -734.7742,
+            "worldY": 2116.3849
+        }
+    },
+    {
+        "id": "chest-L0_-8_+20-Z1_World_Greenlands_WorldChest_59",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 2703.088711111111,
+        "py": 9478.015822222222,
+        "worldX": -783.5126,
+        "worldY": 1875.3839,
+        "chunkId": "L0_-8_+20",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+20\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_WorldChest_59",
+        "name": "WorldChest",
+        "lootTable": "WorldCrate",
+        "level": 3,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_WorldChest_59",
+            "texts": {
+                "__id__": 960977
+            },
+            "props": {
+                "lootTable": "WorldCrate",
+                "level": 3
+            },
+            "script": null,
+            "chunkId": "L0_-8_+20",
+            "worldX": -783.5126,
+            "worldY": 1875.3839
+        }
+    },
+    {
+        "id": "chest-L0_-8_+22-Z1_World_Greenlands_WorldChest_63",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 2714.6762666666664,
+        "py": 9755.748977777777,
+        "worldX": -776.9946,
+        "worldY": 2031.6088,
+        "chunkId": "L0_-8_+22",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-8_+22\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_WorldChest_63",
+        "name": "WorldChest",
+        "lootTable": "WorldCrate",
+        "level": 2,
+        "lootItems": [
+            {
+                "lootTable": null,
+                "item": "LP_Z1_Bee",
+                "quantity": 1,
+                "dropRate": 100
+            }
+        ],
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_WorldChest_63",
+            "texts": {
+                "__id__": 16483241
+            },
+            "props": {
+                "lootTable": "WorldCrate",
+                "lootItems": [
+                    {
+                        "lootTable": null,
+                        "item": "LP_Z1_Bee",
+                        "quantity": 1,
+                        "dropRate": 100
+                    }
+                ],
+                "level": 2
+            },
+            "script": null,
+            "chunkId": "L0_-8_+22",
+            "worldX": -776.9946,
+            "worldY": 2031.6088
+        }
+    },
+    {
+        "id": "chest-L0_-9_+19-W1_Siagarta_WorldChest_19",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 2492.127288888889,
+        "py": 9270.610311111112,
+        "worldX": -902.1784,
+        "worldY": 1758.7183,
+        "chunkId": "L0_-9_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+19\\gameplayData.prefab",
+        "elementId": "W1_Siagarta_WorldChest_19",
+        "name": "WorldChest",
+        "lootTable": "WorldCrate",
+        "level": 2,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "W1_Siagarta_WorldChest_19",
+            "texts": {},
+            "props": {
+                "lootTable": "WorldCrate",
+                "level": 2
+            },
+            "script": null,
+            "chunkId": "L0_-9_+19",
+            "worldX": -902.1784,
+            "worldY": 1758.7183
+        }
+    },
+    {
+        "id": "chest-L0_-9_+21-W1_Siagarta_WorldChest_13",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 2459.7888000000003,
+        "py": 9577.879644444445,
+        "worldX": -920.3688,
+        "worldY": 1931.5573,
+        "chunkId": "L0_-9_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-9_+21\\gameplayData.prefab",
+        "elementId": "W1_Siagarta_WorldChest_13",
+        "name": "WorldChest",
+        "lootTable": "WorldCrate",
+        "level": 3,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "W1_Siagarta_WorldChest_13",
+            "texts": {},
+            "props": {
+                "lootTable": "WorldCrate",
+                "level": 3
+            },
+            "script": null,
+            "chunkId": "L0_-9_+21",
+            "worldX": -920.3688,
+            "worldY": 1931.5573
+        }
+    },
+    {
+        "id": "chest-L0_+0_+16-Z1_World_Greenlands_WorldChest_21",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 3946.279466666667,
+        "py": 8716.646577777778,
+        "worldX": -84.2178,
+        "worldY": 1447.1137,
+        "chunkId": "L0_+0_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+16\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_WorldChest_21",
+        "name": "WorldChest",
+        "lootTable": "WorldCrate",
+        "level": 6,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_WorldChest_21",
+            "texts": {
+                "__id__": 240608
+            },
+            "props": {
+                "lootTable": "WorldCrate",
+                "level": 6
+            },
+            "chunkId": "L0_+0_+16",
+            "worldX": -84.2178,
+            "worldY": 1447.1137
+        }
+    },
+    {
+        "id": "chest-L0_+15_+18-Z1_World_Greenlands_WorldChest_42",
+        "type": "chest",
+        "label": "World Chest",
+        "icon": null,
+        "px": 6499.6944,
+        "py": 9154.161422222222,
+        "worldX": 1352.0781,
+        "worldY": 1693.2158,
+        "chunkId": "L0_+15_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+15_+18\\gameplayData.prefab",
+        "elementId": "Z1_World_Greenlands_WorldChest_42",
+        "name": "WorldChest",
+        "lootTable": "WorldCrate",
+        "level": 17,
+        "lootItems": null,
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Z1_World_Greenlands_WorldChest_42",
+            "texts": {},
+            "props": {
+                "lootTable": "WorldCrate",
+                "level": 17
+            },
+            "chunkId": "L0_+15_+18",
+            "worldX": 1352.0781,
+            "worldY": 1693.2158
+        }
+    }
+]

@@ -1,0 +1,511 @@
+[
+    {
+        "id": "gatherable-L0_-1_+16-Lavendula_Small_32",
+        "type": "gatherable",
+        "label": "Lavendula (Small)",
+        "icon": null,
+        "px": 3845.3432888888888,
+        "py": 8765.134044444445,
+        "worldX": -140.9944,
+        "worldY": 1474.3879,
+        "chunkId": "L0_-1_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+16\\gameplayData.prefab",
+        "elementId": "Lavendula_Small_32",
+        "name": "Lavendula_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Lavendula_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Lavendula_Small_32",
+            "texts": {
+                "__id__": 243844
+            },
+            "props": {
+                "__id__": 243845
+            },
+            "chunkId": "L0_-1_+16",
+            "worldX": -140.9944,
+            "worldY": 1474.3879
+        }
+    },
+    {
+        "id": "gatherable-L0_-1_+17-Lavendula_Small_17",
+        "type": "gatherable",
+        "label": "Lavendula (Small)",
+        "icon": null,
+        "px": 3855.4878222222223,
+        "py": 8915.452622222223,
+        "worldX": -135.2881,
+        "worldY": 1558.9421,
+        "chunkId": "L0_-1_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+17\\gameplayData.prefab",
+        "elementId": "Lavendula_Small_17",
+        "name": "Lavendula_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Lavendula_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Lavendula_Small_17",
+            "texts": {
+                "__id__": 243875
+            },
+            "props": {
+                "__id__": 243876
+            },
+            "chunkId": "L0_-1_+17",
+            "worldX": -135.2881,
+            "worldY": 1558.9421
+        }
+    },
+    {
+        "id": "gatherable-L0_-1_+18-Lavendula_Small_18",
+        "type": "gatherable",
+        "label": "Lavendula (Small)",
+        "icon": null,
+        "px": 3891.732266666667,
+        "py": 9191.9648,
+        "worldX": -114.9006,
+        "worldY": 1714.4802,
+        "chunkId": "L0_-1_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-1_+18\\gameplayData.prefab",
+        "elementId": "Lavendula_Small_18",
+        "name": "Lavendula_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Lavendula_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Lavendula_Small_18",
+            "texts": {
+                "__id__": 243892
+            },
+            "props": {
+                "__id__": 243893
+            },
+            "chunkId": "L0_-1_+18",
+            "worldX": -114.9006,
+            "worldY": 1714.4802
+        }
+    },
+    {
+        "id": "gatherable-L0_-3_+15-Lavendula_Small_16",
+        "type": "gatherable",
+        "label": "Lavendula (Small)",
+        "icon": null,
+        "px": 3516.8570666666665,
+        "py": 8658.032177777777,
+        "worldX": -325.7679,
+        "worldY": 1414.1431,
+        "chunkId": "L0_-3_+15",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+15\\gameplayData.prefab",
+        "elementId": "Lavendula_Small_16",
+        "name": "Lavendula_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Lavendula_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Lavendula_Small_16",
+            "texts": {
+                "__id__": 479042
+            },
+            "props": {
+                "__id__": 479043
+            },
+            "script": null,
+            "chunkId": "L0_-3_+15",
+            "worldX": -325.7679,
+            "worldY": 1414.1431
+        }
+    },
+    {
+        "id": "gatherable-L0_-4_+18-Lavendula_Small_14",
+        "type": "gatherable",
+        "label": "Lavendula (Small)",
+        "icon": null,
+        "px": 3374.6897777777776,
+        "py": 9095.636088888888,
+        "worldX": -405.737,
+        "worldY": 1660.2953,
+        "chunkId": "L0_-4_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+18\\gameplayData.prefab",
+        "elementId": "Lavendula_Small_14",
+        "name": "Lavendula_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Lavendula_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Lavendula_Small_14",
+            "texts": {
+                "__id__": 479294
+            },
+            "props": {
+                "__id__": 479295
+            },
+            "chunkId": "L0_-4_+18",
+            "worldX": -405.737,
+            "worldY": 1660.2953
+        }
+    },
+    {
+        "id": "gatherable-L0_-4_+19-Lavendula_Small_11",
+        "type": "gatherable",
+        "label": "Lavendula (Small)",
+        "icon": null,
+        "px": 3282.610488888889,
+        "py": 9252.425777777778,
+        "worldX": -457.5316,
+        "worldY": 1748.4895,
+        "chunkId": "L0_-4_+19",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+19\\gameplayData.prefab",
+        "elementId": "Lavendula_Small_11",
+        "name": "Lavendula_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Lavendula_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Lavendula_Small_11",
+            "texts": {
+                "__id__": 479306
+            },
+            "props": {
+                "__id__": 479307
+            },
+            "chunkId": "L0_-4_+19",
+            "worldX": -457.5316,
+            "worldY": 1748.4895
+        }
+    },
+    {
+        "id": "gatherable-L0_-6_+17-Lavendula_Small_15",
+        "type": "gatherable",
+        "label": "Lavendula (Small)",
+        "icon": null,
+        "px": 2925.5633777777775,
+        "py": 8956.74808888889,
+        "worldX": -658.3706,
+        "worldY": 1582.1708,
+        "chunkId": "L0_-6_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-6_+17\\gameplayData.prefab",
+        "elementId": "Lavendula_Small_15",
+        "name": "Lavendula_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Lavendula_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Lavendula_Small_15",
+            "texts": {
+                "__id__": 245142
+            },
+            "props": {
+                "__id__": 245143
+            },
+            "chunkId": "L0_-6_+17",
+            "worldX": -658.3706,
+            "worldY": 1582.1708
+        }
+    },
+    {
+        "id": "gatherable-L0_-4_+18-Madrigold_Large_1",
+        "type": "gatherable",
+        "label": "Madrigold (Large)",
+        "icon": null,
+        "px": 3255.5697777777777,
+        "py": 9071.934222222222,
+        "worldX": -472.742,
+        "worldY": 1646.963,
+        "chunkId": "L0_-4_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-4_+18\\gameplayData.prefab",
+        "elementId": "Madrigold_Large_1",
+        "name": "Madrigold_Large",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Madrigold_Large.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Madrigold_Large_1",
+            "texts": {
+                "__id__": 479291
+            },
+            "props": {
+                "__id__": 479292
+            },
+            "chunkId": "L0_-4_+18",
+            "worldX": -472.742,
+            "worldY": 1646.963
+        }
+    },
+    {
+        "id": "gatherable-L0_-2_+16-Madrigold_Small_31",
+        "type": "gatherable",
+        "label": "Madrigold (Small)",
+        "icon": null,
+        "px": 3671.952,
+        "py": 8807.032,
+        "worldX": -238.527,
+        "worldY": 1497.9555,
+        "chunkId": "L0_-2_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+16\\gameplayData.prefab",
+        "elementId": "Madrigold_Small_31",
+        "name": "Madrigold_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Madrigold_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Madrigold_Small_31",
+            "texts": {
+                "__id__": 478759
+            },
+            "props": {
+                "__id__": 478760
+            },
+            "script": null,
+            "chunkId": "L0_-2_+16",
+            "worldX": -238.527,
+            "worldY": 1497.9555
+        }
+    },
+    {
+        "id": "gatherable-L0_-2_+18-Madrigold_Small_14",
+        "type": "gatherable",
+        "label": "Madrigold (Small)",
+        "icon": null,
+        "px": 3720.071111111111,
+        "py": 9045.423999999999,
+        "worldX": -211.46,
+        "worldY": 1632.051,
+        "chunkId": "L0_-2_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+18\\gameplayData.prefab",
+        "elementId": "Madrigold_Small_14",
+        "name": "Madrigold_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Madrigold_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Madrigold_Small_14",
+            "texts": {
+                "__id__": 478763
+            },
+            "props": {
+                "__id__": 478764
+            },
+            "chunkId": "L0_-2_+18",
+            "worldX": -211.46,
+            "worldY": 1632.051
+        }
+    },
+    {
+        "id": "gatherable-L0_-2_+18-Madrigold_Small_18",
+        "type": "gatherable",
+        "label": "Madrigold (Small)",
+        "icon": null,
+        "px": 3652.416888888889,
+        "py": 9082.600888888888,
+        "worldX": -249.5155,
+        "worldY": 1652.963,
+        "chunkId": "L0_-2_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+18\\gameplayData.prefab",
+        "elementId": "Madrigold_Small_18",
+        "name": "Madrigold_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Madrigold_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Madrigold_Small_18",
+            "texts": {
+                "__id__": 244031
+            },
+            "props": {
+                "__id__": 244032
+            },
+            "script": null,
+            "chunkId": "L0_-2_+18",
+            "worldX": -249.5155,
+            "worldY": 1652.963
+        }
+    },
+    {
+        "id": "gatherable-L0_-2_+21-Madrigold_Small_12",
+        "type": "gatherable",
+        "label": "Madrigold (Small)",
+        "icon": null,
+        "px": 3586.9879111111113,
+        "py": 9722.06471111111,
+        "worldX": -286.3193,
+        "worldY": 2012.6614,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "elementId": "Madrigold_Small_12",
+        "name": "Madrigold_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Madrigold_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Madrigold_Small_12",
+            "texts": {
+                "__id__": 478821
+            },
+            "props": {
+                "__id__": 478822
+            },
+            "chunkId": "L0_-2_+21",
+            "worldX": -286.3193,
+            "worldY": 2012.6614
+        }
+    },
+    {
+        "id": "gatherable-L0_-2_+21-Madrigold_Small_13",
+        "type": "gatherable",
+        "label": "Madrigold (Small)",
+        "icon": null,
+        "px": 3753.2172444444445,
+        "py": 9573.9952,
+        "worldX": -192.8153,
+        "worldY": 1929.3723,
+        "chunkId": "L0_-2_+21",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-2_+21\\gameplayData.prefab",
+        "elementId": "Madrigold_Small_13",
+        "name": "Madrigold_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Madrigold_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Madrigold_Small_13",
+            "texts": {
+                "__id__": 478824
+            },
+            "props": {
+                "__id__": 478825
+            },
+            "chunkId": "L0_-2_+21",
+            "worldX": -192.8153,
+            "worldY": 1929.3723
+        }
+    },
+    {
+        "id": "gatherable-L0_-3_+17-Madrigold_Small_15",
+        "type": "gatherable",
+        "label": "Madrigold (Small)",
+        "icon": null,
+        "px": 3435.7331555555556,
+        "py": 8949.918222222223,
+        "worldX": -371.4001,
+        "worldY": 1578.329,
+        "chunkId": "L0_-3_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-3_+17\\gameplayData.prefab",
+        "elementId": "Madrigold_Small_15",
+        "name": "Madrigold_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Madrigold_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Madrigold_Small_15",
+            "texts": {
+                "__id__": 479049
+            },
+            "props": {
+                "__id__": 479050
+            },
+            "script": null,
+            "chunkId": "L0_-3_+17",
+            "worldX": -371.4001,
+            "worldY": 1578.329
+        }
+    },
+    {
+        "id": "gatherable-L0_-5_+18-Madrigold_Small_1",
+        "type": "gatherable",
+        "label": "Madrigold (Small)",
+        "icon": null,
+        "px": 3171.199466666667,
+        "py": 9080.198044444445,
+        "worldX": -520.2003,
+        "worldY": 1651.6114,
+        "chunkId": "L0_-5_+18",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-5_+18\\gameplayData.prefab",
+        "elementId": "Madrigold_Small_1",
+        "name": "Madrigold_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Madrigold_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Madrigold_Small_1",
+            "texts": {
+                "__id__": 244851
+            },
+            "props": {
+                "__id__": 244852
+            },
+            "chunkId": "L0_-5_+18",
+            "worldX": -520.2003,
+            "worldY": 1651.6114
+        }
+    },
+    {
+        "id": "gatherable-L0_+0_+16-Madrigold_Small_21",
+        "type": "gatherable",
+        "label": "Madrigold (Small)",
+        "icon": null,
+        "px": 4017.9731555555554,
+        "py": 8720.068622222223,
+        "worldX": -43.890100000000004,
+        "worldY": 1449.0386,
+        "chunkId": "L0_+0_+16",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+16\\gameplayData.prefab",
+        "elementId": "Madrigold_Small_21",
+        "name": "Madrigold_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Madrigold_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Madrigold_Small_21",
+            "texts": {
+                "__id__": 240614
+            },
+            "props": {
+                "__id__": 240615
+            },
+            "chunkId": "L0_+0_+16",
+            "worldX": -43.890100000000004,
+            "worldY": 1449.0386
+        }
+    },
+    {
+        "id": "gatherable-L0_+0_+17-Madrigold_Small_17",
+        "type": "gatherable",
+        "label": "Madrigold (Small)",
+        "icon": null,
+        "px": 3959.940977777778,
+        "py": 9025.725333333334,
+        "worldX": -76.5332,
+        "worldY": 1620.9705,
+        "chunkId": "L0_+0_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_+0_+17\\gameplayData.prefab",
+        "elementId": "Madrigold_Small_17",
+        "name": "Madrigold_Small",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Madrigold_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Madrigold_Small_17",
+            "texts": {
+                "__id__": 475794
+            },
+            "props": {
+                "__id__": 475795
+            },
+            "chunkId": "L0_+0_+17",
+            "worldX": -76.5332,
+            "worldY": 1620.9705
+        }
+    },
+    {
+        "id": "gatherable-L0_-7_+17-Zealotus_14",
+        "type": "gatherable",
+        "label": "Zealotus",
+        "icon": null,
+        "px": 2866.1578666666665,
+        "py": 8883.470222222222,
+        "worldX": -691.7862,
+        "worldY": 1540.952,
+        "chunkId": "L0_-7_+17",
+        "file": "..\\..\\farever\\out\\Level\\World\\W1_Siagarta.dat\\L0_-7_+17\\gameplayData.prefab",
+        "elementId": "Zealotus_14",
+        "name": "Zealotus",
+        "source": "Gameplay/Prefabs/Gatherables/Plants/R1/Zealotus_Small.prefab",
+        "raw": {
+            "$cdbtype": "element",
+            "id": "Zealotus_14",
+            "texts": {
+                "__id__": 480115
+            },
+            "props": {
+                "__id__": 480116
+            },
+            "script": null,
+            "chunkId": "L0_-7_+17",
+            "worldX": -691.7862,
+            "worldY": 1540.952
+        }
+    }
+]

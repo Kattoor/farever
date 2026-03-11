@@ -302,3 +302,176 @@ code {
 .icon {
     display: block;
 }
+
+.container-wide {
+    max-width: min(1600px, calc(100vw - 2rem));
+}
+
+.map-page {
+    display: grid;
+    gap: 1rem;
+}
+
+.map-hero {
+    margin-bottom: 0;
+}
+
+.map-toolbar {
+    justify-content: flex-end;
+}
+
+.map-filters {
+    gap: 0.55rem;
+}
+
+.map-filter-pill {
+    gap: 0.45rem;
+    cursor: pointer;
+}
+
+.map-filter-pill input {
+    margin: 0;
+}
+
+.map-swatch {
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 999px;
+    background: var(--swatch, rgba(255,255,255,0.8));
+    box-shadow: 0 0 0 1px rgba(255,255,255,0.45) inset;
+}
+
+.map-shell {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 320px;
+    gap: 1rem;
+    align-items: start;
+}
+
+.map-canvas {
+    height: 78vh;
+    min-height: 600px;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.18);
+}
+
+.map-sidebar {
+    min-height: 260px;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    background: rgba(0, 0, 0, 0.12);
+    padding: 1rem;
+    overflow: auto;
+    max-height: 78vh;
+}
+
+.map-side-card h2 {
+    margin: 0.15rem 0 0.75rem;
+    font-size: 1.15rem;
+}
+
+.map-side-kicker {
+    font-size: 0.82rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    opacity: 0.75;
+}
+
+.map-kv {
+    display: grid;
+    gap: 0.65rem;
+    margin: 0;
+}
+
+.map-kv div {
+    display: grid;
+    gap: 0.15rem;
+}
+
+.map-kv dt {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    opacity: 0.7;
+}
+
+.map-kv dd {
+    margin: 0;
+}
+
+.map-raw-details {
+    margin-top: 0.9rem;
+}
+
+.map-raw-details pre {
+    margin: 0.6rem 0 0;
+    padding: 0.75rem;
+    border-radius: 12px;
+    background: rgba(0, 0, 0, 0.25);
+    overflow: auto;
+    font-size: 0.82rem;
+}
+
+.leaflet-container {
+    font: inherit;
+    background: transparent;
+}
+
+.leaflet-tooltip {
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.88);
+    color: white;
+    box-shadow: none;
+    padding: 0.35rem 0.55rem;
+}
+
+.leaflet-tooltip-top:before {
+    border-top-color: rgba(0, 0, 0, 0.88);
+}
+
+@media (max-width: 1100px) {
+    .map-shell {
+        grid-template-columns: 1fr;
+    }
+
+    .map-sidebar {
+        max-height: none;
+    }
+
+    .map-canvas {
+        height: 68vh;
+        min-height: 480px;
+    }
+}
+
+.map-side-actions {
+    margin: 0.75rem 0 1rem 0;
+}
+
+.map-action-link {
+    text-decoration: none;
+}
+
+.map-side-hero {
+    margin: 0.75rem 0 1rem 0;
+    display: flex;
+    justify-content: center;
+}
+
+.map-side-icon {
+    width: 72px;
+    height: 72px;
+    object-fit: contain;
+    image-rendering: auto;
+}
+
+.map-side-actions {
+    margin: 0.75rem 0 1rem 0;
+}
+
+.map-action-link {
+    text-decoration: none;
+}
