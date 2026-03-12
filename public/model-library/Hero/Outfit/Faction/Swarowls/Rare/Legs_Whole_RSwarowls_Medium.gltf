@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Legs_Whole_RSwarowls_Medium",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Legs_Z3RSwarowls_Medium_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Legs_Z3RSwarowls_Medium_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Legs_Whole_RSwarowls_Medium.bin",
+      "byteLength": 107556
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 28152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28152,
+      "byteLength": 28152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 56304,
+      "byteLength": 18768,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 75072,
+      "byteLength": 18768,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 93840,
+      "byteLength": 13716,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2346,
+      "type": "VEC3",
+      "min": [
+        -0.37084171175956726,
+        0.08518349379301071,
+        -0.10208078473806381
+      ],
+      "max": [
+        0.37084171175956726,
+        1.2814749479293823,
+        0.2377077043056488
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2346,
+      "type": "VEC3",
+      "min": [
+        -0.9994224309921265,
+        -0.9984127283096313,
+        -0.9995679259300232
+      ],
+      "max": [
+        0.9994221925735474,
+        0.9926065802574158,
+        0.9999995231628418
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2346,
+      "type": "VEC2",
+      "min": [
+        0.043014831840991974,
+        0.3140062093734741
+      ],
+      "max": [
+        0.8922310471534729,
+        0.8596696257591248
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2346,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.2522207498550415
+      ],
+      "max": [
+        0.9459876418113708,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 6858,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2345
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Legs_Whole_RSwarowls_Medium.materials.json"
+  }
+}

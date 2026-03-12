@@ -1,0 +1,530 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Glider_Butterfly_Demon",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Glider_Butterfly",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Glider_Butterfly",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "COLOR_0": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14,
+            "TEXCOORD_1": 15,
+            "COLOR_0": 16
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Gradmat_02",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Mat_Fresnel",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Glider_Butterfly_Demon.bin",
+      "byteLength": 802392
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 58008,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 58008,
+      "byteLength": 58008,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 116016,
+      "byteLength": 38672,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 154688,
+      "byteLength": 38672,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 193360,
+      "byteLength": 58008,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 251368,
+      "byteLength": 46176,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 297544,
+      "byteLength": 58008,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 355552,
+      "byteLength": 58008,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 413560,
+      "byteLength": 38672,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 452232,
+      "byteLength": 38672,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 490904,
+      "byteLength": 58008,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 548912,
+      "byteLength": 1056,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 549968,
+      "byteLength": 58008,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 607976,
+      "byteLength": 58008,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 665984,
+      "byteLength": 38672,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 704656,
+      "byteLength": 38672,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 743328,
+      "byteLength": 58008,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 801336,
+      "byteLength": 1056,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC3",
+      "min": [
+        -2.426119089126587,
+        0.23410169780254364,
+        -2.8600118160247803
+      ],
+      "max": [
+        2.426119089126587,
+        1.635985255241394,
+        1.286017894744873
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC3",
+      "min": [
+        -0.9999282956123352,
+        -0.9999982118606567,
+        -0.9973639845848083
+      ],
+      "max": [
+        0.9999282956123352,
+        0.9999987483024597,
+        0.9997871518135071
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC2",
+      "min": [
+        0.13552753627300262,
+        0.12782782316207886
+      ],
+      "max": [
+        0.9467068910598755,
+        0.9763992428779602
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC2",
+      "min": [
+        0.03207017481327057,
+        0.11078983545303345
+      ],
+      "max": [
+        0.9442553520202637,
+        0.9767866730690002
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 3625.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 23088,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4613
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC3",
+      "min": [
+        -2.426119089126587,
+        0.23410169780254364,
+        -2.8600118160247803
+      ],
+      "max": [
+        2.426119089126587,
+        1.635985255241394,
+        1.286017894744873
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC3",
+      "min": [
+        -0.9999282956123352,
+        -0.9999982118606567,
+        -0.9973639845848083
+      ],
+      "max": [
+        0.9999282956123352,
+        0.9999987483024597,
+        0.9997871518135071
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC2",
+      "min": [
+        0.13552753627300262,
+        0.12782782316207886
+      ],
+      "max": [
+        0.9467068910598755,
+        0.9763992428779602
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC2",
+      "min": [
+        0.03207017481327057,
+        0.11078983545303345
+      ],
+      "max": [
+        0.9442553520202637,
+        0.9767866730690002
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 3625.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 528,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4723
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC3",
+      "min": [
+        -2.426119089126587,
+        0.23410169780254364,
+        -2.8600118160247803
+      ],
+      "max": [
+        2.426119089126587,
+        1.635985255241394,
+        1.286017894744873
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC3",
+      "min": [
+        -0.9999282956123352,
+        -0.9999982118606567,
+        -0.9973639845848083
+      ],
+      "max": [
+        0.9999282956123352,
+        0.9999987483024597,
+        0.9997871518135071
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC2",
+      "min": [
+        0.13552753627300262,
+        0.12782782316207886
+      ],
+      "max": [
+        0.9467068910598755,
+        0.9763992428779602
+      ]
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 4834,
+      "type": "VEC2",
+      "min": [
+        0.03207017481327057,
+        0.11078983545303345
+      ],
+      "max": [
+        0.9442553520202637,
+        0.9767866730690002
+      ]
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 3625.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5123,
+      "count": 528,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4833
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Glider_Butterfly_Demon.materials.json"
+  }
+}

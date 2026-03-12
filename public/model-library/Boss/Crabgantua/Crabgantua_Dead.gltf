@@ -1,0 +1,210 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Crabgantua_Dead",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Crabgantua_Body",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Crabgantua_Body",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Crabgantua_Dead.bin",
+      "byteLength": 434304
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 111348,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 111348,
+      "byteLength": 111348,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 222696,
+      "byteLength": 74232,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 296928,
+      "byteLength": 74232,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 371160,
+      "byteLength": 63144,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 9279,
+      "type": "VEC3",
+      "min": [
+        -2.8851542472839355,
+        -2.063922882080078,
+        0.004196286201477051
+      ],
+      "max": [
+        2.8851542472839355,
+        3.2564430236816406,
+        4.041937828063965
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 9279,
+      "type": "VEC3",
+      "min": [
+        -0.9997245073318481,
+        -0.9992348551750183,
+        -0.9999418258666992
+      ],
+      "max": [
+        0.9998258948326111,
+        0.9989323616027832,
+        0.9998167753219604
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 9279,
+      "type": "VEC2",
+      "min": [
+        0.019705880433321,
+        0.09195315837860107
+      ],
+      "max": [
+        0.9776821732521057,
+        0.9919179677963257
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 9279,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.02719402313232422
+      ],
+      "max": [
+        1.0013271570205688,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 31572,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        9278
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Crabgantua_Dead.materials.json"
+  }
+}

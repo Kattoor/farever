@@ -1,0 +1,238 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Shoulders_Outer_XSwarowls_01_Medium",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Shoulders_Z3Swarowls_Medium_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "MEDIUM",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Shoulders_Z3Swarowls_Medium_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Shoulders_Outer_XSwarowls_01_Medium.bin",
+      "byteLength": 141936
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 28656,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28656,
+      "byteLength": 28656,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 57312,
+      "byteLength": 19104,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 76416,
+      "byteLength": 19104,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 95520,
+      "byteLength": 28656,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 124176,
+      "byteLength": 17760,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2388,
+      "type": "VEC3",
+      "min": [
+        -0.45260390639305115,
+        1.543351411819458,
+        -0.24041114747524261
+      ],
+      "max": [
+        0.45260390639305115,
+        1.913681149482727,
+        0.31901559233665466
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2388,
+      "type": "VEC3",
+      "min": [
+        -0.9998844265937805,
+        -0.9952881336212158,
+        -0.996364414691925
+      ],
+      "max": [
+        0.999884307384491,
+        1,
+        0.9944125413894653
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2388,
+      "type": "VEC2",
+      "min": [
+        0.09449571371078491,
+        0.37730133533477783
+      ],
+      "max": [
+        0.493778258562088,
+        0.8816811442375183
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2388,
+      "type": "VEC2",
+      "min": [
+        0.08336825668811798,
+        0.258048415184021
+      ],
+      "max": [
+        0.9393560290336609,
+        0.9328032732009888
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1791,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 8880,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2387
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Shoulders_Outer_XSwarowls_01_Medium.materials.json"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Mace_R10_R1CrimsonC_FigCle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Mace_R10_R1CrimsonC_FigCle",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Mace_R10_R1CrimsonC_FigCle",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Mace_R10_R1CrimsonC_FigCle.bin",
+      "byteLength": 114240
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 30420,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 30420,
+      "byteLength": 30420,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 60840,
+      "byteLength": 20280,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 81120,
+      "byteLength": 20280,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 101400,
+      "byteLength": 12840,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2535,
+      "type": "VEC3",
+      "min": [
+        -0.3916439116001129,
+        -0.17360372841358185,
+        -0.3692438006401062
+      ],
+      "max": [
+        0.3916439116001129,
+        0.1736060082912445,
+        0.8369063138961792
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2535,
+      "type": "VEC3",
+      "min": [
+        -0.9999997019767761,
+        -0.9991920590400696,
+        -1
+      ],
+      "max": [
+        0.9999999403953552,
+        0.9986798763275146,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2535,
+      "type": "VEC2",
+      "min": [
+        0.038720518350601196,
+        0.029102563858032227
+      ],
+      "max": [
+        0.490558385848999,
+        0.9049879312515259
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2535,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.1993744969367981
+      ],
+      "max": [
+        0.9417471289634705,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 6420,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2534
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Mace_R10_R1CrimsonC_FigCle.materials.json"
+  }
+}

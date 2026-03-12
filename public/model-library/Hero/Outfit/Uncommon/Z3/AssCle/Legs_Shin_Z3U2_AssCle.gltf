@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Legs_Shin_Z3U2_AssCle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Legs_Z1U1_AssWiz_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Legs_Z1U1_AssWiz_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Legs_Shin_Z3U2_AssCle.bin",
+      "byteLength": 149644
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 31980,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 31980,
+      "byteLength": 31980,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 63960,
+      "byteLength": 21320,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 85280,
+      "byteLength": 21320,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 106600,
+      "byteLength": 31980,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 138580,
+      "byteLength": 11064,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2665,
+      "type": "VEC3",
+      "min": [
+        -0.373779296875,
+        0.08514404296875,
+        -0.09063720703125
+      ],
+      "max": [
+        0.373779296875,
+        1.2763671875,
+        0.234375
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2665,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2665,
+      "type": "VEC2",
+      "min": [
+        0.039886474609375,
+        0.1708984375
+      ],
+      "max": [
+        0.6171875,
+        0.95458984375
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2665,
+      "type": "VEC2",
+      "min": [
+        0.0291595458984375,
+        0.10028076171875
+      ],
+      "max": [
+        0.94384765625,
+        0.974609375
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1998.75,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 5532,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2664
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Legs_Shin_Z3U2_AssCle.materials.json"
+  }
+}

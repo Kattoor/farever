@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Waist_Medium_XManfish_02_Light",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Waist_Z1RManfish_Light_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Waist_Z1RManfish_Light_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Waist_Medium_XManfish_02_Light.bin",
+      "byteLength": 39988
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 10560,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10560,
+      "byteLength": 10560,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21120,
+      "byteLength": 7040,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28160,
+      "byteLength": 7040,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 35200,
+      "byteLength": 4788,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 880,
+      "type": "VEC3",
+      "min": [
+        -0.21630859375,
+        1.1640625,
+        -0.068603515625
+      ],
+      "max": [
+        0.21630859375,
+        1.302734375,
+        0.282470703125
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 880,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        0.4980392156862745,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 880,
+      "type": "VEC2",
+      "min": [
+        0.1029052734375,
+        0.2125244140625
+      ],
+      "max": [
+        0.97607421875,
+        0.95068359375
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 880,
+      "type": "VEC2",
+      "min": [
+        0.03045654296875,
+        0.10589599609375
+      ],
+      "max": [
+        0.947265625,
+        0.96240234375
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2394,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        879
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Waist_Medium_XManfish_02_Light.materials.json"
+  }
+}

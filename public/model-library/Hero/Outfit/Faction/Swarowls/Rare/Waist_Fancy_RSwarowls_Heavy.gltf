@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Waist_Fancy_RSwarowls_Heavy",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Waist_RSwarowls_Heavy_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Waist_RSwarowls_Heavy_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Waist_Fancy_RSwarowls_Heavy.bin",
+      "byteLength": 71564
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 14388,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14388,
+      "byteLength": 14388,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28776,
+      "byteLength": 9592,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 38368,
+      "byteLength": 9592,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47960,
+      "byteLength": 14388,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 62348,
+      "byteLength": 9216,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1199,
+      "type": "VEC3",
+      "min": [
+        -0.23708724975585938,
+        1.1466412544250488,
+        -0.08418165147304535
+      ],
+      "max": [
+        0.23708724975585938,
+        1.3516829013824463,
+        0.28317195177078247
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1199,
+      "type": "VEC3",
+      "min": [
+        -0.9985155463218689,
+        -0.9980769753456116,
+        -0.9999983310699463
+      ],
+      "max": [
+        0.9985155463218689,
+        0.9993937611579895,
+        0.9999995827674866
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1199,
+      "type": "VEC2",
+      "min": [
+        0.25542113184928894,
+        0.26384782791137695
+      ],
+      "max": [
+        0.8150004744529724,
+        0.9001405835151672
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1199,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.36752599477767944
+      ],
+      "max": [
+        0.9411511421203613,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 899.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 4608,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1198
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Waist_Fancy_RSwarowls_Heavy.materials.json"
+  }
+}

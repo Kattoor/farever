@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hair_Short_Hipster_02",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hair_Short_Hipster_02",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hair_Short_Hipster_02",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hair_Short_Hipster_02.bin",
+      "byteLength": 44904
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 9036,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 9036,
+      "byteLength": 9036,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 18072,
+      "byteLength": 6024,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24096,
+      "byteLength": 6024,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 30120,
+      "byteLength": 9036,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 39156,
+      "byteLength": 5748,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 753,
+      "type": "VEC3",
+      "min": [
+        -0.19602514803409576,
+        1.9332140684127808,
+        -0.08887611329555511
+      ],
+      "max": [
+        0.13900621235370636,
+        2.2413527965545654,
+        0.2357509285211563
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 753,
+      "type": "VEC3",
+      "min": [
+        -0.9990800023078918,
+        -0.9993577599525452,
+        -0.9991660118103027
+      ],
+      "max": [
+        0.9996055364608765,
+        0.9990589022636414,
+        0.9961701035499573
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 753,
+      "type": "VEC2",
+      "min": [
+        0.1368926614522934,
+        0.23025262355804443
+      ],
+      "max": [
+        0.37122049927711487,
+        0.9932924509048462
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 753,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.004188895225524902
+      ],
+      "max": [
+        0.9558867812156677,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 564.75,
+      "type": "VEC4",
+      "min": [
+        0.7254902124404907,
+        0.7254902124404907,
+        0.7254902124404907,
+        0.7254902124404907
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 2874,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        752
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hair_Short_Hipster_02.materials.json"
+  }
+}

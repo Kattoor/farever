@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Frog_Greenland_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Frog",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Frog",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Frog_Greenland_01.bin",
+      "byteLength": 126074
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 31200,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 31200,
+      "byteLength": 31200,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 62400,
+      "byteLength": 20800,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 83200,
+      "byteLength": 20800,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 104000,
+      "byteLength": 22074,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2600,
+      "type": "VEC3",
+      "min": [
+        -0.49963244795799255,
+        -0.0008741624769754708,
+        -0.29061898589134216
+      ],
+      "max": [
+        0.49963244795799255,
+        0.6555947065353394,
+        0.27251654863357544
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2600,
+      "type": "VEC3",
+      "min": [
+        -0.9989691972732544,
+        -0.9999735951423645,
+        -0.9997366070747375
+      ],
+      "max": [
+        0.9988966584205627,
+        0.9998909831047058,
+        0.9999495148658752
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2600,
+      "type": "VEC2",
+      "min": [
+        0.03095206618309021,
+        0.023894906044006348
+      ],
+      "max": [
+        0.4667775332927704,
+        0.9846416711807251
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2600,
+      "type": "VEC2",
+      "min": [
+        0.12403073906898499,
+        0.31691932678222656
+      ],
+      "max": [
+        0.9384860992431641,
+        0.9384039044380188
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 11037,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2599
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Frog_Greenland_01.materials.json"
+  }
+}

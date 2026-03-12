@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sword_Guard_Basic_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Guard_Sword",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Guard_Sword",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_Weapons",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Sword_Guard_Basic_01.bin",
+      "byteLength": 50864
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 13416,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13416,
+      "byteLength": 13416,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 26832,
+      "byteLength": 8944,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 35776,
+      "byteLength": 8944,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 44720,
+      "byteLength": 6144,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1118,
+      "type": "VEC3",
+      "min": [
+        -0.05643817409873009,
+        -0.3274638056755066,
+        -0.1616121232509613
+      ],
+      "max": [
+        0.05643803998827934,
+        1.2939382791519165,
+        0.1616121232509613
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1118,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        0.9997141361236572,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1118,
+      "type": "VEC2",
+      "min": [
+        0.05510538071393967,
+        0.03620988130569458
+      ],
+      "max": [
+        0.47223609685897827,
+        0.7124024033546448
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1118,
+      "type": "VEC2",
+      "min": [
+        0.061316899955272675,
+        0.11255133152008057
+      ],
+      "max": [
+        0.9426071643829346,
+        0.9398746490478516
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 3072,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1117
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Sword_Guard_Basic_01.materials.json"
+  }
+}

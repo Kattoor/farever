@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hair_Medium_Bun_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hair_Medium_Bun_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hair_Medium_Bun_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hair_Medium_Bun_01.bin",
+      "byteLength": 134638
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 27372,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 27372,
+      "byteLength": 27372,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 54744,
+      "byteLength": 18248,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 72992,
+      "byteLength": 18248,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 91240,
+      "byteLength": 27372,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 118612,
+      "byteLength": 16026,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2281,
+      "type": "VEC3",
+      "min": [
+        -0.001946287346072495,
+        -0.002513064770027995,
+        0.018075164407491684
+      ],
+      "max": [
+        0.0017104712314903736,
+        0.0021643624641001225,
+        0.02290358580648899
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2281,
+      "type": "VEC3",
+      "min": [
+        -0.9995078444480896,
+        -0.9997512698173523,
+        -0.9996918439865112
+      ],
+      "max": [
+        0.9994173645973206,
+        0.9991464018821716,
+        0.9987800717353821
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2281,
+      "type": "VEC2",
+      "min": [
+        0.15366625785827637,
+        0.0934901237487793
+      ],
+      "max": [
+        0.3565463423728943,
+        0.896644115447998
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2281,
+      "type": "VEC2",
+      "min": [
+        0.00826524943113327,
+        0.0073691606521606445
+      ],
+      "max": [
+        0.9928195476531982,
+        0.532554030418396
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1710.75,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 8013,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2280
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hair_Medium_Bun_01.materials.json"
+  }
+}

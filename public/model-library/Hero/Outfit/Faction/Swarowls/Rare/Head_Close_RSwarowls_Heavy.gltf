@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Head_Close_RSwarowls_Heavy",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Head_RSwarwowls_Heavy_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Head_RSwarwowls_Heavy_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Head_Close_RSwarowls_Heavy.bin",
+      "byteLength": 97336
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 19812,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19812,
+      "byteLength": 19812,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 39624,
+      "byteLength": 13208,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 52832,
+      "byteLength": 13208,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 66040,
+      "byteLength": 19812,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 85852,
+      "byteLength": 11484,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1651,
+      "type": "VEC3",
+      "min": [
+        -0.19467158615589142,
+        1.815629482269287,
+        -0.1852419525384903
+      ],
+      "max": [
+        0.19467158615589142,
+        2.3499481678009033,
+        0.36708271503448486
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1651,
+      "type": "VEC3",
+      "min": [
+        -0.9991602897644043,
+        -0.9999796748161316,
+        -0.9999632835388184
+      ],
+      "max": [
+        0.9991602897644043,
+        1,
+        0.9986914396286011
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1651,
+      "type": "VEC2",
+      "min": [
+        0.09755140542984009,
+        0.04362130165100098
+      ],
+      "max": [
+        0.7311339974403381,
+        0.9396226406097412
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1651,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.11647611856460571
+      ],
+      "max": [
+        0.9401724934577942,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1238.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 5742,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1650
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Head_Close_RSwarowls_Heavy.materials.json"
+  }
+}

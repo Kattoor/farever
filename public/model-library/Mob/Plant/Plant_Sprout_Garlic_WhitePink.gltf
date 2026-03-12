@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Plant_Sprout_Garlic_WhitePink",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Plant_Sprout_Garlic_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Plant_Sprout_Garlic_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Plant_Sprout_Garlic_WhitePink.bin",
+      "byteLength": 141590
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 36564,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 36564,
+      "byteLength": 36564,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 73128,
+      "byteLength": 24376,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 97504,
+      "byteLength": 24376,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 121880,
+      "byteLength": 19710,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3047,
+      "type": "VEC3",
+      "min": [
+        -0.6594832539558411,
+        -0.4982084631919861,
+        -0.6596134901046753
+      ],
+      "max": [
+        0.6629627346992493,
+        1.5554745197296143,
+        0.6594834923744202
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3047,
+      "type": "VEC3",
+      "min": [
+        -0.9989526867866516,
+        -0.9997962713241577,
+        -0.9986244440078735
+      ],
+      "max": [
+        0.9978700280189514,
+        0.9998852610588074,
+        0.9985948801040649
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3047,
+      "type": "VEC2",
+      "min": [
+        0.018258176743984222,
+        -0.0025544166564941406
+      ],
+      "max": [
+        0.23194308578968048,
+        0.8677611947059631
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3047,
+      "type": "VEC2",
+      "min": [
+        0.0166514590382576,
+        0.1005333662033081
+      ],
+      "max": [
+        0.3650715947151184,
+        0.9317609667778015
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 9855,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3046
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Plant_Sprout_Garlic_WhitePink.materials.json"
+  }
+}

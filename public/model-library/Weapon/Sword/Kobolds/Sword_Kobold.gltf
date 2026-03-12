@@ -1,0 +1,235 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sword_Kobold",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Handle_002",
+      "translation": [
+        0,
+        0,
+        -0.021148681640625
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Handle_002",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Sword_Kobold.bin",
+      "byteLength": 97100
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 19932,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19932,
+      "byteLength": 19932,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 39864,
+      "byteLength": 13288,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 53152,
+      "byteLength": 13288,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 66440,
+      "byteLength": 19932,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 86372,
+      "byteLength": 10728,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1661,
+      "type": "VEC3",
+      "min": [
+        -0.23512274026870728,
+        -0.08532548695802689,
+        -0.37637224793434143
+      ],
+      "max": [
+        0.23902083933353424,
+        0.08449506014585495,
+        1.3140898942947388
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1661,
+      "type": "VEC3",
+      "min": [
+        -0.9999998211860657,
+        -0.9999998807907104,
+        -0.999939501285553
+      ],
+      "max": [
+        1,
+        0.9999999403953552,
+        0.9999729990959167
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1661,
+      "type": "VEC2",
+      "min": [
+        0.021057356148958206,
+        0.1678258180618286
+      ],
+      "max": [
+        0.33597955107688904,
+        0.9610375761985779
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1661,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.13225680589675903
+      ],
+      "max": [
+        0.9591673016548157,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1245.75,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 5364,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1660
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Sword_Kobold.materials.json"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Mace_Kobold_Pickaxe",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Pickaxe",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Pickaxe",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Mace_Kobold_Pickaxe.bin",
+      "byteLength": 25716
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 6876,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6876,
+      "byteLength": 6876,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13752,
+      "byteLength": 4584,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 18336,
+      "byteLength": 4584,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22920,
+      "byteLength": 2796,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 573,
+      "type": "VEC3",
+      "min": [
+        -0.08809157460927963,
+        -0.4388622045516968,
+        -0.30691996216773987
+      ],
+      "max": [
+        0.08809177577495575,
+        0.7727147936820984,
+        0.5751670598983765
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 573,
+      "type": "VEC3",
+      "min": [
+        -0.9999972581863403,
+        -0.9852316379547119,
+        -0.9990931153297424
+      ],
+      "max": [
+        0.9997867941856384,
+        0.9999293684959412,
+        0.9998037219047546
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 573,
+      "type": "VEC2",
+      "min": [
+        0.029406048357486725,
+        0.20317679643630981
+      ],
+      "max": [
+        0.34845584630966187,
+        0.7866766452789307
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 573,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.007365524768829346
+      ],
+      "max": [
+        0.9478824138641357,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1398,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        572
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Mace_Kobold_Pickaxe.materials.json"
+  }
+}

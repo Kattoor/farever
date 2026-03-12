@@ -1,0 +1,235 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Book_CrimsonRam",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Book_CrimsonRam",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "MESH",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "WEAPONS",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Book_CrimsonRam",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Book_CrimsonRam.bin",
+      "byteLength": 138240
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 36792,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 36792,
+      "byteLength": 36792,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 73584,
+      "byteLength": 24528,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 98112,
+      "byteLength": 24528,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 122640,
+      "byteLength": 15600,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3066,
+      "type": "VEC3",
+      "min": [
+        -0.12164861708879471,
+        -0.5840539336204529,
+        -0.09042521566152573
+      ],
+      "max": [
+        0.12164861708879471,
+        0.3663540184497833,
+        0.6011199355125427
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3066,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -0.9999995827674866,
+        -1
+      ],
+      "max": [
+        1,
+        0.9999995827674866,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3066,
+      "type": "VEC2",
+      "min": [
+        0.04906098544597626,
+        0.1775239109992981
+      ],
+      "max": [
+        0.6114465594291687,
+        0.9059553146362305
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3066,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.11107701063156128
+      ],
+      "max": [
+        0.9964674711227417,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 7800,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3065
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Book_CrimsonRam.materials.json"
+  }
+}

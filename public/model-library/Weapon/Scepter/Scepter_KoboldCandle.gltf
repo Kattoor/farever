@@ -1,0 +1,210 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scepter_KoboldCandle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Candle",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Candle",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_005",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Scepter_KoboldCandle.bin",
+      "byteLength": 105366
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 26676,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 26676,
+      "byteLength": 26676,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 53352,
+      "byteLength": 17784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 71136,
+      "byteLength": 17784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 88920,
+      "byteLength": 16446,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2223,
+      "type": "VEC3",
+      "min": [
+        -0.2530616819858551,
+        -0.20945309102535248,
+        -0.49452242255210876
+      ],
+      "max": [
+        0.24358776211738586,
+        0.24890337884426117,
+        1.0671011209487915
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2223,
+      "type": "VEC3",
+      "min": [
+        -0.9999989867210388,
+        -0.9999979138374329,
+        -0.9999847412109375
+      ],
+      "max": [
+        0.9999851584434509,
+        0.9999792575836182,
+        0.9999768137931824
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2223,
+      "type": "VEC2",
+      "min": [
+        0.026087306439876556,
+        0.007706761360168457
+      ],
+      "max": [
+        0.4563417434692383,
+        1.010624647140503
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2223,
+      "type": "VEC2",
+      "min": [
+        0.044374994933605194,
+        0.25526219606399536
+      ],
+      "max": [
+        0.9396096467971802,
+        0.9470708966255188
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 8223,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2222
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Scepter_KoboldCandle.materials.json"
+  }
+}

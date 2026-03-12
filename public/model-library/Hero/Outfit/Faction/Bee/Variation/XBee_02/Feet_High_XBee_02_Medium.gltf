@@ -1,0 +1,213 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Feet_High_XBee_02_Medium",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Feet_High_Z1RBeeA_Medium_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Z1RBeeA_Medium",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071067690849304,
+        0,
+        0,
+        0.7071067932881644
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Feet_High_Z1RBeeA_Medium_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Feet_High_XBee_02_Medium.bin",
+      "byteLength": 177728
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 47904,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47904,
+      "byteLength": 47904,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 95808,
+      "byteLength": 31936,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 127744,
+      "byteLength": 31936,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 159680,
+      "byteLength": 18048,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3992,
+      "type": "VEC3",
+      "min": [
+        -0.416748046875,
+        -0.006317138671875,
+        -0.1220703125
+      ],
+      "max": [
+        0.416748046875,
+        0.51806640625,
+        0.3203125
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3992,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3992,
+      "type": "VEC2",
+      "min": [
+        0.0972900390625,
+        0.28662109375
+      ],
+      "max": [
+        0.71435546875,
+        0.9970703125
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3992,
+      "type": "VEC2",
+      "min": [
+        0.043304443359375,
+        0.116455078125
+      ],
+      "max": [
+        0.94482421875,
+        0.96923828125
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 9024,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3991
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Feet_High_XBee_02_Medium.materials.json"
+  }
+}

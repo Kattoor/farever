@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Feet_Low_Peasant_Light",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Feet_Peasant_Light_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Feet_Peasant_Light_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Feet_Low_Peasant_Light.bin",
+      "byteLength": 69832
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 13800,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13800,
+      "byteLength": 13800,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 27600,
+      "byteLength": 9200,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 36800,
+      "byteLength": 9200,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 46000,
+      "byteLength": 13800,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 59800,
+      "byteLength": 10032,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1150,
+      "type": "VEC3",
+      "min": [
+        -0.41107165813446045,
+        -0.007874592207372189,
+        -0.10287965089082718
+      ],
+      "max": [
+        0.41107165813446045,
+        0.21839216351509094,
+        0.3269047141075134
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1150,
+      "type": "VEC3",
+      "min": [
+        -0.9997867345809937,
+        -0.9999986886978149,
+        -0.9994190335273743
+      ],
+      "max": [
+        0.9997867345809937,
+        0.9994349479675293,
+        0.9997286200523376
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1150,
+      "type": "VEC2",
+      "min": [
+        0.16127827763557434,
+        0.21350198984146118
+      ],
+      "max": [
+        0.3536341190338135,
+        0.8997635245323181
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1150,
+      "type": "VEC2",
+      "min": [
+        0.05483987554907799,
+        0.11454027891159058
+      ],
+      "max": [
+        0.9471802711486816,
+        0.9542917013168335
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 862.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 5016,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1149
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Feet_Low_Peasant_Light.materials.json"
+  }
+}

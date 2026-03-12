@@ -1,0 +1,170 @@
+{
+  "prefab": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Hero\\Outfit\\Faction\\Bee\\Rare\\Legs_Shin_RBee_Light.prefab",
+  "assetRoot": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out",
+  "modelSource": "Character/Hero/Outfit/Faction/Bee/Sources/Legs_Shin_RBee_Light_N.fbx",
+  "modelResolvedSource": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Hero\\Outfit\\Faction\\Bee\\Sources\\Legs_Shin_RBee_Light_N.fbx",
+  "hmdMaterials": [
+    {
+      "index": 0,
+      "name": "GradMat_Body",
+      "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+      "diffuseResolved": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\CustomGradient_BasicGuy.png",
+      "specularTexture": null,
+      "specularResolved": null,
+      "normalMap": null,
+      "normalResolved": null,
+      "diffuseOut": "textures/Character/Common/Texture/CustomGradient_BasicGuy.png",
+      "specularOut": null,
+      "normalOut": null
+    }
+  ],
+  "gradMat": {
+    "name": "gradmat",
+    "slots": [
+      "Skin_00",
+      "Brown_04",
+      "Black_Warm",
+      "Yellow_01",
+      "Beige_02"
+    ],
+    "numSlots": 12,
+    "resolvedSlots": [
+      {
+        "id": "Skin_00",
+        "texture": "Character/Common/Texture/Gradient/Skin_00.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Skin_00.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Skin_00.png",
+          "size": 8,
+          "x": 0,
+          "y": 7
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Skin_00.png"
+      },
+      {
+        "id": "Brown_04",
+        "texture": "Character/Common/Texture/Gradient/Fabric_Brown_04.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Fabric_Brown_04.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Fabric_Brown_04.png",
+          "size": 32,
+          "x": 0,
+          "y": 1
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Fabric_Brown_04.png"
+      },
+      {
+        "id": "Black_Warm",
+        "texture": "Character/Common/Texture/Gradient/Fabric_Black_Warm.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Fabric_Black_Warm.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Fabric_Black_Warm.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 2,
+        "playerCustomization": true,
+        "out": "textures/Character/Common/Texture/Gradient/Fabric_Black_Warm.png"
+      },
+      {
+        "id": "Yellow_01",
+        "texture": "Character/Common/Texture/Gradient/Fabric_Yellow_01.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Fabric_Yellow_01.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Fabric_Yellow_01.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 2,
+        "playerCustomization": true,
+        "out": "textures/Character/Common/Texture/Gradient/Fabric_Yellow_01.png"
+      },
+      {
+        "id": "Beige_02",
+        "texture": "Character/Common/Texture/Gradient/Fabric_Beige_02.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Fabric_Beige_02.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Fabric_Beige_02.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Fabric_Beige_02.png"
+      }
+    ],
+    "linesTex": "Character/Common/Texture/UV_Lines.png",
+    "linesTexResolved": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\UV_Lines.png",
+    "patternPath": null,
+    "patternResolved": null,
+    "patternAlphaPath": null,
+    "patternAlphaResolved": null,
+    "marks": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "marksResolved": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "outlineSize": 0,
+    "outlineIntensity": 1,
+    "linesBlend": 1,
+    "minLightPower": 0,
+    "shadowSmooth": 0.1,
+    "lightSmooth": 0.1,
+    "terminatorSize": 0.5,
+    "shadowBias": 0,
+    "specSize": 0.8,
+    "specInsideSize": 0.5,
+    "specInsideIntensity": 0,
+    "specSmooth": 0.05,
+    "specAlpha": 1,
+    "emissivePow": 0,
+    "rimLightAngle": 0,
+    "rimLightWidth": 1,
+    "rimLightSize": 0,
+    "rimLightSmooth": 0.05,
+    "rimLightMin": 0,
+    "rimLightSpecMultiplier": 0,
+    "rimLightColor": [
+      1,
+      1,
+      1
+    ],
+    "ambientColor": [
+      1,
+      1,
+      1
+    ],
+    "ambientIntensity": 0,
+    "useVertexColor": true,
+    "linesOut": "textures/Character/Common/Texture/UV_Lines.png",
+    "patternOut": null,
+    "patternAlphaOut": null,
+    "marksOut": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "cdb": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\data.cdb",
+  "warnings": []
+}

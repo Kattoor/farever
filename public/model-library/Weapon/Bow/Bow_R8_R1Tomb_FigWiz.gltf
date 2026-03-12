@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Bow_R8_R1Tomb_FigWiz",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Bow_R8_R1Tomb_FigWiz",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Bow_R8_R1Tomb_FigWiz",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Bow_R8_R1Tomb_FigWiz.bin",
+      "byteLength": 112220
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 23244,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23244,
+      "byteLength": 23244,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 46488,
+      "byteLength": 15496,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 61984,
+      "byteLength": 15496,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 77480,
+      "byteLength": 23244,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 100724,
+      "byteLength": 11496,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1937,
+      "type": "VEC3",
+      "min": [
+        -0.134224534034729,
+        -1.0613477230072021,
+        -0.7383490204811096
+      ],
+      "max": [
+        0.1342245638370514,
+        1.0613477230072021,
+        0.30932363867759705
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1937,
+      "type": "VEC3",
+      "min": [
+        -0.9998441338539124,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        0.9999998211860657
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1937,
+      "type": "VEC2",
+      "min": [
+        0.030821263790130615,
+        0.28395920991897583
+      ],
+      "max": [
+        0.6947190165519714,
+        0.990355908870697
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1937,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.13735967874526978
+      ],
+      "max": [
+        0.9418088793754578,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1452.75,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 5748,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1936
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Bow_R8_R1Tomb_FigWiz.materials.json"
+  }
+}

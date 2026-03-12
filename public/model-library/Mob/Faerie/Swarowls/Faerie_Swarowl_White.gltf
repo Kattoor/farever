@@ -1,0 +1,530 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Faerie_Swarowl_White",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Faerie_Swarowl_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Faerie_Swarowl_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "COLOR_0": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14,
+            "TEXCOORD_1": 15,
+            "COLOR_0": 16
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Fresnel",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Eye",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Faerie_Swarowl_White.bin",
+      "byteLength": 1916244
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 139728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 139728,
+      "byteLength": 139728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 279456,
+      "byteLength": 93152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 372608,
+      "byteLength": 93152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 465760,
+      "byteLength": 139728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 605488,
+      "byteLength": 1032,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 606520,
+      "byteLength": 139728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 746248,
+      "byteLength": 139728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 885976,
+      "byteLength": 93152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 979128,
+      "byteLength": 93152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1072280,
+      "byteLength": 139728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1212008,
+      "byteLength": 97716,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1309724,
+      "byteLength": 139728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1449452,
+      "byteLength": 139728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1589180,
+      "byteLength": 93152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1682332,
+      "byteLength": 93152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1775484,
+      "byteLength": 139728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1915212,
+      "byteLength": 1032,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC3",
+      "min": [
+        -1.1099867820739746,
+        -0.13380002975463867,
+        -1.0238726139068604
+      ],
+      "max": [
+        1.1099867820739746,
+        3.248063325881958,
+        0.35852310061454773
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC3",
+      "min": [
+        -0.999812662601471,
+        -0.9998891353607178,
+        -0.9998606443405151
+      ],
+      "max": [
+        0.9998127222061157,
+        0.999981701374054,
+        0.9999359846115112
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC2",
+      "min": [
+        0.032071392983198166,
+        0.19184017181396484
+      ],
+      "max": [
+        0.6044211983680725,
+        0.987625241279602
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC2",
+      "min": [
+        0.046197161078453064,
+        0.25568950176239014
+      ],
+      "max": [
+        0.9553937911987305,
+        0.9624260663986206
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 8733,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 516,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        101
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC3",
+      "min": [
+        -1.1099867820739746,
+        -0.13380002975463867,
+        -1.0238726139068604
+      ],
+      "max": [
+        1.1099867820739746,
+        3.248063325881958,
+        0.35852310061454773
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC3",
+      "min": [
+        -0.999812662601471,
+        -0.9998891353607178,
+        -0.9998606443405151
+      ],
+      "max": [
+        0.9998127222061157,
+        0.999981701374054,
+        0.9999359846115112
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC2",
+      "min": [
+        0.032071392983198166,
+        0.19184017181396484
+      ],
+      "max": [
+        0.6044211983680725,
+        0.987625241279602
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC2",
+      "min": [
+        0.046197161078453064,
+        0.25568950176239014
+      ],
+      "max": [
+        0.9553937911987305,
+        0.9624260663986206
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 8733,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 48858,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        11643
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC3",
+      "min": [
+        -1.1099867820739746,
+        -0.13380002975463867,
+        -1.0238726139068604
+      ],
+      "max": [
+        1.1099867820739746,
+        3.248063325881958,
+        0.35852310061454773
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC3",
+      "min": [
+        -0.999812662601471,
+        -0.9998891353607178,
+        -0.9998606443405151
+      ],
+      "max": [
+        0.9998127222061157,
+        0.999981701374054,
+        0.9999359846115112
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC2",
+      "min": [
+        0.032071392983198166,
+        0.19184017181396484
+      ],
+      "max": [
+        0.6044211983680725,
+        0.987625241279602
+      ]
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 11644,
+      "type": "VEC2",
+      "min": [
+        0.046197161078453064,
+        0.25568950176239014
+      ],
+      "max": [
+        0.9553937911987305,
+        0.9624260663986206
+      ]
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 8733,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5123,
+      "count": 516,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1221
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Faerie_Swarowl_White.materials.json"
+  }
+}

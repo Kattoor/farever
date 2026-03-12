@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Eyes_02_A",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "ALL_Eyeballs_Demon",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "ALL_Eyeballs_Demon",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Eyes_02_A.bin",
+      "byteLength": 30320
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 6000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6000,
+      "byteLength": 6000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12000,
+      "byteLength": 4000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16000,
+      "byteLength": 4000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20000,
+      "byteLength": 6000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 26000,
+      "byteLength": 4320,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 500,
+      "type": "VEC3",
+      "min": [
+        -0.10515877604484558,
+        1.9358270168304443,
+        0.1537383794784546
+      ],
+      "max": [
+        0.10515877604484558,
+        2.0541934967041016,
+        0.2050083577632904
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 500,
+      "type": "VEC3",
+      "min": [
+        -0.9219517707824707,
+        -0.8048049211502075,
+        0.3748190999031067
+      ],
+      "max": [
+        0.9219516515731812,
+        0.7331914901733398,
+        0.9997631907463074
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 500,
+      "type": "VEC2",
+      "min": [
+        0.15557795763015747,
+        0.18804717063903809
+      ],
+      "max": [
+        0.5716426968574524,
+        0.976630687713623
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 500,
+      "type": "VEC2",
+      "min": [
+        0.05573734641075134,
+        0.9280192255973816
+      ],
+      "max": [
+        0.05573734641075134,
+        0.9280192255973816
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 375,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 2160,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        499
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Eyes_02_A.materials.json"
+  }
+}

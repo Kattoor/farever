@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Weapon_2H_GreatSword",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Weapon_2H_GreatSword",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Weapon_2H_GreatSword",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Weapon_2H_GreatSword.bin",
+      "byteLength": 23696
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 6252,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6252,
+      "byteLength": 6252,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12504,
+      "byteLength": 4168,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16672,
+      "byteLength": 4168,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20840,
+      "byteLength": 2856,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 521,
+      "type": "VEC3",
+      "min": [
+        -0.06146536394953728,
+        -0.5766914486885071,
+        -0.19124256074428558
+      ],
+      "max": [
+        0.06146536394953728,
+        2.064413547515869,
+        0.191242516040802
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 521,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -0.9999990463256836
+      ],
+      "max": [
+        1,
+        1,
+        0.9999990463256836
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 521,
+      "type": "VEC2",
+      "min": [
+        0.05289783328771591,
+        0.2569464445114136
+      ],
+      "max": [
+        0.3541986048221588,
+        0.8538526296615601
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 521,
+      "type": "VEC2",
+      "min": [
+        0.03281223401427269,
+        0.12120306491851807
+      ],
+      "max": [
+        0.3637591600418091,
+        0.9440165758132935
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1428,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        520
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Weapon_2H_GreatSword.materials.json"
+  }
+}

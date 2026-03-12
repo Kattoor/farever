@@ -1,0 +1,371 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scepter_Kobold_Candle_Endgame",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "model_0",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Candle",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    },
+    {
+      "name": "Candle_02",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 1
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Candle",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Candle_02",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_005",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Scepter_Kobold_Candle_Endgame.bin",
+      "byteLength": 228072
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 33276,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 33276,
+      "byteLength": 33276,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 66552,
+      "byteLength": 22184,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 88736,
+      "byteLength": 22184,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 110920,
+      "byteLength": 19668,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 130588,
+      "byteLength": 24072,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 154660,
+      "byteLength": 24072,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 178732,
+      "byteLength": 16048,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 194780,
+      "byteLength": 16048,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 210828,
+      "byteLength": 17244,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2773,
+      "type": "VEC3",
+      "min": [
+        -0.27769947052001953,
+        -0.26363036036491394,
+        -0.5491999387741089
+      ],
+      "max": [
+        0.27095115184783936,
+        0.26363036036491394,
+        0.8393341898918152
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2773,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2773,
+      "type": "VEC2",
+      "min": [
+        0.016198517754673958,
+        0.5278623104095459
+      ],
+      "max": [
+        0.37169331312179565,
+        0.9911446571350098
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2773,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.9096051454544067
+      ],
+      "max": [
+        0.06507374346256256,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 9834,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2772
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 2006,
+      "type": "VEC3",
+      "min": [
+        -0.30209189653396606,
+        -0.26938962936401367,
+        -0.5040100812911987
+      ],
+      "max": [
+        0.30138254165649414,
+        0.2780918478965759,
+        1.2160899639129639
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 2006,
+      "type": "VEC3",
+      "min": [
+        -0.9998157024383545,
+        -1,
+        -0.9999703168869019
+      ],
+      "max": [
+        0.9998972415924072,
+        1,
+        0.9996468424797058
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 2006,
+      "type": "VEC2",
+      "min": [
+        0.018170256167650223,
+        0.023189663887023926
+      ],
+      "max": [
+        0.491131067276001,
+        0.9862858057022095
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 2006,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.2788419723510742
+      ],
+      "max": [
+        0.39195382595062256,
+        1
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 8622,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2005
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Scepter_Kobold_Candle_Endgame.materials.json"
+  }
+}

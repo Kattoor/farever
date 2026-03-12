@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Slime_Honey",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "HoneySlime_Head",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HoneySlime_Head",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Mat_Slime_Internal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Slime_Honey.bin",
+      "byteLength": 13280
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 3120,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3120,
+      "byteLength": 3120,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6240,
+      "byteLength": 2080,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8320,
+      "byteLength": 2080,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10400,
+      "byteLength": 2880,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 260,
+      "type": "VEC3",
+      "min": [
+        -0.4532970190048218,
+        -0.2680366039276123,
+        -0.4532477855682373
+      ],
+      "max": [
+        0.4532970190048218,
+        0.20988300442695618,
+        0.4532478451728821
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 260,
+      "type": "VEC3",
+      "min": [
+        -0.9926291108131409,
+        -1,
+        -0.9895668029785156
+      ],
+      "max": [
+        0.9926291108131409,
+        1,
+        0.9895667433738708
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 260,
+      "type": "VEC2",
+      "min": [
+        0.07000201940536499,
+        0.7422173023223877
+      ],
+      "max": [
+        0.21057134866714478,
+        0.9410443305969238
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 260,
+      "type": "VEC2",
+      "min": [
+        0.05653538554906845,
+        0.9496545195579529
+      ],
+      "max": [
+        0.057874009013175964,
+        0.9669291377067566
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1440,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        259
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Slime_Honey.materials.json"
+  }
+}

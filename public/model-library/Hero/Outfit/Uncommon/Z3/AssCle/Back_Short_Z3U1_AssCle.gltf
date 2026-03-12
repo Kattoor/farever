@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Back_Short_Z3U1_AssCle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Back_Z1U1_AssWiz_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Back_Z1U1_AssWiz_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Back_Short_Z3U1_AssCle.bin",
+      "byteLength": 45896
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 12084,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12084,
+      "byteLength": 12084,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24168,
+      "byteLength": 8056,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32224,
+      "byteLength": 8056,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 40280,
+      "byteLength": 5616,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1007,
+      "type": "VEC3",
+      "min": [
+        -0.2042236328125,
+        1.3505859375,
+        -0.1505126953125
+      ],
+      "max": [
+        0.19677734375,
+        1.796875,
+        0.213134765625
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1007,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1007,
+      "type": "VEC2",
+      "min": [
+        0.16845703125,
+        0.2152099609375
+      ],
+      "max": [
+        0.603515625,
+        0.794921875
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1007,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.1451416015625
+      ],
+      "max": [
+        0.93798828125,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2808,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1006
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Back_Short_Z3U1_AssCle.materials.json"
+  }
+}

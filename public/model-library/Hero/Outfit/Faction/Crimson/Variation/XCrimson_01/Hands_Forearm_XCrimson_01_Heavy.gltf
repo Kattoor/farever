@@ -1,0 +1,213 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hands_Forearm_XCrimson_01_Heavy",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hands_Forearm_Z1R4A_Heavy_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Z1R4A_Heavy",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071067690849304,
+        0,
+        0,
+        0.7071067932881644
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hands_Forearm_Z1R4A_Heavy_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hands_Forearm_XCrimson_01_Heavy.bin",
+      "byteLength": 214564
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 57000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 57000,
+      "byteLength": 57000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 114000,
+      "byteLength": 38000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 152000,
+      "byteLength": 38000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 190000,
+      "byteLength": 24564,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4750,
+      "type": "VEC3",
+      "min": [
+        -0.81298828125,
+        0.978515625,
+        -0.035186767578125
+      ],
+      "max": [
+        0.81298828125,
+        1.451171875,
+        0.34033203125
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4750,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4750,
+      "type": "VEC2",
+      "min": [
+        0.1314697265625,
+        0.1600341796875
+      ],
+      "max": [
+        0.62158203125,
+        0.853515625
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4750,
+      "type": "VEC2",
+      "min": [
+        0.049072265625,
+        0.1129150390625
+      ],
+      "max": [
+        0.94580078125,
+        0.96142578125
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 12282,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4749
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hands_Forearm_XCrimson_01_Heavy.materials.json"
+  }
+}

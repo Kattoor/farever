@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "HiveEgg_Small",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "HiveEgg_Small",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HiveEgg_Small",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "HiveEgg_Small.bin",
+      "byteLength": 6976
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1704,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1704,
+      "byteLength": 1704,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3408,
+      "byteLength": 1136,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4544,
+      "byteLength": 1136,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5680,
+      "byteLength": 1296,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 142,
+      "type": "VEC3",
+      "min": [
+        -0.2251487523317337,
+        -0.22295664250850677,
+        0.0032401804346591234
+      ],
+      "max": [
+        0.22514860332012177,
+        0.22254131734371185,
+        0.365557461977005
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 142,
+      "type": "VEC3",
+      "min": [
+        -0.999969482421875,
+        -0.9942894577980042,
+        -1
+      ],
+      "max": [
+        0.9999693632125854,
+        0.9922533631324768,
+        0.9975703954696655
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 142,
+      "type": "VEC2",
+      "min": [
+        0.028548847883939743,
+        0.4616529941558838
+      ],
+      "max": [
+        0.09497981518507004,
+        0.6937658786773682
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 142,
+      "type": "VEC2",
+      "min": [
+        0.05424044653773308,
+        0.967864990234375
+      ],
+      "max": [
+        0.05424044653773308,
+        0.967864990234375
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 648,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        141
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "HiveEgg_Small.materials.json"
+  }
+}

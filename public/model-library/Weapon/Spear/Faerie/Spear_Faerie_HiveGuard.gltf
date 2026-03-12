@@ -1,0 +1,323 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Spear_Faerie_HiveGuard",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Spear_Hive",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Spear_Hive",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Spear_Faerie_HiveGuard.bin",
+      "byteLength": 239920
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 33216,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 33216,
+      "byteLength": 33216,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 66432,
+      "byteLength": 22144,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 88576,
+      "byteLength": 22144,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 110720,
+      "byteLength": 9600,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 120320,
+      "byteLength": 33216,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 153536,
+      "byteLength": 33216,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 186752,
+      "byteLength": 22144,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 208896,
+      "byteLength": 22144,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 231040,
+      "byteLength": 8880,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2768,
+      "type": "VEC3",
+      "min": [
+        -0.21478570997714996,
+        -0.1696779727935791,
+        -1.1340070962905884
+      ],
+      "max": [
+        0.1975933313369751,
+        0.19204138219356537,
+        1.801872730255127
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2768,
+      "type": "VEC3",
+      "min": [
+        -0.9999998807907104,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2768,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.05001723766326904
+      ],
+      "max": [
+        0.4700919985771179,
+        1
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2768,
+      "type": "VEC2",
+      "min": [
+        0.06690444052219391,
+        0.19209784269332886
+      ],
+      "max": [
+        0.9468138217926025,
+        0.9347593784332275
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 4800,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2767
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 2768,
+      "type": "VEC3",
+      "min": [
+        -0.21478570997714996,
+        -0.1696779727935791,
+        -1.1340070962905884
+      ],
+      "max": [
+        0.1975933313369751,
+        0.19204138219356537,
+        1.801872730255127
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 2768,
+      "type": "VEC3",
+      "min": [
+        -0.9999998807907104,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 2768,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.05001723766326904
+      ],
+      "max": [
+        0.4700919985771179,
+        1
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 2768,
+      "type": "VEC2",
+      "min": [
+        0.06690444052219391,
+        0.19209784269332886
+      ],
+      "max": [
+        0.9468138217926025,
+        0.9347593784332275
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 4440,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2705
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Spear_Faerie_HiveGuard.materials.json"
+  }
+}

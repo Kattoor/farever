@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Ogre_Human_05",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Ogre_Human_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Ogre_Human_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Ogre_Human_05.bin",
+      "byteLength": 834564
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 169380,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 169380,
+      "byteLength": 169380,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 338760,
+      "byteLength": 112920,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 451680,
+      "byteLength": 112920,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 564600,
+      "byteLength": 169380,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 733980,
+      "byteLength": 100584,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 14115,
+      "type": "VEC3",
+      "min": [
+        -2.7320189476013184,
+        -0.002395025687292218,
+        -0.6494982838630676
+      ],
+      "max": [
+        2.7320189476013184,
+        4.828594207763672,
+        1.3159033060073853
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 14115,
+      "type": "VEC3",
+      "min": [
+        -0.9999939799308777,
+        -0.9999322295188904,
+        -0.9999942779541016
+      ],
+      "max": [
+        0.9999939799308777,
+        0.9999274611473083,
+        0.9999312162399292
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 14115,
+      "type": "VEC2",
+      "min": [
+        0.008172865957021713,
+        0.02463829517364502
+      ],
+      "max": [
+        0.9845740795135498,
+        0.9849498271942139
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 14115,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.015855014324188232
+      ],
+      "max": [
+        0.9952216148376465,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 10586.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 50292,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        14114
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Ogre_Human_05.materials.json"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hair_Long_Square_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hair_Long_Square_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hair_Long_Square_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hair_Long_Square_01.bin",
+      "byteLength": 48058
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 12288,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12288,
+      "byteLength": 12288,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24576,
+      "byteLength": 8192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32768,
+      "byteLength": 8192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 40960,
+      "byteLength": 7098,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1024,
+      "type": "VEC3",
+      "min": [
+        -0.15603519976139069,
+        1.728935956954956,
+        -0.10176727175712585
+      ],
+      "max": [
+        0.1544853150844574,
+        2.19209361076355,
+        0.27225199341773987
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1024,
+      "type": "VEC3",
+      "min": [
+        -0.9989265203475952,
+        -0.9996146559715271,
+        -0.9997833967208862
+      ],
+      "max": [
+        0.997127890586853,
+        0.9988030791282654,
+        0.9991230368614197
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1024,
+      "type": "VEC2",
+      "min": [
+        0.13169537484645844,
+        0.11796194314956665
+      ],
+      "max": [
+        0.3552968502044678,
+        0.8657004237174988
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1024,
+      "type": "VEC2",
+      "min": [
+        0.04940040409564972,
+        0.01876521110534668
+      ],
+      "max": [
+        0.5951720476150513,
+        0.9679461717605591
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 3549,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1023
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hair_Long_Square_01.materials.json"
+  }
+}

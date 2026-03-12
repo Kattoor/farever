@@ -1,0 +1,373 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Faerie_Gatsbee",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Faerie_Gatsbee",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Faerie_Gatsbee",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "COLOR_0": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "blinn2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Faerie_Gatsbee.bin",
+      "byteLength": 1048128
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 113364,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 113364,
+      "byteLength": 113364,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 226728,
+      "byteLength": 75576,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 302304,
+      "byteLength": 75576,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 377880,
+      "byteLength": 113364,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 491244,
+      "byteLength": 816,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 492060,
+      "byteLength": 113364,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 605424,
+      "byteLength": 113364,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 718788,
+      "byteLength": 75576,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 794364,
+      "byteLength": 75576,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 869940,
+      "byteLength": 113364,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 983304,
+      "byteLength": 64824,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 9447,
+      "type": "VEC3",
+      "min": [
+        -1.1099867820739746,
+        0.0017515248619019985,
+        -1.0448963642120361
+      ],
+      "max": [
+        1.1099867820739746,
+        3.4154975414276123,
+        0.35852310061454773
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 9447,
+      "type": "VEC3",
+      "min": [
+        -0.9997447729110718,
+        -0.9999816417694092,
+        -0.9999399185180664
+      ],
+      "max": [
+        0.9997447729110718,
+        0.9992175102233887,
+        0.999940037727356
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 9447,
+      "type": "VEC2",
+      "min": [
+        0.010109851136803627,
+        0.04085451364517212
+      ],
+      "max": [
+        0.7209153175354004,
+        0.9776873588562012
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 9447,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.09633350372314453
+      ],
+      "max": [
+        0.9527268409729004,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 7085.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 408,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        72
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 9447,
+      "type": "VEC3",
+      "min": [
+        -1.1099867820739746,
+        0.0017515248619019985,
+        -1.0448963642120361
+      ],
+      "max": [
+        1.1099867820739746,
+        3.4154975414276123,
+        0.35852310061454773
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 9447,
+      "type": "VEC3",
+      "min": [
+        -0.9997447729110718,
+        -0.9999816417694092,
+        -0.9999399185180664
+      ],
+      "max": [
+        0.9997447729110718,
+        0.9992175102233887,
+        0.999940037727356
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 9447,
+      "type": "VEC2",
+      "min": [
+        0.010109851136803627,
+        0.04085451364517212
+      ],
+      "max": [
+        0.7209153175354004,
+        0.9776873588562012
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 9447,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.09633350372314453
+      ],
+      "max": [
+        0.9527268409729004,
+        1
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 7085.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 32412,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        9446
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Faerie_Gatsbee.materials.json"
+  }
+}

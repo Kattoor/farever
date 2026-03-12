@@ -1,0 +1,235 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Staff_R10_R1CrimsonC_WizCle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Staff_R10_R1CrimsonC_WizCle",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Staff_R10_R1CrimsonC_WizCle",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Staff_R10_R1CrimsonC_WizCle.bin",
+      "byteLength": 249028
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 52032,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 52032,
+      "byteLength": 52032,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 104064,
+      "byteLength": 34688,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 138752,
+      "byteLength": 34688,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 173440,
+      "byteLength": 52032,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 225472,
+      "byteLength": 23556,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4336,
+      "type": "VEC3",
+      "min": [
+        -0.3419000506401062,
+        -0.2557641863822937,
+        -0.6873295307159424
+      ],
+      "max": [
+        0.3293389678001404,
+        0.2557641863822937,
+        2.0398058891296387
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4336,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4336,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.29910337924957275
+      ],
+      "max": [
+        0.14968670904636383,
+        1
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4336,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.18876075744628906
+      ],
+      "max": [
+        0.944879949092865,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 3252,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 11778,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4335
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Staff_R10_R1CrimsonC_WizCle.materials.json"
+  }
+}

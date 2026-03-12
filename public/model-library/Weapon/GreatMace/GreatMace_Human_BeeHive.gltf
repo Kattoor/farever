@@ -1,0 +1,229 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "GreatMace_Human_BeeHive",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "GM_Human_BeeHive",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "GM_Human_BeeHive",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_004",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "GreatMace_Human_BeeHive.bin",
+      "byteLength": 130904
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 32568,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32568,
+      "byteLength": 32568,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 65136,
+      "byteLength": 21712,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 86848,
+      "byteLength": 21712,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 108560,
+      "byteLength": 22344,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2714,
+      "type": "VEC3",
+      "min": [
+        -0.41059011220932007,
+        -0.31730812788009644,
+        -0.7278260588645935
+      ],
+      "max": [
+        0.4485759139060974,
+        0.37378615140914917,
+        1.7952862977981567
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2714,
+      "type": "VEC3",
+      "min": [
+        -0.9999822974205017,
+        -0.9999936819076538,
+        -1
+      ],
+      "max": [
+        0.9999822974205017,
+        0.9999823570251465,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2714,
+      "type": "VEC2",
+      "min": [
+        0.053743876516819,
+        0.11656606197357178
+      ],
+      "max": [
+        0.6087966561317444,
+        0.983306884765625
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2714,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.26875317096710205
+      ],
+      "max": [
+        0.9451969861984253,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 11172,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2713
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "GreatMace_Human_BeeHive.materials.json"
+  }
+}

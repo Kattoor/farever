@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Chest_ShortSleeves_Starter_Wiz",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Chest_Starter_Wiz_01_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Chest_Starter_Wiz_01_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Chest_ShortSleeves_Starter_Wiz.bin",
+      "byteLength": 231488
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 47220,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47220,
+      "byteLength": 47220,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 94440,
+      "byteLength": 31480,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 125920,
+      "byteLength": 31480,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 157400,
+      "byteLength": 47220,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 204620,
+      "byteLength": 26868,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3935,
+      "type": "VEC3",
+      "min": [
+        -0.6669848561286926,
+        0.0851835310459137,
+        -0.18274904787540436
+      ],
+      "max": [
+        0.6669848561286926,
+        1.9331179857254028,
+        0.327392041683197
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3935,
+      "type": "VEC3",
+      "min": [
+        -0.999292254447937,
+        -0.9999842047691345,
+        -0.9999790191650391
+      ],
+      "max": [
+        0.999292254447937,
+        0.9981521368026733,
+        0.9999504685401917
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3935,
+      "type": "VEC2",
+      "min": [
+        0.018141604959964752,
+        0.15128135681152344
+      ],
+      "max": [
+        0.46952617168426514,
+        0.9340664148330688
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3935,
+      "type": "VEC2",
+      "min": [
+        0.012228661216795444,
+        0.027303695678710938
+      ],
+      "max": [
+        0.5038398504257202,
+        0.9568663835525513
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2951.25,
+      "type": "VEC4",
+      "min": [
+        0.38823530077934265,
+        0.3607843220233917,
+        0.3607843220233917,
+        0.3607843220233917
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 13434,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3934
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Chest_ShortSleeves_Starter_Wiz.materials.json"
+  }
+}

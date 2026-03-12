@@ -1,0 +1,392 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "DA_Human_ManfishShell_L",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "DA_Manfish_L",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "DA_Manfish_L",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "COLOR_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "DA_Human_ManfishShell_L.bin",
+      "byteLength": 290926
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 31836,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 31836,
+      "byteLength": 31836,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 63672,
+      "byteLength": 21224,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 84896,
+      "byteLength": 21224,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 106120,
+      "byteLength": 31836,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 137956,
+      "byteLength": 14778,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 152736,
+      "byteLength": 31836,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 184572,
+      "byteLength": 31836,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 216408,
+      "byteLength": 21224,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 237632,
+      "byteLength": 21224,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 258856,
+      "byteLength": 31836,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 290692,
+      "byteLength": 234,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2653,
+      "type": "VEC3",
+      "min": [
+        -0.3993031680583954,
+        -0.16333827376365662,
+        -0.35041892528533936
+      ],
+      "max": [
+        0.20952478051185608,
+        0.16333827376365662,
+        0.7195556163787842
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2653,
+      "type": "VEC3",
+      "min": [
+        -0.9999833106994629,
+        -0.9999752044677734,
+        -0.9961075782775879
+      ],
+      "max": [
+        0.9997595548629761,
+        0.9999751448631287,
+        0.9981592297554016
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2653,
+      "type": "VEC2",
+      "min": [
+        0.0848463624715805,
+        0.012630462646484375
+      ],
+      "max": [
+        0.8336218595504761,
+        0.9158539772033691
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2653,
+      "type": "VEC2",
+      "min": [
+        0.14721114933490753,
+        0.19742226600646973
+      ],
+      "max": [
+        0.9512537121772766,
+        0.9597998857498169
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1989.75,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 7389,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2652
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 2653,
+      "type": "VEC3",
+      "min": [
+        -0.3993031680583954,
+        -0.16333827376365662,
+        -0.35041892528533936
+      ],
+      "max": [
+        0.20952478051185608,
+        0.16333827376365662,
+        0.7195556163787842
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 2653,
+      "type": "VEC3",
+      "min": [
+        -0.9999833106994629,
+        -0.9999752044677734,
+        -0.9961075782775879
+      ],
+      "max": [
+        0.9997595548629761,
+        0.9999751448631287,
+        0.9981592297554016
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 2653,
+      "type": "VEC2",
+      "min": [
+        0.0848463624715805,
+        0.012630462646484375
+      ],
+      "max": [
+        0.8336218595504761,
+        0.9158539772033691
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 2653,
+      "type": "VEC2",
+      "min": [
+        0.14721114933490753,
+        0.19742226600646973
+      ],
+      "max": [
+        0.9512537121772766,
+        0.9597998857498169
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 1989.75,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 117,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1756
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "DA_Human_ManfishShell_L.materials.json"
+  }
+}

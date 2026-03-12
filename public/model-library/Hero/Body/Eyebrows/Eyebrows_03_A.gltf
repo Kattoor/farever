@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Eyebrows_03_A",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Eyebrows_03",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Eyebrows_03",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Eyebrows_03_A.bin",
+      "byteLength": 4616
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1176,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1176,
+      "byteLength": 1176,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2352,
+      "byteLength": 784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3136,
+      "byteLength": 784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3920,
+      "byteLength": 696,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 98,
+      "type": "VEC3",
+      "min": [
+        -0.10939398407936096,
+        2.0080137252807617,
+        0.1722208857536316
+      ],
+      "max": [
+        0.10939398407936096,
+        2.046827554702759,
+        0.23735031485557556
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 98,
+      "type": "VEC3",
+      "min": [
+        -0.95322185754776,
+        -0.9824368953704834,
+        -0.25536972284317017
+      ],
+      "max": [
+        0.9532235860824585,
+        0.9519146680831909,
+        0.9897075891494751
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 98,
+      "type": "VEC2",
+      "min": [
+        0.18678344786167145,
+        0.6919170618057251
+      ],
+      "max": [
+        0.1873859465122223,
+        0.7759105563163757
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 98,
+      "type": "VEC2",
+      "min": [
+        0.031514570116996765,
+        0.9678888916969299
+      ],
+      "max": [
+        0.03151460364460945,
+        0.9678889513015747
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 348,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        97
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Eyebrows_03_A.materials.json"
+  }
+}

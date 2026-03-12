@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Shoulders_Outer_XSwarowls_02_Heavy",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Shoulders_RSwarowls_Heavy_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Shoulders_RSwarowls_Heavy_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Shoulders_Outer_XSwarowls_02_Heavy.bin",
+      "byteLength": 291224
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 59856,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 59856,
+      "byteLength": 59856,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 119712,
+      "byteLength": 39904,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 159616,
+      "byteLength": 39904,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 199520,
+      "byteLength": 59856,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 259376,
+      "byteLength": 31848,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4988,
+      "type": "VEC3",
+      "min": [
+        -0.5873319506645203,
+        1.4219450950622559,
+        -0.24092788994312286
+      ],
+      "max": [
+        0.5873319506645203,
+        1.9757899045944214,
+        0.2755897641181946
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4988,
+      "type": "VEC3",
+      "min": [
+        -0.9999691843986511,
+        -0.9996222257614136,
+        -0.9998346567153931
+      ],
+      "max": [
+        0.9999691843986511,
+        0.9998257756233215,
+        0.9998344779014587
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4988,
+      "type": "VEC2",
+      "min": [
+        0.08960317820310593,
+        0.131527841091156
+      ],
+      "max": [
+        0.8239699602127075,
+        0.9050084948539734
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4988,
+      "type": "VEC2",
+      "min": [
+        0.024247638881206512,
+        0.10016870498657227
+      ],
+      "max": [
+        0.9935673475265503,
+        0.9636849761009216
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 3741,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 15924,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4987
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Shoulders_Outer_XSwarowls_02_Heavy.materials.json"
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Golem_LavaElite_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Golem_Stone_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Golem_Stone_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Golem_Eyes",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Mob/Golem/Stone01/Golem_Eyes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Golem_LavaElite_01.bin",
+      "byteLength": 256624
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 36528,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 36528,
+      "byteLength": 36528,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 73056,
+      "byteLength": 24352,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 97408,
+      "byteLength": 24352,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 121760,
+      "byteLength": 9264,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 131024,
+      "byteLength": 36528,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 167552,
+      "byteLength": 36528,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 204080,
+      "byteLength": 24352,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 228432,
+      "byteLength": 24352,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 252784,
+      "byteLength": 3840,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3044,
+      "type": "VEC3",
+      "min": [
+        -1.7181413173675537,
+        -0.0004692031361628324,
+        -1.3523812294006348
+      ],
+      "max": [
+        1.7360957860946655,
+        2.5396034717559814,
+        1.196082353591919
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3044,
+      "type": "VEC3",
+      "min": [
+        -0.9999498724937439,
+        -0.9999998807907104,
+        -0.9937548041343689
+      ],
+      "max": [
+        0.9998043775558472,
+        0.9997416138648987,
+        0.996476411819458
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3044,
+      "type": "VEC2",
+      "min": [
+        0.0026675278786569834,
+        0.0014528632164001465
+      ],
+      "max": [
+        1.0059374570846558,
+        0.9789613485336304
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3044,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.03866684436798096
+      ],
+      "max": [
+        0.9820359945297241,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 4632,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2563
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 3044,
+      "type": "VEC3",
+      "min": [
+        -1.7181413173675537,
+        -0.0004692031361628324,
+        -1.3523812294006348
+      ],
+      "max": [
+        1.7360957860946655,
+        2.5396034717559814,
+        1.196082353591919
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 3044,
+      "type": "VEC3",
+      "min": [
+        -0.9999498724937439,
+        -0.9999998807907104,
+        -0.9937548041343689
+      ],
+      "max": [
+        0.9998043775558472,
+        0.9997416138648987,
+        0.996476411819458
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 3044,
+      "type": "VEC2",
+      "min": [
+        0.0026675278786569834,
+        0.0014528632164001465
+      ],
+      "max": [
+        1.0059374570846558,
+        0.9789613485336304
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 3044,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.03866684436798096
+      ],
+      "max": [
+        0.9820359945297241,
+        1
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 1920,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3043
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Golem_LavaElite_01.materials.json"
+  }
+}

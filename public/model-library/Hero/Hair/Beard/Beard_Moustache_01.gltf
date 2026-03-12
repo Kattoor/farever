@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Beard_Moustache_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Beard_Moustache_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Beard_Moustache_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Beard_Moustache_01.bin",
+      "byteLength": 9808
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 2064,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2064,
+      "byteLength": 2064,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4128,
+      "byteLength": 1376,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5504,
+      "byteLength": 1376,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6880,
+      "byteLength": 2064,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8944,
+      "byteLength": 864,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 172,
+      "type": "VEC3",
+      "min": [
+        -0.06166401505470276,
+        1.869823932647705,
+        0.20370665192604065
+      ],
+      "max": [
+        0.062403690069913864,
+        1.9167370796203613,
+        0.2552715241909027
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 172,
+      "type": "VEC3",
+      "min": [
+        -0.8968861103057861,
+        -0.9919859766960144,
+        -0.3735584318637848
+      ],
+      "max": [
+        0.892055869102478,
+        0.9548416137695312,
+        0.9744006991386414
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 172,
+      "type": "VEC2",
+      "min": [
+        0.14359882473945618,
+        0.4979754090309143
+      ],
+      "max": [
+        0.18691688776016235,
+        0.7615534067153931
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 172,
+      "type": "VEC2",
+      "min": [
+        0.049026958644390106,
+        0.9265115857124329
+      ],
+      "max": [
+        0.06494298577308655,
+        0.9379079937934875
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 129,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 432,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        171
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Beard_Moustache_01.materials.json"
+  }
+}

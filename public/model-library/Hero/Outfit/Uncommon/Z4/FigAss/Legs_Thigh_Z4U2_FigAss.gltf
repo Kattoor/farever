@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Legs_Thigh_Z4U2_FigAss",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Legs_R1S1_FigWiz_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Legs_R1S1_FigWiz_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Legs_Thigh_Z4U2_FigAss.bin",
+      "byteLength": 103412
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 27168,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 27168,
+      "byteLength": 27168,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 54336,
+      "byteLength": 18112,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 72448,
+      "byteLength": 18112,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 90560,
+      "byteLength": 12852,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2264,
+      "type": "VEC3",
+      "min": [
+        -0.3711501955986023,
+        0.0851835310459137,
+        -0.09081146866083145
+      ],
+      "max": [
+        0.3711501955986023,
+        1.277111291885376,
+        0.23453091084957123
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2264,
+      "type": "VEC3",
+      "min": [
+        -0.9999148845672607,
+        -0.9994851350784302,
+        -0.9994096159934998
+      ],
+      "max": [
+        0.9999149441719055,
+        1,
+        0.9998924732208252
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2264,
+      "type": "VEC2",
+      "min": [
+        0.03508778288960457,
+        0.19251686334609985
+      ],
+      "max": [
+        0.6019551753997803,
+        0.9523465633392334
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2264,
+      "type": "VEC2",
+      "min": [
+        0.02725493162870407,
+        0.11739683151245117
+      ],
+      "max": [
+        0.9428538084030151,
+        0.967017412185669
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 6426,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2263
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Legs_Thigh_Z4U2_FigAss.materials.json"
+  }
+}

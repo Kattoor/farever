@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Polearm_EcarlateGuard_Uncommon",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Polearm_EcarlateGuard_Uncommon",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Polearm_EcarlateGuard_Uncommon",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "lambert1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Polearm_EcarlateGuard_Uncommon.bin",
+      "byteLength": 44716
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 12000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12000,
+      "byteLength": 12000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24000,
+      "byteLength": 8000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32000,
+      "byteLength": 8000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 40000,
+      "byteLength": 4716,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1000,
+      "type": "VEC3",
+      "min": [
+        -0.0759182944893837,
+        -1.6214326620101929,
+        -0.29096928238868713
+      ],
+      "max": [
+        0.07591836154460907,
+        1.2996593713760376,
+        0.3788313567638397
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1000,
+      "type": "VEC3",
+      "min": [
+        -0.9999947547912598,
+        -1,
+        -0.9999924302101135
+      ],
+      "max": [
+        0.9999947547912598,
+        0.9992392659187317,
+        0.999997615814209
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1000,
+      "type": "VEC2",
+      "min": [
+        0.04941803216934204,
+        0.11023104190826416
+      ],
+      "max": [
+        0.4734896123409271,
+        0.7659205198287964
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1000,
+      "type": "VEC2",
+      "min": [
+        0.01563325524330139,
+        0.041954219341278076
+      ],
+      "max": [
+        0.9005874991416931,
+        0.9682714939117432
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2358,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        999
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Polearm_EcarlateGuard_Uncommon.materials.json"
+  }
+}

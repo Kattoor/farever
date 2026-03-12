@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Pork_Croco_Purple",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "CrocoBoar",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "CrocoBoar",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Pork_Croco_Purple.bin",
+      "byteLength": 336856
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 87636,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 87636,
+      "byteLength": 87636,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 175272,
+      "byteLength": 58424,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 233696,
+      "byteLength": 58424,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 292120,
+      "byteLength": 44736,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 7303,
+      "type": "VEC3",
+      "min": [
+        -0.8593788743019104,
+        -0.0018495464464649558,
+        -1.6948131322860718
+      ],
+      "max": [
+        0.8593788743019104,
+        2.248988151550293,
+        2.3998758792877197
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7303,
+      "type": "VEC3",
+      "min": [
+        -0.9999765157699585,
+        -0.9999993443489075,
+        -0.9998677372932434
+      ],
+      "max": [
+        0.9999765157699585,
+        0.999998927116394,
+        0.9999902844429016
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7303,
+      "type": "VEC2",
+      "min": [
+        0.015412313863635063,
+        0.04238218069076538
+      ],
+      "max": [
+        0.5718761086463928,
+        0.9916761517524719
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7303,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.09909605979919434
+      ],
+      "max": [
+        0.9676796197891235,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 22368,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        7302
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Pork_Croco_Purple.materials.json"
+  }
+}

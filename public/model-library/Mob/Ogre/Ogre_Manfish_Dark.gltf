@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Ogre_Manfish_Dark",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Ogre_Manfish_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Ogre_Manfish_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Ogre_Manfish_Dark.bin",
+      "byteLength": 1217526
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 246492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 246492,
+      "byteLength": 246492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 492984,
+      "byteLength": 164328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 657312,
+      "byteLength": 164328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 821640,
+      "byteLength": 246492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1068132,
+      "byteLength": 149394,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 20541,
+      "type": "VEC3",
+      "min": [
+        -2.7320189476013184,
+        -0.0023953390773385763,
+        -3.700122117996216
+      ],
+      "max": [
+        2.7320189476013184,
+        4.8427934646606445,
+        1.2901538610458374
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 20541,
+      "type": "VEC3",
+      "min": [
+        -0.9999972581863403,
+        -0.9999396204948425,
+        -0.9999551773071289
+      ],
+      "max": [
+        1,
+        0.9998323321342468,
+        0.999916136264801
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 20541,
+      "type": "VEC2",
+      "min": [
+        0.011493580415844917,
+        0.10937356948852539
+      ],
+      "max": [
+        0.9762148857116699,
+        0.9898321628570557
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 20541,
+      "type": "VEC2",
+      "min": [
+        0.013165801763534546,
+        0.020981311798095703
+      ],
+      "max": [
+        0.9645917415618896,
+        0.9773949980735779
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 15405.75,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 74697,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        20540
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Ogre_Manfish_Dark.materials.json"
+  }
+}

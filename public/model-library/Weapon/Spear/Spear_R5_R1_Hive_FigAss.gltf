@@ -1,0 +1,235 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Spear_R5_R1_Hive_FigAss",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Spear_R5_R1_Hive_FigAss",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Spear_R5_R1_Hive_FigAss",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Spear_R5_R1_Hive_FigAss.bin",
+      "byteLength": 165768
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 33804,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 33804,
+      "byteLength": 33804,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 67608,
+      "byteLength": 22536,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 90144,
+      "byteLength": 22536,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 112680,
+      "byteLength": 33804,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 146484,
+      "byteLength": 19284,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2817,
+      "type": "VEC3",
+      "min": [
+        -0.2796681225299835,
+        -0.2899916172027588,
+        -0.8480236530303955
+      ],
+      "max": [
+        0.2779815196990967,
+        0.2539862096309662,
+        1.821352243423462
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2817,
+      "type": "VEC3",
+      "min": [
+        -0.9999997615814209,
+        -1,
+        -1
+      ],
+      "max": [
+        0.9999998807907104,
+        0.9999997615814209,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2817,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.05001723766326904
+      ],
+      "max": [
+        0.8441309928894043,
+        1
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2817,
+      "type": "VEC2",
+      "min": [
+        0.06690444052219391,
+        0.19109737873077393
+      ],
+      "max": [
+        0.9468138217926025,
+        0.9347593784332275
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2112.75,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 9642,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2816
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Spear_R5_R1_Hive_FigAss.materials.json"
+  }
+}

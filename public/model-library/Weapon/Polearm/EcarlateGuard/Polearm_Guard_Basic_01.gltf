@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Polearm_Guard_Basic_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Guard_Polearm",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Guard_Polearm",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_Weapons",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Polearm_Guard_Basic_01.bin",
+      "byteLength": 42404
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 11364,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11364,
+      "byteLength": 11364,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22728,
+      "byteLength": 7576,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 30304,
+      "byteLength": 7576,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 37880,
+      "byteLength": 4524,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 947,
+      "type": "VEC3",
+      "min": [
+        -0.07566625624895096,
+        -1.650544285774231,
+        -0.09119899570941925
+      ],
+      "max": [
+        0.07566633075475693,
+        1.2561962604522705,
+        0.36143046617507935
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 947,
+      "type": "VEC3",
+      "min": [
+        -0.9999998807907104,
+        -1,
+        -0.9999963641166687
+      ],
+      "max": [
+        0.9999999403953552,
+        0.9992392659187317,
+        0.9999908208847046
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 947,
+      "type": "VEC2",
+      "min": [
+        0.05564385652542114,
+        0.11023104190826416
+      ],
+      "max": [
+        0.4660128653049469,
+        0.7301583290100098
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 947,
+      "type": "VEC2",
+      "min": [
+        0.01563325524330139,
+        0.041954219341278076
+      ],
+      "max": [
+        0.9005874991416931,
+        0.9682714939117432
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2262,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        946
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Polearm_Guard_Basic_01.materials.json"
+  }
+}

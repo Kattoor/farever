@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "GiantCrawler_Crab_Orange",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "GiantCrawler_Crab_Elite",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "GiantCrawler_Crab_Elite",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "GiantCrawler_Crab_Orange.bin",
+      "byteLength": 891722
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 225600,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 225600,
+      "byteLength": 225600,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 451200,
+      "byteLength": 150400,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 601600,
+      "byteLength": 150400,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 752000,
+      "byteLength": 139722,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 18800,
+      "type": "VEC3",
+      "min": [
+        -2.399416446685791,
+        -0.008797457441687584,
+        -2.8030600547790527
+      ],
+      "max": [
+        2.3994174003601074,
+        5.573837757110596,
+        4.5205206871032715
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 18800,
+      "type": "VEC3",
+      "min": [
+        -0.9999675154685974,
+        -0.9999144077301025,
+        -0.999964714050293
+      ],
+      "max": [
+        0.9999765157699585,
+        0.9999997019767761,
+        0.9997334480285645
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 18800,
+      "type": "VEC2",
+      "min": [
+        0.01246868446469307,
+        0.16402894258499146
+      ],
+      "max": [
+        0.9609590768814087,
+        0.9707237482070923
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 18800,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.046563029289245605
+      ],
+      "max": [
+        0.9902870059013367,
+        1.0035862922668457
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 69861,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        18799
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "GiantCrawler_Crab_Orange.materials.json"
+  }
+}

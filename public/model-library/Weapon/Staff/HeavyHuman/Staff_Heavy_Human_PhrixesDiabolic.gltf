@@ -1,0 +1,210 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Staff_Heavy_Human_PhrixesDiabolic",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Sphere_001",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Sphere_001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_002",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Staff_Heavy_Human_PhrixesDiabolic.bin",
+      "byteLength": 141544
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 36372,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 36372,
+      "byteLength": 36372,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 72744,
+      "byteLength": 24248,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 96992,
+      "byteLength": 24248,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 121240,
+      "byteLength": 20304,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3031,
+      "type": "VEC3",
+      "min": [
+        -0.767521321773529,
+        -0.1999494582414627,
+        -1.9042969942092896
+      ],
+      "max": [
+        0.767521321773529,
+        0.1915580779314041,
+        3.554992198944092
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3031,
+      "type": "VEC3",
+      "min": [
+        -0.9967412352561951,
+        -0.999979555606842,
+        -1
+      ],
+      "max": [
+        0.9967412948608398,
+        0.9999884963035583,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3031,
+      "type": "VEC2",
+      "min": [
+        0.012334316968917847,
+        0.43884605169296265
+      ],
+      "max": [
+        0.46664100885391235,
+        1.0238101482391357
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3031,
+      "type": "VEC2",
+      "min": [
+        0.12406407296657562,
+        0.12611913681030273
+      ],
+      "max": [
+        0.9412336945533752,
+        0.9600660800933838
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 10152,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3030
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Staff_Heavy_Human_PhrixesDiabolic.materials.json"
+  }
+}

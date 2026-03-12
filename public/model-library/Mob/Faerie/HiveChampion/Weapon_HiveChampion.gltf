@@ -1,0 +1,510 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Weapon_HiveChampion",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "model_0",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "children": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Weapon_HiveChampion_005",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    },
+    {
+      "name": "Weapon_HiveChampion_007",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 1
+    },
+    {
+      "name": "Weapon_HiveChampion_006",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        -1,
+        0.0000031749393656355096,
+        -0.000003174926602266838
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 2
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Weapon_HiveChampion_005",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Weapon_HiveChampion_007",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Weapon_HiveChampion_006",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TEXCOORD_0": 12,
+            "TEXCOORD_1": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Weapon_HiveChampion.bin",
+      "byteLength": 103324
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 8172,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8172,
+      "byteLength": 8172,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16344,
+      "byteLength": 5448,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21792,
+      "byteLength": 5448,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 27240,
+      "byteLength": 4380,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 31620,
+      "byteLength": 9492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 41112,
+      "byteLength": 9492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 50604,
+      "byteLength": 6328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 56932,
+      "byteLength": 6328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 63260,
+      "byteLength": 4212,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 67472,
+      "byteLength": 9492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 76964,
+      "byteLength": 9492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 86456,
+      "byteLength": 6328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 92784,
+      "byteLength": 6328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 99112,
+      "byteLength": 4212,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 681,
+      "type": "VEC3",
+      "min": [
+        -0.09911499172449112,
+        -0.06493141502141953,
+        -0.4174637198448181
+      ],
+      "max": [
+        0.10265279561281204,
+        0.06493141502141953,
+        1.1108300685882568
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 681,
+      "type": "VEC3",
+      "min": [
+        -0.9999002814292908,
+        -0.9999366402626038,
+        -0.9999999403953552
+      ],
+      "max": [
+        0.9999881982803345,
+        1,
+        0.9999999403953552
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 681,
+      "type": "VEC2",
+      "min": [
+        0.3134487271308899,
+        0.46469950675964355
+      ],
+      "max": [
+        0.45726945996284485,
+        0.930980384349823
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 681,
+      "type": "VEC2",
+      "min": [
+        0.06225156784057617,
+        0.2504473924636841
+      ],
+      "max": [
+        0.9401686787605286,
+        0.9738694429397583
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2190,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        680
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 791,
+      "type": "VEC3",
+      "min": [
+        -0.20364148914813995,
+        -0.06627442687749863,
+        1.060632586479187
+      ],
+      "max": [
+        0.22682325541973114,
+        0.06627442687749863,
+        2.1882407665252686
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 791,
+      "type": "VEC3",
+      "min": [
+        -0.9995094537734985,
+        -1,
+        -0.9997864961624146
+      ],
+      "max": [
+        0.9999545812606812,
+        1,
+        0.9991545677185059
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 791,
+      "type": "VEC2",
+      "min": [
+        0.04227688908576965,
+        0.28066712617874146
+      ],
+      "max": [
+        0.4689908027648926,
+        0.8409392833709717
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 791,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.31818920373916626
+      ],
+      "max": [
+        0.9416282176971436,
+        1
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 2106,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        790
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 791,
+      "type": "VEC3",
+      "min": [
+        -0.20633362233638763,
+        -0.06627442687749863,
+        0.3672661781311035
+      ],
+      "max": [
+        0.22413112223148346,
+        0.06627442687749863,
+        1.4948744773864746
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 791,
+      "type": "VEC3",
+      "min": [
+        -0.9995094537734985,
+        -1,
+        -0.9997866749763489
+      ],
+      "max": [
+        0.9999545812606812,
+        1,
+        0.9991548657417297
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 791,
+      "type": "VEC2",
+      "min": [
+        0.04227688908576965,
+        0.28066712617874146
+      ],
+      "max": [
+        0.4689908027648926,
+        0.8409392833709717
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 791,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.31818920373916626
+      ],
+      "max": [
+        0.9416282176971436,
+        1
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5123,
+      "count": 2106,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        790
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Weapon_HiveChampion.materials.json"
+  }
+}

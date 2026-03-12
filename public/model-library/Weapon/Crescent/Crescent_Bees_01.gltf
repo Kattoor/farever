@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Crescent_Bees_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Crescent_Bees_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Crescent_Bees_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Crescent_Bees_01.bin",
+      "byteLength": 115080
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 29340,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 29340,
+      "byteLength": 29340,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 58680,
+      "byteLength": 19560,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 78240,
+      "byteLength": 19560,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 97800,
+      "byteLength": 17280,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2445,
+      "type": "VEC3",
+      "min": [
+        -0.2284718006849289,
+        -1.076472520828247,
+        -0.185454323887825
+      ],
+      "max": [
+        0.2284718006849289,
+        1.076472520828247,
+        0.9184953570365906
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2445,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -0.9994346499443054,
+        -0.9958252310752869
+      ],
+      "max": [
+        1,
+        0.9998655915260315,
+        0.9976385235786438
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2445,
+      "type": "VEC2",
+      "min": [
+        0.022878412157297134,
+        0.08319568634033203
+      ],
+      "max": [
+        0.3593147397041321,
+        0.8824161887168884
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2445,
+      "type": "VEC2",
+      "min": [
+        0.03163795918226242,
+        0.10791701078414917
+      ],
+      "max": [
+        0.9669510126113892,
+        0.9878851771354675
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 8640,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2444
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Crescent_Bees_01.materials.json"
+  }
+}

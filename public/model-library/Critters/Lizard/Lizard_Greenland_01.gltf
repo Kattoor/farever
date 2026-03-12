@@ -1,0 +1,210 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Lizard_Greenland_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Lizard",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Lizard",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Lizard_Greenland_01.bin",
+      "byteLength": 88436
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 22344,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22344,
+      "byteLength": 22344,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 44688,
+      "byteLength": 14896,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 59584,
+      "byteLength": 14896,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 74480,
+      "byteLength": 13956,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1862,
+      "type": "VEC3",
+      "min": [
+        -0.21425272524356842,
+        -0.6742492318153381,
+        0.006054867524653673
+      ],
+      "max": [
+        0.21425272524356842,
+        0.4219793677330017,
+        0.29277899861335754
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1862,
+      "type": "VEC3",
+      "min": [
+        -0.9994819760322571,
+        -0.9997507333755493,
+        -1
+      ],
+      "max": [
+        0.9994820356369019,
+        0.9998950362205505,
+        0.999740719795227
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1862,
+      "type": "VEC2",
+      "min": [
+        0.04975839704275131,
+        0.0034290552139282227
+      ],
+      "max": [
+        0.5762088298797607,
+        0.9900525212287903
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1862,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.016637682914733887
+      ],
+      "max": [
+        0.9412457346916199,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 6978,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1861
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Lizard_Greenland_01.materials.json"
+  }
+}

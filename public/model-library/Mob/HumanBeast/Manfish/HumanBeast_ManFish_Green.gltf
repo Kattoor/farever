@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "HumanBeast_ManFish_Green",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "HumanBeast_Manfish_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HumanBeast_Manfish_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "HumanBeast_ManFish_Green.bin",
+      "byteLength": 276812
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 71520,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 71520,
+      "byteLength": 71520,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 143040,
+      "byteLength": 47680,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 190720,
+      "byteLength": 47680,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 238400,
+      "byteLength": 38412,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 5960,
+      "type": "VEC3",
+      "min": [
+        -0.8513790369033813,
+        0.002385851228609681,
+        -2.647390127182007
+      ],
+      "max": [
+        0.8513787984848022,
+        2.291701316833496,
+        0.8739172220230103
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5960,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -0.9999867677688599,
+        -0.998832643032074
+      ],
+      "max": [
+        1,
+        0.9999902248382568,
+        0.99998539686203
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5960,
+      "type": "VEC2",
+      "min": [
+        0.04666581749916077,
+        0.05677008628845215
+      ],
+      "max": [
+        0.4672327935695648,
+        0.9884916543960571
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 5960,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.09694606065750122
+      ],
+      "max": [
+        0.993760347366333,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 19206,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        5959
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "HumanBeast_ManFish_Green.materials.json"
+  }
+}

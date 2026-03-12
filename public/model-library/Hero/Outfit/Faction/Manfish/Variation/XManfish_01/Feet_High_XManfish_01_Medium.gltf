@@ -1,0 +1,238 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Feet_High_XManfish_01_Medium",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Feet_Z1RManfish_Medium_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Medium",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071067690849304,
+        0,
+        0,
+        0.7071067932881644
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Feet_Z1RManfish_Medium_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Feet_High_XManfish_01_Medium.bin",
+      "byteLength": 263460
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 55728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 55728,
+      "byteLength": 55728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 111456,
+      "byteLength": 37152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 148608,
+      "byteLength": 37152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 185760,
+      "byteLength": 55728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 241488,
+      "byteLength": 21972,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4644,
+      "type": "VEC3",
+      "min": [
+        -0.44091796875,
+        0.013671875,
+        -0.1529541015625
+      ],
+      "max": [
+        0.437255859375,
+        0.54248046875,
+        0.297607421875
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4644,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4644,
+      "type": "VEC2",
+      "min": [
+        0.00566864013671875,
+        0.2313232421875
+      ],
+      "max": [
+        0.966796875,
+        1.029296875
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4644,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.11651611328125
+      ],
+      "max": [
+        0.943359375,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 3483,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 10986,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4643
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Feet_High_XManfish_01_Medium.materials.json"
+  }
+}

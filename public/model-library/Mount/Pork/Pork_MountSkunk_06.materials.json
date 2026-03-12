@@ -1,0 +1,266 @@
+{
+  "prefab": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mount\\Pork\\Pork_MountSkunk_06.prefab",
+  "assetRoot": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out",
+  "modelSource": "Character/Mount/Pork/Sources/Pork_MountSkunk_01.fbx",
+  "modelResolvedSource": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mount\\Pork\\Sources\\Pork_MountSkunk_01.fbx",
+  "hmdMaterials": [
+    {
+      "index": 0,
+      "name": "standardSurface1",
+      "diffuseTexture": null,
+      "diffuseResolved": null,
+      "specularTexture": null,
+      "specularResolved": null,
+      "normalMap": null,
+      "normalResolved": null,
+      "diffuseOut": null,
+      "specularOut": null,
+      "normalOut": null
+    }
+  ],
+  "gradMat": {
+    "name": "gradmat",
+    "slots": [
+      "Boar_05",
+      "Skunk_Nose",
+      "Emiss_Eye_Red_02",
+      "Dog_Teeth",
+      "Leather_01",
+      "Gold_05_Demon",
+      "Gold_05_Demon",
+      "Leather_01b",
+      "Copper_03",
+      "Orange_04",
+      "Leather_02b"
+    ],
+    "numSlots": 12,
+    "resolvedSlots": [
+      {
+        "id": "Boar_05",
+        "texture": "Character/Mob/_Gradient/Boar_05.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\_Gradient\\Boar_05.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Mob/_Gradient/Boar_05.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 2,
+        "playerCustomization": true,
+        "out": "textures/Character/Mob/_Gradient/Boar_05.png"
+      },
+      {
+        "id": "Skunk_Nose",
+        "texture": "Character/Mob/_Gradient/Skunk_Nose.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\_Gradient\\Skunk_Nose.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Mob/_Gradient/Skunk_Nose.png",
+          "size": 32,
+          "x": 0,
+          "y": 2
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Mob/_Gradient/Skunk_Nose.png"
+      },
+      {
+        "id": "Emiss_Eye_Red_02",
+        "texture": "Character/Common/Texture/Gradient/Emiss_Eye_Red_02.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Emiss_Eye_Red_02.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Emiss_Eye_Red_02.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Emiss_Eye_Red_02.png"
+      },
+      {
+        "id": "Dog_Teeth",
+        "texture": "Character/Mob/_Gradient/Dog_Teeth.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\_Gradient\\Dog_Teeth.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Mob/_Gradient/Dog_Teeth.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Mob/_Gradient/Dog_Teeth.png"
+      },
+      {
+        "id": "Leather_01",
+        "texture": "Character/Common/Texture/Gradient/Leather_01.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Leather_01.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Leather_01.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Leather_01.png"
+      },
+      {
+        "id": "Gold_05_Demon",
+        "texture": "Character/Common/Texture/Gradient/Gold_05_Demon.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Gold_05_Demon.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Gold_05_Demon.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Gold_05_Demon.png"
+      },
+      {
+        "id": "Gold_05_Demon",
+        "texture": "Character/Common/Texture/Gradient/Gold_05_Demon.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Gold_05_Demon.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Gold_05_Demon.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Gold_05_Demon.png"
+      },
+      {
+        "id": "Leather_01b",
+        "texture": "Character/Common/Texture/Gradient/Leather_01b.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Leather_01b.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Leather_01b.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 2,
+        "playerCustomization": true,
+        "out": "textures/Character/Common/Texture/Gradient/Leather_01b.png"
+      },
+      {
+        "id": "Copper_03",
+        "texture": "Character/Common/Texture/Gradient/Copper_03.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Copper_03.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Copper_03.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Copper_03.png"
+      },
+      {
+        "id": "Orange_04",
+        "texture": "Character/Common/Texture/Gradient/Fabric_Orange_04.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Fabric_Orange_04.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Fabric_Orange_04.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Fabric_Orange_04.png"
+      },
+      {
+        "id": "Leather_02b",
+        "texture": "Character/Common/Texture/Gradient/Leather_02b.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Leather_02b.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Leather_02b.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Leather_02b.png"
+      }
+    ],
+    "linesTex": "Character/Common/Texture/UV_Lines.png",
+    "linesTexResolved": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\UV_Lines.png",
+    "patternPath": null,
+    "patternResolved": null,
+    "patternAlphaPath": null,
+    "patternAlphaResolved": null,
+    "marks": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "marksResolved": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "outlineSize": 0,
+    "outlineIntensity": 1,
+    "linesBlend": 1,
+    "minLightPower": 0,
+    "shadowSmooth": 0.1,
+    "lightSmooth": 0.1,
+    "terminatorSize": 0.5,
+    "shadowBias": 0,
+    "specSize": 0.8,
+    "specInsideSize": 0.51,
+    "specInsideIntensity": 1,
+    "specSmooth": 0.05,
+    "specAlpha": 0.39,
+    "emissivePow": 1,
+    "rimLightAngle": 0,
+    "rimLightWidth": 1,
+    "rimLightSize": 0,
+    "rimLightSmooth": 0.05,
+    "rimLightMin": 0,
+    "rimLightSpecMultiplier": 0,
+    "rimLightColor": [
+      1,
+      1,
+      1
+    ],
+    "ambientColor": [
+      1,
+      1,
+      1
+    ],
+    "ambientIntensity": 0,
+    "useVertexColor": true,
+    "linesOut": "textures/Character/Common/Texture/UV_Lines.png",
+    "patternOut": null,
+    "patternAlphaOut": null,
+    "marksOut": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "cdb": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\data.cdb",
+  "warnings": []
+}

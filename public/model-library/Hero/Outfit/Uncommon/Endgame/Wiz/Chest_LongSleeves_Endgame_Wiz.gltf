@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Chest_LongSleeves_Endgame_Wiz",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Chest_Endgame_Wiz_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Chest_Endgame_Wiz_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Chest_LongSleeves_Endgame_Wiz.bin",
+      "byteLength": 267404
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 55968,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 55968,
+      "byteLength": 55968,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 111936,
+      "byteLength": 37312,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 149248,
+      "byteLength": 37312,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 186560,
+      "byteLength": 55968,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 242528,
+      "byteLength": 24876,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4664,
+      "type": "VEC3",
+      "min": [
+        -0.66650390625,
+        0.3134765625,
+        -0.43798828125
+      ],
+      "max": [
+        0.66650390625,
+        1.9326171875,
+        0.324462890625
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4664,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4664,
+      "type": "VEC2",
+      "min": [
+        0.0272979736328125,
+        0.1776123046875
+      ],
+      "max": [
+        0.487060546875,
+        0.93017578125
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4664,
+      "type": "VEC2",
+      "min": [
+        0.03125,
+        0.112548828125
+      ],
+      "max": [
+        0.9609375,
+        0.96142578125
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 3498,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 12438,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4663
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Chest_LongSleeves_Endgame_Wiz.materials.json"
+  }
+}

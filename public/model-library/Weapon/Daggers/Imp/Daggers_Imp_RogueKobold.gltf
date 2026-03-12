@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Daggers_Imp_RogueKobold",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Kobold_Weapon01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Kobold_Weapon01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Weapons",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Daggers_Imp_RogueKobold.bin",
+      "byteLength": 21920
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 5748,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5748,
+      "byteLength": 5748,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11496,
+      "byteLength": 3832,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15328,
+      "byteLength": 3832,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19160,
+      "byteLength": 2760,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 479,
+      "type": "VEC3",
+      "min": [
+        -0.07123012840747833,
+        -0.23627975583076477,
+        -0.1863478124141693
+      ],
+      "max": [
+        0.07122787833213806,
+        0.7692660689353943,
+        0.14346489310264587
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 479,
+      "type": "VEC3",
+      "min": [
+        -0.9998973608016968,
+        -0.9986166954040527,
+        -0.999319851398468
+      ],
+      "max": [
+        0.9998966455459595,
+        0.9999998807907104,
+        0.9994803667068481
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 479,
+      "type": "VEC2",
+      "min": [
+        0.028166115283966064,
+        0.18433457612991333
+      ],
+      "max": [
+        0.3368992805480957,
+        0.8066540956497192
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 479,
+      "type": "VEC2",
+      "min": [
+        0.055503230541944504,
+        0.10828471183776855
+      ],
+      "max": [
+        0.9456707835197449,
+        0.9447349905967712
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1380,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        478
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Daggers_Imp_RogueKobold.materials.json"
+  }
+}

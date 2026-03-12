@@ -1,0 +1,373 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Human_GuardMeleeElite",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Guard_Body_Elite",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Guard_Body_Elite",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "COLOR_0": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_GUARD",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Human_GuardMeleeElite.bin",
+      "byteLength": 1475128
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 160116,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 160116,
+      "byteLength": 160116,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 320232,
+      "byteLength": 106744,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 426976,
+      "byteLength": 106744,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 533720,
+      "byteLength": 160116,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 693836,
+      "byteLength": 81792,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 775628,
+      "byteLength": 160116,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 935744,
+      "byteLength": 160116,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1095860,
+      "byteLength": 106744,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1202604,
+      "byteLength": 106744,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1309348,
+      "byteLength": 160116,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1469464,
+      "byteLength": 5664,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 13343,
+      "type": "VEC3",
+      "min": [
+        -0.8123599290847778,
+        -0.0016783238388597965,
+        -0.21808665990829468
+      ],
+      "max": [
+        0.8123602271080017,
+        2.2168993949890137,
+        0.35825303196907043
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 13343,
+      "type": "VEC3",
+      "min": [
+        -0.9999663233757019,
+        -1,
+        -0.9999979138374329
+      ],
+      "max": [
+        0.9999663233757019,
+        0.9999940991401672,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 13343,
+      "type": "VEC2",
+      "min": [
+        0.020481444895267487,
+        0.13895803689956665
+      ],
+      "max": [
+        0.8621419668197632,
+        0.9829489588737488
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 13343,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.02668595314025879
+      ],
+      "max": [
+        0.9490399360656738,
+        1.00118887424469
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 10007.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 40896,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        12280
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 13343,
+      "type": "VEC3",
+      "min": [
+        -0.8123599290847778,
+        -0.0016783238388597965,
+        -0.21808665990829468
+      ],
+      "max": [
+        0.8123602271080017,
+        2.2168993949890137,
+        0.35825303196907043
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 13343,
+      "type": "VEC3",
+      "min": [
+        -0.9999663233757019,
+        -1,
+        -0.9999979138374329
+      ],
+      "max": [
+        0.9999663233757019,
+        0.9999940991401672,
+        1
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 13343,
+      "type": "VEC2",
+      "min": [
+        0.020481444895267487,
+        0.13895803689956665
+      ],
+      "max": [
+        0.8621419668197632,
+        0.9829489588737488
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 13343,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.02668595314025879
+      ],
+      "max": [
+        0.9490399360656738,
+        1.00118887424469
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 10007.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 2832,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        13342
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Human_GuardMeleeElite.materials.json"
+  }
+}

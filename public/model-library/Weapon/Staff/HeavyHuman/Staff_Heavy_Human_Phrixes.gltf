@@ -1,0 +1,210 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Staff_Heavy_Human_Phrixes",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "WeaponPhrixes",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "WeaponPhrixes",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_002",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Staff_Heavy_Human_Phrixes.bin",
+      "byteLength": 142500
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 36648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 36648,
+      "byteLength": 36648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 73296,
+      "byteLength": 24432,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 97728,
+      "byteLength": 24432,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 122160,
+      "byteLength": 20340,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3054,
+      "type": "VEC3",
+      "min": [
+        -0.767521321773529,
+        -0.1999494582414627,
+        -1.9042969942092896
+      ],
+      "max": [
+        0.767521321773529,
+        0.1915580779314041,
+        3.554992198944092
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3054,
+      "type": "VEC3",
+      "min": [
+        -0.9967412352561951,
+        -0.9999796152114868,
+        -1
+      ],
+      "max": [
+        0.9967412948608398,
+        0.9999884366989136,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3054,
+      "type": "VEC2",
+      "min": [
+        0.019503489136695862,
+        0.062451958656311035
+      ],
+      "max": [
+        0.4542332589626312,
+        0.9560791254043579
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3054,
+      "type": "VEC2",
+      "min": [
+        0.0579066127538681,
+        0.062451958656311035
+      ],
+      "max": [
+        0.9412336945533752,
+        0.9795538783073425
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 10170,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3053
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Staff_Heavy_Human_Phrixes.materials.json"
+  }
+}

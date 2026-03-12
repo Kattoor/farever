@@ -1,0 +1,323 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Faerie_PollincessMokshi_Weapon",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Flower_Shuriken_001",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Flower_Shuriken_001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_002",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Faerie_PollincessMokshi_Weapon.bin",
+      "byteLength": 345504
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 48384,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 48384,
+      "byteLength": 48384,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 96768,
+      "byteLength": 32256,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 129024,
+      "byteLength": 32256,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 161280,
+      "byteLength": 11472,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 172752,
+      "byteLength": 48384,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 221136,
+      "byteLength": 48384,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 269520,
+      "byteLength": 32256,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 301776,
+      "byteLength": 32256,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 334032,
+      "byteLength": 11472,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4032,
+      "type": "VEC3",
+      "min": [
+        -0.35983672738075256,
+        -0.08065681159496307,
+        -0.3619435727596283
+      ],
+      "max": [
+        0.35984981060028076,
+        0.1256781965494156,
+        0.3600725829601288
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4032,
+      "type": "VEC3",
+      "min": [
+        -0.9926760196685791,
+        -1,
+        -0.9966636896133423
+      ],
+      "max": [
+        0.9926760196685791,
+        1,
+        0.9966636896133423
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4032,
+      "type": "VEC2",
+      "min": [
+        0.03639884293079376,
+        0.2066250443458557
+      ],
+      "max": [
+        0.3512195348739624,
+        0.8864803910255432
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4032,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.12356162071228027
+      ],
+      "max": [
+        0.9830994606018066,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 5736,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2015
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 4032,
+      "type": "VEC3",
+      "min": [
+        -0.35983672738075256,
+        -0.08065681159496307,
+        -0.3619435727596283
+      ],
+      "max": [
+        0.35984981060028076,
+        0.1256781965494156,
+        0.3600725829601288
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 4032,
+      "type": "VEC3",
+      "min": [
+        -0.9926760196685791,
+        -1,
+        -0.9966636896133423
+      ],
+      "max": [
+        0.9926760196685791,
+        1,
+        0.9966636896133423
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 4032,
+      "type": "VEC2",
+      "min": [
+        0.03639884293079376,
+        0.2066250443458557
+      ],
+      "max": [
+        0.3512195348739624,
+        0.8864803910255432
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 4032,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.12356162071228027
+      ],
+      "max": [
+        0.9830994606018066,
+        1
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 5736,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4031
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Faerie_PollincessMokshi_Weapon.materials.json"
+  }
+}

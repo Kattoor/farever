@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Shoulders_Outer_XSwarowls_02_Light",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Shoulders_Z3RSwarowls_Light_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Shoulders_Z3RSwarowls_Light_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Shoulders_Outer_XSwarowls_02_Light.bin",
+      "byteLength": 160908
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 41472,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 41472,
+      "byteLength": 41472,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 82944,
+      "byteLength": 27648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 110592,
+      "byteLength": 27648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 138240,
+      "byteLength": 22668,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3456,
+      "type": "VEC3",
+      "min": [
+        -0.5793282389640808,
+        1.4578667879104614,
+        -0.21645057201385498
+      ],
+      "max": [
+        0.5793282389640808,
+        1.8825856447219849,
+        0.263790488243103
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3456,
+      "type": "VEC3",
+      "min": [
+        -0.9995934367179871,
+        -0.9978471994400024,
+        -0.9993361234664917
+      ],
+      "max": [
+        0.9995934367179871,
+        0.9999377727508545,
+        0.9963237047195435
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3456,
+      "type": "VEC2",
+      "min": [
+        0.139423668384552,
+        0.2904651165008545
+      ],
+      "max": [
+        0.5540902614593506,
+        0.9715742468833923
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3456,
+      "type": "VEC2",
+      "min": [
+        0.07162799686193466,
+        0.24910014867782593
+      ],
+      "max": [
+        0.9392299056053162,
+        0.9642117023468018
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 11334,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3455
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Shoulders_Outer_XSwarowls_02_Light.materials.json"
+  }
+}

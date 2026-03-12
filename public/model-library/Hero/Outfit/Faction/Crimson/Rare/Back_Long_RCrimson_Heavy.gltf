@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Back_Long_RCrimson_Heavy",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Back_Long_Z1R4_Heavy_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Back_Long_Z1R4_Heavy_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Back_Long_RCrimson_Heavy.bin",
+      "byteLength": 69280
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 18696,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 18696,
+      "byteLength": 18696,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 37392,
+      "byteLength": 12464,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 49856,
+      "byteLength": 12464,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 62320,
+      "byteLength": 6960,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1558,
+      "type": "VEC3",
+      "min": [
+        -0.373291015625,
+        0.7041015625,
+        -0.2193603515625
+      ],
+      "max": [
+        0.373291015625,
+        1.73046875,
+        -0.07354736328125
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1558,
+      "type": "VEC3",
+      "min": [
+        -0.48627450980392156,
+        -0.4823529411764706,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        0.4980392156862745
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1558,
+      "type": "VEC2",
+      "min": [
+        0.1800537109375,
+        0.1348876953125
+      ],
+      "max": [
+        0.57177734375,
+        0.75
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1558,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.315673828125
+      ],
+      "max": [
+        0.9404296875,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 3480,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1557
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Back_Long_RCrimson_Heavy.materials.json"
+  }
+}

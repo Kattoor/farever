@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Item_MarbleBag",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Item_MarbleBag",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Item_MarbleBag",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Item_MarbleBag.bin",
+      "byteLength": 18268
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 4620,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4620,
+      "byteLength": 4620,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 9240,
+      "byteLength": 3080,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12320,
+      "byteLength": 3080,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15400,
+      "byteLength": 2868,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 385,
+      "type": "VEC3",
+      "min": [
+        -0.16747455298900604,
+        -0.19681958854198456,
+        -0.13881821930408478
+      ],
+      "max": [
+        0.1452825963497162,
+        0.2829907536506653,
+        0.17029762268066406
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 385,
+      "type": "VEC3",
+      "min": [
+        -0.9907913208007812,
+        -0.9993849396705627,
+        -0.9954796433448792
+      ],
+      "max": [
+        0.9973056316375732,
+        0.9970058798789978,
+        0.998253583908081
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 385,
+      "type": "VEC2",
+      "min": [
+        0.03201783448457718,
+        0.1265653371810913
+      ],
+      "max": [
+        0.0908145010471344,
+        0.9711334705352783
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 385,
+      "type": "VEC2",
+      "min": [
+        0.040523726493120193,
+        0.9448802471160889
+      ],
+      "max": [
+        0.040523748844861984,
+        0.9448803067207336
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1434,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        384
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Item_MarbleBag.materials.json"
+  }
+}

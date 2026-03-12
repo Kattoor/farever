@@ -1,0 +1,170 @@
+{
+  "prefab": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Hero\\Outfit\\Faction\\Swarowls\\Variation\\XSwarowls_01\\Back_Long_XSwarowls_01_Medium.prefab",
+  "assetRoot": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out",
+  "modelSource": "Character/Hero/Outfit/Faction/Swarowls/Sources/Back_RSwarowls_Medium_N.fbx",
+  "modelResolvedSource": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Hero\\Outfit\\Faction\\Swarowls\\Sources\\Back_RSwarowls_Medium_N.fbx",
+  "hmdMaterials": [
+    {
+      "index": 0,
+      "name": "Gradmat_Weapon",
+      "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+      "diffuseResolved": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\CustomGradient_Hero_Clothes.png",
+      "specularTexture": null,
+      "specularResolved": null,
+      "normalMap": null,
+      "normalResolved": null,
+      "diffuseOut": "textures/Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+      "specularOut": null,
+      "normalOut": null
+    }
+  ],
+  "gradMat": {
+    "name": "gradmat",
+    "slots": [
+      "Skin_00",
+      "Swarowls_01b",
+      "Gold_06",
+      "Leather_05",
+      "Leather_08"
+    ],
+    "numSlots": 12,
+    "resolvedSlots": [
+      {
+        "id": "Skin_00",
+        "texture": "Character/Common/Texture/Gradient/Skin_00.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Skin_00.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Skin_00.png",
+          "size": 8,
+          "x": 0,
+          "y": 7
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Skin_00.png"
+      },
+      {
+        "id": "Swarowls_01b",
+        "texture": "Character/Mob/_Gradient/Swarowls_01b.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\_Gradient\\Swarowls_01b.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Mob/_Gradient/Swarowls_01b.png",
+          "size": 32,
+          "x": 0,
+          "y": 2
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Mob/_Gradient/Swarowls_01b.png"
+      },
+      {
+        "id": "Gold_06",
+        "texture": "Character/Common/Texture/Gradient/Gold_06.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Gold_06.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Gold_06.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Gold_06.png"
+      },
+      {
+        "id": "Leather_05",
+        "texture": "Character/Common/Texture/Gradient/Leather_05.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Leather_05.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Leather_05.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 2,
+        "playerCustomization": true,
+        "out": "textures/Character/Common/Texture/Gradient/Leather_05.png"
+      },
+      {
+        "id": "Leather_08",
+        "texture": "Character/Common/Texture/Gradient/Leather_08.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Leather_08.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Leather_08.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Leather_08.png"
+      }
+    ],
+    "linesTex": "Character/Common/Texture/UV_Lines.png",
+    "linesTexResolved": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\UV_Lines.png",
+    "patternPath": "Character/Common/Texture/Pattern/Pattern_Dirt_01.png",
+    "patternResolved": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Pattern\\Pattern_Dirt_01.png",
+    "patternAlphaPath": null,
+    "patternAlphaResolved": null,
+    "marks": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "marksResolved": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "outlineSize": 0,
+    "outlineIntensity": 1,
+    "linesBlend": 1,
+    "minLightPower": 0,
+    "shadowSmooth": 0.1,
+    "lightSmooth": 0.1,
+    "terminatorSize": 0.5,
+    "shadowBias": 0,
+    "specSize": 0.8,
+    "specInsideSize": 0.5,
+    "specInsideIntensity": 0,
+    "specSmooth": 0.05,
+    "specAlpha": 1,
+    "emissivePow": 0,
+    "rimLightAngle": 0,
+    "rimLightWidth": 1,
+    "rimLightSize": 0,
+    "rimLightSmooth": 0.05,
+    "rimLightMin": 0,
+    "rimLightSpecMultiplier": 0,
+    "rimLightColor": [
+      1,
+      1,
+      1
+    ],
+    "ambientColor": [
+      1,
+      1,
+      1
+    ],
+    "ambientIntensity": 0,
+    "useVertexColor": true,
+    "linesOut": "textures/Character/Common/Texture/UV_Lines.png",
+    "patternOut": "textures/Character/Common/Texture/Pattern/Pattern_Dirt_01.png",
+    "patternAlphaOut": null,
+    "marksOut": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "cdb": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\data.cdb",
+  "warnings": []
+}

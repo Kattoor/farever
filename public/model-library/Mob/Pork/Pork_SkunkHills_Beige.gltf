@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Pork_SkunkHills_Beige",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Skunk_Hills",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Skunk_Hills",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Pork_SkunkHills_Beige.bin",
+      "byteLength": 329154
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 84024,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 84024,
+      "byteLength": 84024,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 168048,
+      "byteLength": 56016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 224064,
+      "byteLength": 56016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 280080,
+      "byteLength": 49074,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 7002,
+      "type": "VEC3",
+      "min": [
+        -0.8992546796798706,
+        -0.02115102857351303,
+        -2.057509660720825
+      ],
+      "max": [
+        0.8992546796798706,
+        2.127911329269409,
+        2.1513864994049072
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7002,
+      "type": "VEC3",
+      "min": [
+        -0.9998982548713684,
+        -0.999981164932251,
+        -0.999891459941864
+      ],
+      "max": [
+        0.9998982548713684,
+        0.9999997615814209,
+        0.9998880624771118
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7002,
+      "type": "VEC2",
+      "min": [
+        0.014644650742411613,
+        0.18341487646102905
+      ],
+      "max": [
+        0.4743615686893463,
+        0.9877899885177612
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7002,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.10786867141723633
+      ],
+      "max": [
+        0.5233281850814819,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 24537,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        7001
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Pork_SkunkHills_Beige.materials.json"
+  }
+}

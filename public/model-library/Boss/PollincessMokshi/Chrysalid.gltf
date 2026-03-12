@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Chrysalid",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Chrysalid",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Chrysalid",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Chrysalid.bin",
+      "byteLength": 47288
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 13020,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13020,
+      "byteLength": 13020,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 26040,
+      "byteLength": 8680,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 34720,
+      "byteLength": 8680,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 43400,
+      "byteLength": 3888,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1085,
+      "type": "VEC3",
+      "min": [
+        -3.7798244953155518,
+        -3.3092687129974365,
+        -1.7784838676452637
+      ],
+      "max": [
+        3.894866943359375,
+        3.9515438079833984,
+        9.380516052246094
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1085,
+      "type": "VEC3",
+      "min": [
+        -0.9982033967971802,
+        -0.9994796514511108,
+        -0.9838500618934631
+      ],
+      "max": [
+        0.9991065859794617,
+        0.999557614326477,
+        0.9897535443305969
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1085,
+      "type": "VEC2",
+      "min": [
+        0.01624038815498352,
+        0.3329901695251465
+      ],
+      "max": [
+        0.08614161610603333,
+        0.9987274408340454
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1085,
+      "type": "VEC2",
+      "min": [
+        0.10899201035499573,
+        0.19671446084976196
+      ],
+      "max": [
+        0.9457048773765564,
+        0.9704073667526245
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1944,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1084
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Chrysalid.materials.json"
+  }
+}

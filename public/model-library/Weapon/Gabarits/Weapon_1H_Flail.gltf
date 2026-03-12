@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Weapon_1H_Flail",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Weapon_1H_Flail",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Weapon_1H_Flail",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Weapon_1H_Flail.bin",
+      "byteLength": 42520
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 11496,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11496,
+      "byteLength": 11496,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22992,
+      "byteLength": 7664,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 30656,
+      "byteLength": 7664,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 38320,
+      "byteLength": 4200,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 958,
+      "type": "VEC3",
+      "min": [
+        -0.2936672866344452,
+        -0.3266143798828125,
+        -0.05696618929505348
+      ],
+      "max": [
+        0.3271612524986267,
+        0.5833190679550171,
+        1.3207470178604126
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 958,
+      "type": "VEC3",
+      "min": [
+        -0.9999494552612305,
+        -0.9999557137489319,
+        -0.9999934434890747
+      ],
+      "max": [
+        0.9999873042106628,
+        0.9999983310699463,
+        0.9999872446060181
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 958,
+      "type": "VEC2",
+      "min": [
+        0.05883586406707764,
+        0.2989450693130493
+      ],
+      "max": [
+        0.37093618512153625,
+        0.79296875
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 958,
+      "type": "VEC2",
+      "min": [
+        0.04602741822600365,
+        0.9125242233276367
+      ],
+      "max": [
+        0.061540957540273666,
+        0.9727032780647278
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2100,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        957
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Weapon_1H_Flail.materials.json"
+  }
+}

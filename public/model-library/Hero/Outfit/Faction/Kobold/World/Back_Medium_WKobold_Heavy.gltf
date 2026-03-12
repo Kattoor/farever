@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Back_Medium_WKobold_Heavy",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Back_R1Mountain_FigAss_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Back_R1Mountain_FigAss_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Back_Medium_WKobold_Heavy.bin",
+      "byteLength": 129622
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 34572,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 34572,
+      "byteLength": 34572,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 69144,
+      "byteLength": 23048,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 92192,
+      "byteLength": 23048,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 115240,
+      "byteLength": 14382,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2881,
+      "type": "VEC3",
+      "min": [
+        -0.430908203125,
+        0.5166015625,
+        -0.386474609375
+      ],
+      "max": [
+        0.42626953125,
+        1.919921875,
+        0.1826171875
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2881,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2881,
+      "type": "VEC2",
+      "min": [
+        0.1365966796875,
+        0.218994140625
+      ],
+      "max": [
+        0.7138671875,
+        0.90478515625
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2881,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.11505126953125
+      ],
+      "max": [
+        0.9423828125,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 7191,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2880
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Back_Medium_WKobold_Heavy.materials.json"
+  }
+}

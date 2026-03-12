@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Chest_ShortSleeves_BaseClothes_Com_03",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Chest_BaseClothes_Com_03_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Chest_BaseClothes_Com_03_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Chest_ShortSleeves_BaseClothes_Com_03.bin",
+      "byteLength": 80836
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 16068,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16068,
+      "byteLength": 16068,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32136,
+      "byteLength": 10712,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 42848,
+      "byteLength": 10712,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 53560,
+      "byteLength": 16068,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 69628,
+      "byteLength": 11208,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1339,
+      "type": "VEC3",
+      "min": [
+        -0.6669848561286926,
+        1.1743311882019043,
+        -0.09134802967309952
+      ],
+      "max": [
+        0.6669848561286926,
+        1.9331179857254028,
+        0.22881700098514557
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1339,
+      "type": "VEC3",
+      "min": [
+        -0.9969916939735413,
+        -0.9957481026649475,
+        -0.9999445676803589
+      ],
+      "max": [
+        0.9969933032989502,
+        0.9765867590904236,
+        0.9999843239784241
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1339,
+      "type": "VEC2",
+      "min": [
+        0.018141616135835648,
+        0.17711955308914185
+      ],
+      "max": [
+        0.32957273721694946,
+        0.6448158025741577
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1339,
+      "type": "VEC2",
+      "min": [
+        0.02961866557598114,
+        0.11936038732528687
+      ],
+      "max": [
+        0.33879539370536804,
+        0.969745397567749
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1004.25,
+      "type": "VEC4",
+      "min": [
+        0.3607843220233917,
+        0.3607843220233917,
+        0.3607843220233917,
+        0.38823530077934265
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 5604,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1338
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Chest_ShortSleeves_BaseClothes_Com_03.materials.json"
+  }
+}

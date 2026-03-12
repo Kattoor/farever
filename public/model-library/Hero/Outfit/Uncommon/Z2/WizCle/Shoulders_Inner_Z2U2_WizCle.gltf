@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Shoulders_Inner_Z2U2_WizCle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Shoulders_Z2U_Light_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Shoulders_Z2U_Light_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Shoulders_Inner_Z2U2_WizCle.bin",
+      "byteLength": 59936
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 12336,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12336,
+      "byteLength": 12336,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24672,
+      "byteLength": 8224,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32896,
+      "byteLength": 8224,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 41120,
+      "byteLength": 12336,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 53456,
+      "byteLength": 6480,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1028,
+      "type": "VEC3",
+      "min": [
+        -0.501953125,
+        1.6416015625,
+        -0.184326171875
+      ],
+      "max": [
+        0.501953125,
+        1.8564453125,
+        0.231201171875
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1028,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.47843137254901963
+      ],
+      "max": [
+        1,
+        0.4980392156862745,
+        0.47058823529411764
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1028,
+      "type": "VEC2",
+      "min": [
+        0.169677734375,
+        0.328857421875
+      ],
+      "max": [
+        0.732421875,
+        0.80712890625
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1028,
+      "type": "VEC2",
+      "min": [
+        0.06658935546875,
+        0.1192626953125
+      ],
+      "max": [
+        0.7529296875,
+        0.94677734375
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 771,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 3240,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1027
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Shoulders_Inner_Z2U2_WizCle.materials.json"
+  }
+}

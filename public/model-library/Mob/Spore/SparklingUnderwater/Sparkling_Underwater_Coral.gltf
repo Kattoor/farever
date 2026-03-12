@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sparkling_Underwater_Coral",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "SparklingUnderwater",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "SparklingUnderwater",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Sparkling_Underwater_Coral.bin",
+      "byteLength": 170440
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 33924,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 33924,
+      "byteLength": 33924,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 67848,
+      "byteLength": 22616,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 90464,
+      "byteLength": 22616,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 113080,
+      "byteLength": 33924,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 147004,
+      "byteLength": 23436,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2827,
+      "type": "VEC3",
+      "min": [
+        -0.9800300598144531,
+        -0.8630552887916565,
+        -0.9522799849510193
+      ],
+      "max": [
+        0.8920809030532837,
+        0.9751092791557312,
+        0.6380183696746826
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2827,
+      "type": "VEC3",
+      "min": [
+        -0.997006893157959,
+        -1,
+        -0.9999770522117615
+      ],
+      "max": [
+        0.9994445443153381,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2827,
+      "type": "VEC2",
+      "min": [
+        0.0020246608182787895,
+        0.29895156621932983
+      ],
+      "max": [
+        0.33947399258613586,
+        0.9926825165748596
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2827,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.525968611240387
+      ],
+      "max": [
+        0.8851003050804138,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2120.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 11718,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2826
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Sparkling_Underwater_Coral.materials.json"
+  }
+}

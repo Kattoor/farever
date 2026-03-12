@@ -1,0 +1,122 @@
+{
+  "prefab": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\Plant\\Plant_Sprout_Garlic_GreenGrey.prefab",
+  "assetRoot": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out",
+  "modelSource": "Character/Mob/Plant/Sources/Plant_Sprout_Garlic_01.fbx",
+  "modelResolvedSource": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\Plant\\Sources\\Plant_Sprout_Garlic_01.fbx",
+  "hmdMaterials": [
+    {
+      "index": 0,
+      "name": "standardSurface1",
+      "diffuseTexture": null,
+      "diffuseResolved": null,
+      "specularTexture": null,
+      "specularResolved": null,
+      "normalMap": null,
+      "normalResolved": null,
+      "diffuseOut": null,
+      "specularOut": null,
+      "normalOut": null
+    }
+  ],
+  "gradMat": {
+    "name": "gradmat",
+    "slots": [
+      "Goldish_01",
+      "Dog_01b"
+    ],
+    "numSlots": 2,
+    "resolvedSlots": [
+      {
+        "id": "Goldish_01",
+        "texture": "Character/Common/Texture/Gradient/Fabric_Goldish.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Fabric_Goldish.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Fabric_Goldish.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Fabric_Goldish.png"
+      },
+      {
+        "id": "Dog_01b",
+        "texture": "Character/Mob/_Gradient/Dog_01b.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\_Gradient\\Dog_01b.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Mob/_Gradient/Dog_01b.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 2,
+        "playerCustomization": true,
+        "out": "textures/Character/Mob/_Gradient/Dog_01b.png"
+      }
+    ],
+    "linesTex": "Character/Common/Texture/UV_Lines.png",
+    "linesTexResolved": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\UV_Lines.png",
+    "patternPath": null,
+    "patternResolved": null,
+    "patternAlphaPath": null,
+    "patternAlphaResolved": null,
+    "marks": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "marksResolved": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "outlineSize": 0,
+    "outlineIntensity": 1,
+    "linesBlend": 1,
+    "minLightPower": 0,
+    "shadowSmooth": 0.03,
+    "lightSmooth": 0.1,
+    "terminatorSize": 0,
+    "shadowBias": 0,
+    "specSize": 0,
+    "specInsideSize": 0.5,
+    "specInsideIntensity": 0,
+    "specSmooth": 0.01,
+    "specAlpha": 0,
+    "emissivePow": 0,
+    "rimLightAngle": 0,
+    "rimLightWidth": 1,
+    "rimLightSize": 0,
+    "rimLightSmooth": 0.05,
+    "rimLightMin": 0,
+    "rimLightSpecMultiplier": 0,
+    "rimLightColor": [
+      1,
+      1,
+      1
+    ],
+    "ambientColor": [
+      1,
+      1,
+      1
+    ],
+    "ambientIntensity": 0,
+    "useVertexColor": true,
+    "linesOut": "textures/Character/Common/Texture/UV_Lines.png",
+    "patternOut": null,
+    "patternAlphaOut": null,
+    "marksOut": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "cdb": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\data.cdb",
+  "warnings": []
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "HumanBeast_ManFish_Elite",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "HumanBeast_Manfish_Elite",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HumanBeast_Manfish_Elite",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "HumanBeast_ManFish_Elite.bin",
+      "byteLength": 516184
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 133248,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 133248,
+      "byteLength": 133248,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 266496,
+      "byteLength": 88832,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 355328,
+      "byteLength": 88832,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 444160,
+      "byteLength": 72024,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 11104,
+      "type": "VEC3",
+      "min": [
+        -0.8514017462730408,
+        0.002385851228609681,
+        -2.647390127182007
+      ],
+      "max": [
+        0.8513787984848022,
+        2.291701316833496,
+        0.8739172220230103
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 11104,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -0.9999867677688599,
+        -0.9998173713684082
+      ],
+      "max": [
+        1,
+        0.9999902844429016,
+        0.9999814629554749
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 11104,
+      "type": "VEC2",
+      "min": [
+        0.04666581749916077,
+        0.05569559335708618
+      ],
+      "max": [
+        0.8924360275268555,
+        0.9884916543960571
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 11104,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.09694606065750122
+      ],
+      "max": [
+        0.993760347366333,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 36012,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        11103
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "HumanBeast_ManFish_Elite.materials.json"
+  }
+}

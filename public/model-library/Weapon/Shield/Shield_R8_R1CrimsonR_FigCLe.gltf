@@ -1,0 +1,235 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Shield_R8_R1CrimsonR_FigCLe",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Shield_R8_R1CrimsonR_FigCLe",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Shield_R8_R1CrimsonR_FigCLe",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Shield_R8_R1CrimsonR_FigCLe.bin",
+      "byteLength": 196150
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 41016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 41016,
+      "byteLength": 41016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 82032,
+      "byteLength": 27344,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 109376,
+      "byteLength": 27344,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 136720,
+      "byteLength": 41016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 177736,
+      "byteLength": 18414,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3418,
+      "type": "VEC3",
+      "min": [
+        -0.4064735770225525,
+        -0.23427146673202515,
+        -0.5664728879928589
+      ],
+      "max": [
+        0.4942570924758911,
+        0.3297484517097473,
+        0.6455938816070557
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3418,
+      "type": "VEC3",
+      "min": [
+        -0.9999436140060425,
+        -1,
+        -0.9971809387207031
+      ],
+      "max": [
+        0.9999426603317261,
+        0.9999736547470093,
+        0.9980337619781494
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3418,
+      "type": "VEC2",
+      "min": [
+        0.02013266086578369,
+        0.18979805707931519
+      ],
+      "max": [
+        0.6568713784217834,
+        0.9148316979408264
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3418,
+      "type": "VEC2",
+      "min": [
+        0.029663167893886566,
+        0.11935722827911377
+      ],
+      "max": [
+        0.94676673412323,
+        0.9675844311714172
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2563.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 9207,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3417
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Shield_R8_R1CrimsonR_FigCLe.materials.json"
+  }
+}

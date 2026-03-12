@@ -1,0 +1,235 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Mace_Human_ButterChurn",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Mace_Kobold",
+      "translation": [
+        0,
+        0,
+        0.00556182861328125
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Mace_Kobold",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Mace_Human_ButterChurn.bin",
+      "byteLength": 144940
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 30648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 30648,
+      "byteLength": 30648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 61296,
+      "byteLength": 20432,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 81728,
+      "byteLength": 20432,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 102160,
+      "byteLength": 30648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 132808,
+      "byteLength": 12132,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2554,
+      "type": "VEC3",
+      "min": [
+        -0.2613750100135803,
+        -0.2613750100135803,
+        -0.3968658745288849
+      ],
+      "max": [
+        0.2613750100135803,
+        0.2861606776714325,
+        1.1858577728271484
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2554,
+      "type": "VEC3",
+      "min": [
+        -0.999996542930603,
+        -0.9999935626983643,
+        -1
+      ],
+      "max": [
+        0.999996542930603,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2554,
+      "type": "VEC2",
+      "min": [
+        0.0354803204536438,
+        0.36705732345581055
+      ],
+      "max": [
+        0.37224674224853516,
+        0.986415684223175
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2554,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.3187750577926636
+      ],
+      "max": [
+        0.9440608024597168,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1915.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 6066,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2553
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Mace_Human_ButterChurn.materials.json"
+  }
+}

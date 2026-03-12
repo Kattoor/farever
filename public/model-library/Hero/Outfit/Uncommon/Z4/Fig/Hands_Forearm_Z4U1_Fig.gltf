@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hands_Forearm_Z4U1_Fig",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hands_R1S1_FigWiz_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hands_R1S1_FigWiz_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hands_Forearm_Z4U1_Fig.bin",
+      "byteLength": 179884
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 45552,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 45552,
+      "byteLength": 45552,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 91104,
+      "byteLength": 30368,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 121472,
+      "byteLength": 30368,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 151840,
+      "byteLength": 28044,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3796,
+      "type": "VEC3",
+      "min": [
+        -0.8123599886894226,
+        0.9814912676811218,
+        -0.02629997208714485
+      ],
+      "max": [
+        0.8123599886894226,
+        1.4483866691589355,
+        0.3378543555736542
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3796,
+      "type": "VEC3",
+      "min": [
+        -0.9996047616004944,
+        -0.9991096258163452,
+        -0.9992451667785645
+      ],
+      "max": [
+        0.9996047019958496,
+        0.9947450160980225,
+        0.9995304346084595
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3796,
+      "type": "VEC2",
+      "min": [
+        0.019069135189056396,
+        0.1740584373474121
+      ],
+      "max": [
+        0.5882086753845215,
+        0.746248722076416
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3796,
+      "type": "VEC2",
+      "min": [
+        0.02211475372314453,
+        0.11436283588409424
+      ],
+      "max": [
+        0.9462254047393799,
+        1.00118887424469
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 14022,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3795
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hands_Forearm_Z4U1_Fig.materials.json"
+  }
+}

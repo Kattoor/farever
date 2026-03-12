@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Ogre_Human_Paysan_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "OgrePaysan",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "OgrePaysan",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "phong1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Ogre_Human_Paysan_01.bin",
+      "byteLength": 1497146
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 397392,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 397392,
+      "byteLength": 397392,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 794784,
+      "byteLength": 264928,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1059712,
+      "byteLength": 264928,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1324640,
+      "byteLength": 172506,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 33116,
+      "type": "VEC3",
+      "min": [
+        -2.7320189476013184,
+        -0.0003770721086766571,
+        -2.063830614089966
+      ],
+      "max": [
+        2.7320194244384766,
+        4.974503517150879,
+        1.2940199375152588
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 33116,
+      "type": "VEC3",
+      "min": [
+        -0.9999609589576721,
+        -0.9999656081199646,
+        -0.9999977350234985
+      ],
+      "max": [
+        0.9999610781669617,
+        0.9999383687973022,
+        0.999897301197052
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 33116,
+      "type": "VEC2",
+      "min": [
+        0.012164413928985596,
+        0.01111745834350586
+      ],
+      "max": [
+        0.9881314039230347,
+        1.0803015232086182
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 33116,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.015855014324188232
+      ],
+      "max": [
+        0.9952222108840942,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 86253,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        33115
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Ogre_Human_Paysan_01.materials.json"
+  }
+}

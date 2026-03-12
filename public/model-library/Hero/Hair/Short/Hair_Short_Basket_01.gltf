@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hair_Short_Basket_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hair_Short_Basket_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hair_Short_Basket_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hair_Short_Basket_01.bin",
+      "byteLength": 25772
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 6504,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6504,
+      "byteLength": 6504,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13008,
+      "byteLength": 4336,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17344,
+      "byteLength": 4336,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21680,
+      "byteLength": 4092,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 542,
+      "type": "VEC3",
+      "min": [
+        -0.13551300764083862,
+        2.0901315212249756,
+        -0.08346061408519745
+      ],
+      "max": [
+        0.134492889046669,
+        2.2182116508483887,
+        0.24561086297035217
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 542,
+      "type": "VEC3",
+      "min": [
+        -0.9985526204109192,
+        -0.798862099647522,
+        -0.9999702572822571
+      ],
+      "max": [
+        0.9985787868499756,
+        0.9998073577880859,
+        0.9933237433433533
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 542,
+      "type": "VEC2",
+      "min": [
+        0.13506384193897247,
+        0.4671900272369385
+      ],
+      "max": [
+        0.31585681438446045,
+        0.8874325752258301
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 542,
+      "type": "VEC2",
+      "min": [
+        0.04444199055433273,
+        0.006527364253997803
+      ],
+      "max": [
+        0.5013495087623596,
+        0.9535223841667175
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2046,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        541
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hair_Short_Basket_01.materials.json"
+  }
+}

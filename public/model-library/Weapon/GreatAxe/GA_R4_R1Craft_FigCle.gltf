@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "GA_R4_R1Craft_FigCle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "GA_R4_R1Craft_FigCle",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "GA_R4_R1Craft_FigCle",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "GA_R4_R1Craft_FigCle.bin",
+      "byteLength": 108372
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 28620,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28620,
+      "byteLength": 28620,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 57240,
+      "byteLength": 19080,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 76320,
+      "byteLength": 19080,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 95400,
+      "byteLength": 12972,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2385,
+      "type": "VEC3",
+      "min": [
+        -0.11540701240301132,
+        -0.8211063146591187,
+        -0.5233843326568604
+      ],
+      "max": [
+        0.11540701240301132,
+        1.9242966175079346,
+        0.5233838558197021
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2385,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2385,
+      "type": "VEC2",
+      "min": [
+        0.023057878017425537,
+        0.49138349294662476
+      ],
+      "max": [
+        0.31680208444595337,
+        0.9262069463729858
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2385,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.17549782991409302
+      ],
+      "max": [
+        0.9439178705215454,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 6486,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2384
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "GA_R4_R1Craft_FigCle.materials.json"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Fly_Demon_DarkBlue",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Fly_Demon",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Fly_Demon",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Fly_Demon_DarkBlue.bin",
+      "byteLength": 128156
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 32100,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32100,
+      "byteLength": 32100,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 64200,
+      "byteLength": 21400,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 85600,
+      "byteLength": 21400,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 107000,
+      "byteLength": 21156,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2675,
+      "type": "VEC3",
+      "min": [
+        -0.0071333120577037334,
+        -0.010378997772932053,
+        -0.0020647644996643066
+      ],
+      "max": [
+        0.0071333120577037334,
+        0.011640860699117184,
+        0.010850571095943451
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2675,
+      "type": "VEC3",
+      "min": [
+        -0.9981676340103149,
+        -0.9959888458251953,
+        -0.9988721609115601
+      ],
+      "max": [
+        0.9975914359092712,
+        0.9991257190704346,
+        0.9998520612716675
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2675,
+      "type": "VEC2",
+      "min": [
+        0.005872607231140137,
+        0.19442051649093628
+      ],
+      "max": [
+        0.20907610654830933,
+        0.918731689453125
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2675,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.31497740745544434
+      ],
+      "max": [
+        0.9512179493904114,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 10578,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2674
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Fly_Demon_DarkBlue.materials.json"
+  }
+}

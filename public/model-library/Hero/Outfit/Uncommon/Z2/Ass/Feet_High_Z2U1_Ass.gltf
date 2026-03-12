@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Feet_High_Z2U1_Ass",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Feet_R1S1_AssCle_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Feet_R1S1_AssCle_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Feet_High_Z2U1_Ass.bin",
+      "byteLength": 246356
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 66876,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 66876,
+      "byteLength": 66876,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 133752,
+      "byteLength": 44584,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 178336,
+      "byteLength": 44584,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 222920,
+      "byteLength": 23436,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 5573,
+      "type": "VEC3",
+      "min": [
+        -0.429443359375,
+        -0.01128387451171875,
+        -0.126953125
+      ],
+      "max": [
+        0.429443359375,
+        0.5439453125,
+        0.34423828125
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5573,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5573,
+      "type": "VEC2",
+      "min": [
+        0.1383056640625,
+        0.380859375
+      ],
+      "max": [
+        0.84765625,
+        0.955078125
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 5573,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.2578125
+      ],
+      "max": [
+        0.9384765625,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 11718,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        5572
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Feet_High_Z2U1_Ass.materials.json"
+  }
+}

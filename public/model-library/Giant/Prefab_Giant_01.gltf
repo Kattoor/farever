@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Prefab_Giant_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Giant",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Giant",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Prefab_Giant_01.bin",
+      "byteLength": 594896
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 139560,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 139560,
+      "byteLength": 139560,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 279120,
+      "byteLength": 93040,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 372160,
+      "byteLength": 93040,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 465200,
+      "byteLength": 129696,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 11630,
+      "type": "VEC3",
+      "min": [
+        -5.155974864959717,
+        -3.303774356842041,
+        -0.191560298204422
+      ],
+      "max": [
+        4.92763090133667,
+        2.210831642150879,
+        13.71860408782959
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 11630,
+      "type": "VEC3",
+      "min": [
+        -0.9998135566711426,
+        -0.9999830722808838,
+        -0.9999817609786987
+      ],
+      "max": [
+        0.9999042749404907,
+        0.9997280240058899,
+        0.9996137619018555
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 11630,
+      "type": "VEC2",
+      "min": [
+        0.0357760488986969,
+        0.044966697692871094
+      ],
+      "max": [
+        0.12092682719230652,
+        0.9544206857681274
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 11630,
+      "type": "VEC2",
+      "min": [
+        0.02058222144842148,
+        0.9712802171707153
+      ],
+      "max": [
+        0.02058222144842148,
+        0.9712802171707153
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 64848,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        11629
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Prefab_Giant_01.materials.json"
+  }
+}

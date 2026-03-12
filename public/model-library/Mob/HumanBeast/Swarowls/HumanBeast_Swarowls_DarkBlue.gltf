@@ -1,0 +1,373 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "HumanBeast_Swarowls_DarkBlue",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "HumanBeast_Swarowls",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HumanBeast_Swarowls",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "COLOR_0": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Matslot02",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Guard.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "HumanBeast_Swarowls_DarkBlue.bin",
+      "byteLength": 1350790
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 144852,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 144852,
+      "byteLength": 144852,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 289704,
+      "byteLength": 96568,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 386272,
+      "byteLength": 96568,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 482840,
+      "byteLength": 144852,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 627692,
+      "byteLength": 924,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 628616,
+      "byteLength": 144852,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 773468,
+      "byteLength": 144852,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 918320,
+      "byteLength": 96568,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1014888,
+      "byteLength": 96568,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1111456,
+      "byteLength": 144852,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1256308,
+      "byteLength": 94482,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 12071,
+      "type": "VEC3",
+      "min": [
+        -0.8561076521873474,
+        -0.0030264854431152344,
+        -2.121866464614868
+      ],
+      "max": [
+        0.856107771396637,
+        2.2474660873413086,
+        0.9269386529922485
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 12071,
+      "type": "VEC3",
+      "min": [
+        -0.9997490048408508,
+        -0.9999111294746399,
+        -0.9999166131019592
+      ],
+      "max": [
+        0.9997490048408508,
+        0.9996379613876343,
+        0.9999829530715942
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 12071,
+      "type": "VEC2",
+      "min": [
+        0.017146551981568336,
+        0.1550799012184143
+      ],
+      "max": [
+        0.7299900650978088,
+        0.9886266589164734
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 12071,
+      "type": "VEC2",
+      "min": [
+        0.050572313368320465,
+        0.25083816051483154
+      ],
+      "max": [
+        0.9810388088226318,
+        0.9528690576553345
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 9053.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 462,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        89
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 12071,
+      "type": "VEC3",
+      "min": [
+        -0.8561076521873474,
+        -0.0030264854431152344,
+        -2.121866464614868
+      ],
+      "max": [
+        0.856107771396637,
+        2.2474660873413086,
+        0.9269386529922485
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 12071,
+      "type": "VEC3",
+      "min": [
+        -0.9997490048408508,
+        -0.9999111294746399,
+        -0.9999166131019592
+      ],
+      "max": [
+        0.9997490048408508,
+        0.9996379613876343,
+        0.9999829530715942
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 12071,
+      "type": "VEC2",
+      "min": [
+        0.017146551981568336,
+        0.1550799012184143
+      ],
+      "max": [
+        0.7299900650978088,
+        0.9886266589164734
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 12071,
+      "type": "VEC2",
+      "min": [
+        0.050572313368320465,
+        0.25083816051483154
+      ],
+      "max": [
+        0.9810388088226318,
+        0.9528690576553345
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 9053.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 47241,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        12070
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "HumanBeast_Swarowls_DarkBlue.materials.json"
+  }
+}

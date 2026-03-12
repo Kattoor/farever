@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Faerie_BroodWatcher",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Faerie_HiveGuard",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Faerie_HiveGuard",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Faerie_BroodWatcher.bin",
+      "byteLength": 504684
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 102528,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 102528,
+      "byteLength": 102528,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 205056,
+      "byteLength": 68352,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 273408,
+      "byteLength": 68352,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 341760,
+      "byteLength": 102528,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 444288,
+      "byteLength": 60396,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 8544,
+      "type": "VEC3",
+      "min": [
+        -1.1099867820739746,
+        0.010258209891617298,
+        -1.0448963642120361
+      ],
+      "max": [
+        1.1099867820739746,
+        3.1972413063049316,
+        0.5505021810531616
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8544,
+      "type": "VEC3",
+      "min": [
+        -0.9997447729110718,
+        -0.9999816417694092,
+        -0.9999730587005615
+      ],
+      "max": [
+        0.9997447729110718,
+        0.9992192387580872,
+        0.9999998807907104
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 8544,
+      "type": "VEC2",
+      "min": [
+        0.013639207929372787,
+        0.07897704839706421
+      ],
+      "max": [
+        0.6936640739440918,
+        0.9776873588562012
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 8544,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.09633350372314453
+      ],
+      "max": [
+        0.9527268409729004,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 6408,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 30198,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        8543
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Faerie_BroodWatcher.materials.json"
+  }
+}

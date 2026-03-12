@@ -1,0 +1,167 @@
+{
+  "prefab": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\Equid\\Equid_NakedGoat_06.prefab",
+  "assetRoot": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out",
+  "modelSource": "Character/Mob/Equid/Sources/Equid_NakedGoat_01.fbx",
+  "modelResolvedSource": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\Equid\\Sources\\Equid_NakedGoat_01.fbx",
+  "hmdMaterials": [
+    {
+      "index": 0,
+      "name": "GradMat",
+      "diffuseTexture": null,
+      "diffuseResolved": null,
+      "specularTexture": null,
+      "specularResolved": null,
+      "normalMap": null,
+      "normalResolved": null,
+      "diffuseOut": null,
+      "specularOut": null,
+      "normalOut": null
+    },
+    {
+      "index": 1,
+      "name": "OutlineBrown",
+      "diffuseTexture": null,
+      "diffuseResolved": null,
+      "specularTexture": null,
+      "specularResolved": null,
+      "normalMap": null,
+      "normalResolved": null,
+      "diffuseOut": null,
+      "specularOut": null,
+      "normalOut": null
+    }
+  ],
+  "gradMat": {
+    "name": "Gradmat_Body_C",
+    "slots": [
+      "Panther_01",
+      "Wolf_02",
+      "Marble_01",
+      "Sprout_01b"
+    ],
+    "numSlots": 4,
+    "resolvedSlots": [
+      {
+        "id": "Panther_01",
+        "texture": "Character/Mob/_Gradient/Panther_01.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\_Gradient\\Panther_01.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Mob/_Gradient/Panther_01.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Mob/_Gradient/Panther_01.png"
+      },
+      {
+        "id": "Wolf_02",
+        "texture": "Character/Mob/_Gradient/Wolf_02.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\_Gradient\\Wolf_02.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Mob/_Gradient/Wolf_02.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Mob/_Gradient/Wolf_02.png"
+      },
+      {
+        "id": "Marble_01",
+        "texture": "Character/Common/Texture/Gradient/Marble_01.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\Gradient\\Marble_01.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Common/Texture/Gradient/Marble_01.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Common/Texture/Gradient/Marble_01.png"
+      },
+      {
+        "id": "Sprout_01b",
+        "texture": "Character/Mob/_Gradient/Sprout_01b.png",
+        "resolvedTexture": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Mob\\_Gradient\\Sprout_01b.png",
+        "source": "data.cdb",
+        "cdbRef": {
+          "file": "Character/Mob/_Gradient/Sprout_01b.png",
+          "size": 32,
+          "x": 0,
+          "y": 3
+        },
+        "bodyParts": 0,
+        "playerCustomization": false,
+        "out": "textures/Character/Mob/_Gradient/Sprout_01b.png"
+      }
+    ],
+    "linesTex": "Character/Common/Texture/UV_Lines.png",
+    "linesTexResolved": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\Character\\Common\\Texture\\UV_Lines.png",
+    "patternPath": null,
+    "patternResolved": null,
+    "patternAlphaPath": null,
+    "patternAlphaResolved": null,
+    "marks": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "marksResolved": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "outlineSize": 0,
+    "outlineIntensity": 1,
+    "linesBlend": 1,
+    "minLightPower": 0,
+    "shadowSmooth": 0.1,
+    "lightSmooth": 0.1,
+    "terminatorSize": 0.01,
+    "shadowBias": 0,
+    "specSize": 0.8,
+    "specInsideSize": 0.5,
+    "specInsideIntensity": 0,
+    "specSmooth": 0.05,
+    "specAlpha": 1,
+    "emissivePow": 0,
+    "rimLightAngle": 0,
+    "rimLightWidth": 1.18,
+    "rimLightSize": 0.07,
+    "rimLightSmooth": 0.05,
+    "rimLightMin": 0,
+    "rimLightSpecMultiplier": 0,
+    "rimLightColor": [
+      1,
+      1,
+      1
+    ],
+    "ambientColor": [
+      1,
+      1,
+      1
+    ],
+    "ambientIntensity": 0,
+    "useVertexColor": true,
+    "linesOut": "textures/Character/Common/Texture/UV_Lines.png",
+    "patternOut": null,
+    "patternAlphaOut": null,
+    "marksOut": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "cdb": "C:\\Users\\jaspe\\WebstormProjects\\farever\\out\\data.cdb",
+  "warnings": []
+}

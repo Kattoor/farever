@@ -1,0 +1,57 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { url } from "../lib/urls";
+const defaultExportRoot = url("model-library/");
+---
+<BaseLayout title="3D Models" wide={true}>
+  <section class="card viewer-page-card">
+    <div class="hero viewer-hero">
+      <div>
+        <h1>3D Model Viewer</h1>
+        <p class="muted">Browse extracted prefab renders from one embedded <code>.glb</code> per model.</p>
+      </div>
+      <div class="toolbar">
+        <span class="pill">Route: <code>/models/</code></span>
+        <span class="pill">Data folder: <code>public/model-library/</code></span>
+      </div>
+    </div>
+
+    <div id="app" class="viewer-app">
+      <aside id="sidebar" class="viewer-sidebar">
+        <div id="sidebar-header">
+          <div id="sidebar-title">Prefab Viewer</div>
+          <label>
+            <div class="field-label">Export root</div>
+            <div class="field-row">
+              <input id="export-root" type="text" value={defaultExportRoot} spellcheck="false" />
+              <button id="refresh-models" type="button">Reload</button>
+            </div>
+          </label>
+          <label>
+            <div class="field-label">Filter models</div>
+            <input id="model-search" type="text" placeholder="Search…" spellcheck="false" />
+          </label>
+          <div id="catalog-status">Loading…</div>
+        </div>
+        <div id="model-list"></div>
+      </aside>
+
+      <div id="viewport-wrap">
+        <div id="viewport"></div>
+        <div id="overlay">Loading…</div>
+      </div>
+    </div>
+  </section>
+
+  <script is:inline define:vars={{ defaultExportRoot }}>
+    window.FAREVER_MODEL_VIEWER_DEFAULT_ROOT = defaultExportRoot;
+  </script>
+  <script type="importmap" is:inline>
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.160.0/build/three.module.js"
+      }
+    }
+  </script>
+  <script type="module" src={url("model-viewer/viewer.js")}></script>
+</BaseLayout>

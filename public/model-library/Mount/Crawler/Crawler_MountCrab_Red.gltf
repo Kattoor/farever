@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Crawler_MountCrab_Red",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Crawler_Crab",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Crawler_Crab",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Crawler_MountCrab_Red.bin",
+      "byteLength": 703284
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 142776,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 142776,
+      "byteLength": 142776,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 285552,
+      "byteLength": 95184,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 380736,
+      "byteLength": 95184,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 475920,
+      "byteLength": 142776,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 618696,
+      "byteLength": 84588,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 11898,
+      "type": "VEC3",
+      "min": [
+        -0.015905480831861496,
+        -0.02250800095498562,
+        -0.000336012541083619
+      ],
+      "max": [
+        0.015946267172694206,
+        0.015871282666921616,
+        0.02565789222717285
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 11898,
+      "type": "VEC3",
+      "min": [
+        -0.9997400045394897,
+        -0.9997718334197998,
+        -0.999840259552002
+      ],
+      "max": [
+        0.9999614357948303,
+        0.9997851848602295,
+        0.9995847940444946
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 11898,
+      "type": "VEC2",
+      "min": [
+        0.030514001846313477,
+        0.11192834377288818
+      ],
+      "max": [
+        0.9546410441398621,
+        0.988598108291626
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 11898,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.0000705718994140625
+      ],
+      "max": [
+        0.9618827104568481,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 8923.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 42294,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        11897
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Crawler_MountCrab_Red.materials.json"
+  }
+}

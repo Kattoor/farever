@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hair_Short_Afro_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hair_Short_Afro_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hair_Short_Afro_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hair_Short_Afro_01.bin",
+      "byteLength": 78332
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 19392,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19392,
+      "byteLength": 19392,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 38784,
+      "byteLength": 12928,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 51712,
+      "byteLength": 12928,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 64640,
+      "byteLength": 13692,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1616,
+      "type": "VEC3",
+      "min": [
+        -0.1647990196943283,
+        1.934751272201538,
+        -0.15532439947128296
+      ],
+      "max": [
+        0.16715292632579803,
+        2.2671713829040527,
+        0.2791590392589569
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1616,
+      "type": "VEC3",
+      "min": [
+        -0.999981701374054,
+        -0.9994014501571655,
+        -0.9916256070137024
+      ],
+      "max": [
+        0.999981701374054,
+        0.999355137348175,
+        0.9874752163887024
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1616,
+      "type": "VEC2",
+      "min": [
+        0.1505803018808365,
+        0.5377421379089355
+      ],
+      "max": [
+        0.3015257716178894,
+        0.778510570526123
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1616,
+      "type": "VEC2",
+      "min": [
+        0.03151452913880348,
+        0.8710194230079651
+      ],
+      "max": [
+        0.7880702614784241,
+        0.9678890109062195
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 6846,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1615
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hair_Short_Afro_01.materials.json"
+  }
+}

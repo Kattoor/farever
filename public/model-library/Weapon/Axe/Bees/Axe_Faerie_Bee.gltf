@@ -1,0 +1,371 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Axe_Faerie_Bee",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "model_0",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Axe_Faerie_Bee",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    },
+    {
+      "name": "Axe_Faerie_Bee_001",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 1
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Axe_Faerie_Bee",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Axe_Faerie_Bee_001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Axe_Faerie_Bee.bin",
+      "byteLength": 78568
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 13332,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13332,
+      "byteLength": 13332,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 26664,
+      "byteLength": 8888,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 35552,
+      "byteLength": 8888,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 44440,
+      "byteLength": 6744,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 51184,
+      "byteLength": 7344,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 58528,
+      "byteLength": 7344,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 65872,
+      "byteLength": 4896,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 70768,
+      "byteLength": 4896,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 75664,
+      "byteLength": 2904,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1111,
+      "type": "VEC3",
+      "min": [
+        -0.20731133222579956,
+        -0.061553820967674255,
+        -0.3668432831764221
+      ],
+      "max": [
+        0.06294970959424973,
+        0.061553820967674255,
+        0.5769030451774597
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1111,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1111,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.3354063630104065
+      ],
+      "max": [
+        0.23165860772132874,
+        1
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1111,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.009618997573852539
+      ],
+      "max": [
+        0.8942438364028931,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 3372,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1110
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 612,
+      "type": "VEC3",
+      "min": [
+        -0.42055320739746094,
+        -0.011752607300877571,
+        0.23039425909519196
+      ],
+      "max": [
+        -0.028621835634112358,
+        0.011752607300877571,
+        0.7895123958587646
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 612,
+      "type": "VEC3",
+      "min": [
+        -0.22404634952545166,
+        -0.9999963641166687,
+        -1
+      ],
+      "max": [
+        0.9996401071548462,
+        0.9999964237213135,
+        1
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 612,
+      "type": "VEC2",
+      "min": [
+        0.16077643632888794,
+        0.04932665824890137
+      ],
+      "max": [
+        0.22655311226844788,
+        0.6573620438575745
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 612,
+      "type": "VEC2",
+      "min": [
+        0.3280392289161682,
+        0.006295204162597656
+      ],
+      "max": [
+        0.9687623977661133,
+        0.3776826858520508
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 1452,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        611
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Axe_Faerie_Bee.materials.json"
+  }
+}

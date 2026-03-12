@@ -1,0 +1,210 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "DA_Human_KoboldBone",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "DualAxes_Kobold",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "DualAxes_Kobold",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "DA_Human_KoboldBone.bin",
+      "byteLength": 42388
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 11316,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11316,
+      "byteLength": 11316,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22632,
+      "byteLength": 7544,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 30176,
+      "byteLength": 7544,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 37720,
+      "byteLength": 4668,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 943,
+      "type": "VEC3",
+      "min": [
+        -0.4742405116558075,
+        -0.09841812402009964,
+        -0.3320784568786621
+      ],
+      "max": [
+        0.2708466053009033,
+        0.09841812402009964,
+        0.6362711787223816
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 943,
+      "type": "VEC3",
+      "min": [
+        -0.9999213218688965,
+        -1,
+        -0.9786429405212402
+      ],
+      "max": [
+        0.9997526407241821,
+        1,
+        0.9986698627471924
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 943,
+      "type": "VEC2",
+      "min": [
+        0.030211150646209717,
+        0.01862335205078125
+      ],
+      "max": [
+        0.3746863603591919,
+        0.977581262588501
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 943,
+      "type": "VEC2",
+      "min": [
+        0.084917813539505,
+        0.13315725326538086
+      ],
+      "max": [
+        0.944454550743103,
+        0.935923159122467
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2334,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        942
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "DA_Human_KoboldBone.materials.json"
+  }
+}

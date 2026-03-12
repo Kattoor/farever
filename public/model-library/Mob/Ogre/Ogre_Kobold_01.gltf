@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Ogre_Kobold_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Ogre_Kobold_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Ogre_Kobold_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Ogre_Kobold_01.bin",
+      "byteLength": 856528
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 174468,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 174468,
+      "byteLength": 174468,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 348936,
+      "byteLength": 116312,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 465248,
+      "byteLength": 116312,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 581560,
+      "byteLength": 174468,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 756028,
+      "byteLength": 100500,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 14539,
+      "type": "VEC3",
+      "min": [
+        -2.7320189476013184,
+        -0.0023953390773385763,
+        -3.690493583679199
+      ],
+      "max": [
+        2.7320189476013184,
+        4.766666412353516,
+        1.2947328090667725
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 14539,
+      "type": "VEC3",
+      "min": [
+        -0.9998441338539124,
+        -0.9999321699142456,
+        -0.9995368123054504
+      ],
+      "max": [
+        0.9998441934585571,
+        0.9999991059303284,
+        0.9999935030937195
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 14539,
+      "type": "VEC2",
+      "min": [
+        0.015876613557338715,
+        0.13469535112380981
+      ],
+      "max": [
+        0.8590695858001709,
+        0.9852249622344971
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 14539,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.03906130790710449
+      ],
+      "max": [
+        0.9952222108840942,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 10904.25,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 50250,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        14538
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Ogre_Kobold_01.materials.json"
+  }
+}

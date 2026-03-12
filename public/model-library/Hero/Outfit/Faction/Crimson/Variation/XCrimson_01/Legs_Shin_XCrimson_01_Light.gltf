@@ -1,0 +1,213 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Legs_Shin_XCrimson_01_Light",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Legs_Shin_Z1RCrimsonA_Light_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Z1R4A_Light",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071067690849304,
+        0,
+        0,
+        0.7071067932881644
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Legs_Shin_Z1RCrimsonA_Light_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Legs_Shin_XCrimson_01_Light.bin",
+      "byteLength": 90252
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 24480,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24480,
+      "byteLength": 24480,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 48960,
+      "byteLength": 16320,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 65280,
+      "byteLength": 16320,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 81600,
+      "byteLength": 8652,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2040,
+      "type": "VEC3",
+      "min": [
+        -0.37109375,
+        0.08514404296875,
+        -0.09075927734375
+      ],
+      "max": [
+        0.37109375,
+        1.2763671875,
+        0.2281494140625
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2040,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2040,
+      "type": "VEC2",
+      "min": [
+        0.039886474609375,
+        0.214599609375
+      ],
+      "max": [
+        0.60009765625,
+        0.7646484375
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2040,
+      "type": "VEC2",
+      "min": [
+        0.0347900390625,
+        0.10821533203125
+      ],
+      "max": [
+        0.457275390625,
+        0.96630859375
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 4326,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2039
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Legs_Shin_XCrimson_01_Light.materials.json"
+  }
+}

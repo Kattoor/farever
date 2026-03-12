@@ -1,0 +1,373 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Canine_MountWolf_06",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Canine_MountWolf_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Canine_MountWolf_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "COLOR_0": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Guard.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "GradMat_Saddle",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Guard.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Canine_MountWolf_06.bin",
+      "byteLength": 1405768
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 151584,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 151584,
+      "byteLength": 151584,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 303168,
+      "byteLength": 101056,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 404224,
+      "byteLength": 101056,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 505280,
+      "byteLength": 151584,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 656864,
+      "byteLength": 52980,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 709844,
+      "byteLength": 151584,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 861428,
+      "byteLength": 151584,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1013012,
+      "byteLength": 101056,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1114068,
+      "byteLength": 101056,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1215124,
+      "byteLength": 151584,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1366708,
+      "byteLength": 39060,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 12632,
+      "type": "VEC3",
+      "min": [
+        -0.5507522821426392,
+        -0.013116959482431412,
+        -1.7431918382644653
+      ],
+      "max": [
+        0.5507522821426392,
+        1.9816681146621704,
+        1.4631270170211792
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 12632,
+      "type": "VEC3",
+      "min": [
+        -0.9999057054519653,
+        -0.9999997019767761,
+        -0.9999421834945679
+      ],
+      "max": [
+        0.9999048113822937,
+        0.9999417662620544,
+        0.9999846816062927
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 12632,
+      "type": "VEC2",
+      "min": [
+        0.006192226894199848,
+        0.15497398376464844
+      ],
+      "max": [
+        0.5624927878379822,
+        0.9877899885177612
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 12632,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.056771159172058105
+      ],
+      "max": [
+        0.9599013924598694,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 9474,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 26490,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        7275
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 12632,
+      "type": "VEC3",
+      "min": [
+        -0.5507522821426392,
+        -0.013116959482431412,
+        -1.7431918382644653
+      ],
+      "max": [
+        0.5507522821426392,
+        1.9816681146621704,
+        1.4631270170211792
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 12632,
+      "type": "VEC3",
+      "min": [
+        -0.9999057054519653,
+        -0.9999997019767761,
+        -0.9999421834945679
+      ],
+      "max": [
+        0.9999048113822937,
+        0.9999417662620544,
+        0.9999846816062927
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 12632,
+      "type": "VEC2",
+      "min": [
+        0.006192226894199848,
+        0.15497398376464844
+      ],
+      "max": [
+        0.5624927878379822,
+        0.9877899885177612
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 12632,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.056771159172058105
+      ],
+      "max": [
+        0.9599013924598694,
+        1
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 9474,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 19530,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        12631
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Canine_MountWolf_06.materials.json"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Legs_Naked",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Legs_Body_Hero_01_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Legs_Body_Hero_01_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Legs_Naked.bin",
+      "byteLength": 41860
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 10596,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10596,
+      "byteLength": 10596,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21192,
+      "byteLength": 7064,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28256,
+      "byteLength": 7064,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 35320,
+      "byteLength": 6540,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 883,
+      "type": "VEC3",
+      "min": [
+        -0.3711501955986023,
+        0.0851835310459137,
+        -0.09081146866083145
+      ],
+      "max": [
+        0.3711501955986023,
+        1.277111291885376,
+        0.22309371829032898
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 883,
+      "type": "VEC3",
+      "min": [
+        -0.9998795390129089,
+        -0.9995324611663818,
+        -0.9971946477890015
+      ],
+      "max": [
+        0.9998795390129089,
+        0.6789119839668274,
+        0.9999975562095642
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 883,
+      "type": "VEC2",
+      "min": [
+        0.03508778288960457,
+        0.1925176978111267
+      ],
+      "max": [
+        0.23042181134223938,
+        0.6866888999938965
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 883,
+      "type": "VEC2",
+      "min": [
+        0.0506339929997921,
+        0.1219295859336853
+      ],
+      "max": [
+        0.3999064266681671,
+        0.9664919376373291
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 3270,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        882
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Legs_Naked.materials.json"
+  }
+}

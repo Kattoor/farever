@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hands_Forearm_RSwarowls_Light",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hands_Z3RSwarowls_Light_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hands_Z3RSwarowls_Light_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hands_Forearm_RSwarowls_Light.bin",
+      "byteLength": 207696
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 42480,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 42480,
+      "byteLength": 42480,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 84960,
+      "byteLength": 28320,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 113280,
+      "byteLength": 28320,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 141600,
+      "byteLength": 42480,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 184080,
+      "byteLength": 23616,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3540,
+      "type": "VEC3",
+      "min": [
+        -0.8142003417015076,
+        0.9526458978652954,
+        -0.032173141837120056
+      ],
+      "max": [
+        0.8142004609107971,
+        1.5709011554718018,
+        0.358234703540802
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3540,
+      "type": "VEC3",
+      "min": [
+        -0.9994450807571411,
+        -0.994232177734375,
+        -0.9994354248046875
+      ],
+      "max": [
+        0.9994450807571411,
+        0.9975388646125793,
+        0.9995734095573425
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3540,
+      "type": "VEC2",
+      "min": [
+        0.14927741885185242,
+        0.10687845945358276
+      ],
+      "max": [
+        0.825842559337616,
+        0.9350544214248657
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3540,
+      "type": "VEC2",
+      "min": [
+        0.05860568583011627,
+        0.17756187915802002
+      ],
+      "max": [
+        0.9441824555397034,
+        0.9665078520774841
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2655,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 11808,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3539
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hands_Forearm_RSwarowls_Light.materials.json"
+  }
+}

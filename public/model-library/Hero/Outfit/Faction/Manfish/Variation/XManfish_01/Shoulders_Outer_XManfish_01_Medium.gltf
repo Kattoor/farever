@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Shoulders_Outer_XManfish_01_Medium",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Shoulders_Z1R1_Manfish_Medium_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Shoulders_Z1R1_Manfish_Medium_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Shoulders_Outer_XManfish_01_Medium.bin",
+      "byteLength": 221236
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 57360,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 57360,
+      "byteLength": 57360,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 114720,
+      "byteLength": 38240,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 152960,
+      "byteLength": 38240,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 191200,
+      "byteLength": 30036,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4780,
+      "type": "VEC3",
+      "min": [
+        -0.60205078125,
+        1.529296875,
+        -0.28271484375
+      ],
+      "max": [
+        0.60205078125,
+        1.96484375,
+        0.2479248046875
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4780,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4780,
+      "type": "VEC2",
+      "min": [
+        0.1551513671875,
+        0.1376953125
+      ],
+      "max": [
+        0.60546875,
+        0.90966796875
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4780,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.271484375
+      ],
+      "max": [
+        0.9423828125,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 15018,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4779
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Shoulders_Outer_XManfish_01_Medium.materials.json"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Back_Medium_WCrimson_Light",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Back_R1CrimsonC_Cle_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Back_R1CrimsonC_Cle_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Back_Medium_WCrimson_Light.bin",
+      "byteLength": 73632
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 19944,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19944,
+      "byteLength": 19944,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 39888,
+      "byteLength": 13296,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 53184,
+      "byteLength": 13296,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 66480,
+      "byteLength": 7152,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1662,
+      "type": "VEC3",
+      "min": [
+        -0.338623046875,
+        0.85107421875,
+        -0.232421875
+      ],
+      "max": [
+        0.338623046875,
+        1.8037109375,
+        0.18408203125
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1662,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.42745098039215684,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        0.4823529411764706
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1662,
+      "type": "VEC2",
+      "min": [
+        0.17529296875,
+        0.197021484375
+      ],
+      "max": [
+        0.47802734375,
+        0.88037109375
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1662,
+      "type": "VEC2",
+      "min": [
+        0.05291748046875,
+        0.09796142578125
+      ],
+      "max": [
+        0.9560546875,
+        0.9677734375
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 3576,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1661
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Back_Medium_WCrimson_Light.materials.json"
+  }
+}

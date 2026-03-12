@@ -1,0 +1,213 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Weapon_1H_Relic",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "WEAPONS",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Weapon_1H_Relic",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Weapon_1H_Relic",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Weapon_1H_Relic.bin",
+      "byteLength": 42748
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 11172,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11172,
+      "byteLength": 11172,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22344,
+      "byteLength": 7448,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 29792,
+      "byteLength": 7448,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 37240,
+      "byteLength": 5508,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 931,
+      "type": "VEC3",
+      "min": [
+        -0.16374342143535614,
+        -0.8785461187362671,
+        -0.19085973501205444
+      ],
+      "max": [
+        0.16374342143535614,
+        0.031125159934163094,
+        0.1908598393201828
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 931,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 931,
+      "type": "VEC2",
+      "min": [
+        0.054632753133773804,
+        0.16193616390228271
+      ],
+      "max": [
+        0.4573952853679657,
+        0.7943207621574402
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 931,
+      "type": "VEC2",
+      "min": [
+        0.08688005805015564,
+        0.9411946535110474
+      ],
+      "max": [
+        0.08688005805015564,
+        0.9411946535110474
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2754,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        930
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Weapon_1H_Relic.materials.json"
+  }
+}

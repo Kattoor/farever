@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Prefab_GolemStone_Elite",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Golem_EliteStone",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Golem_EliteStone",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Prefab_GolemStone_Elite.bin",
+      "byteLength": 174568
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 47568,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47568,
+      "byteLength": 47568,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 95136,
+      "byteLength": 31712,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 126848,
+      "byteLength": 31712,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 158560,
+      "byteLength": 16008,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3964,
+      "type": "VEC3",
+      "min": [
+        -1.998934268951416,
+        0.00007064476812956855,
+        -1.1021008491516113
+      ],
+      "max": [
+        1.9995431900024414,
+        3.0642929077148438,
+        1.142920970916748
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3964,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        0.9999193549156189
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3964,
+      "type": "VEC2",
+      "min": [
+        0.01626211404800415,
+        0.2332560420036316
+      ],
+      "max": [
+        0.334414005279541,
+        0.9970435500144958
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3964,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.009386658668518066
+      ],
+      "max": [
+        0.9713255167007446,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 8004,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3963
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Prefab_GolemStone_Elite.materials.json"
+  }
+}

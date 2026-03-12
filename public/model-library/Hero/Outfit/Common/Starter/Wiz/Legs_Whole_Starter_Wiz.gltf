@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Legs_Whole_Starter_Wiz",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Legs_Starter_Wiz_01_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Legs_Starter_Wiz_01_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Legs_Whole_Starter_Wiz.bin",
+      "byteLength": 65800
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 17328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17328,
+      "byteLength": 17328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 34656,
+      "byteLength": 11552,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 46208,
+      "byteLength": 11552,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 57760,
+      "byteLength": 8040,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1444,
+      "type": "VEC3",
+      "min": [
+        -0.37264132499694824,
+        0.0851835310459137,
+        -0.0882662758231163
+      ],
+      "max": [
+        0.37264132499694824,
+        1.277111291885376,
+        0.22975465655326843
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1444,
+      "type": "VEC3",
+      "min": [
+        -0.9999538064002991,
+        -0.999940812587738,
+        -0.997497022151947
+      ],
+      "max": [
+        0.9999538064002991,
+        0.9030191898345947,
+        0.9999351501464844
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1444,
+      "type": "VEC2",
+      "min": [
+        0.05375087633728981,
+        0.3306111693382263
+      ],
+      "max": [
+        0.3361853361129761,
+        0.7945877313613892
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1444,
+      "type": "VEC2",
+      "min": [
+        0.03480283170938492,
+        0.11472219228744507
+      ],
+      "max": [
+        0.436792254447937,
+        0.9697454571723938
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 4020,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1443
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Legs_Whole_Starter_Wiz.materials.json"
+  }
+}

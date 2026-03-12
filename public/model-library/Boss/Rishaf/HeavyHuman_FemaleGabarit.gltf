@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "HeavyHuman_FemaleGabarit",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "HeavyHuman_F",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HeavyHuman_F",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Heavy",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "HeavyHuman_FemaleGabarit.bin",
+      "byteLength": 419512
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 104952,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 104952,
+      "byteLength": 104952,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 209904,
+      "byteLength": 69968,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 279872,
+      "byteLength": 69968,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 349840,
+      "byteLength": 69672,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 8746,
+      "type": "VEC3",
+      "min": [
+        -2.0480077266693115,
+        -0.8140038847923279,
+        0.01884756237268448
+      ],
+      "max": [
+        2.0480077266693115,
+        0.3047593832015991,
+        5.151666164398193
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8746,
+      "type": "VEC3",
+      "min": [
+        -0.9998977184295654,
+        -0.9999491572380066,
+        -0.9999540448188782
+      ],
+      "max": [
+        0.9998989105224609,
+        0.9999765753746033,
+        0.9999434947967529
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 8746,
+      "type": "VEC2",
+      "min": [
+        0.006320002023130655,
+        0.09525460004806519
+      ],
+      "max": [
+        0.48086631298065186,
+        0.9820863008499146
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 8746,
+      "type": "VEC2",
+      "min": [
+        0.029076194390654564,
+        0.02668595314025879
+      ],
+      "max": [
+        0.9892439842224121,
+        1.00118887424469
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 34836,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        8745
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "HeavyHuman_FemaleGabarit.materials.json"
+  }
+}

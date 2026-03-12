@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Canine_Wolf_Brown",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Canine_WolfLands",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Canine_WolfLands",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Guard.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Canine_Wolf_Brown.bin",
+      "byteLength": 350252
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 88944,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 88944,
+      "byteLength": 88944,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 177888,
+      "byteLength": 59296,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 237184,
+      "byteLength": 59296,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 296480,
+      "byteLength": 53772,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 7412,
+      "type": "VEC3",
+      "min": [
+        -0.5502055287361145,
+        -0.013112170621752739,
+        -1.7431455850601196
+      ],
+      "max": [
+        0.5452934503555298,
+        1.9817607402801514,
+        1.4630814790725708
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7412,
+      "type": "VEC3",
+      "min": [
+        -0.9999057650566101,
+        -0.9999861717224121,
+        -0.9999400973320007
+      ],
+      "max": [
+        0.9999048113822937,
+        0.9999410510063171,
+        0.9985277652740479
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7412,
+      "type": "VEC2",
+      "min": [
+        0.021995188668370247,
+        0.15497398376464844
+      ],
+      "max": [
+        0.5624925494194031,
+        0.9877899885177612
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7412,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.0926855206489563
+      ],
+      "max": [
+        0.9433631896972656,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 26886,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        7411
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Canine_Wolf_Brown.materials.json"
+  }
+}

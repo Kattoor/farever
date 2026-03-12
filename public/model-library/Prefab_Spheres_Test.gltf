@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Prefab_Spheres_Test",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Spheres_Test",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Spheres_Test",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Prefab_Spheres_Test.bin",
+      "byteLength": 261760
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 64704,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 64704,
+      "byteLength": 64704,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 129408,
+      "byteLength": 43136,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 172544,
+      "byteLength": 43136,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 215680,
+      "byteLength": 46080,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 5392,
+      "type": "VEC3",
+      "min": [
+        -1.63804030418396,
+        -0.8762572407722473,
+        0.05197986960411072
+      ],
+      "max": [
+        1.6380841732025146,
+        0.8762728571891785,
+        0.8414081335067749
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5392,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5392,
+      "type": "VEC2",
+      "min": [
+        0.06250002980232239,
+        0
+      ],
+      "max": [
+        0.935546875,
+        1
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 5392,
+      "type": "VEC2",
+      "min": [
+        0.03648144006729126,
+        0.12021660804748535
+      ],
+      "max": [
+        0.966144323348999,
+        0.9653890132904053
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 23040,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        5391
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Prefab_Spheres_Test.materials.json"
+  }
+}

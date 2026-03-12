@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Eyebrows_08_A",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Eyebrows_08_A",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Eyebrows_08_A",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Eyebrows_08_A.bin",
+      "byteLength": 4736
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1104,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1104,
+      "byteLength": 1104,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2208,
+      "byteLength": 736,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2944,
+      "byteLength": 736,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3680,
+      "byteLength": 1056,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 92,
+      "type": "VEC3",
+      "min": [
+        -0.10015038400888443,
+        2.0111629962921143,
+        0.18618473410606384
+      ],
+      "max": [
+        0.10015038400888443,
+        2.0422422885894775,
+        0.23450733721256256
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 92,
+      "type": "VEC3",
+      "min": [
+        -0.9543073177337646,
+        -0.976057231426239,
+        -0.884270966053009
+      ],
+      "max": [
+        0.9543066024780273,
+        0.9367375373840332,
+        0.9858599901199341
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 92,
+      "type": "VEC2",
+      "min": [
+        0.17766958475112915,
+        0.794266402721405
+      ],
+      "max": [
+        0.22628475725650787,
+        0.8140079975128174
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 92,
+      "type": "VEC2",
+      "min": [
+        0.031514570116996765,
+        0.9678888916969299
+      ],
+      "max": [
+        0.031514622271060944,
+        0.9678889513015747
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 528,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        91
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Eyebrows_08_A.materials.json"
+  }
+}

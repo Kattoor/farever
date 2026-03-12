@@ -1,0 +1,323 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Prefab_GolemIce02",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Golem_Ice",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Golem_Ice",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Golem_Eyes",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Mob/Golem/Stone01/Golem_Eyes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Golem_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Prefab_GolemIce02.bin",
+      "byteLength": 209432
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 29784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 29784,
+      "byteLength": 29784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 59568,
+      "byteLength": 19856,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 79424,
+      "byteLength": 19856,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 99280,
+      "byteLength": 3840,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 103120,
+      "byteLength": 29784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 132904,
+      "byteLength": 29784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 162688,
+      "byteLength": 19856,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 182544,
+      "byteLength": 19856,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 202400,
+      "byteLength": 7032,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2482,
+      "type": "VEC3",
+      "min": [
+        -1.6785063743591309,
+        -0.006353109609335661,
+        -1.262180209159851
+      ],
+      "max": [
+        1.7175532579421997,
+        3.4706051349639893,
+        1.222182035446167
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2482,
+      "type": "VEC3",
+      "min": [
+        -0.9991996884346008,
+        -0.9922640323638916,
+        -0.9999436140060425
+      ],
+      "max": [
+        0.9906008839607239,
+        0.9985201954841614,
+        0.9996647834777832
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2482,
+      "type": "VEC2",
+      "min": [
+        0.0026675278786569834,
+        0.0014528632164001465
+      ],
+      "max": [
+        1.0059374570846558,
+        0.9908534288406372
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2482,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.061044394969940186
+      ],
+      "max": [
+        0.9907720685005188,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1920,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        479
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 2482,
+      "type": "VEC3",
+      "min": [
+        -1.6785063743591309,
+        -0.006353109609335661,
+        -1.262180209159851
+      ],
+      "max": [
+        1.7175532579421997,
+        3.4706051349639893,
+        1.222182035446167
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 2482,
+      "type": "VEC3",
+      "min": [
+        -0.9991996884346008,
+        -0.9922640323638916,
+        -0.9999436140060425
+      ],
+      "max": [
+        0.9906008839607239,
+        0.9985201954841614,
+        0.9996647834777832
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 2482,
+      "type": "VEC2",
+      "min": [
+        0.0026675278786569834,
+        0.0014528632164001465
+      ],
+      "max": [
+        1.0059374570846558,
+        0.9908534288406372
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 2482,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.061044394969940186
+      ],
+      "max": [
+        0.9907720685005188,
+        1
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 3516,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2481
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Prefab_GolemIce02.materials.json"
+  }
+}

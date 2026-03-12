@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Weapon_1H_Chakram",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Weapon_1H_Chakram_R",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Weapon_1H_Chakram_R",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Weapon_1H_Chakram.bin",
+      "byteLength": 33136
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 8760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8760,
+      "byteLength": 8760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17520,
+      "byteLength": 5840,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23360,
+      "byteLength": 5840,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 29200,
+      "byteLength": 3936,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 730,
+      "type": "VEC3",
+      "min": [
+        -0.06559585779905319,
+        -0.4308048486709595,
+        -0.40967950224876404
+      ],
+      "max": [
+        0.06559585779905319,
+        0.4212452173233032,
+        0.41586771607398987
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 730,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -0.9999026656150818,
+        -0.9999998807907104
+      ],
+      "max": [
+        1,
+        0.9998714923858643,
+        0.9999998807907104
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 730,
+      "type": "VEC2",
+      "min": [
+        0.04957680404186249,
+        0.260455846786499
+      ],
+      "max": [
+        0.45535948872566223,
+        0.637238085269928
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 730,
+      "type": "VEC2",
+      "min": [
+        0.06652325391769409,
+        0.11308997869491577
+      ],
+      "max": [
+        0.9411252737045288,
+        0.9413180351257324
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1968,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        729
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Weapon_1H_Chakram.materials.json"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hair_Short_Emo_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hair_Short_Emo_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hair_Short_Emo_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hair_Short_Emo_01.bin",
+      "byteLength": 24150
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 6300,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6300,
+      "byteLength": 6300,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12600,
+      "byteLength": 4200,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16800,
+      "byteLength": 4200,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21000,
+      "byteLength": 3150,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 525,
+      "type": "VEC3",
+      "min": [
+        -0.18479891121387482,
+        1.9833945035934448,
+        -0.07169120758771896
+      ],
+      "max": [
+        0.10619879513978958,
+        2.2439634799957275,
+        0.2832047641277313
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 525,
+      "type": "VEC3",
+      "min": [
+        -0.9955422878265381,
+        -0.997028112411499,
+        -0.9817596673965454
+      ],
+      "max": [
+        0.9845370650291443,
+        0.9994263648986816,
+        0.9931624531745911
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 525,
+      "type": "VEC2",
+      "min": [
+        0.13592742383480072,
+        0.11475473642349243
+      ],
+      "max": [
+        0.3546718955039978,
+        0.7105175256729126
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 525,
+      "type": "VEC2",
+      "min": [
+        0.036970049142837524,
+        0.0073920488357543945
+      ],
+      "max": [
+        0.5738160014152527,
+        0.9500444531440735
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1575,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        524
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hair_Short_Emo_01.materials.json"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sparkling_Beryl_Pink",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "SparklingBeryl01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "SparklingBeryl01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Sparkling_Beryl_Pink.bin",
+      "byteLength": 63000
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 17388,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17388,
+      "byteLength": 17388,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 34776,
+      "byteLength": 11592,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 46368,
+      "byteLength": 11592,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 57960,
+      "byteLength": 5040,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1449,
+      "type": "VEC3",
+      "min": [
+        -0.9280441403388977,
+        -0.6968334913253784,
+        -0.954058051109314
+      ],
+      "max": [
+        0.923380970954895,
+        1.0096182823181152,
+        0.547188401222229
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1449,
+      "type": "VEC3",
+      "min": [
+        -0.9921999573707581,
+        -0.9946053624153137,
+        -0.999995768070221
+      ],
+      "max": [
+        0.9922020435333252,
+        0.9964659810066223,
+        0.9999988675117493
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1449,
+      "type": "VEC2",
+      "min": [
+        0.023102689534425735,
+        -0.03433501720428467
+      ],
+      "max": [
+        0.22104425728321075,
+        0.9944461584091187
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1449,
+      "type": "VEC2",
+      "min": [
+        0.026318788528442383,
+        0.02108466625213623
+      ],
+      "max": [
+        0.9756945371627808,
+        0.984187126159668
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2520,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1448
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Sparkling_Beryl_Pink.materials.json"
+  }
+}

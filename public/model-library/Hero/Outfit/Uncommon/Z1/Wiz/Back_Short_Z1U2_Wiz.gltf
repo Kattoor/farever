@@ -1,0 +1,213 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Back_Short_Z1U2_Wiz",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Back_Z1U_Heavy_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "R1Craft_Fig_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071067690849304,
+        0,
+        0,
+        0.7071067932881644
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Back_Z1U_Heavy_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Back_Short_Z1U2_Wiz.bin",
+      "byteLength": 65744
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 17304,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17304,
+      "byteLength": 17304,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 34608,
+      "byteLength": 11536,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 46144,
+      "byteLength": 11536,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 57680,
+      "byteLength": 8064,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1442,
+      "type": "VEC3",
+      "min": [
+        -0.214111328125,
+        1.404296875,
+        -0.1485595703125
+      ],
+      "max": [
+        0.217041015625,
+        1.876953125,
+        0.2430419921875
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1442,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1442,
+      "type": "VEC2",
+      "min": [
+        0.5625,
+        0.12176513671875
+      ],
+      "max": [
+        0.81396484375,
+        0.88134765625
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1442,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.1123046875
+      ],
+      "max": [
+        0.84228515625,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 4032,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1441
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Back_Short_Z1U2_Wiz.materials.json"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Crawler_Elite_Red",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Shore_Elite",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Shore_Elite",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Crawler_Elite_Red.bin",
+      "byteLength": 226982
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 58200,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 58200,
+      "byteLength": 58200,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 116400,
+      "byteLength": 38800,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 155200,
+      "byteLength": 38800,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 194000,
+      "byteLength": 32982,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4850,
+      "type": "VEC3",
+      "min": [
+        -1.1050848960876465,
+        0.0015007713809609413,
+        -1.1802434921264648
+      ],
+      "max": [
+        1.105085015296936,
+        2.077432632446289,
+        1.5302571058273315
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4850,
+      "type": "VEC3",
+      "min": [
+        -0.9993784427642822,
+        -0.9999425411224365,
+        -0.9996876120567322
+      ],
+      "max": [
+        0.9993784427642822,
+        0.9994695782661438,
+        0.9992669224739075
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4850,
+      "type": "VEC2",
+      "min": [
+        0.021935638040304184,
+        0.028329968452453613
+      ],
+      "max": [
+        0.3502766191959381,
+        0.9553900957107544
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4850,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.08757615089416504
+      ],
+      "max": [
+        0.9947504997253418,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 16491,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4849
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Crawler_Elite_Red.materials.json"
+  }
+}

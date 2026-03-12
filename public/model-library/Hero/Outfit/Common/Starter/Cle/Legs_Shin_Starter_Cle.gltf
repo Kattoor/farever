@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Legs_Shin_Starter_Cle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Legs_Starter_Cle_01_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Legs_Starter_Cle_01_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Legs_Shin_Starter_Cle.bin",
+      "byteLength": 79616
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 21120,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21120,
+      "byteLength": 21120,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 42240,
+      "byteLength": 14080,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 56320,
+      "byteLength": 14080,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 70400,
+      "byteLength": 9216,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1760,
+      "type": "VEC3",
+      "min": [
+        -0.3710843324661255,
+        0.0851835310459137,
+        -0.09081146866083145
+      ],
+      "max": [
+        0.3710843324661255,
+        1.277111291885376,
+        0.22467271983623505
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1760,
+      "type": "VEC3",
+      "min": [
+        -0.9998695850372314,
+        -0.9987500309944153,
+        -0.9989342093467712
+      ],
+      "max": [
+        0.9998696446418762,
+        0.9115886092185974,
+        0.9999853372573853
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1760,
+      "type": "VEC2",
+      "min": [
+        0.05307883769273758,
+        0.32679086923599243
+      ],
+      "max": [
+        0.47825461626052856,
+        0.6606835722923279
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1760,
+      "type": "VEC2",
+      "min": [
+        0.023464461788535118,
+        0.10849255323410034
+      ],
+      "max": [
+        0.48892682790756226,
+        0.969745397567749
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 4608,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1759
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Legs_Shin_Starter_Cle.materials.json"
+  }
+}

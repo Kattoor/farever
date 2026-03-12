@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Chest_LongSleeves_XCrimson_01_Light",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Chest_LongSleeves_Z1RCrimsonA_Light_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Chest_LongSleeves_Z1RCrimsonA_Light_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_RobinHoof.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Chest_LongSleeves_XCrimson_01_Light.bin",
+      "byteLength": 577036
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 123276,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 123276,
+      "byteLength": 123276,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 246552,
+      "byteLength": 82184,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 328736,
+      "byteLength": 82184,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 410920,
+      "byteLength": 123276,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 534196,
+      "byteLength": 42840,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 10273,
+      "type": "VEC3",
+      "min": [
+        -0.66943359375,
+        0.08514404296875,
+        -0.32666015625
+      ],
+      "max": [
+        0.66943359375,
+        1.9326171875,
+        0.413330078125
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 10273,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 10273,
+      "type": "VEC2",
+      "min": [
+        0.03839111328125,
+        0.1824951171875
+      ],
+      "max": [
+        0.7373046875,
+        0.94287109375
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 10273,
+      "type": "VEC2",
+      "min": [
+        0.0223388671875,
+        0.10821533203125
+      ],
+      "max": [
+        0.94189453125,
+        0.97412109375
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 7704.75,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 21420,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        10272
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Chest_LongSleeves_XCrimson_01_Light.materials.json"
+  }
+}

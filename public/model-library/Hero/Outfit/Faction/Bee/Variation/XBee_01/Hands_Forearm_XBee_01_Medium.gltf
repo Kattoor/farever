@@ -1,0 +1,213 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hands_Forearm_XBee_01_Medium",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hands_Forearm_Z1RBeeA_Medium_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Z1RBeeA_Medium",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071067690849304,
+        0,
+        0,
+        0.7071067932881644
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hands_Forearm_Z1RBeeA_Medium_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hands_Forearm_XBee_01_Medium.bin",
+      "byteLength": 256732
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 67836,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 67836,
+      "byteLength": 67836,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 135672,
+      "byteLength": 45224,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 180896,
+      "byteLength": 45224,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 226120,
+      "byteLength": 30612,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 5653,
+      "type": "VEC3",
+      "min": [
+        -0.81201171875,
+        0.9814453125,
+        -0.051300048828125
+      ],
+      "max": [
+        0.81201171875,
+        1.50390625,
+        0.337646484375
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5653,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5653,
+      "type": "VEC2",
+      "min": [
+        0.01873779296875,
+        0.172119140625
+      ],
+      "max": [
+        0.62109375,
+        1.0322265625
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 5653,
+      "type": "VEC2",
+      "min": [
+        0.0290679931640625,
+        0.11102294921875
+      ],
+      "max": [
+        0.94970703125,
+        1.0009765625
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 15306,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        5652
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hands_Forearm_XBee_01_Medium.materials.json"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Fist_Human_ManfishCrabshell",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Fist_Manfish",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Fist_Manfish",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_005",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Fist_Human_ManfishCrabshell.bin",
+      "byteLength": 161092
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 32952,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32952,
+      "byteLength": 32952,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 65904,
+      "byteLength": 21968,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 87872,
+      "byteLength": 21968,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 109840,
+      "byteLength": 32952,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 142792,
+      "byteLength": 18300,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2746,
+      "type": "VEC3",
+      "min": [
+        -0.28132209181785583,
+        -0.22340208292007446,
+        -0.4749624729156494
+      ],
+      "max": [
+        0.2709019184112549,
+        0.22948846220970154,
+        0.3273974061012268
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2746,
+      "type": "VEC3",
+      "min": [
+        -0.9998680949211121,
+        -0.9987027645111084,
+        -0.9992705583572388
+      ],
+      "max": [
+        0.9997885227203369,
+        0.9988282322883606,
+        0.9998669624328613
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2746,
+      "type": "VEC2",
+      "min": [
+        0.013517783023416996,
+        0.14427220821380615
+      ],
+      "max": [
+        0.49055641889572144,
+        0.9607186913490295
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2746,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.25394994020462036
+      ],
+      "max": [
+        0.8632695078849792,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2059.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 9150,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2745
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Fist_Human_ManfishCrabshell.materials.json"
+  }
+}

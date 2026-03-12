@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Waist_Medium_Z3U2_AssCle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Waist_R1S1_AssWiz_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Waist_R1S1_AssWiz_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Waist_Medium_Z3U2_AssCle.bin",
+      "byteLength": 54412
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 14772,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14772,
+      "byteLength": 14772,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 29544,
+      "byteLength": 9848,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 39392,
+      "byteLength": 9848,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 49240,
+      "byteLength": 5172,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1231,
+      "type": "VEC3",
+      "min": [
+        -0.2236328125,
+        1.1513671875,
+        -0.080810546875
+      ],
+      "max": [
+        0.2236328125,
+        1.302734375,
+        0.271728515625
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1231,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        0.4980392156862745,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1231,
+      "type": "VEC2",
+      "min": [
+        0.1612548828125,
+        0.170166015625
+      ],
+      "max": [
+        0.5673828125,
+        0.90087890625
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1231,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.311767578125
+      ],
+      "max": [
+        0.94140625,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2586,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1230
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Waist_Medium_Z3U2_AssCle.materials.json"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Waist_Thick_Z3U1_FigCle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Waist_R1S1_FigAss_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Waist_R1S1_FigAss_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Waist_Thick_Z3U1_FigCle.bin",
+      "byteLength": 65232
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 17748,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17748,
+      "byteLength": 17748,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 35496,
+      "byteLength": 11832,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47328,
+      "byteLength": 11832,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 59160,
+      "byteLength": 6072,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1479,
+      "type": "VEC3",
+      "min": [
+        -0.249755859375,
+        1.150390625,
+        -0.09320068359375
+      ],
+      "max": [
+        0.246826171875,
+        1.3388671875,
+        0.270263671875
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1479,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1479,
+      "type": "VEC2",
+      "min": [
+        0.1575927734375,
+        0.368896484375
+      ],
+      "max": [
+        0.59375,
+        0.9267578125
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1479,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.1126708984375
+      ],
+      "max": [
+        0.341796875,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 3036,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1478
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Waist_Thick_Z3U1_FigCle.materials.json"
+  }
+}

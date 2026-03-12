@@ -1,0 +1,210 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "GreatMace_Faerie_HoneySpoon",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Circle_002",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Circle_002",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "GreatMace_Faerie_HoneySpoon.bin",
+      "byteLength": 146356
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 38172,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 38172,
+      "byteLength": 38172,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 76344,
+      "byteLength": 25448,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 101792,
+      "byteLength": 25448,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 127240,
+      "byteLength": 19116,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3181,
+      "type": "VEC3",
+      "min": [
+        -0.24070914089679718,
+        -0.24070915579795837,
+        -0.8383225202560425
+      ],
+      "max": [
+        0.24070917069911957,
+        0.24070915579795837,
+        1.8298428058624268
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3181,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3181,
+      "type": "VEC2",
+      "min": [
+        0.015667084604501724,
+        0.3328803777694702
+      ],
+      "max": [
+        0.46515804529190063,
+        0.937369704246521
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3181,
+      "type": "VEC2",
+      "min": [
+        0.038300588726997375,
+        0.08885699510574341
+      ],
+      "max": [
+        0.9486054182052612,
+        0.9492268562316895
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 9558,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3180
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "GreatMace_Faerie_HoneySpoon.materials.json"
+  }
+}

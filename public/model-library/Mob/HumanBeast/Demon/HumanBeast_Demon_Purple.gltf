@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "HumanBeast_Demon_Purple",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "HumanBeast_Demon_02",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HumanBeast_Demon_02",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "HumanBeast_Demon_Purple.bin",
+      "byteLength": 272320
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 70176,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 70176,
+      "byteLength": 70176,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 140352,
+      "byteLength": 46784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 187136,
+      "byteLength": 46784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 233920,
+      "byteLength": 38400,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 5848,
+      "type": "VEC3",
+      "min": [
+        -0.870602548122406,
+        -0.003918500617146492,
+        -2.972641706466675
+      ],
+      "max": [
+        0.870602548122406,
+        2.455939292907715,
+        0.5237371325492859
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5848,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -0.9999988079071045,
+        -0.9998452067375183
+      ],
+      "max": [
+        1,
+        0.9992491602897644,
+        0.9998939633369446
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5848,
+      "type": "VEC2",
+      "min": [
+        0.0071542346850037575,
+        0.037201762199401855
+      ],
+      "max": [
+        0.20919662714004517,
+        0.9940038323402405
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 5848,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.09164315462112427
+      ],
+      "max": [
+        0.9498879909515381,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 19200,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        5847
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "HumanBeast_Demon_Purple.materials.json"
+  }
+}

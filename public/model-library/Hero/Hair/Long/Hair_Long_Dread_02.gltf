@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hair_Long_Dread_02",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hair_Long_Dread_02",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hair_Long_Dread_02",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hair_Long_Dread_02.bin",
+      "byteLength": 154014
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 37152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 37152,
+      "byteLength": 37152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 74304,
+      "byteLength": 24768,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 99072,
+      "byteLength": 24768,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 123840,
+      "byteLength": 30174,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3096,
+      "type": "VEC3",
+      "min": [
+        -0.0023885921109467745,
+        -0.0023344694636762142,
+        0.016136251389980316
+      ],
+      "max": [
+        0.0026984962169080973,
+        0.0036666756495833397,
+        0.02258947677910328
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3096,
+      "type": "VEC3",
+      "min": [
+        -0.9992737174034119,
+        -0.9999930262565613,
+        -0.9993227124214172
+      ],
+      "max": [
+        0.9998089075088501,
+        0.9995367527008057,
+        0.9987472295761108
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3096,
+      "type": "VEC2",
+      "min": [
+        0.1358095407485962,
+        0.006746888160705566
+      ],
+      "max": [
+        0.5930219888687134,
+        0.9154030680656433
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3096,
+      "type": "VEC2",
+      "min": [
+        0.014852434396743774,
+        0.004487276077270508
+      ],
+      "max": [
+        0.9395408630371094,
+        0.9701463580131531
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 15087,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3095
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hair_Long_Dread_02.materials.json"
+  }
+}

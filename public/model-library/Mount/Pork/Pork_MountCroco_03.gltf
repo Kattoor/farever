@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Pork_MountCroco_03",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Pork_MountCroco",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Pork_MountCroco",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Pork_MountCroco_03.bin",
+      "byteLength": 765140
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 157704,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 157704,
+      "byteLength": 157704,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 315408,
+      "byteLength": 105136,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 420544,
+      "byteLength": 105136,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 525680,
+      "byteLength": 157704,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 683384,
+      "byteLength": 81756,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 13142,
+      "type": "VEC3",
+      "min": [
+        -0.9328340291976929,
+        -0.0018495916156098247,
+        -1.6948131322860718
+      ],
+      "max": [
+        0.9328340291976929,
+        2.4234089851379395,
+        2.3998758792877197
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 13142,
+      "type": "VEC3",
+      "min": [
+        -0.9998369812965393,
+        -0.9999994039535522,
+        -0.9999479055404663
+      ],
+      "max": [
+        0.9999158978462219,
+        0.999998927116394,
+        0.9998157620429993
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 13142,
+      "type": "VEC2",
+      "min": [
+        0.010274875909090042,
+        0.042382121086120605
+      ],
+      "max": [
+        0.9840388894081116,
+        0.9916761517524719
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 13142,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.0837634801864624
+      ],
+      "max": [
+        0.9676795601844788,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 9856.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 40878,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        13141
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Pork_MountCroco_03.materials.json"
+  }
+}

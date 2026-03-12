@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Ogre_Cleodora",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cleodora_Eyes",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cleodora_Eyes",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Ogre_Cleodora.bin",
+      "byteLength": 6024
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1440,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1440,
+      "byteLength": 1440,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2880,
+      "byteLength": 960,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3840,
+      "byteLength": 960,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4800,
+      "byteLength": 1224,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 120,
+      "type": "VEC3",
+      "min": [
+        -0.3164120018482208,
+        0.03940732404589653,
+        0.3665996193885803
+      ],
+      "max": [
+        0.3164120018482208,
+        0.2555214762687683,
+        0.5454779267311096
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 120,
+      "type": "VEC3",
+      "min": [
+        -0.9848601222038269,
+        -0.8716378211975098,
+        -0.9962137937545776
+      ],
+      "max": [
+        0.9848600029945374,
+        0.8663684129714966,
+        0.44587957859039307
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 120,
+      "type": "VEC2",
+      "min": [
+        0.638790488243103,
+        0.31929314136505127
+      ],
+      "max": [
+        0.7332116365432739,
+        0.8706287741661072
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 120,
+      "type": "VEC2",
+      "min": [
+        0.06318700313568115,
+        0.9657683372497559
+      ],
+      "max": [
+        0.06318700313568115,
+        0.9657683372497559
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 612,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        119
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Ogre_Cleodora.materials.json"
+  }
+}

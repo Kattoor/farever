@@ -1,0 +1,260 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Eyes_01_A",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "A_Eyes_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "MESH",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "BodyParts",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "A_Eyes_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Eyes_01_A.bin",
+      "byteLength": 30912
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 6120,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6120,
+      "byteLength": 6120,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12240,
+      "byteLength": 4080,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16320,
+      "byteLength": 4080,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20400,
+      "byteLength": 6120,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 26520,
+      "byteLength": 4392,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 510,
+      "type": "VEC3",
+      "min": [
+        -0.10543595999479294,
+        1.9362798929214478,
+        0.15321564674377441
+      ],
+      "max": [
+        0.10543595999479294,
+        2.05509090423584,
+        0.20544904470443726
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 510,
+      "type": "VEC3",
+      "min": [
+        -0.9257809519767761,
+        -0.7980605363845825,
+        0.36792999505996704
+      ],
+      "max": [
+        0.9257810711860657,
+        0.7452573180198669,
+        0.9994990825653076
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 510,
+      "type": "VEC2",
+      "min": [
+        0.14917708933353424,
+        0.05272221565246582
+      ],
+      "max": [
+        0.5487818717956543,
+        0.976630687713623
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 510,
+      "type": "VEC2",
+      "min": [
+        0.05573734641075134,
+        0.9280192255973816
+      ],
+      "max": [
+        0.07469591498374939,
+        0.9449573159217834
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 382.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 2196,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        509
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Eyes_01_A.materials.json"
+  }
+}

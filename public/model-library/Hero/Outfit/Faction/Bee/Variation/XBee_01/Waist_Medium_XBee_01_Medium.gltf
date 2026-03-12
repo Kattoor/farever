@@ -1,0 +1,213 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Waist_Medium_XBee_01_Medium",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Waist_Medium_Z1RBeeA_Medium_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Z1RBeeA_Medium",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071067690849304,
+        0,
+        0,
+        0.7071067932881644
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Waist_Medium_Z1RBeeA_Medium_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Waist_Medium_XBee_01_Medium.bin",
+      "byteLength": 27968
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 7476,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7476,
+      "byteLength": 7476,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14952,
+      "byteLength": 4984,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19936,
+      "byteLength": 4984,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24920,
+      "byteLength": 3048,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 623,
+      "type": "VEC3",
+      "min": [
+        -0.2213134765625,
+        1.1708984375,
+        -0.0714111328125
+      ],
+      "max": [
+        0.2213134765625,
+        1.2958984375,
+        0.280029296875
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 623,
+      "type": "VEC3",
+      "min": [
+        -0.49411764705882355,
+        -0.4980392156862745,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 623,
+      "type": "VEC2",
+      "min": [
+        0.11126708984375,
+        0.35888671875
+      ],
+      "max": [
+        0.316162109375,
+        0.953125
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 623,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.94189453125
+      ],
+      "max": [
+        0.245361328125,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1524,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        622
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Waist_Medium_XBee_01_Medium.materials.json"
+  }
+}

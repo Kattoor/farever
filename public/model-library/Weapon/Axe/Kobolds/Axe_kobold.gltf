@@ -1,0 +1,371 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Axe_kobold",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "model_0",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Axe_Kobold",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    },
+    {
+      "name": "Axe_Kobold_001",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 1
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Axe_Kobold",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Axe_Kobold_001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPONS_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Outline_001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Axe_kobold.bin",
+      "byteLength": 51596
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 8424,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8424,
+      "byteLength": 8424,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16848,
+      "byteLength": 5616,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22464,
+      "byteLength": 5616,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28080,
+      "byteLength": 4428,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32508,
+      "byteLength": 4956,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 37464,
+      "byteLength": 4956,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 42420,
+      "byteLength": 3304,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 45724,
+      "byteLength": 3304,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 49028,
+      "byteLength": 2568,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 702,
+      "type": "VEC3",
+      "min": [
+        -0.10374253988265991,
+        -0.08358879387378693,
+        -0.3540038466453552
+      ],
+      "max": [
+        0.06296905875205994,
+        0.08358879387378693,
+        0.5835309028625488
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 702,
+      "type": "VEC3",
+      "min": [
+        -0.9723694324493408,
+        -1,
+        -0.9936147928237915
+      ],
+      "max": [
+        0.9428459405899048,
+        1,
+        0.9999547004699707
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 702,
+      "type": "VEC2",
+      "min": [
+        0.029776418581604958,
+        0.39012759923934937
+      ],
+      "max": [
+        0.34941959381103516,
+        0.8933281302452087
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 702,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.29762375354766846
+      ],
+      "max": [
+        0.9460045695304871,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2214,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        701
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 413,
+      "type": "VEC3",
+      "min": [
+        -0.37862086296081543,
+        -0.020915277302265167,
+        0.11622050404548645
+      ],
+      "max": [
+        0.21513816714286804,
+        0.020915277302265167,
+        0.6441690921783447
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 413,
+      "type": "VEC3",
+      "min": [
+        -0.8636878728866577,
+        -1,
+        -0.9969383478164673
+      ],
+      "max": [
+        0.9657582640647888,
+        1,
+        0.9985682368278503
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 413,
+      "type": "VEC2",
+      "min": [
+        0.013744205236434937,
+        0.23179781436920166
+      ],
+      "max": [
+        0.1091681644320488,
+        0.6677271127700806
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 413,
+      "type": "VEC2",
+      "min": [
+        0.7416691780090332,
+        0.1882346272468567
+      ],
+      "max": [
+        0.946519136428833,
+        0.41113531589508057
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 1284,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        412
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Axe_kobold.materials.json"
+  }
+}

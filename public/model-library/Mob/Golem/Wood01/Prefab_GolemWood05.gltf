@@ -1,0 +1,323 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Prefab_GolemWood05",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Golem_Wood",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Golem_Wood",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Golem_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Golem_Eyes",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Mob/Golem/Stone01/Golem_Eyes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Prefab_GolemWood05.bin",
+      "byteLength": 406808
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 57288,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 57288,
+      "byteLength": 57288,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 114576,
+      "byteLength": 38192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 152768,
+      "byteLength": 38192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 190960,
+      "byteLength": 21048,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 212008,
+      "byteLength": 57288,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 269296,
+      "byteLength": 57288,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 326584,
+      "byteLength": 38192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 364776,
+      "byteLength": 38192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 402968,
+      "byteLength": 3840,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4774,
+      "type": "VEC3",
+      "min": [
+        -1.6454861164093018,
+        -0.0005340619245544076,
+        -1.0090041160583496
+      ],
+      "max": [
+        1.6893959045410156,
+        2.9301204681396484,
+        1.3040084838867188
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4774,
+      "type": "VEC3",
+      "min": [
+        -0.9996888041496277,
+        -1,
+        -0.9996600151062012
+      ],
+      "max": [
+        0.9951168298721313,
+        0.9978165030479431,
+        0.998528242111206
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4774,
+      "type": "VEC2",
+      "min": [
+        0.0026675278786569834,
+        0.0014528632164001465
+      ],
+      "max": [
+        1.0059374570846558,
+        0.9698728919029236
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4774,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.015294313430786133
+      ],
+      "max": [
+        0.9695689678192139,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 10524,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4293
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 4774,
+      "type": "VEC3",
+      "min": [
+        -1.6454861164093018,
+        -0.0005340619245544076,
+        -1.0090041160583496
+      ],
+      "max": [
+        1.6893959045410156,
+        2.9301204681396484,
+        1.3040084838867188
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 4774,
+      "type": "VEC3",
+      "min": [
+        -0.9996888041496277,
+        -1,
+        -0.9996600151062012
+      ],
+      "max": [
+        0.9951168298721313,
+        0.9978165030479431,
+        0.998528242111206
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 4774,
+      "type": "VEC2",
+      "min": [
+        0.0026675278786569834,
+        0.0014528632164001465
+      ],
+      "max": [
+        1.0059374570846558,
+        0.9698728919029236
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 4774,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.015294313430786133
+      ],
+      "max": [
+        0.9695689678192139,
+        1
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 1920,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4773
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Prefab_GolemWood05.materials.json"
+  }
+}

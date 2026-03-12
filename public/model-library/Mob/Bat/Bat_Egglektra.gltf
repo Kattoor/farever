@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Bat_Egglektra",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Bat_Egglektra_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Bat_Egglektra_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Swarowls.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Bat_Egglektra.bin",
+      "byteLength": 1118832
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 220896,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 220896,
+      "byteLength": 220896,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 441792,
+      "byteLength": 147264,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 589056,
+      "byteLength": 147264,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 736320,
+      "byteLength": 220896,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 957216,
+      "byteLength": 161616,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 18408,
+      "type": "VEC3",
+      "min": [
+        -2.802616834640503,
+        -0.10805241763591766,
+        -2.385765790939331
+      ],
+      "max": [
+        2.802616834640503,
+        3.556709051132202,
+        1.7769775390625
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 18408,
+      "type": "VEC3",
+      "min": [
+        -0.9998582601547241,
+        -0.999995768070221,
+        -0.9999613165855408
+      ],
+      "max": [
+        0.9998582601547241,
+        0.9999025464057922,
+        0.9999750256538391
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 18408,
+      "type": "VEC2",
+      "min": [
+        0.006646416150033474,
+        0.008470714092254639
+      ],
+      "max": [
+        0.9104768633842468,
+        0.9421798586845398
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 18408,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.016672134399414062
+      ],
+      "max": [
+        0.9577799439430237,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 13806,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 80808,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        18407
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Bat_Egglektra.materials.json"
+  }
+}

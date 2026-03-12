@@ -1,0 +1,213 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Back_Long_WCrimson_Heavy",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Back_R1Tomb_FigCle_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "FIGCLE",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071067690849304,
+        0,
+        0,
+        0.7071067932881644
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Back_R1Tomb_FigCle_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Back_Long_WCrimson_Heavy.bin",
+      "byteLength": 174420
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 47016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47016,
+      "byteLength": 47016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 94032,
+      "byteLength": 31344,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 125376,
+      "byteLength": 31344,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 156720,
+      "byteLength": 17700,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3918,
+      "type": "VEC3",
+      "min": [
+        -0.39453125,
+        0.49951171875,
+        -0.4423828125
+      ],
+      "max": [
+        0.402099609375,
+        1.775390625,
+        0.167724609375
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3918,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3918,
+      "type": "VEC2",
+      "min": [
+        0.1875,
+        0.07843017578125
+      ],
+      "max": [
+        0.85302734375,
+        0.8017578125
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3918,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.0302581787109375
+      ],
+      "max": [
+        0.94287109375,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 8850,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3917
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Back_Long_WCrimson_Heavy.materials.json"
+  }
+}

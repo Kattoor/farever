@@ -1,0 +1,213 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Feet_Naked",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Feet_Body_Hero_01_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0,
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "BodyParts",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Feet_Body_Hero_01_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Feet_Naked.bin",
+      "byteLength": 51264
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 13140,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13140,
+      "byteLength": 13140,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 26280,
+      "byteLength": 8760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 35040,
+      "byteLength": 8760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 43800,
+      "byteLength": 7464,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1095,
+      "type": "VEC3",
+      "min": [
+        -0.40153640508651733,
+        0.0136552844196558,
+        -0.055759549140930176
+      ],
+      "max": [
+        0.40153640508651733,
+        0.14955109357833862,
+        0.2977619469165802
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1095,
+      "type": "VEC3",
+      "min": [
+        -0.9996724128723145,
+        -0.9999999403953552,
+        -0.9987182021141052
+      ],
+      "max": [
+        0.9996724128723145,
+        0.9915987849235535,
+        0.9977352619171143
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1095,
+      "type": "VEC2",
+      "min": [
+        0.005668960511684418,
+        0.231356680393219
+      ],
+      "max": [
+        0.11087310314178467,
+        0.4976571798324585
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1095,
+      "type": "VEC2",
+      "min": [
+        0.0506339967250824,
+        0.9664919376373291
+      ],
+      "max": [
+        0.0506339967250824,
+        0.9664919376373291
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 3732,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1094
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Feet_Naked.materials.json"
+  }
+}

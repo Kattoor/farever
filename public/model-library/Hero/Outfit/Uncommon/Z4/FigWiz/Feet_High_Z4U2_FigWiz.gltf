@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Feet_High_Z4U2_FigWiz",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Feet_R1S1_FigWiz_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Feet_R1S1_FigWiz_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "GradMat_Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_BasicGuy.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Feet_High_Z4U2_FigWiz.bin",
+      "byteLength": 182816
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 48192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 48192,
+      "byteLength": 48192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 96384,
+      "byteLength": 32128,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 128512,
+      "byteLength": 32128,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 160640,
+      "byteLength": 22176,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4016,
+      "type": "VEC3",
+      "min": [
+        -0.42896080017089844,
+        -0.007517320569604635,
+        -0.11620286852121353
+      ],
+      "max": [
+        0.42896080017089844,
+        0.5274193286895752,
+        0.31820473074913025
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4016,
+      "type": "VEC3",
+      "min": [
+        -0.9994283318519592,
+        -1,
+        -0.9994214773178101
+      ],
+      "max": [
+        0.9994286298751831,
+        0.9987761378288269,
+        0.9999321699142456
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4016,
+      "type": "VEC2",
+      "min": [
+        0.13588817417621613,
+        0.2966436743736267
+      ],
+      "max": [
+        0.724010705947876,
+        0.8985930681228638
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4016,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.11099505424499512
+      ],
+      "max": [
+        0.47590798139572144,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 11088,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        4015
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Feet_High_Z4U2_FigWiz.materials.json"
+  }
+}

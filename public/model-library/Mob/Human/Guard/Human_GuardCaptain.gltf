@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Human_GuardCaptain",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "GuardCaptain",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "GuardCaptain",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_GUARD",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Hero_Clothes.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Human_GuardCaptain.bin",
+      "byteLength": 761400
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 201492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 201492,
+      "byteLength": 201492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 402984,
+      "byteLength": 134328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 537312,
+      "byteLength": 134328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 671640,
+      "byteLength": 89760,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 16791,
+      "type": "VEC3",
+      "min": [
+        -0.813087522983551,
+        -0.00020131476048845798,
+        -0.3489733040332794
+      ],
+      "max": [
+        0.813087522983551,
+        2.2428901195526123,
+        0.37725910544395447
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 16791,
+      "type": "VEC3",
+      "min": [
+        -0.9998714327812195,
+        -1,
+        -0.9999194741249084
+      ],
+      "max": [
+        0.9998714923858643,
+        0.9999831318855286,
+        0.999976396560669
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 16791,
+      "type": "VEC2",
+      "min": [
+        0.009275365620851517,
+        0.08957481384277344
+      ],
+      "max": [
+        0.956387996673584,
+        0.9831494092941284
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 16791,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.07189929485321045
+      ],
+      "max": [
+        0.9442173838615417,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 44880,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        16790
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Human_GuardCaptain.materials.json"
+  }
+}

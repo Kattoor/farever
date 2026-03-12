@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Hands_Wrist_Z2U1_FigCle",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Hands_R1S1_FigCle_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hands_R1S1_FigCle_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Hands_Wrist_Z2U1_FigCle.bin",
+      "byteLength": 148256
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 39264,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 39264,
+      "byteLength": 39264,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 78528,
+      "byteLength": 26176,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 104704,
+      "byteLength": 26176,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 130880,
+      "byteLength": 17376,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3272,
+      "type": "VEC3",
+      "min": [
+        -0.81201171875,
+        0.9814453125,
+        0.0614013671875
+      ],
+      "max": [
+        0.81201171875,
+        1.291015625,
+        0.337646484375
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3272,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3272,
+      "type": "VEC2",
+      "min": [
+        0.265869140625,
+        0.4375
+      ],
+      "max": [
+        0.7265625,
+        0.8193359375
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3272,
+      "type": "VEC2",
+      "min": [
+        0.0216217041015625,
+        0.0892333984375
+      ],
+      "max": [
+        0.94677734375,
+        0.96337890625
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 8688,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        3271
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Hands_Wrist_Z2U1_FigCle.materials.json"
+  }
+}

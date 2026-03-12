@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Canine_Wolf_Elite_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Wolf_Elite",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Wolf_Elite",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_Guard.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Canine_Wolf_Elite_01.bin",
+      "byteLength": 357456
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 91152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 91152,
+      "byteLength": 91152,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 182304,
+      "byteLength": 60768,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 243072,
+      "byteLength": 60768,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 303840,
+      "byteLength": 53616,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 7596,
+      "type": "VEC3",
+      "min": [
+        -0.5502055287361145,
+        -0.013112170621752739,
+        -1.7431455850601196
+      ],
+      "max": [
+        0.5452934503555298,
+        1.9817607402801514,
+        1.4630814790725708
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7596,
+      "type": "VEC3",
+      "min": [
+        -0.9999057054519653,
+        -0.9999862313270569,
+        -0.9999400973320007
+      ],
+      "max": [
+        0.9999048113822937,
+        0.9999410510063171,
+        0.9967678189277649
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7596,
+      "type": "VEC2",
+      "min": [
+        0.019588245078921318,
+        0.004900753498077393
+      ],
+      "max": [
+        0.46679481863975525,
+        0.9877899885177612
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7596,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.0926855206489563
+      ],
+      "max": [
+        0.9433631896972656,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 26808,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        7595
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Canine_Wolf_Elite_01.materials.json"
+  }
+}

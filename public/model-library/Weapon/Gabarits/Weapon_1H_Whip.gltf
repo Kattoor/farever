@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Weapon_1H_Whip",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Weapon_1H_Whip_R",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071056365966797,
+        0,
+        0,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Weapon_1H_Whip_R",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Weapon_1H_Whip.bin",
+      "byteLength": 50832
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 12600,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12600,
+      "byteLength": 12600,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 25200,
+      "byteLength": 8400,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 33600,
+      "byteLength": 8400,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 42000,
+      "byteLength": 8832,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1050,
+      "type": "VEC3",
+      "min": [
+        -0.1551819145679474,
+        -0.41470062732696533,
+        -0.10238207131624222
+      ],
+      "max": [
+        0.13558626174926758,
+        0.9229781627655029,
+        0.6089550852775574
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1050,
+      "type": "VEC3",
+      "min": [
+        -0.9999897480010986,
+        -0.9879364967346191,
+        -0.9999989867210388
+      ],
+      "max": [
+        0.9999897480010986,
+        1,
+        0.9999989867210388
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1050,
+      "type": "VEC2",
+      "min": [
+        0.020191743969917297,
+        0.13135278224945068
+      ],
+      "max": [
+        0.3374379277229309,
+        0.6708992719650269
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1050,
+      "type": "VEC2",
+      "min": [
+        0.03473547101020813,
+        0.8947229981422424
+      ],
+      "max": [
+        0.04781252145767212,
+        0.9730636477470398
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 4416,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1049
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Weapon_1H_Whip.materials.json"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Weapon_1H_Sabre",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "1H_Sabre",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071056365966797,
+        0.7071079257745626
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "1H_Sabre",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots_WEAPON",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Weapon_1H_Sabre.bin",
+      "byteLength": 22460
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 5784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5784,
+      "byteLength": 5784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11568,
+      "byteLength": 3856,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15424,
+      "byteLength": 3856,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19280,
+      "byteLength": 3180,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 482,
+      "type": "VEC3",
+      "min": [
+        -0.15778383612632751,
+        -0.2070990949869156,
+        -0.2992600202560425
+      ],
+      "max": [
+        0.15778383612632751,
+        0.21421989798545837,
+        0.9447617530822754
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 482,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -0.9990183711051941
+      ],
+      "max": [
+        1,
+        1,
+        0.9989420771598816
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 482,
+      "type": "VEC2",
+      "min": [
+        0.043417755514383316,
+        0.03512793779373169
+      ],
+      "max": [
+        0.3483024835586548,
+        0.7183929681777954
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 482,
+      "type": "VEC2",
+      "min": [
+        0.050119709223508835,
+        0.11407506465911865
+      ],
+      "max": [
+        0.18607689440250397,
+        0.9574991464614868
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1590,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        481
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Weapon_1H_Sabre.materials.json"
+  }
+}

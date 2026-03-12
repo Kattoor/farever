@@ -1,0 +1,455 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Slime_Demonic_01",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Slime_Demonic_01",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Slime_Demonic_01",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TEXCOORD_0": 12,
+            "TEXCOORD_1": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Mat_Slime_Fresnel",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "Mat_Slime_Internal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    },
+    {
+      "name": "MatSlots_Bubble1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Slime_Demonic_01.bin",
+      "byteLength": 126048
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 11472,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11472,
+      "byteLength": 11472,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22944,
+      "byteLength": 7648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 30592,
+      "byteLength": 7648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 38240,
+      "byteLength": 4224,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 42464,
+      "byteLength": 11472,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 53936,
+      "byteLength": 11472,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 65408,
+      "byteLength": 7648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 73056,
+      "byteLength": 7648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 80704,
+      "byteLength": 4224,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 84928,
+      "byteLength": 11472,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 96400,
+      "byteLength": 11472,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 107872,
+      "byteLength": 7648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 115520,
+      "byteLength": 7648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 123168,
+      "byteLength": 2880,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC3",
+      "min": [
+        -0.7561103701591492,
+        -0.01287749968469143,
+        -1.0715452432632446
+      ],
+      "max": [
+        0.7596151828765869,
+        1.1651108264923096,
+        0.7448453307151794
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC3",
+      "min": [
+        -0.9999663829803467,
+        -0.9999998807907104,
+        -0.9997426867485046
+      ],
+      "max": [
+        0.9999663233757019,
+        0.999999463558197,
+        0.9997426867485046
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC2",
+      "min": [
+        0.012535706162452698,
+        0.05779069662094116
+      ],
+      "max": [
+        0.11492473632097244,
+        0.7874582409858704
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC2",
+      "min": [
+        0,
+        1
+      ],
+      "max": [
+        0,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 2112,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        353
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC3",
+      "min": [
+        -0.7561103701591492,
+        -0.01287749968469143,
+        -1.0715452432632446
+      ],
+      "max": [
+        0.7596151828765869,
+        1.1651108264923096,
+        0.7448453307151794
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC3",
+      "min": [
+        -0.9999663829803467,
+        -0.9999998807907104,
+        -0.9997426867485046
+      ],
+      "max": [
+        0.9999663233757019,
+        0.999999463558197,
+        0.9997426867485046
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC2",
+      "min": [
+        0.012535706162452698,
+        0.05779069662094116
+      ],
+      "max": [
+        0.11492473632097244,
+        0.7874582409858704
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC2",
+      "min": [
+        0,
+        1
+      ],
+      "max": [
+        0,
+        1
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 2112,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        707
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC3",
+      "min": [
+        -0.7561103701591492,
+        -0.01287749968469143,
+        -1.0715452432632446
+      ],
+      "max": [
+        0.7596151828765869,
+        1.1651108264923096,
+        0.7448453307151794
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC3",
+      "min": [
+        -0.9999663829803467,
+        -0.9999998807907104,
+        -0.9997426867485046
+      ],
+      "max": [
+        0.9999663233757019,
+        0.999999463558197,
+        0.9997426867485046
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC2",
+      "min": [
+        0.012535706162452698,
+        0.05779069662094116
+      ],
+      "max": [
+        0.11492473632097244,
+        0.7874582409858704
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 956,
+      "type": "VEC2",
+      "min": [
+        0,
+        1
+      ],
+      "max": [
+        0,
+        1
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5123,
+      "count": 1440,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        955
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Slime_Demonic_01.materials.json"
+  }
+}

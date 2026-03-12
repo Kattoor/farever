@@ -1,0 +1,216 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Feet_High_XSwarowls_01_Heavy",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Feet_RSwarowls_Heavy_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Feet_RSwarowls_Heavy_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "COLOR_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "standardSurface1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Feet_High_XSwarowls_01_Heavy.bin",
+      "byteLength": 159168
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 33192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 33192,
+      "byteLength": 33192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 66384,
+      "byteLength": 22128,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 88512,
+      "byteLength": 22128,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 110640,
+      "byteLength": 33192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 143832,
+      "byteLength": 15336,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2766,
+      "type": "VEC3",
+      "min": [
+        -0.41511109471321106,
+        -0.008460165932774544,
+        -0.11728570610284805
+      ],
+      "max": [
+        0.41511109471321106,
+        0.5897567272186279,
+        0.32920539379119873
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2766,
+      "type": "VEC3",
+      "min": [
+        -0.999794065952301,
+        -0.9999994039535522,
+        -0.9984789490699768
+      ],
+      "max": [
+        0.999794065952301,
+        0.9936286211013794,
+        0.9998490214347839
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2766,
+      "type": "VEC2",
+      "min": [
+        0.10591395199298859,
+        0.2558140754699707
+      ],
+      "max": [
+        0.738227903842926,
+        0.9143821597099304
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2766,
+      "type": "VEC2",
+      "min": [
+        0.035872917622327805,
+        0.09608381986618042
+      ],
+      "max": [
+        0.9470716714859009,
+        0.9741760492324829
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2074.5,
+      "type": "VEC4",
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421,
+        0.9999715685844421
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 7668,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2765
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Feet_High_XSwarowls_01_Heavy.materials.json"
+  }
+}

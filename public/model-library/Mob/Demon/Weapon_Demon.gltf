@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Weapon_Demon",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Weapon_Demon",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        -0.7071051001548767,
+        0.7071073055267334,
+        0.0009112665429711342,
+        0.000897440233270305
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Weapon_Demon",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "MatSlots",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": null,
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Weapon_Demon.bin",
+      "byteLength": 64944
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 16992,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16992,
+      "byteLength": 16992,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 33984,
+      "byteLength": 11328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 45312,
+      "byteLength": 11328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 56640,
+      "byteLength": 8304,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1416,
+      "type": "VEC3",
+      "min": [
+        -2.0134150981903076,
+        -0.12383438646793365,
+        -0.3613196909427643
+      ],
+      "max": [
+        1.071609616279602,
+        0.12413860112428665,
+        0.36502522230148315
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1416,
+      "type": "VEC3",
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1416,
+      "type": "VEC2",
+      "min": [
+        0.016436010599136353,
+        0.030745506286621094
+      ],
+      "max": [
+        0.10659056901931763,
+        0.8420954346656799
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1416,
+      "type": "VEC2",
+      "min": [
+        0,
+        0.13845956325531006
+      ],
+      "max": [
+        0.9786821603775024,
+        1
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 4152,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        1415
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Weapon_Demon.materials.json"
+  }
+}

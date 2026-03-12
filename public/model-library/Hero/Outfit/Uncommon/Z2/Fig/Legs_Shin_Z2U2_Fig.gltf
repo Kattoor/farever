@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "prefab-to-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Legs_Shin_Z2U2_Fig",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Legs_R1S1_FigCle_N",
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Legs_R1S1_FigCle_N",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Gradmat_Weapon1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "doubleSided": true,
+      "extras": {
+        "diffuseTexture": "Character/Common/Texture/CustomGradient_WeaponALL.png",
+        "specularTexture": null,
+        "normalMap": null
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Legs_Shin_Z2U2_Fig.bin",
+      "byteLength": 99748
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 26760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 26760,
+      "byteLength": 26760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 53520,
+      "byteLength": 17840,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 71360,
+      "byteLength": 17840,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 89200,
+      "byteLength": 10548,
+      "target": 34963
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2230,
+      "type": "VEC3",
+      "min": [
+        -0.38671875,
+        0.08514404296875,
+        -0.1353759765625
+      ],
+      "max": [
+        0.38671875,
+        1.2763671875,
+        0.240234375
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2230,
+      "type": "VEC3",
+      "min": [
+        -0.5019607843137255,
+        -0.5019607843137255,
+        -0.5019607843137255
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2230,
+      "type": "VEC2",
+      "min": [
+        0.039886474609375,
+        0.229736328125
+      ],
+      "max": [
+        0.69970703125,
+        0.89306640625
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2230,
+      "type": "VEC2",
+      "min": [
+        0.02008056640625,
+        0.11639404296875
+      ],
+      "max": [
+        0.9453125,
+        0.96630859375
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 5274,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2229
+      ]
+    }
+  ],
+  "extras": {
+    "manifest": "Legs_Shin_Z2U2_Fig.materials.json"
+  }
+}
