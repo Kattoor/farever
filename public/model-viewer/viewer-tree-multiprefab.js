@@ -1050,7 +1050,7 @@ async function applyMaterials(root, manifest, manifestUrl, textureLoaders, mainL
         newMats.push(mat);
       }
       setMaterialArray(mesh, newMats);
-      mesh.onBeforeRender = null;
+      delete mesh.onBeforeRender;
     }
   };
 
